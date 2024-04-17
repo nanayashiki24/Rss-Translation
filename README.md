@@ -12,3 +12,18 @@
 
 ## 已转换翻译源
  - source001 [https://nitter.poast.org/myfxtrader/rss](https://nitter.poast.org/myfxtrader/rss) -> [myfxtrader](rss/myfxtrader.xml)
+ - source002 [https://nitter.poast.org/financialjuice/rss](https://nitter.poast.org/financialjuice/rss) -> [financialjuice](rss/financialjuice.xml)
+ - source003 [https://nitter.poast.org/macrodose/rss](https://nitter.poast.org/macrodose/rss) -> [macrodose](rss/macrodose.xml)
+ - source004 [https://nitter.poast.org/spectatorindex/rss](https://nitter.poast.org/spectatorindex/rss) -> [TheSpectatorIndex](rss/TheSpectatorIndex.xml)
+ - source005 [https://nitter.poast.org/KELMAND1/rss](https://nitter.poast.org/KELMAND1/rss) -> [KELMAND1](rss/KELMAND1.xml)
+ - source006 [https://nitter.poast.org/IranObserver/rss](https://nitter.poast.org/IranObserver/rss) -> [IranObserver](rss/IranObserver.xml)
+ - source007 [https://www.rt.com/rss/news/](https://www.rt.com/rss/news/) -> [rt](rss/rt.xml)
+ - source008 [https://nitter.poast.org/BarakRavid/rss](https://nitter.poast.org/BarakRavid/rss) -> [BarakRavid](rss/BarakRavid.xml)
+ - source009 [https://nitter.poast.org/locean0410/rss](https://nitter.poast.org/locean0410/rss) -> [locean0410](rss/locean0410.xml)
+ - source010 [https://nitter.poast.org/elonmusk/rss](https://nitter.poast.org/elonmusk/rss) -> [elonmusk](rss/elonmusk.xml)
+ - source011 [https://nitter.poast.org/yunlong_cao/rss](https://nitter.poast.org/yunlong_cao/rss) -> [yunlong_cao](rss/yunlong_cao.xml)
+ - source012 [https://nitter.poast.org/WorldOnWeb3/rss](https://nitter.poast.org/WorldOnWeb3/rss) -> [WorldOnWeb3](rss/WorldOnWeb3.xml)
+ - source013 [https://nitter.poast.org/thesiriusreport/rss](https://nitter.poast.org/thesiriusreport/rss) -> [thesiriusreport](rss/thesiriusreport.xml)
+ - source014 [https://nitter.poast.org/DrEricDing/rss](https://nitter.poast.org/DrEricDing/rss) -> [DrEricDing](rss/DrEricDing.xml)
+ - source015 [https://agora0.github.io/news/feed.xml](https://agora0.github.io/news/feed.xml) -> [zeronews](rss/zeronews.xml)
+ - source016 [https://www.financialjuice.com/feed.ashx?xy=rss](https://www.financialjuice.com/feed.ashx?xy=rss) -> [financialjuice1](rss/financialjuice1.xml)
