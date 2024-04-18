@@ -28,3 +28,5 @@
  - source015 [https://agora0.github.io/news/feed.xml](https://agora0.github.io/news/feed.xml) -> [zeronews](rss/zeronews.xml)
  - source016 [https://www.financialjuice.com/feed.ashx?xy=rss](https://www.financialjuice.com/feed.ashx?xy=rss) -> [financialjuice1](rss/financialjuice1.xml)
  - source017 [https://nitter.esmailelbob.xyz/jingrangmuke81/rss](https://nitter.esmailelbob.xyz/jingrangmuke81/rss) -> [jingrangmuke81](rss/jingrangmuke81.xml)
+ - source018 [https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114](https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=100003114) -> [cnbc](rss/cnbc.xml)
+ - source019 [https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best](https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best) -> [reuter](rss/reuter.xml)
