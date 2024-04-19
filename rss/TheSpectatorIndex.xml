@@ -3,8 +3,15 @@
   <channel>
     <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 19 Apr 2024 04:39:37 GMT</lastBuildDate>
+    <description>Twitter 提要：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 19 Apr 2024 05:12:20 GMT</lastBuildDate>
+    <item>
+      <title>突发事件：伊朗军方官员否认以色列袭击造成任何“地面损害”，但官方说法存在重大差异。</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781185303845462025#m</link>
+      <description><![CDATA[突发事件：伊朗军方官员否认以色列袭击造成任何“地面损害”，但官方说法存在重大差异。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781185303845462025#m</guid>
+      <pubDate>Fri, 19 Apr 2024 04:57:23 GMT</pubDate>
+    </item>
     <item>
       <title>突发：伊朗取消飞往德黑兰的航班限制</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781179681062129931#m</link>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 19 Apr 2024 02:58:47 GMT</pubDate>
     </item>
     <item>
-      <title>突发新闻：伊朗官员声称以色列的尝试“失败了并且令人羞辱”，其所有资产都被“击落”。</title>
+      <title>突发新闻：伊朗官员声称以色列的尝试“失败并且令人羞辱”，其所有资产都被“击落”。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781154768150561047#m</link>
       <description><![CDATA[突发新闻：伊朗官员声称以色列的尝试“失败并令人羞辱”，其所有资产均被“击落”。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781154768150561047#m</guid>
@@ -130,13 +137,6 @@
       <description><![CDATA[突发新闻：伊朗表示已启动伊斯法罕省的防空系统]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781146131617194387#m</guid>
       <pubDate>Fri, 19 Apr 2024 02:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发：据伊朗官方媒体报道，飞往德黑兰、伊斯法罕和设拉子的航班已暂停</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781144565652881909#m</link>
-      <description><![CDATA[突发新闻：据伊朗官方媒体报道，飞往德黑兰、伊斯法罕和设拉子的航班已暂停]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781144565652881909#m</guid>
-      <pubDate>Fri, 19 Apr 2024 02:15:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
