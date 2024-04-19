@@ -3,8 +3,15 @@
   <channel>
     <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 提要：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 19 Apr 2024 08:40:19 GMT</lastBuildDate>
+    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 19 Apr 2024 09:39:40 GMT</lastBuildDate>
+    <item>
+      <title>突发新闻：《华尔街日报》报道称，拜登政府正在考虑向以色列额外运送 10 亿美元的新武器</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781254767140033018#m</link>
+      <description><![CDATA[突发新闻：《华尔街日报》报道拜登政府正在考虑向以色列额外运送 10 亿美元的新武器]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781254767140033018#m</guid>
+      <pubDate>Fri, 19 Apr 2024 09:33:25 GMT</pubDate>
+    </item>
     <item>
       <title>突发事件：《耶路撒冷邮报》报道称，以色列通过袭击“几乎就在隔壁”的伊斯法罕核设施，向伊朗发出了“明确信息”，这意味着“这次我们选择不袭击你们的核设施，但我们本可以这里做得更糟'。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781238617593246065#m</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 19 Apr 2024 06:58:30 GMT</pubDate>
     </item>
     <item>
-      <title>突发：伊朗官员告诉路透社，没有计划对以色列的袭击进行报复</title>
+      <title>突发消息：伊朗官员告诉路透社，伊朗没有计划对以色列的袭击进行报复</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781215615291941145#m</link>
       <description><![CDATA[突发新闻：伊朗官员告诉路透社，没有计划对以色列的袭击进行报复]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781215615291941145#m</guid>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 19 Apr 2024 06:24:28 GMT</pubDate>
     </item>
     <item>
-      <title>突发事件：《耶路撒冷邮报》报道称，以色列“出于战略原因不会承担此次袭击的责任”</title>
+      <title>突发新闻：《耶路撒冷邮报》报道称，以色列“出于战略原因不会承担此次袭击的责任”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781202141803368627#m</link>
       <description><![CDATA[突发新闻：《耶路撒冷邮报》报道称，以色列“出于战略原因不会承担此次袭击的责任”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781202141803368627#m</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[突发新闻：中东紧张局势导致金价回升至 2400 美元以上]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781157154348818507#m</guid>
       <pubDate>Fri, 19 Apr 2024 03:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发：美国官员证实以色列并未针对伊朗核设施</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781155581249933747#m</link>
-      <description><![CDATA[突发新闻：美国官员确认以色列并未针对伊朗核设施]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781155581249933747#m</guid>
-      <pubDate>Fri, 19 Apr 2024 02:59:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
