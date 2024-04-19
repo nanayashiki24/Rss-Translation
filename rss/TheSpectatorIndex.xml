@@ -3,8 +3,22 @@
   <channel>
     <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 提要：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 19 Apr 2024 20:12:28 GMT</lastBuildDate>
+    <description>Twitter 消息源：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 19 Apr 2024 20:40:13 GMT</lastBuildDate>
+    <item>
+      <title>突发新闻：《以色列时报》报道称，卫星图像“显示伊朗伊斯法罕机场附近的雷达系统遭到损坏”</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781420472820957232#m</link>
+      <description><![CDATA[突发新闻：《以色列时报》报道称，卫星图像“显示伊朗伊斯法罕机场附近的雷达系统遭到损坏”]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781420472820957232#m</guid>
+      <pubDate>Fri, 19 Apr 2024 20:31:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>最新消息：NVIDIA 股价今日下跌 10%，市值蒸发 2130 亿美元。</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781416771037384879#m</link>
+      <description><![CDATA[刚刚：NVIDIA 股价今日下跌 10%，市值蒸发 2130 亿美元。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781416771037384879#m</guid>
+      <pubDate>Fri, 19 Apr 2024 20:17:09 GMT</pubDate>
+    </item>
     <item>
       <title>突发：纳斯达克 100 指数下跌 2.1%，创下 10 月份以来最差单日表现</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781413614488076590#m</link>
@@ -227,20 +241,6 @@
 （SkyTrax）]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781321860824580568#m</guid>
       <pubDate>Fri, 19 Apr 2024 14:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发新闻：《华尔街日报》报道称，拜登政府正在考虑向以色列额外运送 10 亿美元的新武器</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781254767140033018#m</link>
-      <description><![CDATA[突发新闻：《华尔街日报》报道称，拜登政府正在考虑向以色列额外运送 10 亿美元的新武器]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781254767140033018#m</guid>
-      <pubDate>Fri, 19 Apr 2024 09:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发事件：《耶路撒冷邮报》报道称，以色列通过袭击“几乎就在隔壁”的伊斯法罕核设施，向伊朗发出了“明确信息”，这意味着“这次我们选择不袭击你们的核设施，但我们本可以这里做得更糟'。</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781238617593246065#m</link>
-      <description><![CDATA[突发新闻：《耶路撒冷邮报》报道称，以色列通过袭击“几乎就在隔壁”的伊斯法罕核设施向伊朗发出了“明确信息”，这意味着“这次我们选择不袭击你们的核设施，但是我们本来可以在这里做得更糟&#39;。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781238617593246065#m</guid>
-      <pubDate>Fri, 19 Apr 2024 08:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
