@@ -4,13 +4,27 @@
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 19 Apr 2024 19:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 19:36:00 GMT</lastBuildDate>
     <item>
       <title>一名男子在纽约特朗普审判法院外自焚</title>
       <link>https://www.cnbc.com/2024/04/19/trump-trial-man-sets-himself-on-fire-at-new-york-courthouse.html</link>
       <description><![CDATA[在陪审团遴选的最后阶段，唐纳德·特朗普 (Donald Trump) 在曼哈顿最高法院内自焚。]]></description>
       <guid>https://www.cnbc.com/2024/04/19/trump-trial-man-sets-himself-on-fire-at-new-york-courthouse.html</guid>
-      <pubDate>Fri, 19 Apr 2024 19:04:04 GMT</pubDate>
+      <pubDate>Fri, 19 Apr 2024 19:38:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 和 Netflix 下滑，纳斯达克指数连续第六个交易日下跌 2%：实时更新</title>
+      <link>https://www.cnbc.com/2024/04/18/stock-market-today-live-updates.html</link>
+      <description><![CDATA[标准普尔 500 指数和纳斯达克指数连续 6 个交易日走上正轨。]]></description>
+      <guid>https://www.cnbc.com/2024/04/18/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 19 Apr 2024 19:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普审判：封口费案陪审团已满，可能周一开庭辩论</title>
+      <link>https://www.cnbc.com/2024/04/19/trump-trial-set-to-pick-final-alternate-jurors-for-hush-money-case-.html</link>
+      <description><![CDATA[周五选出了由 12 名陪审员和 6 名候补陪审员组成的完整陪审团，参加纽约唐纳德·特朗普的封口费刑事审判。]]></description>
+      <guid>https://www.cnbc.com/2024/04/19/trump-trial-set-to-pick-final-alternate-jurors-for-hush-money-case-.html</guid>
+      <pubDate>Fri, 19 Apr 2024 19:34:49 GMT</pubDate>
     </item>
     <item>
       <title>比特币在减半前的最后几个小时升至 64,000 美元：CNBC Crypto World</title>
@@ -20,25 +34,11 @@
       <pubDate>Fri, 19 Apr 2024 19:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 和 Netflix 下滑，纳斯达克指数连续第六个下跌日下跌 2%：实时更新</title>
-      <link>https://www.cnbc.com/2024/04/18/stock-market-today-live-updates.html</link>
-      <description><![CDATA[标准普尔 500 指数和纳斯达克指数连续 6 个交易日走上正轨。]]></description>
-      <guid>https://www.cnbc.com/2024/04/18/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 19 Apr 2024 19:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>Citadel 证券就 DJT 卖空信抨击特朗普媒体首席执行官德文·努涅斯 (Devin Nunes)</title>
       <link>https://www.cnbc.com/2024/04/19/citadel-securities-blasts-trump-media-ceo-over-djt-short-sale-letter.html</link>
       <description><![CDATA[特朗普媒体首席执行官德文·努内斯 (Devin Nunes) 在一封信中提到了 Citadel 证券，其创始人是肯·格里芬 (Ken Griffin)。唐纳德·特朗普 (Donald Trump) 拥有大部分 DJT 股票]]></description>
       <guid>https://www.cnbc.com/2024/04/19/citadel-securities-blasts-trump-media-ceo-over-djt-short-sale-letter.html</guid>
       <pubDate>Fri, 19 Apr 2024 18:40:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普审判：封口费案陪审团已满，可能周一开庭辩论</title>
-      <link>https://www.cnbc.com/2024/04/19/trump-trial-set-to-pick-final-alternate-jurors-for-hush-money-case-.html</link>
-      <description><![CDATA[周五选出了由 12 名陪审员和 6 名候补陪审员组成的完整陪审团，参加纽约针对唐纳德·特朗普的刑事封口费审判。]]></description>
-      <guid>https://www.cnbc.com/2024/04/19/trump-trial-set-to-pick-final-alternate-jurors-for-hush-money-case-.html</guid>
-      <pubDate>Fri, 19 Apr 2024 18:34:05 GMT</pubDate>
     </item>
     <item>
       <title>美联储古尔斯比表示降息前可能需要“更多嗅探”</title>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 19 Apr 2024 16:45:41 GMT</pubDate>
     </item>
     <item>
-      <title>随着投资者在本月晚些时候发布财报之前撤出炙手可热的人工智能股票，超微股价暴跌</title>
+      <title>超微股价暴跌，投资者在本月晚些时候公布财报前撤出炙手可热的人工智能股票</title>
       <link>https://www.cnbc.com/2024/04/19/super-micro-plunges-ahead-of-third-quarter-earnings-later-this-month.html</link>
       <description><![CDATA[由于投资者减持了股市最热门公司之一的股票，超微电脑公司的股价周五暴跌。]]></description>
       <guid>https://www.cnbc.com/2024/04/19/super-micro-plunges-ahead-of-third-quarter-earnings-later-this-month.html</guid>
