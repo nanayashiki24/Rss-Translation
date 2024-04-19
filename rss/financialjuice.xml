@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice/@financialjuice</title>
+    <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 19 Apr 2024 20:40:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 21:11:05 GMT</lastBuildDate>
+    <item>
+      <title>日本央行行长上田健将在未来某个时间点减少日本国债购买规模，但幅度尚未确定</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1781430209968750978#m</link>
+      <description><![CDATA[日本央行行长上田田将在未来某个未具体说明的时间点减少日本国债购买规模，但幅度尚未确定]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1781430209968750978#m</guid>
+      <pubDate>Fri, 19 Apr 2024 21:10:34 GMT</pubDate>
+    </item>
     <item>
       <title>未来一周：经济指标（美国）
  https://features.financialjuice.com/2024/04/19/week-ahead-economic-indicators-us-11/</title>
@@ -25,7 +32,7 @@ features.financialjuice.com/…
     <item>
       <title>下周收益大跌 - 美国市场总结 https://features.financialjuice.com/2024/04/19/megacaps-drop-ahead-of-next-weeks-earnings-us-market-wrap/</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1781416303888109699#m</link>
-      <description><![CDATA[下周收益大幅下跌 - 美国市场总结 features.financialjuice.com/…
+      <description><![CDATA[下周收益下跌 - 美国市场总结 features.financialjuice.com/…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1781416303888109699#m</guid>
       <pubDate>Fri, 19 Apr 2024 20:15:18 GMT</pubDate>
@@ -106,16 +113,6 @@ features.financialjuice.com/…
       <description><![CDATA[MOC 失衡 15 亿卖方。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1781410131348967734#m</guid>
       <pubDate>Fri, 19 Apr 2024 19:50:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>截至 4 月 16 日当周 CFTC 持仓
-https://www.financialjuice.com/News/8082824/CFTC-Positions-in-the-week-ending-April-16th-.aspx</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1781407460227518482#m</link>
-      <description><![CDATA[截至 4 月 16 日当周 CFTC 头寸
-financialjuice.com/News/8082…
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1781407460227518482#m</guid>
-      <pubDate>Fri, 19 Apr 2024 19:40:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
