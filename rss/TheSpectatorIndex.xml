@@ -3,8 +3,22 @@
   <channel>
     <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 提要：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 19 Apr 2024 04:13:53 GMT</lastBuildDate>
+    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 19 Apr 2024 04:39:37 GMT</lastBuildDate>
+    <item>
+      <title>突发：伊朗取消飞往德黑兰的航班限制</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781179681062129931#m</link>
+      <description><![CDATA[突发新闻：伊朗取消飞往德黑兰的航班限制]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781179681062129931#m</guid>
+      <pubDate>Fri, 19 Apr 2024 04:35:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>突发：澳大利亚呼吁国民离开以色列</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781174998104969681#m</link>
+      <description><![CDATA[突发新闻：澳大利亚呼吁国民离开以色列]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781174998104969681#m</guid>
+      <pubDate>Fri, 19 Apr 2024 04:16:26 GMT</pubDate>
+    </item>
     <item>
       <title>突发新闻：《纽约时报》报道称，三名伊朗官员已证实伊斯法罕附近的一个空军基地遭到袭击</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781168426683359728#m</link>
@@ -41,7 +55,7 @@
       <pubDate>Fri, 19 Apr 2024 02:58:47 GMT</pubDate>
     </item>
     <item>
-      <title>突发新闻：伊朗官员声称以色列的尝试“失败并且令人羞辱”，其所有资产都被“击落”。</title>
+      <title>突发新闻：伊朗官员声称以色列的尝试“失败了并且令人羞辱”，其所有资产都被“击落”。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781154768150561047#m</link>
       <description><![CDATA[突发新闻：伊朗官员声称以色列的尝试“失败并令人羞辱”，其所有资产均被“击落”。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781154768150561047#m</guid>
@@ -123,20 +137,6 @@
       <description><![CDATA[突发新闻：据伊朗官方媒体报道，飞往德黑兰、伊斯法罕和设拉子的航班已暂停]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781144565652881909#m</guid>
       <pubDate>Fri, 19 Apr 2024 02:15:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发：伊朗西部领空已被关闭</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781144290414215218#m</link>
-      <description><![CDATA[突发新闻：伊朗西部领空已被关闭]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781144290414215218#m</guid>
-      <pubDate>Fri, 19 Apr 2024 02:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发：伊拉克南部和西部空域战机活动频繁</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1781141798653759585#m</link>
-      <description><![CDATA[突发事件：伊拉克南部和西部空域战机活动频繁]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1781141798653759585#m</guid>
-      <pubDate>Fri, 19 Apr 2024 02:04:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
