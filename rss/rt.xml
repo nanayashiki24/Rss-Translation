@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT世界新闻</title>
+    <title>RT 世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Sun, 21 Apr 2024 19:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 19:22:12 GMT</lastBuildDate>
+    <item>
+      <title>民调显示美国选民兴趣跌至历史低点</title>
+      <link>https://www.rt.com/news/596359-us-voter-interest-historic-low-poll/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ NBC 新闻民意调查显示，随着总统乔·拜登和挑战者唐纳德·特朗普疏远选民，人们对美国大选的兴趣逐渐减弱 在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596359-us-voter-interest-historic-low-poll/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Sun, 21 Apr 2024 19:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰又找到一位捐助者</title>
       <link>https://www.rt.com/news/596356-south-korea-signs-ukraine-aid-agreement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -22,7 +29,7 @@
     <item>
       <title>日本海军直升机遭遇致命碰撞</title>
       <link>https://www.rt.com/news/596349-japan-fatal-helicopter-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 一次训练演习出现问题后，一名船员被从太平洋救出，另外七名船员仍然失踪 在 RT.com 上阅读全文]]></description>
+      <description><![CDATA[ 训练演习出错后，一名机组人员从太平洋被救出，另有七人失踪在 RT.com 阅读全文]]></description>
       <guid>https://www.rt.com/news/596349-japan-fatal-helicopter-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Sun, 21 Apr 2024 16:53:07 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 马克·普雷斯顿声称，因违反禁言令而将这位前总统关进监狱只会增加他的民调支持率在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596325-trump-gag-order-unrest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Sat, 20 Apr 2024 21:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普想要“杀死他的反对派”——希拉里·克林顿</title>
-      <link>https://www.rt.com/news/596326-hillary-clinton-says-trump-wants-to-kill-political-enemies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 前美国国务卿希拉里·克林顿表示，唐纳德·特朗普试图效仿俄罗斯总统弗拉基米尔·普京，杀死政治对手在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596326-hillary-clinton-says-trump-wants-to-kill-political-enemies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Sat, 20 Apr 2024 21:43:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
