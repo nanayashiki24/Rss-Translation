@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT 世界新闻</title>
+    <title>RT世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Mon, 22 Apr 2024 11:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 11:50:51 GMT</lastBuildDate>
     <item>
-      <title>朝鲜发射弹道导弹——首尔和东京</title>
+      <title>欧盟即将就使用俄罗斯资产帮助乌克兰达成协议 - 部长</title>
+      <link>https://www.rt.com/news/596394-eu-close-agreement-seize-russian-profits/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 比利时财政部长表示，欧盟即将达成协议，扣押俄罗斯冻结资产的收入，为乌克兰购买武器在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596394-eu-close-agreement-seize-russian-profits/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Mon, 22 Apr 2024 11:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果美国禁止应用程序，TikTok 将提起诉讼 - 彭博社</title>
+      <link>https://www.rt.com/news/596392-tiktok-sue-us-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 美国众议院批准了一项法案，迫使字节跳动剥离其对 TikTok 社交媒体平台的所有权在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596392-tiktok-sue-us-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Mon, 22 Apr 2024 11:36:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本和韩国指责朝鲜发射导弹</title>
       <link>https://www.rt.com/news/596387-north-korea-ballistic-missiles/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 韩国和日本报告称朝鲜进行了一次明显的短程弹道导弹试验在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596387-north-korea-ballistic-missiles/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 阿里·哈梅内伊赞扬针对以色列的行动，称这表明了该国的决心在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596345-iran-khamenei-israel-operation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Sun, 21 Apr 2024 17:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本海军直升机遭遇致命碰撞</title>
-      <link>https://www.rt.com/news/596349-japan-fatal-helicopter-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 一次训练演习出现问题后，一名船员被从太平洋救出，另外七名船员仍然失踪 在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596349-japan-fatal-helicopter-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Sun, 21 Apr 2024 16:53:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国将禁止在火车站吸食大麻</title>
-      <link>https://www.rt.com/news/596348-germany-ban-weed-train-stations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 德国铁路运营商表示，从 6 月 1 日起，德国铁路终点站吸食大麻将受到处罚在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596348-germany-ban-weed-train-stations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Sun, 21 Apr 2024 16:30:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
