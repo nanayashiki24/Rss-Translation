@@ -3,8 +3,15 @@
   <channel>
     <title>RT 世界新闻</title>
     <link>https://www.rt.com/news/</link>
-    <description>RT 世界新闻</description>
-    <lastBuildDate>Mon, 22 Apr 2024 23:50:46 GMT</lastBuildDate>
+    <description>RT世界新闻</description>
+    <lastBuildDate>Tue, 23 Apr 2024 01:00:06 GMT</lastBuildDate>
+    <item>
+      <title>德国因涉嫌为中国从事间谍活动而逮捕公民</title>
+      <link>https://www.rt.com/news/596435-germany-citizens-suspicion-spying/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 德国逮捕了三名德国公民，指控他们为中国从事间谍活动 在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596435-germany-citizens-suspicion-spying/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Tue, 23 Apr 2024 00:29:32 GMT</pubDate>
+    </item>
     <item>
       <title>拜登就美国援助向泽连斯基保证</title>
       <link>https://www.rt.com/news/596434-biden-zelensky-call-us-aid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 波兰总统安杰伊·杜达对总理图斯克关于欧洲处于“战前时代”的说法泼了一盆冷水 在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596401-polish-president-contradicts-pm-pre-war/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Mon, 22 Apr 2024 14:06:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列最高军事间谍因哈马斯情报失败而辞职</title>
-      <link>https://www.rt.com/news/596404-israel-spy-chief-quits/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 阿伦·哈利瓦 (Aharon Haliva) 预计将成为 10 月 7 日袭击事件后犹太国家众多安全高层中第一个辞职的人 在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596404-israel-spy-chief-quits/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Mon, 22 Apr 2024 14:04:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
