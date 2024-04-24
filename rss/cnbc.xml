@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 24 Apr 2024 15:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 15:23:00 GMT</lastBuildDate>
+    <item>
+      <title>波音报告季度业绩好于预期，称供应链在 737 Max 危机中趋于稳定</title>
+      <link>https://www.cnbc.com/2024/04/24/boeing-ba-earnings-q1-2024.html</link>
+      <description><![CDATA[自 1 月初 737 Max 9 门塞脱落以来，波音公司一直深陷安全危机。]]></description>
+      <guid>https://www.cnbc.com/2024/04/24/boeing-ba-earnings-q1-2024.html</guid>
+      <pubDate>Wed, 24 Apr 2024 15:24:43 GMT</pubDate>
+    </item>
     <item>
       <title>拜登签署以色列、乌克兰和 TikTok 法案成为法律</title>
       <link>https://www.cnbc.com/2024/04/24/biden-signs-israel-ukraine-tiktok-bill-into-law.html</link>
       <description><![CDATA[TikTok 誓言，如果拜登总统最终将其签署为法律，它将对这项措施提出法律挑战。]]></description>
       <guid>https://www.cnbc.com/2024/04/24/biden-signs-israel-ukraine-tiktok-bill-into-law.html</guid>
-      <pubDate>Wed, 24 Apr 2024 15:08:15 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 15:21:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是盈利最繁忙的一周，这些股票可能会暴涨</title>
+      <link>https://www.cnbc.com/2024/04/24/its-the-busiest-week-in-earnings-and-these-stocks-could-see-a-blow-up.html</link>
+      <description><![CDATA[这些公司的股价在公布业绩后可能会下滑。]]></description>
+      <guid>https://www.cnbc.com/2024/04/24/its-the-busiest-week-in-earnings-and-these-stocks-could-see-a-blow-up.html</guid>
+      <pubDate>Wed, 24 Apr 2024 15:16:43 GMT</pubDate>
     </item>
     <item>
       <title>为什么美联储长期维持较高利率可能并不是一件坏事</title>
       <link>https://www.cnbc.com/2024/04/24/why-the-fed-keeping-rates-higher-for-longer-may-not-be-such-a-bad-thing.html</link>
       <description><![CDATA[当今的高利率对经济进程产生了巨大的负面影响，这一点很难让人相信。]]></description>
       <guid>https://www.cnbc.com/2024/04/24/why-the-fed-keeping-rates-higher-for-longer-may-not-be-such-a-bad-thing.html</guid>
-      <pubDate>Wed, 24 Apr 2024 15:06:14 GMT</pubDate>
+      <pubDate>Wed, 24 Apr 2024 15:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>富国银行看好这家生物技术公司</title>
+      <link>https://www.cnbc.com/2024/04/24/wells-fargo-becomes-bullish-on-this-biotech-company.html</link>
+      <description><![CDATA[富国银行 (Wells Fargo) 相信，该公司的增生和抑郁症治疗药物都可能成为价值超过 10 亿美元的机会。]]></description>
+      <guid>https://www.cnbc.com/2024/04/24/wells-fargo-becomes-bullish-on-this-biotech-company.html</guid>
+      <pubDate>Wed, 24 Apr 2024 15:15:11 GMT</pubDate>
     </item>
     <item>
       <title>特朗普媒体首席执行官敦促众议院共和党领导人调查 DJT 股票可能被“操纵”的情况</title>
@@ -25,13 +46,6 @@
       <description><![CDATA[唐纳德·特朗普 (Donald Trump) 的媒体公司首席执行官德文·努涅斯 (Devin Nunes) 希望国会调查 DJT 股票可能被操纵的情况。]]></description>
       <guid>https://www.cnbc.com/2024/04/24/djt-trump-media-ceo-asks-house-gop-to-launch-stock-manipulation-probe.html</guid>
       <pubDate>Wed, 24 Apr 2024 15:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>该支付股似乎正在触底。使用期权来利用潜在收益</title>
-      <link>https://www.cnbc.com/2024/04/24/this-payments-stock-appears-to-be-bottoming-using-options-to-capitalize-on-potential-gains.html</link>
-      <description><![CDATA[该股近期的强势和表现值得重新审视。]]></description>
-      <guid>https://www.cnbc.com/2024/04/24/this-payments-stock-appears-to-be-bottoming-using-options-to-capitalize-on-potential-gains.html</guid>
-      <pubDate>Wed, 24 Apr 2024 15:04:28 GMT</pubDate>
     </item>
     <item>
       <title>“传统妻子”的崛起——为什么一些女性说她们选择失业</title>
@@ -62,25 +76,11 @@
       <pubDate>Wed, 24 Apr 2024 14:26:32 GMT</pubDate>
     </item>
     <item>
-      <title>波音报告季度业绩好于预期，称供应链在 737 Max 危机中趋于稳定</title>
-      <link>https://www.cnbc.com/2024/04/24/boeing-ba-earnings-q1-2024.html</link>
-      <description><![CDATA[自 1 月初 737 Max 9 门塞脱落以来，波音公司一直深陷安全危机。]]></description>
-      <guid>https://www.cnbc.com/2024/04/24/boeing-ba-earnings-q1-2024.html</guid>
-      <pubDate>Wed, 24 Apr 2024 14:21:23 GMT</pubDate>
-    </item>
-    <item>
       <title>乌克兰战争实时更新：拜登准备签署美国援助计划，基辅出现救济；俄罗斯官员因受贿罪被捕</title>
       <link>https://www.cnbc.com/2024/04/24/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
       <description><![CDATA[周二晚，美国参议院批准了向基辅提供 610 亿美元的对外援助计划后，周三乌克兰局势有所缓解。]]></description>
       <guid>https://www.cnbc.com/2024/04/24/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Wed, 24 Apr 2024 13:58:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是盈利最繁忙的一周，这些股票可能会暴涨</title>
-      <link>https://www.cnbc.com/2024/04/24/its-the-busiest-week-in-earnings-and-these-stocks-could-see-a-blow-up.html</link>
-      <description><![CDATA[这些公司的股价在公布业绩后可能会下滑。]]></description>
-      <guid>https://www.cnbc.com/2024/04/24/its-the-busiest-week-in-earnings-and-these-stocks-could-see-a-blow-up.html</guid>
-      <pubDate>Wed, 24 Apr 2024 13:01:22 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 让投资者继续实现特斯拉机器人出租车的梦想</title>
