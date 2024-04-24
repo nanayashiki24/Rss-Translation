@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT 世界新闻</title>
+    <title>RT世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Wed, 24 Apr 2024 21:50:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 22:14:33 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰男子在波兰抗议泽连斯基的新征兵措施（视频）</title>
+      <link>https://www.rt.com/news/596542-ukrainian-protest-documents-poland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 大约 300 名乌克兰人封锁了华沙的护照办公室，抗议基辅停止向“逃兵者”发放证件的政策在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596542-ukrainian-protest-documents-poland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Wed, 24 Apr 2024 22:11:15 GMT</pubDate>
+    </item>
     <item>
       <title>马克龙希望冯德莱恩被取代 – 彭博社</title>
       <link>https://www.rt.com/news/596540-macron-eu-commission-election/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -43,7 +50,7 @@
     <item>
       <title>澳大利亚在教堂刺伤事件后突袭“极端主义”嫌疑人</title>
       <link>https://www.rt.com/news/596522-australia-terrorism-police-raid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 七名“出于宗教动机的暴力极端主义意识形态”追随者在悉尼扫荡行动中被捕在 RT.com 上阅读全文]]></description>
+      <description><![CDATA[ 七名“出于宗教动机的暴力极端主义意识形态”追随者在悉尼扫荡中被捕 在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596522-australia-terrorism-police-raid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Wed, 24 Apr 2024 17:49:12 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 24 Apr 2024 15:22:06 GMT</pubDate>
     </item>
     <item>
-      <title>伦敦市中心沾满鲜血的马匹横行（视频）</title>
+      <title>浑身是血的马在伦敦市中心横冲直撞（视频）</title>
       <link>https://www.rt.com/news/596517-horses-rampage-through-london/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 受惊的军马在伦敦市中心周围发生踩踏事故，导致四人受伤 在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596517-horses-rampage-through-london/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 美国前总统唐纳德·特朗普因藐视法庭而面临短期监禁的风险 在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596516-trump-secret-service-prison/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Wed, 24 Apr 2024 14:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>这就是伊朗决定不再攻击以色列的原因</title>
-      <link>https://www.rt.com/news/596504-good-news-middle-east/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 中东发生重大战争的威胁已经过去，因为德黑兰决定等待时机 在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596504-good-news-middle-east/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Wed, 24 Apr 2024 14:06:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
