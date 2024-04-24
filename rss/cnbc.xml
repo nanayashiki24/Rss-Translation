@@ -4,13 +4,20 @@
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 24 Apr 2024 02:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 03:06:00 GMT</lastBuildDate>
     <item>
       <title>参议院通过期待已久的对以色列、乌克兰、台湾和 TikTok 的援助法案</title>
       <link>https://www.cnbc.com/2024/04/23/senate-advances-aid-for-israel-ukraine-taiwan-tiktok-bill.html</link>
-      <description><![CDATA[拜登总统最初于十月提议向以色列、乌克兰和台湾提供援助。]]></description>
+      <description><![CDATA[拜登总统最初于 10 月提议向以色列、乌克兰和台湾提供援助。]]></description>
       <guid>https://www.cnbc.com/2024/04/23/senate-advances-aid-for-israel-ukraine-taiwan-tiktok-bill.html</guid>
       <pubDate>Wed, 24 Apr 2024 02:13:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>基金经理表示，买入这些黄金和铜股是为了利用人工智能、中国需求等因素</title>
+      <link>https://www.cnbc.com/2024/04/24/buy-gold-copper-stocks-to-ride-ai-china-demand-more-fund-managers.html</link>
+      <description><![CDATA[随着地缘政治紧张局势加剧、各国央行买入黄金以及人工智能对铜的需求增长，黄金和铜一直在燃烧。]]></description>
+      <guid>https://www.cnbc.com/2024/04/24/buy-gold-copper-stocks-to-ride-ai-china-demand-more-fund-managers.html</guid>
+      <pubDate>Wed, 24 Apr 2024 00:20:05 GMT</pubDate>
     </item>
     <item>
       <title>忘掉英伟达吧：摩根士丹利称英特尔大肆炒作的人工智能芯片将提振全球 3 只股票</title>
@@ -29,16 +36,9 @@
     <item>
       <title>马斯克表示公司计划在 2025 年初开始生产价格实惠的新型电动汽车，特斯拉股价上涨 11%</title>
       <link>https://www.cnbc.com/2024/04/23/tesla-tsla-earnings-q1-2024-.html</link>
-      <description><![CDATA[特斯拉公布的盈利和收入令人失望，但由于人们乐观地认为一款新的经济型电动汽车可能会比预期更早投入生产，该股上涨。]]></description>
+      <description><![CDATA[特斯拉公布的盈利和收入令人失望，但由于人们乐观地认为一款新的价格实惠的电动汽车车型可能会比预期更早投入生产，该股上涨。]]></description>
       <guid>https://www.cnbc.com/2024/04/23/tesla-tsla-earnings-q1-2024-.html</guid>
       <pubDate>Tue, 23 Apr 2024 23:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>克莱默指出经济正在放缓的迹象可能会导致美联储降息</title>
-      <link>https://www.cnbc.com/2024/04/23/cramer-says-recent-earnings-misses-and-pmi-data-could-bring-rate-cuts.html</link>
-      <description><![CDATA[CNBC 的吉姆·克莱默 (Jim Cramer) 将这些因素称为正在扰乱美国经济增长的“棕色芽”。]]></description>
-      <guid>https://www.cnbc.com/2024/04/23/cramer-says-recent-earnings-misses-and-pmi-data-could-bring-rate-cuts.html</guid>
-      <pubDate>Tue, 23 Apr 2024 22:58:11 GMT</pubDate>
     </item>
     <item>
       <title>甲骨文正在将其全球总部迁至纳什维尔，以更靠近医疗保健行业</title>
@@ -76,13 +76,6 @@
       <pubDate>Tue, 23 Apr 2024 20:44:15 GMT</pubDate>
     </item>
     <item>
-      <title>有报道称 IBM 正在洽谈收购这家云软件制造商，HashiCorp 股价飙升</title>
-      <link>https://www.cnbc.com/2024/04/23/hashicorp-shares-spike-on-report-that-ibm-is-in-talks-to-buy-the-cloud-software-maker.html</link>
-      <description><![CDATA[HashiCorp 的业务增长速度比 IBM 快得多，后者一直面临着充满挑战的经济环境。]]></description>
-      <guid>https://www.cnbc.com/2024/04/23/hashicorp-shares-spike-on-report-that-ibm-is-in-talks-to-buy-the-cloud-software-maker.html</guid>
-      <pubDate>Tue, 23 Apr 2024 20:04:23 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普审判：佩克称《国家询问报》将“美化”有关特朗普 2016 年竞争对手的负面报道</title>
       <link>https://www.cnbc.com/2024/04/23/trump-trial-gag-order-contempt-hearing-pecker-testimony-hush-money.html</link>
       <description><![CDATA[特朗普被指控伪造商业记录，该记录涉及一项阻止色情明星斯托米·丹尼尔斯谈论与他所谓的幽会的计划。]]></description>
@@ -97,7 +90,7 @@
       <pubDate>Tue, 23 Apr 2024 19:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>加密货币游说团体就扩大交易商规则起诉 SEC：CNBC Crypto World</title>
+      <title>加密游说团体就扩大交易商规则起诉 SEC：CNBC Crypto World</title>
       <link>https://www.cnbc.com/video/2024/04/23/crypto-lobbying-groups-sue-sec-over-expanded-dealer-rule.html</link>
       <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过备受瞩目的采访、解释和来自不断变化的加密行业的独特故事，让观众了解未来的发展趋势。在今天的节目中，Core Scientific 首席执行官 Adam Sullivan 讨论了第四次比特币减半后矿工的策略。]]></description>
       <guid>https://www.cnbc.com/video/2024/04/23/crypto-lobbying-groups-sue-sec-over-expanded-dealer-rule.html</guid>
@@ -109,6 +102,13 @@
       <description><![CDATA[这些披露内容显示了 TikTok 官员上季度如何游说国会和总统乔·拜登的执行办公室。]]></description>
       <guid>https://www.cnbc.com/2024/04/23/bytedance-tiktok-spent-over-7-million-on-lobbying-ad-campaign-.html</guid>
       <pubDate>Tue, 23 Apr 2024 18:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>CNBC 专业谈话：亚马逊、LVMH 等——基金经理将透露现在值得购买的消费类股票</title>
+      <link>https://www.cnbc.com/2024/04/23/cnbc-pro-talks-infusive-asset-managements-jack-dwyer-on-consumer-stocks.html</link>
+      <description><![CDATA[CNBC 的 Will Koulouris 将在下一次 Pro Talks 中询问 Infusive Asset Management 的首席执行官如何利用消费者的力量。]]></description>
+      <guid>https://www.cnbc.com/2024/04/23/cnbc-pro-talks-infusive-asset-managements-jack-dwyer-on-consumer-stocks.html</guid>
+      <pubDate>Tue, 23 Apr 2024 05:50:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
