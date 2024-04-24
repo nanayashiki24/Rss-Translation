@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Wed, 24 Apr 2024 15:23:00 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰战争实时更新：拜登将乌克兰军事援助计划签署为法律；俄罗斯官员因受贿罪被捕</title>
+      <link>https://www.cnbc.com/2024/04/24/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[美国总统乔·拜登周三签署了一项法案，向乌克兰提供数十亿美元的额外援助，以帮助其击退俄罗斯的进攻。]]></description>
+      <guid>https://www.cnbc.com/2024/04/24/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Wed, 24 Apr 2024 15:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普媒体首席执行官敦促众议院共和党领导人调查 DJT 股票可能被“操纵”的情况</title>
+      <link>https://www.cnbc.com/2024/04/24/djt-trump-media-ceo-asks-house-gop-to-launch-stock-manipulation-probe.html</link>
+      <description><![CDATA[唐纳德·特朗普的媒体公司首席执行官德文·努涅斯希望国会调查该公司股票是否存在操纵行为。]]></description>
+      <guid>https://www.cnbc.com/2024/04/24/djt-trump-media-ceo-asks-house-gop-to-launch-stock-manipulation-probe.html</guid>
+      <pubDate>Wed, 24 Apr 2024 15:34:39 GMT</pubDate>
+    </item>
     <item>
       <title>波音报告季度业绩好于预期，称供应链在 737 Max 危机中趋于稳定</title>
       <link>https://www.cnbc.com/2024/04/24/boeing-ba-earnings-q1-2024.html</link>
@@ -41,13 +55,6 @@
       <pubDate>Wed, 24 Apr 2024 15:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普媒体首席执行官敦促众议院共和党领导人调查 DJT 股票可能被“操纵”的情况</title>
-      <link>https://www.cnbc.com/2024/04/24/djt-trump-media-ceo-asks-house-gop-to-launch-stock-manipulation-probe.html</link>
-      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 的媒体公司首席执行官德文·努涅斯 (Devin Nunes) 希望国会调查 DJT 股票可能被操纵的情况。]]></description>
-      <guid>https://www.cnbc.com/2024/04/24/djt-trump-media-ceo-asks-house-gop-to-launch-stock-manipulation-probe.html</guid>
-      <pubDate>Wed, 24 Apr 2024 15:05:42 GMT</pubDate>
-    </item>
-    <item>
       <title>“传统妻子”的崛起——为什么一些女性说她们选择失业</title>
       <link>https://www.cnbc.com/2024/04/24/the-rise-of-the-tradwife-and-sahg-why-some-women-opt-out-of-work.html</link>
       <description><![CDATA[TikTok 的“传统妻子”和“全职女友”趋势展现了一种坚持非常传统的性别角色的理想化观点，但这并不是现实。]]></description>
@@ -74,13 +81,6 @@
       <description><![CDATA[阿尔茨海默病药物 Leqembi 本季度销售额约为 1,900 万美元，高于去年的 1,000 万美元。]]></description>
       <guid>https://www.cnbc.com/2024/04/24/biogen-biib-earnings-q1-2024-.html</guid>
       <pubDate>Wed, 24 Apr 2024 14:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰战争实时更新：拜登准备签署美国援助计划，基辅出现救济；俄罗斯官员因受贿罪被捕</title>
-      <link>https://www.cnbc.com/2024/04/24/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[周二晚，美国参议院批准了向基辅提供 610 亿美元的对外援助计划后，周三乌克兰局势有所缓解。]]></description>
-      <guid>https://www.cnbc.com/2024/04/24/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Wed, 24 Apr 2024 13:58:31 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 让投资者继续实现特斯拉机器人出租车的梦想</title>
