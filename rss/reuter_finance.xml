@@ -3,8 +3,8 @@
   <channel>
     <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 09:26:59 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 25 Apr 2024 09:38:08 GMT</lastBuildDate>
     <item>
       <title>大型矿业并购和盈利推动，富时 100 指数创历史新高</title>
       <link>https://www.reuters.com/world/uk/ftse-100-hits-record-high-big-mining-ma-earnings-push-2024-04-25/</link>
@@ -22,14 +22,14 @@
     <item>
       <title>摩根士丹利资本国际 (MSCI) 表示，欧洲房地产交易量自全球金融危机以来最高</title>
       <link>https://www.reuters.com/markets/europe/pulled-real-estate-deals-highest-europe-since-global-financial-crisis-says-msci-2024-04-25/</link>
-      <description><![CDATA[数据公司 MSCI Real Assets 周四表示，由于该地区的经济不确定性持续笼罩，2024 年第一季度欧洲房地产交易跌幅创下全球金融危机以来最高。]]></description>
+      <description><![CDATA[数据公司 MSCI Real Assets 周四表示，由于该地区经济不确定性继续凸显，2024 年第一季度欧洲房地产交易数量创下全球金融危机以来的最高水平。]]></description>
       <guid>https://www.reuters.com/markets/europe/pulled-real-estate-deals-highest-europe-since-global-financial-crisis-says-msci-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 06:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>由于交易低迷，巴克莱第一季度利润下降 12%</title>
+      <title>受交易量下滑影响，巴克莱第一季度利润下降 12%</title>
       <link>https://www.reuters.com/business/finance/barclays-q1-profit-falls-12-2024-04-25/</link>
-      <description><![CDATA[巴克莱周四公布的第一季度利润降幅略小于预期的 12%，这提振了投资者的信心，表明尽管交易收入下降且抵押贷款需求低迷，但其扭亏为盈的任务已步入正轨。]]></description>
+      <description><![CDATA[巴克莱银行周四公布第一季度利润下降 12%，降幅略低于预期，尽管交易收入下降且抵押贷款需求低迷，但这增强了投资者的信心，他们认为巴克莱银行的扭亏为盈任务正在按计划进行。]]></description>
       <guid>https://www.reuters.com/business/finance/barclays-q1-profit-falls-12-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 06:08:36 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 25 Apr 2024 05:14:40 GMT</pubDate>
     </item>
     <item>
-      <title>法国巴黎银行超出预期，因成本下降抵消了交易下滑</title>
+      <title>成本下降抵消了交易下滑，法国巴黎银行业绩好于预期</title>
       <link>https://www.reuters.com/business/finance/bnp-paribas-profit-tops-estimates-lower-costs-global-banking-2024-04-25/</link>
       <description><![CDATA[法国巴黎银行周四超出第一季度利润预期，原因是较低的费用和全球银行业的良好业绩帮助抵消了其固定收益交易的急剧下滑。]]></description>
       <guid>https://www.reuters.com/business/finance/bnp-paribas-profit-tops-estimates-lower-costs-global-banking-2024-04-25/</guid>
@@ -62,14 +62,14 @@
       <pubDate>Thu, 25 Apr 2024 05:10:40 GMT</pubDate>
     </item>
     <item>
-      <title>德意志银行季度利润跃升 10%，投行表现优于大市</title>
+      <title>投资银行表现优于大盘，德意志银行季度利润跃升 10%</title>
       <link>https://www.reuters.com/business/finance/deutsche-bank-posts-better-than-expected-10-rise-q1-net-profit-2024-04-25/</link>
       <description><![CDATA[德意志银行周四公布，第一季度利润增长 10%，好于预期，原因是固定收益交易和交易的复苏推动了其投资银行部门的收入。]]></description>
       <guid>https://www.reuters.com/business/finance/deutsche-bank-posts-better-than-expected-10-rise-q1-net-profit-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 05:01:38 GMT</pubDate>
     </item>
     <item>
-      <title>早间竞价：为科技过山车做好准备</title>
+      <title>早间竞价：为科技过山车之旅做好准备</title>
       <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-04-25/</link>
       <description><![CDATA[Ankur Banerjee 对欧洲和全球市场未来一天的展望]]></description>
       <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-04-25/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>必和必拓以 390 亿美元收购英美资源集团，参与矿业重组</title>
       <link>https://www.reuters.com/markets/deals/bhp-considering-potential-buyout-offer-anglo-american-bloomberg-reports-2024-04-24/</link>
-      <description><![CDATA[必和必拓集团周四宣布，已出价 388 亿美元收购英美资源集团，这笔交易将打造全球最大的铜矿开采商，并推动其规模较小的竞争对手的股价大幅上涨。]]></description>
+      <description><![CDATA[必和必拓集团周四表示，已向英美资源集团提出 388 亿美元的收购要约，该交易将创建全球最大的铜矿商，并导致其较小竞争对手的股价大幅上涨。]]></description>
       <guid>https://www.reuters.com/markets/deals/bhp-considering-potential-buyout-offer-anglo-american-bloomberg-reports-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 21:41:41 GMT</pubDate>
     </item>
