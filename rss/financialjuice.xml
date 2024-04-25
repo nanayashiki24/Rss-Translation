@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 25 Apr 2024 08:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 08:37:13 GMT</lastBuildDate>
+    <item>
+      <title>香港实际进口 5.3%（预测 2.4%，前值 -1.8%） $宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783413311700156688#m</link>
+      <description><![CDATA[香港进口实际 5.3%（预测 2.4%，此前 -1.8%）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783413311700156688#m</guid>
+      <pubDate>Thu, 25 Apr 2024 08:30:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>香港实际出口 4.7%（预测 2.3%，前值 -0.8%） $宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783413299113070738#m</link>
+      <description><![CDATA[香港实际出口 4.7%（预测 2.3%，此前 -0.8%）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783413299113070738#m</guid>
+      <pubDate>Thu, 25 Apr 2024 08:30:39 GMT</pubDate>
+    </item>
     <item>
       <title>🔴欧洲央行穆勒：我对开始连续降息感到不舒服。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783409885079609598#m</link>
@@ -15,7 +29,7 @@
     <item>
       <title>经济、金融和货币发展 - 欧洲央行经济公报 https://www.ecb.europa.eu/press/economic-bulletin/html/eb202403.en.html</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783406067373817917#m</link>
-      <description><![CDATA[经济、金融和货币发展 - 欧洲央行经济公报 ecb.europa.eu /按/经济...
+      <description><![CDATA[经济、金融和货币发展 - 欧洲央行经济公报 ecb.europa.eu/press/economic…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783406067373817917#m</guid>
       <pubDate>Thu, 25 Apr 2024 08:01:55 GMT</pubDate>
@@ -70,7 +84,7 @@
       <pubDate>Thu, 25 Apr 2024 06:45:25 GMT</pubDate>
     </item>
     <item>
-      <title>德国 GFK 消费者信心实际值 -24.2（预测 -26，前值 -27.4） $宏观</title>
+      <title>德国 GFK 消费者信心实际值 -24.2（预测值 -26，前值 -27.4） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783375499646902329#m</link>
       <description><![CDATA[德国 GFK 消费者信心实际值 -24.2（预测 -26，之前 -27.4）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783375499646902329#m</guid>
@@ -97,20 +111,6 @@
       <description><![CDATA[韩国市场监管机构负责人不确定何时取消股票卖空禁令]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783323123472818612#m</guid>
       <pubDate>Thu, 25 Apr 2024 02:32:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾当选总统拉尔宣布邱垂正出任大​​陆委员会新任主管</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783318001397162084#m</link>
-      <description><![CDATA[台湾当选总统拉尔宣布邱垂正出任陆委会新任主管]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783318001397162084#m</guid>
-      <pubDate>Thu, 25 Apr 2024 02:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾当选总统拉尔任命国安会主席辜威灵为新国防部长</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783317222879842662#m</link>
-      <description><![CDATA[台湾当选总统拉尔任命国安会主席辜威灵为新国防部长]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783317222879842662#m</guid>
-      <pubDate>Thu, 25 Apr 2024 02:08:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
