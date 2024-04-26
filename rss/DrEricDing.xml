@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>埃里克·费格尔·丁/@DrEricDing</title>
+    <title>Eric Feigl-Ding/@DrEricDing</title>
     <link>http://nitter.esmailelbob.xyz/DrEricDing</link>
     <description>Twitter 供稿：@DrEricDing。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 18:51:33 GMT</lastBuildDate>
+    <item>
+      <title>RT @DrEricDing：我什至很难写这篇文章，因为它是如此恶心和邪恶。但它就在这里。
+
+特朗普顶级副总统承认谋杀小狗
+https://lamag.com/news-and-politics/top-trump-vp-pick-confesses-murdering-puppy</title>
+      <link>http://nitter.esmailelbob.xyz/Ally_Sammarco/status/1783926120003346923#m</link>
+      <description><![CDATA[我什至很难写这篇文章，因为它是如此恶心和邪恶。但它就在这里。
+
+特朗普顶级副总统选择承认谋杀小狗
+lamag.com/news-and-politics/…&lt; /p&gt;
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/Ally_Sammarco/status/1783926120003346923#m</guid>
+      <pubDate>Fri, 26 Apr 2024 18:28:25 GMT</pubDate>
+    </item>
     <item>
       <title>R 回复@DrEricDing：16) 好的，@WHO 现在担心禽流感 H5N1。他们要求更多的数据共享。 （咳咳）@USDA >@USDAFoodSafety</title>
       <link>http://nitter.esmailelbob.xyz/DrEricDing/status/1783916496072196424#m</link>
@@ -30,9 +44,9 @@ nitter.esmailelbob.xyz/DrEricDing/status/1783794717093708020#m]]></description>
       <pubDate>Fri, 26 Apr 2024 16:47:29 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @DrEricDing：我们正在密切监测 H5N1 病毒的情况，并希望分享我们 Biobot 目前掌握的信息：</title>
+      <title>RT by @DrEricDing：我们正在密切监测 H5N1 病毒的情况，并想分享我们 Biobot 目前掌握的信息：</title>
       <link>http://nitter.esmailelbob.xyz/BiobotAnalytics/status/1783886223771414675#m</link>
-      <description><![CDATA[我们正在密切监测 H5N1 病毒情况，并希望分享 Biobot 目前掌握的信息：]]></description>
+      <description><![CDATA[我们正在密切监测 H5N1 病毒的情况，并希望与大家分享 Biobot 目前掌握的信息：]]></description>
       <guid>http://nitter.esmailelbob.xyz/BiobotAnalytics/status/1783886223771414675#m</guid>
       <pubDate>Fri, 26 Apr 2024 15:49:53 GMT</pubDate>
     </item>
@@ -63,7 +77,7 @@ nitter.esmailelbob.xyz/DrEricDing/status/1783848366578749520#m]]></description>
     <item>
       <title>RT by @DrEricDing：现在肯定发生了很多无法解释的事情</title>
       <link>http://nitter.esmailelbob.xyz/GregTSargent/status/1783819246058799363#m</link>
-      <description><![CDATA[现在肯定发生了很多莫名其妙的事情]]></description>
+      <description><![CDATA[现在肯定发生了很多无法解释的事情]]></description>
       <guid>http://nitter.esmailelbob.xyz/GregTSargent/status/1783819246058799363#m</guid>
       <pubDate>Fri, 26 Apr 2024 11:23:44 GMT</pubDate>
     </item>
@@ -118,17 +132,9 @@ nitter.esmailelbob.xyz/DrEricDing/status/1783674384160350658#m]]></description>
       <pubDate>Fri, 26 Apr 2024 02:14:00 GMT</pubDate>
     </item>
     <item>
-      <title>RT by @DrEricDing：针对 Politico 报告的奇怪声明。一位不愿透露姓名的《纽约时报》记者最具爆炸性的说法，即苏兹伯格将拜登年龄的负面报道作为未获得采访的报复，没有反驳，只是攻击拜登没有与他们交谈。</title>
-      <link>http://nitter.esmailelbob.xyz/tbonier/status/1783611093081850100#m</link>
-      <description><![CDATA[对 Politico 报道的回应，这是一个奇怪的声明。没有反驳一位未透露姓名的《纽约时报》记者最具爆炸性的说法，即苏兹伯格推动对拜登年龄的负面报道，作为对未获准采访的报复，只是攻击拜登不与他们交谈。
-nitter.esmailelbob.xyz/NYTimesPR/status/1783590902956499431#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/tbonier/status/1783611093081850100#m</guid>
-      <pubDate>Thu, 25 Apr 2024 21:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @DrEricDing：为什么美国的鸡不接种 #H5N1 疫苗？
-不仅 #H5N1 疫苗一直可供刚出生的鸡使用，而且还会定期更新以防流行的变种。
-只有美国没有强制家禽接种 #H5N1 疫苗。</title>
+      <title>RT @DrEricDing：为什么美国鸡不接种 #H5N1 疫苗？
+#H5N1 疫苗不仅始终适用于日龄雏鸡，而且会针对流行的变种定期更新。
+只有美国没有针对家禽的强制性 #H5N1 疫苗。</title>
       <link>http://nitter.esmailelbob.xyz/RealCheckMarker/status/1783532265579900937#m</link>
       <description><![CDATA[为什么美国鸡#H5N1不接种疫苗？
 #H5N1 疫苗不仅始终可供日龄雏鸡使用，而且会针对流行的变种定期更新。 
