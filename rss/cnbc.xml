@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Fri, 26 Apr 2024 21:05:00 GMT</lastBuildDate>
+    <item>
+      <title>英特尔曾主导美国芯片行业。现在它正努力保持相关性</title>
+      <link>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</link>
+      <description><![CDATA[过去 15 年多来，英特尔错过了大部分重大技术转型，并一路失去了在芯片行业的地位。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</guid>
+      <pubDate>Fri, 26 Apr 2024 21:45:28 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普审判第二周结束，前秘书和银行家作证</title>
       <link>https://www.cnbc.com/2024/04/26/trump-trial-defense-continues-cross-examination-of-national-enquirer-publisher-david-pecker-live-updates.html</link>
@@ -29,14 +36,14 @@
     <item>
       <title>Snap 公布意外利润和好于预期的收入后股价飙升 28%</title>
       <link>https://www.cnbc.com/2024/04/26/snap-shares-rocket-28percent-as-company-reports-unexpected-profit.html</link>
-      <description><![CDATA[周五，Snap 公布了令人振奋的业绩，表明其在线广告业务正在重回正轨，股价飙升。]]></description>
+      <description><![CDATA[周五，Snap 公布了令人振奋的业绩，表明其在线广告业务正在重回正轨，该公司股价飙升。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/snap-shares-rocket-28percent-as-company-reports-unexpected-profit.html</guid>
       <pubDate>Fri, 26 Apr 2024 20:29:26 GMT</pubDate>
     </item>
     <item>
       <title>联邦监管机构发现特斯拉 Autopilot 存在与数百起碰撞事故相关的“严重安全漏洞”</title>
       <link>https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html</link>
-      <description><![CDATA[联邦当局表示，特斯拉 Autopilot 系统存在“严重安全漏洞”，导致至少 467 起碰撞事故，其中 13 人死亡。]]></description>
+      <description><![CDATA[联邦当局表示，特斯拉 Autopilot 系统中的“严重安全漏洞”导致了至少 467 起碰撞事故，其中 13 人死亡。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html</guid>
       <pubDate>Fri, 26 Apr 2024 20:28:14 GMT</pubDate>
     </item>
@@ -55,14 +62,7 @@
       <pubDate>Fri, 26 Apr 2024 20:15:58 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔曾经在美国芯片行业占据主导地位。现在它正在努力保持相关性</title>
-      <link>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</link>
-      <description><![CDATA[过去 15 年多来，英特尔错过了大部分重大技术转型，并一路失去了在芯片行业的地位。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</guid>
-      <pubDate>Fri, 26 Apr 2024 20:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>凭借强劲的盈利、首次股息和 700 亿美元的回购，Alphabet 股价飙升至 2015 年以来最高</title>
+      <title>凭借强劲的盈利、首次派息和 700 亿美元的回购，Alphabet 股价飙升至 2015 年以来最高</title>
       <link>https://www.cnbc.com/2024/04/26/alphabet-stock-up-on-strong-earnings-first-ever-dividend-buyback.html</link>
       <description><![CDATA[Alphabet 公布好于预期的第一季度业绩，并批准首次派息和回购后，该公司股价周五大幅上涨。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/alphabet-stock-up-on-strong-earnings-first-ever-dividend-buyback.html</guid>
@@ -97,7 +97,7 @@
       <pubDate>Fri, 26 Apr 2024 19:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>3月份美联储主要通胀指标同比上涨2.8%，超出预期</title>
+      <title>3月份美联储主要通胀指标较去年同期上升2.8%，超出预期</title>
       <link>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</link>
       <description><![CDATA[根据道琼斯共识估计，3 月份核心个人消费支出价格指数预计将同比增长 2.7%。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</guid>
