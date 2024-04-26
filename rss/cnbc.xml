@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 07:06:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Fri, 26 Apr 2024 07:41:00 GMT</lastBuildDate>
+    <item>
+      <title>英美资源集团拒绝必和必拓 390 亿美元收购矿业巨头的出价</title>
+      <link>https://www.cnbc.com/2024/04/26/anglo-american-rejects-bhps-39-billion-takeover-bid-to-form-mining-juggernaut.html</link>
+      <description><![CDATA[矿业巨头英美资源集团周五拒绝了竞争对手必和必拓集团的收购要约，称该报价“大大低估”了该公司及其未来前景。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/anglo-american-rejects-bhps-39-billion-takeover-bid-to-form-mining-juggernaut.html</guid>
+      <pubDate>Fri, 26 Apr 2024 07:45:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行维持利率不变后，日元兑美元汇率跌至156</title>
+      <link>https://www.cnbc.com/2024/04/26/asia-markets.html</link>
+      <description><![CDATA[日本股市上涨，但日元走弱，因为日本央行将基准政策利率维持在 0%-0.1%，符合预期。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/asia-markets.html</guid>
+      <pubDate>Fri, 26 Apr 2024 07:42:20 GMT</pubDate>
+    </item>
     <item>
       <title>布林肯表示，北京警告不要划定“红线”，美国和中国必须避免误判</title>
       <link>https://www.cnbc.com/2024/04/26/us-china-blinken-stresses-need-to-avoid-miscalculations.html</link>
       <description><![CDATA[国务卿安东尼·布林肯周五在北京会见了中国外交部长王毅。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/us-china-blinken-stresses-need-to-avoid-miscalculations.html</guid>
       <pubDate>Fri, 26 Apr 2024 06:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行维持利率不变后，日元兑美元汇率跌至156</title>
-      <link>https://www.cnbc.com/2024/04/26/asia-markets.html</link>
-      <description><![CDATA[由于日本央行维持基准政策利率在 0%-0.1% 的水平，符合预期，日本股市上涨，但日元走弱。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/asia-markets.html</guid>
-      <pubDate>Fri, 26 Apr 2024 06:45:59 GMT</pubDate>
     </item>
     <item>
       <title>来认识一下这位迪拜艺术家，他的作品已售出数百万美元，但拒绝了 99% 的潜在买家</title>
@@ -29,12 +36,12 @@
     <item>
       <title>乌克兰可以继续与俄罗斯作战——但它想要的“胜利”可能遥不可及</title>
       <link>https://www.cnbc.com/2024/04/26/the-victory-ukraine-wants-over-russia-might-not-be-achievable.html</link>
-      <description><![CDATA[由于未来的军事援助看起来不确定，人们开始思考乌克兰在与俄罗斯的斗争中究竟能取得怎样的“胜利”。]]></description>
+      <description><![CDATA[由于未来的军事援助看起来不确定，人们开始提出令人不安的问题，即乌克兰实际上可以对俄罗斯取得什么“胜利”。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/the-victory-ukraine-wants-over-russia-might-not-be-achievable.html</guid>
       <pubDate>Fri, 26 Apr 2024 05:20:54 GMT</pubDate>
     </item>
     <item>
-      <title>印度农民再次群起而攻，会否影响莫迪连任？</title>
+      <title>印度农民再次武装起来。这会损害莫迪的连任竞选吗？</title>
       <link>https://www.cnbc.com/2024/04/26/india-elections-will-farmers-protests-hurt-modis-reelection-campaign-.html</link>
       <description><![CDATA[尽管抗议者开始加大赌注，封锁铁轨，但这一次的骚乱似乎是他们 2020 年运动的苍白阴影。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/india-elections-will-farmers-protests-hurt-modis-reelection-campaign-.html</guid>
@@ -55,14 +62,7 @@
       <pubDate>Fri, 26 Apr 2024 00:35:40 GMT</pubDate>
     </item>
     <item>
-      <title>微软表示，即使资本支出激增 79%，云人工智能的需求仍超过供应</title>
-      <link>https://www.cnbc.com/2024/04/25/microsoft-says-cloud-ai-demand-exceeds-supply-despite-spending-surge.html</link>
-      <description><![CDATA[微软对在云中运行人工智能模型的需求大于供给。]]></description>
-      <guid>https://www.cnbc.com/2024/04/25/microsoft-says-cloud-ai-demand-exceeds-supply-despite-spending-surge.html</guid>
-      <pubDate>Fri, 26 Apr 2024 00:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔公布本季度疲弱预期后股价下跌</title>
+      <title>英特尔股价下跌，因该公司发布本季度疲软预测</title>
       <link>https://www.cnbc.com/2024/04/25/intel-intc-earnings-report-q1-2024.html</link>
       <description><![CDATA[英特尔的报告是自该公司透露已重组其财务报告以使英特尔代工成为一个单独的项目以来的第一份报告。]]></description>
       <guid>https://www.cnbc.com/2024/04/25/intel-intc-earnings-report-q1-2024.html</guid>
