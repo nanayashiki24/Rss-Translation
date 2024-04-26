@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 01:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 02:25:00 GMT</lastBuildDate>
+    <item>
+      <title>美国证券交易委员会 (SEC) 文件称，前特斯拉高级副总裁德鲁·巴格利诺 (Drew Baglino) 正在出售价值 1.815 亿美元的股票</title>
+      <link>https://www.cnbc.com/2024/04/25/former-tesla-svp-drew-baglino-is-selling-181point5-million-worth-of-stock.html</link>
+      <description><![CDATA[根据 4 月 25 日的一份文件，德鲁·巴格利诺 (Drew Baglino) 宣布将于 4 月 15 日离开特斯拉，他正在出售这家电动汽车公司的 114 万股股票。]]></description>
+      <guid>https://www.cnbc.com/2024/04/25/former-tesla-svp-drew-baglino-is-selling-181point5-million-worth-of-stock.html</guid>
+      <pubDate>Fri, 26 Apr 2024 02:23:08 GMT</pubDate>
+    </item>
     <item>
       <title>Alphabet 第一季度业绩井喷，缓解了人们对其在人工智能领域落后的担忧</title>
       <link>https://www.cnbc.com/2024/04/25/alphabet-tempers-worries-that-its-falling-behind-in-ai-in-q1-results.html</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 26 Apr 2024 00:35:40 GMT</pubDate>
     </item>
     <item>
-      <title>微软表示，即使资本支出激增 79%，云人工智能的需求仍超过供应</title>
+      <title>微软表示，即使资本支出激增 79%，但云 AI 需求仍超过供应</title>
       <link>https://www.cnbc.com/2024/04/25/microsoft-says-cloud-ai-demand-exceeds-supply-despite-spending-surge.html</link>
       <description><![CDATA[微软对在云中运行人工智能模型的需求大于供给。]]></description>
       <guid>https://www.cnbc.com/2024/04/25/microsoft-says-cloud-ai-demand-exceeds-supply-despite-spending-surge.html</guid>
@@ -25,13 +32,6 @@
       <description><![CDATA[Alphabet 和微软在发布季度业绩后延长交易时间。]]></description>
       <guid>https://www.cnbc.com/2024/04/25/stock-market-today-live-update.html</guid>
       <pubDate>Fri, 26 Apr 2024 00:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>克莱默称赞 Chipotle 等公司在经济放缓和通货膨胀的情况下仍能实现增长</title>
-      <link>https://www.cnbc.com/2024/04/25/cramer-praises-chipotle-for-growing-despite-a-slowing-economy.html</link>
-      <description><![CDATA[CNBC 的吉姆·克莱默 (Jim Cramer) 表示，不断产生“自助”的公司将在这个市场上取得好成绩。]]></description>
-      <guid>https://www.cnbc.com/2024/04/25/cramer-praises-chipotle-for-growing-despite-a-slowing-economy.html</guid>
-      <pubDate>Thu, 25 Apr 2024 23:54:50 GMT</pubDate>
     </item>
     <item>
       <title>英特尔公布本季度疲弱预期后股价下跌</title>
