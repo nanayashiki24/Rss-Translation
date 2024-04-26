@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 16:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 17:02:00 GMT</lastBuildDate>
     <item>
       <title>科技股强劲，纳斯达克指数上涨 2%，创 2 月份以来最佳单日表现：实时更新</title>
       <link>https://www.cnbc.com/2024/04/25/stock-market-today-live-update.html</link>
       <description><![CDATA[周五股市上涨，大型科技公司 Alphabet 和微软因强劲的盈利而上涨，且交易员仔细研究了新的美国通胀数据。]]></description>
       <guid>https://www.cnbc.com/2024/04/25/stock-market-today-live-update.html</guid>
-      <pubDate>Fri, 26 Apr 2024 16:51:04 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 17:11:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔曾经在美国芯片行业占据主导地位。现在它正在努力保持相关性</title>
+      <link>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</link>
+      <description><![CDATA[过去 15 年多来，英特尔错过了大部分重大技术转型，从而失去了在芯片行业的地位。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</guid>
+      <pubDate>Fri, 26 Apr 2024 17:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>中午涨幅最大的股票：微软、Alphabet、埃克森美孚、Snap 等</title>
+      <link>https://www.cnbc.com/2024/04/26/stocks-making-the-biggest-moves-midday-msft-googl-xom-snap.html</link>
+      <description><![CDATA[这些是午盘交易中涨幅最大的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/stocks-making-the-biggest-moves-midday-msft-googl-xom-snap.html</guid>
+      <pubDate>Fri, 26 Apr 2024 17:06:12 GMT</pubDate>
     </item>
     <item>
       <title>凭借强劲的盈利、首次股息和 700 亿美元的回购，Alphabet 股价飙升至 2015 年以来最高</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[Alphabet 公布好于预期的第一季度业绩，并批准首次派息和回购后，该公司股价周五大幅上涨。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/alphabet-stock-up-on-strong-earnings-first-ever-dividend-buyback.html</guid>
       <pubDate>Fri, 26 Apr 2024 16:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿什利·拜登在给法官的信中详细描述了日记盗窃带来的“痛苦”，敦促将小偷关进监狱</title>
-      <link>https://www.cnbc.com/2024/04/26/ashley-biden-in-unsealed-letter-to-judge-detailed-pain-from-diary-theft.html</link>
-      <description><![CDATA[一封未密封的信显示，乔·拜登总统的女儿阿什利·拜登请求法官将偷走她日记的女子判入狱。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/ashley-biden-in-unsealed-letter-to-judge-detailed-pain-from-diary-theft.html</guid>
-      <pubDate>Fri, 26 Apr 2024 16:46:52 GMT</pubDate>
     </item>
     <item>
       <title>雷蒙德·詹姆斯 (Raymond James) 表示，这只鲜为人知的无人机股票预计将上涨 56% 以上</title>
@@ -41,18 +48,18 @@
       <pubDate>Fri, 26 Apr 2024 16:38:54 GMT</pubDate>
     </item>
     <item>
-      <title>中午涨幅最大的股票：微软、Alphabet、埃克森美孚、Snap 等</title>
-      <link>https://www.cnbc.com/2024/04/26/stocks-making-the-biggest-moves-midday-msft-googl-xom-snap.html</link>
-      <description><![CDATA[这些是午盘交易中涨幅最大的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/stocks-making-the-biggest-moves-midday-msft-googl-xom-snap.html</guid>
-      <pubDate>Fri, 26 Apr 2024 16:37:38 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普审判实时更新：国防部继续对《国家询问报》出版商大卫·佩克进行盘问</title>
       <link>https://www.cnbc.com/2024/04/26/trump-trial-defense-continues-cross-examination-of-national-enquirer-publisher-david-pecker-live-updates.html</link>
       <description><![CDATA[特朗普的律师周四开始提出一系列问题，旨在找出佩克可信度的漏洞。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/trump-trial-defense-continues-cross-examination-of-national-enquirer-publisher-david-pecker-live-updates.html</guid>
       <pubDate>Fri, 26 Apr 2024 16:34:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌正在“发起攻势”：分析师在最新 Alphabet 财报后表示</title>
+      <link>https://www.cnbc.com/2024/04/26/google-is-going-on-the-offensive-what-analysts-are-saying-after-latest-alphabet-earnings.html</link>
+      <description><![CDATA[大多数人认为 Alphabet 有很大的发展空间，但也有人质疑，在如此庞大的支出背景下，该股能否持续增长多少。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/google-is-going-on-the-offensive-what-analysts-are-saying-after-latest-alphabet-earnings.html</guid>
+      <pubDate>Fri, 26 Apr 2024 16:33:53 GMT</pubDate>
     </item>
     <item>
       <title>拜登表示他“很乐意与特朗普辩论”</title>
@@ -62,9 +69,9 @@
       <pubDate>Fri, 26 Apr 2024 16:22:56 GMT</pubDate>
     </item>
     <item>
-      <title>3月份美联储主要通胀指标同比上涨2.8%，超出预期</title>
+      <title>3月份美联储主要通胀指标较去年同期上升2.8%，超出预期</title>
       <link>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</link>
-      <description><![CDATA[根据道琼斯共识估计，3 月份核心个人消费支出价格指数预计将同比增长 2.7%。]]></description>
+      <description><![CDATA[据道琼斯指数预测，3月份核心个人消费支出价格指数预计较上年同期增长2.7%。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</guid>
       <pubDate>Fri, 26 Apr 2024 16:10:40 GMT</pubDate>
     </item>
@@ -74,13 +81,6 @@
       <description><![CDATA[比特币一直在努力突破窄幅区间并创下新高。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/bitcoin-showing-similarities-to-small-caps-as-it-struggles-to-break-70000-says-wolfe-research.html</guid>
       <pubDate>Fri, 26 Apr 2024 16:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于天然气价格下跌和炼油利润受到挤压，埃克森美孚股价下跌</title>
-      <link>https://www.cnbc.com/2024/04/26/exxon-xom-q1-2024-earnings-report.html</link>
-      <description><![CDATA[埃克森美孚第一季度盈利低于预期，因为该行业面临炼油利润下降和天然气价格暴跌的压力。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/exxon-xom-q1-2024-earnings-report.html</guid>
-      <pubDate>Fri, 26 Apr 2024 15:27:50 GMT</pubDate>
     </item>
     <item>
       <title>迈阿密是气候风险的“零地带”。无论如何，人们正在搬到该地区并在那里建造</title>
