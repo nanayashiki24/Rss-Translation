@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 17:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 18:12:00 GMT</lastBuildDate>
+    <item>
+      <title>联邦监管机构发现特斯拉 Autopilot 存在与数百起碰撞事故相关的“严重安全漏洞”</title>
+      <link>https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html</link>
+      <description><![CDATA[联邦当局表示，特斯拉 Autopilot 系统存在“严重安全漏洞”，导致至少 467 起碰撞事故，其中 13 人死亡。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html</guid>
+      <pubDate>Fri, 26 Apr 2024 18:08:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>拉斯维加斯一家 CVS 药房成为第一家加入新全国药房联盟的药房</title>
+      <link>https://www.cnbc.com/2024/04/26/cvs-omnicare-pharmacy-in-vegas-is-first-to-join-new-pharmacy-union.html</link>
+      <description><![CDATA[CVS 旗下 Omnicare 拉斯维加斯分公司的近 30 名药房员工现在将加入 The Pharmacy Guild，该协会将代表他们与 CVS 进行劳资谈判。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/cvs-omnicare-pharmacy-in-vegas-is-first-to-join-new-pharmacy-union.html</guid>
+      <pubDate>Fri, 26 Apr 2024 18:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alphabet 和 Chipotle 是华尔街最超买的公司之一。这是其他的</title>
+      <link>https://www.cnbc.com/2024/04/26/alphabet-chipotle-among-the-most-overbought-names-on-wall-street-here-are-the-others.html</link>
+      <description><![CDATA[周四的股价下跌可能只是表明一些股票即将降温，而另一些股票可能值得再次关注。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/alphabet-chipotle-among-the-most-overbought-names-on-wall-street-here-are-the-others.html</guid>
+      <pubDate>Fri, 26 Apr 2024 18:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技股强劲，纳斯达克指数上涨 2%，创 2 月份以来最佳单日表现：实时更新</title>
+      <link>https://www.cnbc.com/2024/04/25/stock-market-today-live-update.html</link>
+      <description><![CDATA[周五股市上涨，大型科技公司 Alphabet 和微软因强劲的盈利而上涨，且交易员仔细研究了新的美国通胀数据。]]></description>
+      <guid>https://www.cnbc.com/2024/04/25/stock-market-today-live-update.html</guid>
+      <pubDate>Fri, 26 Apr 2024 17:58:43 GMT</pubDate>
+    </item>
     <item>
       <title>星巴克和工人联合会在本周的合同谈判中取得“重大进展”</title>
       <link>https://www.cnbc.com/2024/04/26/starbucks-workers-united-union-make-progress-in-negotiations.html</link>
@@ -13,25 +41,11 @@
       <pubDate>Fri, 26 Apr 2024 17:46:12 GMT</pubDate>
     </item>
     <item>
-      <title>科技股强劲，纳斯达克指数上涨 2%，创 2 月份以来最佳单日表现：实时更新</title>
-      <link>https://www.cnbc.com/2024/04/25/stock-market-today-live-update.html</link>
-      <description><![CDATA[周五股市上涨，大型科技公司 Alphabet 和微软因强劲的盈利而上涨，且交易员仔细研究了新的美国通胀数据。]]></description>
-      <guid>https://www.cnbc.com/2024/04/25/stock-market-today-live-update.html</guid>
-      <pubDate>Fri, 26 Apr 2024 17:36:30 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普审判实时更新：国防部继续对《国家询问报》出版商大卫·佩克进行盘问</title>
       <link>https://www.cnbc.com/2024/04/26/trump-trial-defense-continues-cross-examination-of-national-enquirer-publisher-david-pecker-live-updates.html</link>
-      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 的律师于周四开始提出一系列问题，旨在质疑佩克的可信度。]]></description>
+      <description><![CDATA[唐纳德·特朗普的律师周四开始提出一系列问题，旨在找出佩克可信度的漏洞。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/trump-trial-defense-continues-cross-examination-of-national-enquirer-publisher-david-pecker-live-updates.html</guid>
       <pubDate>Fri, 26 Apr 2024 17:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦监管机构发现特斯拉自动驾驶仪存在“严重安全漏洞”，与数百起碰撞事故有关</title>
-      <link>https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html</link>
-      <description><![CDATA[联邦当局表示，特斯拉 Autopilot 系统存在“严重安全漏洞”，导致至少 467 起碰撞事故，其中 13 人死亡。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html</guid>
-      <pubDate>Fri, 26 Apr 2024 17:27:38 GMT</pubDate>
     </item>
     <item>
       <title>前穆迪高级律师在税务案中认罪</title>
@@ -41,25 +55,11 @@
       <pubDate>Fri, 26 Apr 2024 17:25:11 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔曾主导美国芯片行业。现在它正努力保持相关性</title>
+      <title>英特尔曾经在美国芯片行业占据主导地位。现在它正在努力保持相关性</title>
       <link>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</link>
-      <description><![CDATA[过去 15 年多来，英特尔错过了大部分重大技术转型，从而失去了在芯片行业的地位。]]></description>
+      <description><![CDATA[过去 15 年多来，英特尔错过了大部分重大技术转型，并一路失去了在芯片行业的地位。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</guid>
       <pubDate>Fri, 26 Apr 2024 17:24:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌正在“发起攻势”：分析师在最新 Alphabet 财报后表示</title>
-      <link>https://www.cnbc.com/2024/04/26/google-is-going-on-the-offensive-what-analysts-are-saying-after-latest-alphabet-earnings.html</link>
-      <description><![CDATA[大多数分析师认为 Alphabet 有足够的增长空间，但一些人质疑，在人工智能支出巨大的背景下，该股能持续实现多少增长。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/google-is-going-on-the-offensive-what-analysts-are-saying-after-latest-alphabet-earnings.html</guid>
-      <pubDate>Fri, 26 Apr 2024 17:22:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alphabet 和 Chipotle 是华尔街最超买的公司之一。这是其他的</title>
-      <link>https://www.cnbc.com/2024/04/26/alphabet-chipotle-among-the-most-overbought-names-on-wall-street-here-are-the-others.html</link>
-      <description><![CDATA[以下是华尔街最超买和超卖的股票，它们可能很快就会分别走低或走高。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/alphabet-chipotle-among-the-most-overbought-names-on-wall-street-here-are-the-others.html</guid>
-      <pubDate>Fri, 26 Apr 2024 17:20:50 GMT</pubDate>
     </item>
     <item>
       <title>中午涨幅最大的股票：微软、Alphabet、埃克森美孚、Snap 等</title>
@@ -83,7 +83,7 @@
       <pubDate>Fri, 26 Apr 2024 16:38:56 GMT</pubDate>
     </item>
     <item>
-      <title>3月份美联储主要通胀指标较去年同期上升2.8%，超出预期</title>
+      <title>3月份美联储主要通胀指标同比上涨2.8%，超出预期</title>
       <link>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</link>
       <description><![CDATA[根据道琼斯共识估计，3 月份核心个人消费支出价格指数预计将同比增长 2.7%。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</guid>
