@@ -3,12 +3,26 @@
   <channel>
     <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
-    <description>Twitter 消息源：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 26 Apr 2024 04:36:05 GMT</lastBuildDate>
+    <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Fri, 26 Apr 2024 05:12:59 GMT</lastBuildDate>
+    <item>
+      <title>日本央行 2024 财年核心 CPI 预测中位数：+1.9% 对比 1 月份的 +41.9%</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783721515789304186#m</link>
+      <description><![CDATA[日本央行 2024 财年核心 CPI 中值预测：+1.9% VS 1 月 +41.9%]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783721515789304186#m</guid>
+      <pubDate>Fri, 26 Apr 2024 04:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行：董事会 2026 财年核心消费者物价指数 (CPI) 预测中位数为 +2.1%</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783721504213029063#m</link>
+      <description><![CDATA[日本央行：董事会 2026 财年核心消费者物价指数 (CPI) 预测中位数为 +2.1%]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783721504213029063#m</guid>
+      <pubDate>Fri, 26 Apr 2024 04:55:21 GMT</pubDate>
+    </item>
     <item>
       <title>美国10年期国债收益率较中国10年期国债收益率溢价达到2002年6月以来的最高水平。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783714765791011140#m</link>
-      <description><![CDATA[美国 10 年期国债收益率高于中国 10 年期国债收益率，达到 2002 年 6 月以来的最大水平。]]></description>
+      <description><![CDATA[美国10年期国债收益率与中国10年期国债收益率之间的溢价幅度达到2002年6月以来的最高水平。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783714765791011140#m</guid>
       <pubDate>Fri, 26 Apr 2024 04:28:34 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>日本央行季度报告：预计当前货币状况将持续宽松</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783700128424993223#m</link>
-      <description><![CDATA[日本央行季度报告：预计暂时将持续宽松的货币条件]]></description>
+      <description><![CDATA[日本央行季度报告：预计暂时将继续宽松的货币条件]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783700128424993223#m</guid>
       <pubDate>Fri, 26 Apr 2024 03:30:24 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Fri, 26 Apr 2024 03:28:16 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行警告汇率、全球大宗商品价格和进口价格可能带来价格风险</title>
+      <title>日本央行警告汇率、全球大宗商品价格和进口价格带来的潜在价格风险</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783699558016356638#m</link>
       <description><![CDATA[日本央行警告汇率、全球大宗商品价格和进口价格带来的潜在价格风险]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783699558016356638#m</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[日本央行调整通胀风险平衡评估]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783699483231932520#m</guid>
       <pubDate>Fri, 26 Apr 2024 03:27:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行季度报告：预计工资上涨和通胀的正周期将继续加强。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783699472234508706#m</link>
-      <description><![CDATA[日本央行季度报告：预计工资上涨和通胀的正周期将继续加强。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783699472234508706#m</guid>
-      <pubDate>Fri, 26 Apr 2024 03:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行季度报告：通胀预期适度上升</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1783699440227803254#m</link>
-      <description><![CDATA[日本央行季度报告：通胀预期适度上升]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1783699440227803254#m</guid>
-      <pubDate>Fri, 26 Apr 2024 03:27:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
