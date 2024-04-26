@@ -3,19 +3,26 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 26 Apr 2024 13:33:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Fri, 26 Apr 2024 13:37:00 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 僵局持续，中美将在“几周”内举行首次人工智能会谈</title>
+      <link>https://www.cnbc.com/2024/04/26/us-china-to-hold-first-ai-talks-tiktok-stalemate-ongoing.html</link>
+      <description><![CDATA[美国国务卿安东尼·布林肯表示，美国和中国将在“未来几周”内举行首次人工智能高层会谈。]]></description>
+      <guid>https://www.cnbc.com/2024/04/26/us-china-to-hold-first-ai-talks-tiktok-stalemate-ongoing.html</guid>
+      <pubDate>Fri, 26 Apr 2024 13:51:46 GMT</pubDate>
+    </item>
     <item>
       <title>摩根士丹利财富管理公司趁势买入英伟达股票</title>
       <link>https://www.cnbc.com/2024/04/26/morgan-stanley-wealth-management-buys-the-dip-in-nvidia.html</link>
       <description><![CDATA[摩根士丹利财富管理公司表示，Nvidia 的股价可能会在此基础上再上涨 21%。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/morgan-stanley-wealth-management-buys-the-dip-in-nvidia.html</guid>
-      <pubDate>Fri, 26 Apr 2024 13:32:33 GMT</pubDate>
+      <pubDate>Fri, 26 Apr 2024 13:38:07 GMT</pubDate>
     </item>
     <item>
       <title>气候变化可能使 2024 年出生的美国人一生损失近 50 万美元</title>
       <link>https://www.cnbc.com/2024/04/26/climate-change-may-cost-americans-born-in-2024-nearly-500000-in-lifetime.html</link>
-      <description><![CDATA[在 CNBC 个人理财团队的新系列中，我们将深入探讨气候变化将如何影响您的资金。]]></description>
+      <description><![CDATA[在 CNBC 个人理财团队的新系列中，我们将深入研究气候变化将如何影响您的资金。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/climate-change-may-cost-americans-born-in-2024-nearly-500000-in-lifetime.html</guid>
       <pubDate>Fri, 26 Apr 2024 13:30:02 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>空客首席财务官表示A350飞机产量增加与波音麻烦无关</title>
       <link>https://www.cnbc.com/2024/04/26/airbus-cfo-says-a350-plane-production-increase-not-tied-to-boeing-troubles.html</link>
-      <description><![CDATA[空中客车公司正在提高 A350 飞机的产量，这是因为消费者的需求，而不是美国竞争对手波音公司持续存在的危机。]]></description>
+      <description><![CDATA[空中客车公司加大 A350 飞机产量的原因是消费者需求，而非美国竞争对手波音公司的持续危机。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/airbus-cfo-says-a350-plane-production-increase-not-tied-to-boeing-troubles.html</guid>
       <pubDate>Fri, 26 Apr 2024 13:22:24 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 26 Apr 2024 13:00:47 GMT</pubDate>
     </item>
     <item>
-      <title>3月份美联储主要通胀指标同比上涨2.8%，超出预期</title>
+      <title>3月份美联储主要通胀指标较去年同期上升2.8%，超出预期</title>
       <link>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</link>
       <description><![CDATA[根据道琼斯共识估计，3 月份核心个人消费支出价格指数预计将同比增长 2.7%。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</guid>
@@ -69,13 +76,6 @@
       <pubDate>Fri, 26 Apr 2024 12:49:30 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 僵局持续，中美将在“几周”内举行首次人工智能会谈</title>
-      <link>https://www.cnbc.com/2024/04/26/us-china-to-hold-first-ai-talks-tiktok-stalemate-ongoing.html</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯表示，美国和中国将在“未来几周”内举行首次人工智能高层会谈。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/us-china-to-hold-first-ai-talks-tiktok-stalemate-ongoing.html</guid>
-      <pubDate>Fri, 26 Apr 2024 12:44:26 GMT</pubDate>
-    </item>
-    <item>
       <title>这些下周公布收益的股票历来超出华尔街预期</title>
       <link>https://www.cnbc.com/2024/04/26/these-stocks-with-earnings-next-week-historically-top-wall-street-expectations.html</link>
       <description><![CDATA[Bespoke Investment Group 筛选了财务业绩通常超出分析师预测且随后股价上涨的公司。]]></description>
@@ -83,14 +83,14 @@
       <pubDate>Fri, 26 Apr 2024 12:37:08 GMT</pubDate>
     </item>
     <item>
-      <title>为什么美国人担心美国退休制度的变化可能会颠覆他们的计划</title>
+      <title>为什么美国人担心美国退休制度的变化会颠覆他们的计划</title>
       <link>https://www.cnbc.com/2024/04/26/americans-worry-changes-to-retirement-system-will-upend-their-plans.html</link>
       <description><![CDATA[当谈到退休时，美国人担心他们无法控制的不确定性，例如生活成本上升或退休制度的变化。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/americans-worry-changes-to-retirement-system-will-upend-their-plans.html</guid>
       <pubDate>Fri, 26 Apr 2024 12:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>雪佛龙超出盈利预期，但由于炼油利润率下降和天然气价格下降，利润下降</title>
+      <title>雪佛龙超出盈利预期，但利润因炼油利润率下降和天然气价格下降而下降</title>
       <link>https://www.cnbc.com/2024/04/26/chevron-cvx-q1-earnings-report-2024.html</link>
       <description><![CDATA[雪佛龙本季度在美国每天生产157万桶石油和天然气，比去年同期增长35%。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/chevron-cvx-q1-earnings-report-2024.html</guid>
