@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数/@spectatorindex</title>
+    <title>观众指数 / @spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
     <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 27 Apr 2024 09:12:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 09:23:16 GMT</lastBuildDate>
+    <item>
+      <title>突发：哈马斯卫生部称加沙死亡人数已上升至 34,388 人</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784149428364050537#m</link>
+      <description><![CDATA[突发新闻：哈马斯管理的卫生部称加沙死亡人数已上升至 34,388 人]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784149428364050537#m</guid>
+      <pubDate>Sat, 27 Apr 2024 09:15:46 GMT</pubDate>
+    </item>
     <item>
       <title>突发：日本小笠原群岛附近发生 6.9 级地震</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784146772149072342#m</link>
@@ -23,7 +30,7 @@ nitter.esmailelbob.xyz/MatthewGaylor/status/1783990934906028376#m]]></descriptio
     <item>
       <title>突发新闻：总部位于费城的共和第一银行倒闭，将被监管机构查封。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783987443034910886#m</link>
-      <description><![CDATA[突发新闻：总部位于费城的共和第一银行倒闭，即将被监管机构接管。]]></description>
+      <description><![CDATA[突发新闻：总部位于费城的共和第一银行倒闭，即将被监管机构查封。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783987443034910886#m</guid>
       <pubDate>Fri, 26 Apr 2024 22:32:05 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@ nitter.esmailelbob.xyz/CoreyGerkenWX/status/1783949077459124480#m]]></descriptio
       <pubDate>Fri, 26 Apr 2024 20:32:28 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚：铜价升至两年高位</title>
+      <title>刚刚：铜价升至两年高点</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783955309435949298#m</link>
       <description><![CDATA[刚刚：铜价升至两年高位]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783955309435949298#m</guid>
@@ -87,14 +94,14 @@ nitter.esmailelbob.xyz/CoreyGerkenWX/status/1783949077459124480#m]]></descriptio
     <item>
       <title>突发新闻：🇯🇵日元兑美元跌破 157.5，创 34 年来最低水平。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783937755183255966#m</link>
-      <description><![CDATA[突发新闻：🇯🇵日元兑美元汇率跌破 157.5，为 34 年来的最低水平。]]></description>
+      <description><![CDATA[突发新闻：🇯🇵日元兑美元跌破 157.5，创 34 年来最低水平。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783937755183255966#m</guid>
       <pubDate>Fri, 26 Apr 2024 19:14:39 GMT</pubDate>
     </item>
     <item>
       <title>突发新闻：世界卫生组织表示 H5N1 禽流感的风险“随着病毒而演变”，需要“实时监测”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783936080682819795#m</link>
-      <description><![CDATA[突发：世界卫生组织称 H5N1 禽流感的风险“随着病毒不断演变”且需要“实时监控”]]></description>
+      <description><![CDATA[突发新闻：世界卫生组织表示 H5N1 禽流感的风险“随着病毒而演变”，需要“实时监测”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783936080682819795#m</guid>
       <pubDate>Fri, 26 Apr 2024 19:08:00 GMT</pubDate>
     </item>
@@ -104,13 +111,6 @@ nitter.esmailelbob.xyz/CoreyGerkenWX/status/1783949077459124480#m]]></descriptio
       <description><![CDATA[突发事件：台湾发生 6.1 级地震]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783935924625351089#m</guid>
       <pubDate>Fri, 26 Apr 2024 19:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发新闻：美国将向乌克兰提供爱国者导弹，作为 60 亿美元援助计划的一部分</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783935425247383869#m</link>
-      <description><![CDATA[突发新闻：美国将向乌克兰发送爱国者导弹，作为 60 亿美元援助计划的一部分]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783935425247383869#m</guid>
-      <pubDate>Fri, 26 Apr 2024 19:05:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
