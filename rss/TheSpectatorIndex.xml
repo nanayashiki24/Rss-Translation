@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数 / @spectatorindex</title>
+    <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 27 Apr 2024 11:50:43 GMT</lastBuildDate>
+    <description>Twitter 消息源：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Sat, 27 Apr 2024 12:22:36 GMT</lastBuildDate>
+    <item>
+      <title>人均 GDP（现价）
+
+1983 年
+
+🇰🇷 韩国：2,200 美元
+🇮🇷 伊朗：3,560 美元
+
+2023 年
+
+🇰🇷 韩国：33,150 美元
+🇮🇷 伊朗：4,230 美元</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784190768380293443#m</link>
+      <description><![CDATA[人均GDP（现价）
+
+1983年
+
+🇰🇷韩国：2,200美元
+🇮🇷伊朗：$3,560
+
+2023年
+
+🇰🇷韩国：$33,150
+🇮🇷伊朗：$4,230]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784190768380293443#m</guid>
+      <pubDate>Sat, 27 Apr 2024 12:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>2024-2028 年人均 GDP 预计增长。
 
@@ -34,7 +61,7 @@
 🇨🇦加拿大：103%
 🇰🇷韩国：102%
 🇳🇱荷兰：88.8%
-🇬🇧 英国：80.6%
+🇬🇧英国：80.6%
 🇺🇸 美国：73.1%
 🇫🇷法国：63.9%
 🇨🇳中国：62.4%
@@ -51,14 +78,14 @@
 🇹🇷土耳其：11.3%
 🇦🇷阿根廷：4%</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784162528362430932#m</link>
-      <description><![CDATA[家庭债务占 GDP 的比例。
+      <description><![CDATA[家庭债务占 GDP 的比重。
 
 🇨🇭瑞士：126%
 🇦🇺澳大利亚：110%
 🇨🇦加拿大：103%
 🇰🇷韩国：102%
 🇳🇱荷兰：88.8%
-🇬🇧英国：80.6%
+🇬🇧 英国：80.6%
 🇺🇸 美国：73.1%
 🇫🇷法国：63.9%
 🇨🇳中国：62.4%
@@ -80,12 +107,12 @@
     <item>
       <title>突发：哈马斯卫生部称加沙死亡人数已上升至 34,388 人</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784149428364050537#m</link>
-      <description><![CDATA[突发消息：哈马斯控制的卫生部称加沙死亡人数已上升至 34,388 人]]></description>
+      <description><![CDATA[突发新闻：哈马斯管理的卫生部称加沙死亡人数已上升至 34,388 人]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784149428364050537#m</guid>
       <pubDate>Sat, 27 Apr 2024 09:15:46 GMT</pubDate>
     </item>
     <item>
-      <title>突发消息：日本小笠原群岛附近发生 6.9 级地震</title>
+      <title>突发：日本小笠原群岛附近发生 6.9 级地震</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784146772149072342#m</link>
       <description><![CDATA[突发事件：日本小笠原群岛附近发生 6.9 级地震]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784146772149072342#m</guid>
@@ -100,7 +127,7 @@ nitter.esmailelbob.xyz/MatthewGaylor/status/1783990934906028376#m]]></descriptio
       <pubDate>Fri, 26 Apr 2024 22:59:01 GMT</pubDate>
     </item>
     <item>
-      <title>突发消息：总部位于费城的共和第一银行倒闭，即将被监管机构接管。</title>
+      <title>突发新闻：总部位于费城的共和第一银行倒闭，将被监管机构查封。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783987443034910886#m</link>
       <description><![CDATA[突发新闻：总部位于费城的共和第一银行倒闭，即将被监管机构查封。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783987443034910886#m</guid>
@@ -114,7 +141,7 @@ nitter.esmailelbob.xyz/MatthewGaylor/status/1783990934906028376#m]]></descriptio
       <pubDate>Fri, 26 Apr 2024 21:56:16 GMT</pubDate>
     </item>
     <item>
-      <title>突发新闻：也门伊朗支持的胡塞武装称他们昨天击落了一架美国无人机</title>
+      <title>突发新闻：伊朗支持的也门胡塞武装称他们昨天击落了一架美国无人机</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783977761943781523#m</link>
       <description><![CDATA[突发新闻：伊朗支持的也门胡塞武装称他们昨天击落了一架美国无人机]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783977761943781523#m</guid>
@@ -128,7 +155,7 @@ nitter.esmailelbob.xyz/MatthewGaylor/status/1783990934906028376#m]]></descriptio
       <pubDate>Fri, 26 Apr 2024 20:37:39 GMT</pubDate>
     </item>
     <item>
-      <title>目前内布拉斯加州林肯市🇺🇸发生大型龙卷风。</title>
+      <title>当前内布拉斯加州林肯市🇺🇸的大型龙卷风。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783957339890176060#m</link>
       <description><![CDATA[当前内布拉斯加州林肯市🇺🇸发生大型龙卷风。
 nitter.esmailelbob.xyz/CoreyGerkenWX/status/1783949077459124480#m]]></description>
@@ -136,7 +163,7 @@ nitter.esmailelbob.xyz/CoreyGerkenWX/status/1783949077459124480#m]]></descriptio
       <pubDate>Fri, 26 Apr 2024 20:32:28 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚：铜价升至两年高点</title>
+      <title>刚刚：铜价升至两年高位</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783955309435949298#m</link>
       <description><![CDATA[刚刚：铜价升至两年高位]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783955309435949298#m</guid>
@@ -162,13 +189,6 @@ nitter.esmailelbob.xyz/CoreyGerkenWX/status/1783949077459124480#m]]></descriptio
       <description><![CDATA[刚刚：内塔尼亚胡表示“以色列永远不会接受海牙国际刑事法院任何损害其自卫基本权利的企图”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783948393859219491#m</guid>
       <pubDate>Fri, 26 Apr 2024 19:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发新闻：🇯🇵日元兑美元跌破 157.5，创 34 年来最低水平。</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1783937755183255966#m</link>
-      <description><![CDATA[突发新闻：🇯🇵日元兑美元汇率跌破 157.5，为 34 年来的最低水平。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1783937755183255966#m</guid>
-      <pubDate>Fri, 26 Apr 2024 19:14:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
