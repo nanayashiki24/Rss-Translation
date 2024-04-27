@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Sat, 27 Apr 2024 13:32:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 14:04:00 GMT</lastBuildDate>
+    <item>
+      <title>美国出现了一家新的第一大航空公司——不是达美航空</title>
+      <link>https://www.cnbc.com/2024/04/27/best-us-airlines-wallethub.html</link>
+      <description><![CDATA[WalletHub 比较了美国九家最大的航空公司以及一家地区航空公司的三个主要类别。]]></description>
+      <guid>https://www.cnbc.com/2024/04/27/best-us-airlines-wallethub.html</guid>
+      <pubDate>Sat, 27 Apr 2024 14:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是美国各个年龄段的平均信用评分——看看你的信用评分如何</title>
+      <link>https://www.cnbc.com/2024/04/27/average-credit-score-at-every-age-in-the-us.html</link>
+      <description><![CDATA[根据 Equifax 的数据，美国人平均而言似乎对自己的信用评分管理得很好。以下是按年龄细分的情况。]]></description>
+      <guid>https://www.cnbc.com/2024/04/27/average-credit-score-at-every-age-in-the-us.html</guid>
+      <pubDate>Sat, 27 Apr 2024 14:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>活动人士 Jana Partners 呼吁对 Wolfspeed 进行战略审查。以下是它的发展方式</title>
       <link>https://www.cnbc.com/2024/04/27/activist-jana-partners-calls-for-a-strategic-review-at-wolfspeed-heres-how-it-may-develop.html</link>
@@ -55,14 +69,14 @@
       <pubDate>Sat, 27 Apr 2024 07:27:47 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔曾主导美国芯片行业。现在它正努力保持相关性</title>
+      <title>英特尔曾经在美国芯片行业占据主导地位。现在它正在努力保持相关性</title>
       <link>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</link>
-      <description><![CDATA[过去 15 年多来，英特尔错过了大部分重大技术转型，从而失去了在芯片行业的地位。]]></description>
+      <description><![CDATA[过去 15 年多来，英特尔错过了大部分重大技术转型，并一路失去了在芯片行业的地位。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</guid>
       <pubDate>Fri, 26 Apr 2024 21:45:28 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普审判第二周以前国务卿和银行家的证词结束</title>
+      <title>特朗普审判第二周结束，前秘书和银行家作证</title>
       <link>https://www.cnbc.com/2024/04/26/trump-trial-defense-continues-cross-examination-of-national-enquirer-publisher-david-pecker-live-updates.html</link>
       <description><![CDATA[检察官打电话给特朗普的私人秘书、银行家罗娜·格拉夫(Rhona Graff)，她讲述了案件核心的一笔付款细节。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/trump-trial-defense-continues-cross-examination-of-national-enquirer-publisher-david-pecker-live-updates.html</guid>
@@ -74,13 +88,6 @@
       <description><![CDATA[美联储官员在下周会议之前将看到的最后一批通胀消息已经出炉，但没有一个是很好的。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/all-the-data-shows-inflation-isnt-going-away-making-things-tough-on-fed.html</guid>
       <pubDate>Fri, 26 Apr 2024 21:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>新阶级战争：千禧一代之间的贫富差距</title>
-      <link>https://www.cnbc.com/2024/04/26/wealth-gap-between-millennials-new-class-war.html</link>
-      <description><![CDATA[千禧一代继承人财富的激增正在为财富管理公司、奢侈品公司、旅游公司和房地产经纪人创造新的市场。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/wealth-gap-between-millennials-new-class-war.html</guid>
-      <pubDate>Fri, 26 Apr 2024 20:47:22 GMT</pubDate>
     </item>
     <item>
       <title>联邦监管机构发现特斯拉 Autopilot 存在与数百起碰撞事故相关的“严重安全漏洞”</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国航空是最新一家调整增长计划的航空公司，其理由是波音飞机迟到。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/american-airlines-cuts-some-international-flights-citing-boeing-delays.html</guid>
       <pubDate>Fri, 26 Apr 2024 19:57:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>3月份美联储主要通胀指标较去年同期上升2.8%，超出预期</title>
-      <link>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</link>
-      <description><![CDATA[根据道琼斯共识估计，3 月份核心个人消费支出价格指数预计将同比增长 2.7%。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/pce-inflation-march-2024-key-fed-inflation-measure-rose-2point8percent.html</guid>
-      <pubDate>Fri, 26 Apr 2024 16:10:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
