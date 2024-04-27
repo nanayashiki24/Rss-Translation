@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT 世界新闻</title>
+    <title>RT世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Sat, 27 Apr 2024 17:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 17:51:20 GMT</lastBuildDate>
+    <item>
+      <title>世界上最著名的画作可以拥有自己的房间</title>
+      <link>https://www.rt.com/news/596686-mona-lisa-painting-louvre/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 这幅标志性画作很快就会得到单独展示，为成千上万的日常游客提供更好的体验在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596686-mona-lisa-painting-louvre/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Sat, 27 Apr 2024 17:48:39 GMT</pubDate>
+    </item>
     <item>
       <title>波士顿警察清除了支持巴勒斯坦的大学抗议活动（视频）</title>
       <link>https://www.rt.com/news/596692-israel-palestinian-protest-northeastern-boston/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -48,7 +55,7 @@
       <pubDate>Sat, 27 Apr 2024 15:05:14 GMT</pubDate>
     </item>
     <item>
-      <title>英国驱逐法案将移民推向爱尔兰——副首相</title>
+      <title>英国驱逐法案促使移民涌入爱尔兰——副首相</title>
       <link>https://www.rt.com/news/596683-rwanda-deportation-bill-ireland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 迈克尔·马丁表示，越来越多的移民选择在爱尔兰寻求庇护，而不是可能被驱逐到卢旺达在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596683-rwanda-deportation-bill-ireland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -97,18 +104,11 @@
       <pubDate>Sat, 27 Apr 2024 11:33:04 GMT</pubDate>
     </item>
     <item>
-      <title>波兰外交部长斥责总统就美国核武器言论</title>
+      <title>波兰外交部长谴责总统关于美国核问题的言论</title>
       <link>https://www.rt.com/news/596670-polish-president-not-authorized-us-nukes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 外交部长表示，安杰伊·杜达总统不应该公开谈论在波兰领土上托管美国武器在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596670-polish-president-not-authorized-us-nukes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Sat, 27 Apr 2024 11:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克对白宫关于乌克兰的说法表示怀疑</title>
-      <link>https://www.rt.com/news/596660-musk-ukraine-victory-condition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 埃隆·马斯克重申了他对白宫声称乌克兰能够赢得与俄罗斯的冲突的怀疑 在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596660-musk-ukraine-victory-condition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Sat, 27 Apr 2024 10:22:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
