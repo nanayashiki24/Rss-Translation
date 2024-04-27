@@ -3,8 +3,8 @@
   <channel>
     <title>Yunlong Richard Cao / @yunlong_cao</title>
     <link>http://nitter.esmailelbob.xyz/yunlong_cao</link>
-    <description>Twitter 供稿：@yunlong_cao。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 27 Apr 2024 03:15:38 GMT</lastBuildDate>
+    <description>Twitter 消息源：@yunlong_cao。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Sat, 27 Apr 2024 04:15:56 GMT</lastBuildDate>
     <item>
       <title>R 致@yunlong_cao：目前的结果确实强调了不断进化的 SARS-CoV-2 JN.1 谱系带来的挑战，并支持考虑将未来 SARS-CoV-2 疫苗更新的重点转向 JN.1 谱系。</title>
       <link>http://nitter.esmailelbob.xyz/yunlong_cao/status/1782776384496312610#m</link>
@@ -32,7 +32,7 @@
       <pubDate>Tue, 23 Apr 2024 14:17:03 GMT</pubDate>
     </item>
     <item>
-      <title>R 致@yunlong_cao：KP.3（JN.1+F456L+Q493E）是我们发现的最具免疫逃避性的变体，也是增长最快的 JN.1 亚系。额外的 F456L 和 Q493E 突变使 KP.3 能够逃避大部分 JN.1 有效的 mAb，尤其是 1 类抗体。
+      <title>回复 @yunlong_cao：KP.3 (JN.1+F456L+Q493E) 是我们发现的免疫逃避性最强的变体，也是增长最快的 JN.1 亚系。额外的 F456L 和 Q493E 突变使 KP.3 能够逃避相当一部分对 JN.1 有效的 mAb，尤其是 1 类抗体。
 (5/7)</title>
       <link>http://nitter.esmailelbob.xyz/yunlong_cao/status/1782775693677580604#m</link>
       <description><![CDATA[KP.3 (JN.1+F456L+Q493E) 是我们发现的最具免疫逃避性的变体，也是增长最快的 JN.1 亚系。额外的 F456L 和 Q493E 突变使 KP.3 能够逃避相当大比例的 JN.1 有效的 mAb，尤其是 1 类抗体。
@@ -104,7 +104,7 @@ BD55-1205专利授权给Moderna。
       <pubDate>Fri, 19 Apr 2024 12:24:23 GMT</pubDate>
     </item>
     <item>
-      <title>R to @yunlong_cao：为了了解为什么BD55-1205是如此特殊的1类单克隆抗体，我们通过冷冻电镜解析了与XBB.1.5 RBD复合物中的BD55-1205的结构。 （PDB：8XE9、8XEA）
+      <title>R to @yunlong_cao：为了了解为什么BD55-1205是如此特殊的1类单克隆抗体，我们通过冷冻电镜解析了BD55-1205与XBB.1.5 RBD复合物中的结构。 （PDB：8XE9、8XEA）
 BD55-1205 最显着的特征是其与 RBD 主链原子（9 个 RBD 残基）的广泛相互作用，以及其他侧链相互作用，以及其 ACE2 模拟程度。这就解释了为什么BD55-1205不惧怕F456L/V、L455S/F、A475V/S、Y489H和D420N等突变，这些突变都是V3-53/66 1类NAb的常见逃逸突变。
 (6/9)</title>
       <link>http://nitter.esmailelbob.xyz/yunlong_cao/status/1781297790620144068#m</link>
@@ -170,10 +170,10 @@ nature.com/articles/s41586-0…
 如果我们能够合理地识别出对未来变异仍然有效的 bnAb，那么这将彻底改变针对不断进化的病毒的单克隆抗体药物的开发。
 (2/9)</title>
       <link>http://nitter.esmailelbob.xyz/yunlong_cao/status/1781297776904871967#m</link>
-      <description><![CDATA[许多研究声称发现了“SARS-CoV-2 bnAbs”，这是基于当时对已知变体的有效性。然而，大多数这些“bnAbs”在随后的病毒进化中迅速逃脱了。
-这是因为“对已知变体的中和”对于针对快速进化的病原体的真正bnAbs来说是一个糟糕的指标。
-从我们对SARS-CoV-2 mAb集合的回顾性分析中推断，在大流行早期可用的有效mAbs中，只有1~3%可以保持有效超过两年。
-如果我们能够合理地识别对未来变体仍然有效的bnAbs，它将彻底改变针对进化病毒的mAb药物开发。
+      <description><![CDATA[许多研究声称，基于当时针对已知变体的功效，发现了“SARS-CoV-2 bnAb”。然而，这些“bnAb”中的大多数都通过随后的病毒进化而迅速逃脱。
+这是因为“针对已知变体的中和”对于针对快速进化的病原体的真正 bnAb 而言并不是一个很好的指标。 
+通过对我们收集的 SARS-CoV-2 mAb 进行回顾性分析，我们发现在疫情早期可用的强效 mAb 中，只有 1~3% 的药效能保持两年以上。
+如果我们能够合理地识别对未来变异仍然有效的 bnAb，这将彻底改变针对不断进化的病毒的 mAb 药物开发。
 (2/9)
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/yunlong_cao/status/1781297776904871967#m</guid>
