@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Sat, 27 Apr 2024 13:32:00 GMT</lastBuildDate>
@@ -10,7 +10,14 @@
       <link>https://www.cnbc.com/2024/04/27/activist-jana-partners-calls-for-a-strategic-review-at-wolfspeed-heres-how-it-may-develop.html</link>
       <description><![CDATA[激进投资者 Jana Partners 最近披露了该半导体公司的股份。]]></description>
       <guid>https://www.cnbc.com/2024/04/27/activist-jana-partners-calls-for-a-strategic-review-at-wolfspeed-heres-how-it-may-develop.html</guid>
-      <pubDate>Sat, 27 Apr 2024 13:27:33 GMT</pubDate>
+      <pubDate>Sat, 27 Apr 2024 13:46:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>一位对冲基金资深人士推出的专注于人工智能的 ETF 因过去一年飙升 60% 而受到关注</title>
+      <link>https://www.cnbc.com/2024/04/27/an-ai-focused-etf-from-a-hedge-fund-vet-gains-attention-by-soaring-60percent.html</link>
+      <description><![CDATA[Spear Alpha ETF (SPRX) 集中持有约 26 只股票，投资组合中的几乎所有资产都在某种程度上受益于人工智能。]]></description>
+      <guid>https://www.cnbc.com/2024/04/27/an-ai-focused-etf-from-a-hedge-fund-vet-gains-attention-by-soaring-60percent.html</guid>
+      <pubDate>Sat, 27 Apr 2024 13:43:48 GMT</pubDate>
     </item>
     <item>
       <title>这些股票下周将公布业绩，盈利势头强劲，受到分析师的青睐</title>
@@ -18,13 +25,6 @@
       <description><![CDATA[这些下周公布最新业绩的公司的估值可能会上升。]]></description>
       <guid>https://www.cnbc.com/2024/04/27/these-stocks-reporting-results-next-week-have-earnings-momentum-at-their-back.html</guid>
       <pubDate>Sat, 27 Apr 2024 13:24:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>一位对冲基金资深人士推出的专注于人工智能的 ETF 因过去一年飙升 60% 而受到关注</title>
-      <link>https://www.cnbc.com/2024/04/27/an-ai-focused-etf-from-a-hedge-fund-vet-gains-attention-by-soaring-60percent.html</link>
-      <description><![CDATA[Spear Alpha ETF (SPRX) 集中持有约 26 只股票，投资组合中的几乎所有资产都在某种程度上受益于人工智能。]]></description>
-      <guid>https://www.cnbc.com/2024/04/27/an-ai-focused-etf-from-a-hedge-fund-vet-gains-attention-by-soaring-60percent.html</guid>
-      <pubDate>Sat, 27 Apr 2024 13:22:38 GMT</pubDate>
     </item>
     <item>
       <title>这个“超级简单”的举动让一对夫妇赚了超过 700 美元，以实现梦想假期</title>
@@ -55,7 +55,7 @@
       <pubDate>Sat, 27 Apr 2024 07:27:47 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔曾经在美国芯片行业占据主导地位。现在它正在努力保持相关性</title>
+      <title>英特尔曾主导美国芯片行业。现在它正努力保持相关性</title>
       <link>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</link>
       <description><![CDATA[过去 15 年多来，英特尔错过了大部分重大技术转型，从而失去了在芯片行业的地位。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/intel-dominated-us-chip-industry-now-struggling-to-stay-relevant.html</guid>
