@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数/@spectatorindex</title>
+    <title>观众指数 / @spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
     <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 28 Apr 2024 06:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 07:36:06 GMT</lastBuildDate>
+    <item>
+      <title>突发新闻：据路透社报道，“一些美国高级官员”告诉国务卿安东尼·布林肯，他们认为以色列按照国际法使用美国提供的武器的保证并不“可信或可靠”</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784483830809919994#m</link>
+      <description><![CDATA[突发新闻：据路透社报道，“一些美国高级官员”已告诉国务卿安东尼·布林肯，他们认为以色列按照国际法使用美国提供的武器的保证并不“可信或可靠”]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784483830809919994#m</guid>
+      <pubDate>Sun, 28 Apr 2024 07:24:34 GMT</pubDate>
+    </item>
     <item>
       <title>🇯🇵 日元兑美元
 
@@ -21,7 +28,7 @@
       <pubDate>Sun, 28 Apr 2024 02:39:16 GMT</pubDate>
     </item>
     <item>
-      <title>最新消息：以色列军方称，黎巴嫩发射了 26 枚火箭弹，没有造成损失。</title>
+      <title>最新消息：以色列军方表示，从黎巴嫩发射了 26 枚火箭弹，没有造成任何损坏。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784341612094746733#m</link>
       <description><![CDATA[最新消息：以色列军方称从黎巴嫩发射了 26 枚火箭弹，没有造成任何损坏。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784341612094746733#m</guid>
@@ -30,7 +37,7 @@
     <item>
       <title>突发：真主党称已向以色列北部发射了 50 枚火箭弹</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784327473326702650#m</link>
-      <description><![CDATA[突发消息：真主党称已向以色列北部发射 50 枚火箭弹]]></description>
+      <description><![CDATA[突发新闻：真主党称已向以色列北部发射了 50 枚火箭]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784327473326702650#m</guid>
       <pubDate>Sat, 27 Apr 2024 21:03:15 GMT</pubDate>
     </item>
@@ -102,7 +109,7 @@
       <pubDate>Sat, 27 Apr 2024 20:02:58 GMT</pubDate>
     </item>
     <item>
-      <title>上一篇：《华尔街日报》报道称，美国情报机构早在二月份就“确定普京可能没有下令杀死纳瓦尔尼”</title>
+      <title>最新消息：《华尔街日报》报道称，美国情报机构早在 2 月份就已“确定普京很可能没有下令杀死纳瓦尔尼”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784307663050067971#m</link>
       <description><![CDATA[刚刚：《华尔街日报》报道称，美国情报机构早在二月份就“确定普京可能没有下令杀死纳瓦尔尼”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784307663050067971#m</guid>
@@ -122,18 +129,18 @@
 
 （人力人才短缺调查）</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784251162331631788#m</link>
-      <description><![CDATA[2023 年受员工短缺影响的公司份额。
+      <description><![CDATA[2023 年受员工短缺影响的公司比例。
 
-🇯🇵 日本：85%
-🇩🇪 德国：82%
+🇯🇵日本：85%
+🇩🇪德国：82%
 🇮🇳 印度：81%
 🇬🇧 英国：80%
-🇺🇸 美国：70%
-🇨🇳 中国：69%
-🇨🇴 哥伦比亚：66%
-🇫🇮 芬兰：59%
+🇺🇸美国：70%
+🇨🇳中国：69%
+🇨🇴哥伦比亚：66%
+🇫🇮芬兰：59%
 
-（人力资源人才短缺调查）]]></description>
+（人力人才短缺调查）]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784251162331631788#m</guid>
       <pubDate>Sat, 27 Apr 2024 16:00:01 GMT</pubDate>
     </item>
@@ -146,7 +153,7 @@
 🇭🇺匈牙利：7.75%
 🇷🇴罗马尼亚：7%
 🇵🇱波兰：5.75%
-🇬🇧 英国：5.25%
+🇬🇧英国：5.25%
 🇪🇺欧元区：4.5%
 🇳🇴挪威：4.5%
 🇸🇪瑞典：4%
@@ -274,33 +281,6 @@
 小麦：+1%]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784205864162693573#m</guid>
       <pubDate>Sat, 27 Apr 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>人均GDP（现价）
-
-1983年
-
-🇰🇷韩国：2,200美元
-🇮🇷伊朗：$3,560
-
-2023年
-
-🇰🇷韩国：$33,150
-🇮🇷伊朗：$4,230</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784190768380293443#m</link>
-      <description><![CDATA[人均GDP（现价）
-
-1983年
-
-🇰🇷韩国：2,200美元
-🇮🇷伊朗：$3,560
-
-2023年
-
-🇰🇷韩国：$33,150
-🇮🇷伊朗：$4,230]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784190768380293443#m</guid>
-      <pubDate>Sat, 27 Apr 2024 12:00:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
