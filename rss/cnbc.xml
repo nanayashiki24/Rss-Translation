@@ -3,10 +3,17 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sun, 28 Apr 2024 07:11:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Sun, 28 Apr 2024 08:38:00 GMT</lastBuildDate>
     <item>
-      <title>拜登在白宫记者晚宴上批评特朗普</title>
+      <title>世界经济论坛主席：“自拿破仑战争以来我们还没有见过这种债务”</title>
+      <link>https://www.cnbc.com/2024/04/28/wef-president-we-havent-seen-this-kind-of-debt-since-the-napoleonic-wars.html</link>
+      <description><![CDATA[世界经济论坛主席博尔格·布伦德对全球经济做出了严峻的展望。]]></description>
+      <guid>https://www.cnbc.com/2024/04/28/wef-president-we-havent-seen-this-kind-of-debt-since-the-napoleonic-wars.html</guid>
+      <pubDate>Sun, 28 Apr 2024 08:37:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登在白宫记者晚宴上猛烈抨击特朗普</title>
       <link>https://www.cnbc.com/2024/04/28/biden-swipes-at-trump-at-white-house-correspondents-dinner.html</link>
       <description><![CDATA[拜登拿他的政治对手开玩笑，并直面年龄问题，称自己是“一个与六岁孩子竞争的成年人”。]]></description>
       <guid>https://www.cnbc.com/2024/04/28/biden-swipes-at-trump-at-white-house-correspondents-dinner.html</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>由于校园爆发抗议活动，白宫计划限制拜登的毕业演讲</title>
       <link>https://www.cnbc.com/2024/04/27/white-house-plans-to-limit-bidens-graduation-speeches-as-campuses-erupt-in-protests.html</link>
-      <description><![CDATA[拜登计划在莫尔豪斯学院和西点军校发表演讲，哈里斯计划在空军学院发表演讲。]]></description>
+      <description><![CDATA[拜登计划在莫尔豪斯学院和西点军校发表演讲，而哈里斯将在空军学院发表演讲。]]></description>
       <guid>https://www.cnbc.com/2024/04/27/white-house-plans-to-limit-bidens-graduation-speeches-as-campuses-erupt-in-protests.html</guid>
       <pubDate>Sat, 27 Apr 2024 19:56:01 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Sat, 27 Apr 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>数字广告市场终于好转，从 2022 年的“黑暗日子”中反弹</title>
+      <title>数字广告市场终于开始好转，从 2022 年的“黑暗时期”中恢复过来</title>
       <link>https://www.cnbc.com/2024/04/27/digital-ad-market-on-mend-as-meta-alphabet-snap-show-faster-growth-.html</link>
       <description><![CDATA[Meta、Alphabet 和 Snap 本周的收益报告显示在线广告市场稳步复苏。]]></description>
       <guid>https://www.cnbc.com/2024/04/27/digital-ad-market-on-mend-as-meta-alphabet-snap-show-faster-growth-.html</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[美联储官员在下周会议之前将看到的最后一批通胀消息已经出炉，但没有一个是很好的。]]></description>
       <guid>https://www.cnbc.com/2024/04/26/all-the-data-shows-inflation-isnt-going-away-making-things-tough-on-fed.html</guid>
       <pubDate>Fri, 26 Apr 2024 21:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦监管机构发现特斯拉 Autopilot 存在与数百起碰撞事故相关的“严重安全漏洞”</title>
-      <link>https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html</link>
-      <description><![CDATA[联邦当局表示，特斯拉 Autopilot 系统存在“严重安全漏洞”，导致至少 467 起碰撞事故，其中 13 人死亡。]]></description>
-      <guid>https://www.cnbc.com/2024/04/26/tesla-autopilot-linked-to-hundreds-of-collisions-has-critical-safety-gap-nhtsa.html</guid>
-      <pubDate>Fri, 26 Apr 2024 20:28:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
