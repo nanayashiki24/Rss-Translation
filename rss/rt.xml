@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT世界新闻</title>
+    <title>RT 世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Sun, 28 Apr 2024 12:47:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 13:15:18 GMT</lastBuildDate>
+    <item>
+      <title>欧盟国家拒绝赔偿奴隶制</title>
+      <link>https://www.rt.com/news/596715-portugal-reparations-slaves-colonial-era/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 葡萄牙政府拒绝了为其殖民历史和跨大西洋奴隶贸易支付赔偿的提议在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596715-portugal-reparations-slaves-colonial-era/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Sun, 28 Apr 2024 13:03:36 GMT</pubDate>
+    </item>
     <item>
       <title>内塔尼亚胡对国际刑事法院可能对他发出的逮捕令做出反应</title>
       <link>https://www.rt.com/news/596712-netanyahu-israel-icc-arrest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -48,7 +55,7 @@
       <pubDate>Sat, 27 Apr 2024 21:14:41 GMT</pubDate>
     </item>
     <item>
-      <title>哈马斯发布新人质视频</title>
+      <title>哈马斯发布新的人质视频</title>
       <link>https://www.rt.com/news/596701-hamas-israeli-hostage-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 巴勒斯坦激进组织哈马斯刚刚释放的人质视频指责以色列政府在加沙抛弃其公民在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596701-hamas-israeli-hostage-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -69,7 +76,7 @@
       <pubDate>Sat, 27 Apr 2024 19:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>波士顿警察清除了支持巴勒斯坦的大学抗议活动（视频）</title>
+      <title>波士顿警方清理亲巴勒斯坦大学生抗议活动（视频）</title>
       <link>https://www.rt.com/news/596692-israel-palestinian-protest-northeastern-boston/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 在示威者据称对犹太人发出死亡威胁后，警方突袭了东北大学的一个抗议营地在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596692-israel-palestinian-protest-northeastern-boston/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 一名在古巴死亡的加拿大男子的家人表示，他们错误地收到了一名俄罗斯男子的尸体在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596684-canada-cuba-body-misplaced/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Sat, 27 Apr 2024 15:30:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>墨西哥推动禁止性转变治疗</title>
-      <link>https://www.rt.com/news/596675-mexico-senate-conversion-therapy-bill/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 墨西哥参议院批准了一项法案，将旨在改变性取向的同性恋转变治疗做法定为犯罪在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596675-mexico-senate-conversion-therapy-bill/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Sat, 27 Apr 2024 15:05:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
