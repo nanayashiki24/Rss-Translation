@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 20:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 21:08:00 GMT</lastBuildDate>
+    <item>
+      <title>派拉蒙表示首席执行官鲍勃·巴基什(Bob Bakish)即将辞职，将由三名高管接任</title>
+      <link>https://www.cnbc.com/2024/04/29/paramount-ceo-bob-bakish-stepping-down.html</link>
+      <description><![CDATA[该公司周一宣布，派拉蒙全球首席执行官鲍勃·巴基什 (Bob Bakish) 离职，而与 Skydance Media 的合并谈判仍在继续。]]></description>
+      <guid>https://www.cnbc.com/2024/04/29/paramount-ceo-bob-bakish-stepping-down.html</guid>
+      <pubDate>Mon, 29 Apr 2024 21:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>商业团体声称监管越权，拜登政府面临诉讼猛攻</title>
+      <link>https://www.cnbc.com/2024/04/29/biden-faces-slew-lawsuits-business-groups-criticize-overreach.html</link>
+      <description><![CDATA[拜登政府面临一波针对其监管议程的诉讼，商业团体认为联邦机构超越了他们的权力。]]></description>
+      <guid>https://www.cnbc.com/2024/04/29/biden-faces-slew-lawsuits-business-groups-criticize-overreach.html</guid>
+      <pubDate>Mon, 29 Apr 2024 21:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>DJT：为何特朗普媒体股价收盘上涨逾 12%</title>
+      <link>https://www.cnbc.com/2024/04/29/djt-trump-media-shares-soar-more-than-12percent-in-afternoon-trading.html</link>
+      <description><![CDATA[在大股东唐纳德·特朗普的刑事审判期间，特朗普媒体（DJT 股票代码）的股价上涨了一倍多。]]></description>
+      <guid>https://www.cnbc.com/2024/04/29/djt-trump-media-shares-soar-more-than-12percent-in-afternoon-trading.html</guid>
+      <pubDate>Mon, 29 Apr 2024 21:00:12 GMT</pubDate>
+    </item>
     <item>
       <title>摩根士丹利银行家预计 2024 年将有 10 至 15 家科技公司 IPO，2025 年将是“更好的一年”</title>
       <link>https://www.cnbc.com/2024/04/29/morgan-stanley-sees-10-to-15-more-tech-ipos-in-2024-better-2025.html</link>
       <description><![CDATA[主导 Reddit 和 Astera Labs IPO 的摩根士丹利预计，今年将有 10 至 15 家科技公司上市，2025 年将是“更好的一年”。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/morgan-stanley-sees-10-to-15-more-tech-ipos-in-2024-better-2025.html</guid>
       <pubDate>Mon, 29 Apr 2024 20:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>夏季奥运会前 Peacock 流媒体订阅价格将上涨 2 美元</title>
-      <link>https://www.cnbc.com/2024/04/29/peacock-streaming-subscription-prices-to-increase-before-summer-olympics.html</link>
-      <description><![CDATA[康卡斯特的流媒体服务 Peacock 今年夏天的价格将上涨 2 美元。]]></description>
-      <guid>https://www.cnbc.com/2024/04/29/peacock-streaming-subscription-prices-to-increase-before-summer-olympics.html</guid>
-      <pubDate>Mon, 29 Apr 2024 20:34:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>派拉蒙表示首席执行官鲍勃·巴基什(Bob Bakish)即将辞职，将由三名高管接任</title>
-      <link>https://www.cnbc.com/2024/04/29/paramount-ceo-bob-bakish-stepping-down.html</link>
-      <description><![CDATA[该公司周一宣布，派拉蒙全球首席执行官鲍勃·巴基什 (Bob Bakish) 离职，而与 Skydance Media 的合并谈判仍在继续。]]></description>
-      <guid>https://www.cnbc.com/2024/04/29/paramount-ceo-bob-bakish-stepping-down.html</guid>
-      <pubDate>Mon, 29 Apr 2024 20:33:51 GMT</pubDate>
     </item>
     <item>
       <title>交易员们做好准备：这些股票预计本周收益变动最大</title>
@@ -39,13 +46,6 @@
       <description><![CDATA[交易员们正准备迎接充满动感的一周，其中包括企业盈利报告和经济新闻。]]></description>
       <guid>https://www.cnbc.com/2024/04/28/stock-market-today-live-updates.html</guid>
       <pubDate>Mon, 29 Apr 2024 20:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>DJT：为何特朗普媒体股价收盘上涨逾 12%</title>
-      <link>https://www.cnbc.com/2024/04/29/djt-trump-media-shares-soar-more-than-12percent-in-afternoon-trading.html</link>
-      <description><![CDATA[在大股东唐纳德·特朗普的刑事审判期间，特朗普媒体（DJT 股票代码）的股价上涨了一倍多。]]></description>
-      <guid>https://www.cnbc.com/2024/04/29/djt-trump-media-shares-soar-more-than-12percent-in-afternoon-trading.html</guid>
-      <pubDate>Mon, 29 Apr 2024 20:05:29 GMT</pubDate>
     </item>
     <item>
       <title>债券提供收入和一定的波动性保护。为您的投资组合选择合适的债券基金</title>
@@ -69,7 +69,7 @@
       <pubDate>Mon, 29 Apr 2024 19:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>花旗表示投资者应关注股息，列出几只值得买入的买入评级收益股</title>
+      <title>花旗称投资者应关注股息，列出了几只买入评级的收益股票</title>
       <link>https://www.cnbc.com/2024/04/29/citi-says-investors-should-focus-on-dividends-lists-several-buy-rated-income-stocks-to-buy.html</link>
       <description><![CDATA[随着较低利率环境开始成为现实，投资者可以转向股息增长型股票以获得稳定的收入流。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/citi-says-investors-should-focus-on-dividends-lists-several-buy-rated-income-stocks-to-buy.html</guid>
