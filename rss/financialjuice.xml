@@ -3,8 +3,16 @@
   <channel>
     <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
-    <description>Twitter 消息源：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 07:13:35 GMT</lastBuildDate>
+    <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Mon, 29 Apr 2024 07:36:11 GMT</lastBuildDate>
+    <item>
+      <title>未来一周：经济指标（欧盟） https://features.financialjuice.com/2024/04/29/week-ahead-economic-indicators-eu-14/</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784849047519429041#m</link>
+      <description><![CDATA[未来一周：经济指标（欧盟）features.financialjuice。 com/…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784849047519429041#m</guid>
+      <pubDate>Mon, 29 Apr 2024 07:35:48 GMT</pubDate>
+    </item>
     <item>
       <title>货币强弱图表：最强 - 日元、新西兰元、澳元、英镑、瑞士法郎、欧元、加元、美元 - 最弱。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784840858182766824#m</link>
@@ -20,7 +28,7 @@
       <pubDate>Mon, 29 Apr 2024 07:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>西班牙 HICP MOM 预览值 实际 0.6% (预测 0.7%，前值 1.4%) $MACRO</title>
+      <title>西班牙 HICP MOM 实际值 0.6%（预测 0.7%，前值 1.4%） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784840173097762956#m</link>
       <description><![CDATA[西班牙 HICP MOM 闪存实际 0.6%（预测 0.7%，之前 1.4%）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784840173097762956#m</guid>
@@ -43,7 +51,7 @@
     <item>
       <title>瑞典实际 GDP 同比增长 -1.1%（预测 -0.7%，前值 -0.2%） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784825061691539759#m</link>
-      <description><![CDATA[瑞典实际GDP同比增长-1.1%（预测-0.7%，此前-0.2%）$宏观]]></description>
+      <description><![CDATA[瑞典 GDP 同比实际增长 -1.1%（预测 -0.7%，之前 -0.2%）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784825061691539759#m</guid>
       <pubDate>Mon, 29 Apr 2024 06:00:29 GMT</pubDate>
     </item>
@@ -103,13 +111,6 @@
       <description><![CDATA[布林肯讨论加沙停火工作、人质]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784271419041268073#m</guid>
       <pubDate>Sat, 27 Apr 2024 17:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯将强制外汇销售期限延长至 2025 年 4 月</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784197484232794349#m</link>
-      <description><![CDATA[俄罗斯将强制外汇销售期限延长至 2025 年 4 月]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784197484232794349#m</guid>
-      <pubDate>Sat, 27 Apr 2024 12:26:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
