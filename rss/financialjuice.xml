@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 14:29:29 GMT</lastBuildDate>
+    <item>
+      <title>恐惧和贪婪指数 45/100 = 中性</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784950346839720357#m</link>
+      <description><![CDATA[恐惧和贪婪指数 45/100 = 中性
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784950346839720357#m</guid>
+      <pubDate>Mon, 29 Apr 2024 14:18:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密货币恐惧和贪婪指数 67/100 = 贪婪</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784950210549965195#m</link>
+      <description><![CDATA[加密恐惧和贪婪指数 67/100 = 贪婪
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784950210549965195#m</guid>
+      <pubDate>Mon, 29 Apr 2024 14:17:47 GMT</pubDate>
+    </item>
     <item>
       <title>德国 HICP PRELIM 2024 年 4 月完整报告 https://www.destatis.de/EN/Press/2024/04/PE24_169_611.html</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784916284452323708#m</link>
@@ -14,7 +30,7 @@
       <pubDate>Mon, 29 Apr 2024 12:02:59 GMT</pubDate>
     </item>
     <item>
-      <title>4 月 26 日担保隔夜融资利率为 5.32%，4 月 25 日为 5.31%。</title>
+      <title>有担保隔夜融资利率 4 月 26 日为 5.32% VS 4 月 25 日为 5.31%。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784915717915078998#m</link>
       <description><![CDATA[4 月 26 日担保隔夜融资利率为 5.32%，4 月 25 日为 5.31%。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784915717915078998#m</guid>
@@ -44,7 +60,7 @@
     <item>
       <title>德国 CPI 环比预值实际 0.5%（预测 0.6%，前值 0.4%） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784915671203082682#m</link>
-      <description><![CDATA[德国 CPI MOM 初值实际 0.5%（预测 0.6%，前值 0.4%）$MACRO]]></description>
+      <description><![CDATA[德国 CPI 环比实际 0.5%（预测 0.6%，前期 0.4%）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784915671203082682#m</guid>
       <pubDate>Mon, 29 Apr 2024 12:00:32 GMT</pubDate>
     </item>
@@ -99,20 +115,6 @@ features.financialjuice.com/…]]></description>
       <description><![CDATA[美国国务卿布林肯：哈马斯在提出异常慷慨的提案之前。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784886216950751619#m</guid>
       <pubDate>Mon, 29 Apr 2024 10:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本顶级货币外交官神田：我没有想到适当的外汇水平的具体水平。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784875455599853975#m</link>
-      <description><![CDATA[日本顶级货币外交官神田：我没有想到适当的外汇水平的具体水平。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784875455599853975#m</guid>
-      <pubDate>Mon, 29 Apr 2024 09:20:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本顶级货币外交官神田：投机性、快速且异常的外汇波动对经济产生了不良影响，因此是不可接受的。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1784875358736527648#m</link>
-      <description><![CDATA[日本顶级货币外交官神田：投机、快速和异常的外汇波动对经济产生了不良影响，因此是不可接受的。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1784875358736527648#m</guid>
-      <pubDate>Mon, 29 Apr 2024 09:20:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
