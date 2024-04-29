@@ -3,8 +3,15 @@
   <channel>
     <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 消息源：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 29 Apr 2024 20:25:59 GMT</lastBuildDate>
+    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Mon, 29 Apr 2024 20:50:47 GMT</lastBuildDate>
+    <item>
+      <title>突发消息：NBC 新闻报道称，以色列“非常担心”国际刑事法院可能“最早在本周向总理本雅明·内塔尼亚胡、国防部长约阿夫·加兰特和高级军事官员发出逮捕令”。</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785049012313485456#m</link>
+      <description><![CDATA[突发新闻：NBC 新闻报道称，以色列“非常担心”国际刑事法院可能“最早在本周对总理本杰明·内塔尼亚胡、国防部长约夫·加兰特和高级军事官员发出逮捕令”]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785049012313485456#m</guid>
+      <pubDate>Mon, 29 Apr 2024 20:50:23 GMT</pubDate>
+    </item>
     <item>
       <title>今日股价。
 
@@ -50,7 +57,7 @@
 默克：-0.9%
 万事达卡：-1%
 微软：-1.1%
-联合健康保险：-1.2%
+联合健康：-1.2%
 元：-2.5%
 字母：-3.4%]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785042394989424837#m</guid>
@@ -108,7 +115,7 @@
     <item>
       <title>突发：美国称五支以色列军事部队“严重侵犯人权”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785011548165169329#m</link>
-      <description><![CDATA[突发新闻：美国称五个以色列军事单位“严重侵犯人权”]]></description>
+      <description><![CDATA[突发新闻：美国称五个以色列军事单位犯有“严重侵犯人权行为”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785011548165169329#m</guid>
       <pubDate>Mon, 29 Apr 2024 18:21:31 GMT</pubDate>
     </item>
@@ -208,39 +215,6 @@
 （世界幸福报告）]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784960835754025086#m</guid>
       <pubDate>Mon, 29 Apr 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年世界上最好的大学。
-
-1.🇺🇸麻省理工学院
-2.🇬🇧剑桥
-3.🇬🇧牛津
-4.🇺🇸哈佛
-5.🇺🇸斯坦福大学
-6.🇬🇧伦敦帝国理工学院
-7.🇨🇭苏黎世联邦理工学院
-8.🇸🇬新加坡国立大学
-9.🇬🇧伦敦大学学院
-10.🇺🇸加州大学伯克利分校
-
-（QS世界大学排名）</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1784945733822792046#m</link>
-      <description><![CDATA[2024 年世界最佳大学。
-
-1.🇺🇸麻省理工学院
-2.🇬🇧剑桥
-3.🇬🇧牛津
-4.🇺🇸哈佛
-5.🇺🇸斯坦福
-6.🇬🇧伦敦帝国理工学院
-7.🇨🇭苏黎世联邦理工学院
-8.🇸🇬新加坡国立大学
-9.🇬🇧伦敦大学学院
-10.🇺🇸加州大学伯克利分校
-
-（QS世界大学排名）]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1784945733822792046#m</guid>
-      <pubDate>Mon, 29 Apr 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
