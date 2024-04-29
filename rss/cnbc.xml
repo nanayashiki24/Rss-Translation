@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 21:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 21:43:00 GMT</lastBuildDate>
+    <item>
+      <title>盘后涨幅最大的股票：派拉蒙 (Paramount)、恩智浦半导体 (NXP Semiconductors)、Chegg、F5 等</title>
+      <link>https://www.cnbc.com/2024/04/29/stocks-making-the-biggest-moves-after-hours-para-nxpi-ffiv-and-more.html</link>
+      <description><![CDATA[这些是在盘中交易中涨幅最大的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/04/29/stocks-making-the-biggest-moves-after-hours-para-nxpi-ffiv-and-more.html</guid>
+      <pubDate>Mon, 29 Apr 2024 21:42:20 GMT</pubDate>
+    </item>
     <item>
       <title>派拉蒙表示首席执行官鲍勃·巴基什(Bob Bakish)即将辞职，将由三名高管接任</title>
       <link>https://www.cnbc.com/2024/04/29/paramount-ceo-bob-bakish-stepping-down.html</link>
@@ -48,13 +55,6 @@
       <pubDate>Mon, 29 Apr 2024 20:16:08 GMT</pubDate>
     </item>
     <item>
-      <title>债券提供收入和一定的波动性保护。为您的投资组合选择合适的债券基金</title>
-      <link>https://www.cnbc.com/2024/04/29/pick-out-the-right-bond-fund-for-your-portfolio.html</link>
-      <description><![CDATA[拥有多元化的投资组合意味着您应该将部分资金投资于债券。这是你需要知道的]]></description>
-      <guid>https://www.cnbc.com/2024/04/29/pick-out-the-right-bond-fund-for-your-portfolio.html</guid>
-      <pubDate>Mon, 29 Apr 2024 20:03:58 GMT</pubDate>
-    </item>
-    <item>
       <title>特斯拉在中国推出先进驾驶辅助技术，跨过关键障碍，股价上涨 15%</title>
       <link>https://www.cnbc.com/2024/04/29/tesla-tsla-stock-up-after-passing-hurdle-to-china-full-self-driving.html</link>
       <description><![CDATA[在特斯拉在中国推出先进的驾驶辅助技术这一重要里程碑之后，该公司股价大幅上涨。]]></description>
@@ -64,12 +64,12 @@
     <item>
       <title>当卖家和买家等待美联储降息时，抵押贷款利率对春季房地产市场的影响如下</title>
       <link>https://www.cnbc.com/2024/04/29/how-mortgage-rates-have-influenced-the-spring-housing-market.html</link>
-      <description><![CDATA[一位经济学家表示，虽然一些买家已经接受了 7% 的利率，但利率波动是影响最大的因素。]]></description>
+      <description><![CDATA[一位经济学家表示，虽然一些买家已经接受了 7% 的利率，但利率波动才是影响最大的因素。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/how-mortgage-rates-have-influenced-the-spring-housing-market.html</guid>
       <pubDate>Mon, 29 Apr 2024 19:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>花旗称投资者应关注股息，列出了几只买入评级的收益股票</title>
+      <title>花旗表示投资者应关注股息，列出几只值得买入的买入评级收益股</title>
       <link>https://www.cnbc.com/2024/04/29/citi-says-investors-should-focus-on-dividends-lists-several-buy-rated-income-stocks-to-buy.html</link>
       <description><![CDATA[随着较低利率环境开始成为现实，投资者可以转向股息增长型股票以获得稳定的收入流。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/citi-says-investors-should-focus-on-dividends-lists-several-buy-rated-income-stocks-to-buy.html</guid>
