@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 30 Apr 2024 20:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 20:50:50 GMT</lastBuildDate>
+    <item>
+      <title>美国 API 汽油库存实际变化 -1.480M（预测 -，先前 -0.595M） 宏观美元</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785408147986829389#m</link>
+      <description><![CDATA[美国API汽油库存变化实际-1.480M（预测-，先前-0.595M）$MACRO ]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785408147986829389#m</guid>
+      <pubDate>Tue, 30 Apr 2024 20:37:28 GMT</pubDate>
+    </item>
     <item>
       <title>美国 API 库欣库存实际变化 1.479M（预测 -，前值 -0.898M） 宏观美元</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785408049911419288#m</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 30 Apr 2024 20:37:05 GMT</pubDate>
     </item>
     <item>
-      <title>美国 API 馏分油库存变化实际 -2187 万 (预测 -，之前 724 万) $MACRO</title>
+      <title>美国 API 馏分油库存实际变化 -2.187M（预测 -，之前 0.724M） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785407953056505885#m</link>
       <description><![CDATA[美国 API 馏分油库存变化实际 -2.187M（预测 -，之前 0.724M）$MACRO&lt; /p&gt;]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785407953056505885#m</guid>
@@ -55,21 +62,21 @@
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785404047958090158#m</link>
       <description><![CDATA[$AMD AMD 2024 年第一季度收益
 
-调整后每股收益 62C，预计 61C
+调整后 EPS 62C，EST。 61C
 
-收入 55 亿美元，预计 54.5 亿美元
+修订版。 $5.5B，东部时间。 $5.45B
 
-调整后营业利润率 21%，预计 20.8%
+调整后营业利润率为 21%，预计20.8%
 
-调整后营业收入 11.3 亿美元，预计 11.1 亿美元
+调整后营业收入 $1.13B，EST。 $1.11B
 
 资本支出 1.42 亿美元，预计 1.184 亿美元
 
-研发费用 15.3 亿美元，预计15 亿美元
+研发费用 $1.53B，EST。 $1.5B
 
-预计第二季度收入为 54 亿美元至 60 亿美元，预估为 57.2 亿美元
+看到第二季度收入 $5.4B 至 $6B，估计 $5.72B
 
-预计第二季度调整后毛利率约为 53%，预估为 53%]]></description>
+预计第二季度调整后毛利率约为 53% 53%]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785404047958090158#m</guid>
       <pubDate>Tue, 30 Apr 2024 20:21:10 GMT</pubDate>
     </item>
@@ -89,16 +96,16 @@
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785400496095633546#m</link>
       <description><![CDATA[$SBUX 星巴克 2024 年第一季度收益
 
-调整后 EPS 68C，EST。 80℃
+调整后每股收益 68C，预计 80C
 
-净收入 $8.56B，东部时间$9.13B
+净收入 85.6 亿美元，预计 91.3 亿美元
 
-美国公司销售额 -3%，东部时间+2.31%
-北美公司销售额 -3%，东部时间+2.05%
+美国同店销售额 -3%，预计 +2.31%
+北美同店销售额 -3%，预计 +2.05%
 
-国际公司销售额 -6%，预计+1.36%
+国际同店销售额 -6%，预计 +1.36%
 
-中国公司销售额 -11%，预计-1.62%]]></description>
+中国同店销售额 -11%，预计 -1.62%]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785400496095633546#m</guid>
       <pubDate>Tue, 30 Apr 2024 20:07:04 GMT</pubDate>
     </item>
@@ -142,7 +149,7 @@ AWS 净销售额 $25.04B，东部时间$24.11B
       <pubDate>Tue, 30 Apr 2024 20:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>卖方 MOC 不平衡 22 亿。</title>
+      <title>MOC 失衡 22 亿卖方。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785396344930120159#m</link>
       <description><![CDATA[MOC 失衡 22 亿卖方。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785396344930120159#m</guid>
@@ -194,13 +201,6 @@ financialjuice.com/News/8105…
       <description><![CDATA[NYMEX 汽油期货可能结算于每加仑 2.7108 美元。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785376495751266484#m</guid>
       <pubDate>Tue, 30 Apr 2024 18:31:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>NYMEX 柴油期货五月结算价为每加仑 2.5134 美元。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785376484300877836#m</link>
-      <description><![CDATA[NYMEX 5 月柴油期货收盘价为每加仑 2.5134 美元。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785376484300877836#m</guid>
-      <pubDate>Tue, 30 Apr 2024 18:31:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
