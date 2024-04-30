@@ -3,8 +3,22 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 07:11:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 30 Apr 2024 07:22:00 GMT</lastBuildDate>
+    <item>
+      <title>欧元区通胀和 GDP 数据公布前欧洲市场涨跌互现</title>
+      <link>https://www.cnbc.com/2024/04/30/european-markets-live-updates-euro-zone-inflation-gdp-and-earnings.html</link>
+      <description><![CDATA[欧洲市场周二开盘小幅走高，该地区财报和主要数据即将发布。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/european-markets-live-updates-euro-zone-inflation-gdp-and-earnings.html</guid>
+      <pubDate>Tue, 30 Apr 2024 07:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战争实时更新：敖德萨在致命导弹袭击后哀悼； 98岁老人冒着火力步行数英里躲避逼近的俄罗斯人</title>
+      <link>https://www.cnbc.com/2024/04/30/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[俄罗斯导弹袭击导致 5 人死亡、32 人受伤，乌克兰港口城市敖德萨宣布哀悼一天。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Tue, 30 Apr 2024 07:20:29 GMT</pubDate>
+    </item>
     <item>
       <title>大众汽车第一季度利润因销量下降而下降20%</title>
       <link>https://www.cnbc.com/2024/04/30/volkswagen-profit-drops-20percent-in-first-quarter-on-lower-sales.html</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[全球汽车制造商 Stellantis 周二公布第一季度收入下降 12%，原因是销量下降和外汇影响。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/stellantis-reports-sharp-fall-in-revenue-as-it-shifts-portfolio.html</guid>
       <pubDate>Tue, 30 Apr 2024 07:06:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧元区通胀和 GDP 数据公布前欧洲股市小幅上涨</title>
-      <link>https://www.cnbc.com/2024/04/30/european-markets-live-updates-euro-zone-inflation-gdp-and-earnings.html</link>
-      <description><![CDATA[欧洲市场周二开盘小幅走高，该地区财报和主要数据即将发布。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/european-markets-live-updates-euro-zone-inflation-gdp-and-earnings.html</guid>
-      <pubDate>Tue, 30 Apr 2024 07:06:44 GMT</pubDate>
     </item>
     <item>
       <title>报告称欧洲可能需要征收高达55%的关税以遏制中国电动汽车进口</title>
@@ -62,18 +69,11 @@
       <pubDate>Tue, 30 Apr 2024 02:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>86% 的外籍人士表示压力很大，但研究表明他们也可能更好地应对倦怠</title>
+      <title>86% 的外籍人士表示自己压力很大，但研究表明，他们也可以更好地应对倦怠</title>
       <link>https://www.cnbc.com/2024/04/30/expats-report-high-stress-but-they-may-also-cope-better-with-burnout.html</link>
       <description><![CDATA[外籍人士是当今全球劳动力的重要组成部分。尽管他们承受着更大的压力，但他们也比当地人表现出更多的活力。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/expats-report-high-stress-but-they-may-also-cope-better-with-burnout.html</guid>
       <pubDate>Tue, 30 Apr 2024 01:53:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官驳回强生和百时美施贵宝对医疗保险药品价格谈判的挑战</title>
-      <link>https://www.cnbc.com/2024/04/29/jj-bristol-myers-squibb-lose-medicare-drug-price-talks-challenges.html</link>
-      <description><![CDATA[这一决定是拜登政府在与多家制药商就价格谈判是否合宪性展开激烈法律斗争中的又一次胜利。]]></description>
-      <guid>https://www.cnbc.com/2024/04/29/jj-bristol-myers-squibb-lose-medicare-drug-price-talks-challenges.html</guid>
-      <pubDate>Tue, 30 Apr 2024 01:31:06 GMT</pubDate>
     </item>
     <item>
       <title>商业团体声称监管越权，拜登政府面临诉讼猛攻</title>
@@ -85,14 +85,14 @@
     <item>
       <title>﻿﻿这只新兴市场基金在过去 1 年、5 年和 10 年的表现均优于大市。就是这样</title>
       <link>https://www.cnbc.com/2024/04/30/-this-emerging-market-fund-has-outperformed-over-1-5-and-10-years-heres-how.html</link>
-      <description><![CDATA[该基金在过去一年中上涨了 14.2%，几乎是 MSCI 新兴市场指数 8.2% 的两倍。]]></description>
+      <description><![CDATA[该基金去年上涨了 14.2%，几乎是 MSCI 新兴市场指数 8.2% 的两倍。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/-this-emerging-market-fund-has-outperformed-over-1-5-and-10-years-heres-how.html</guid>
       <pubDate>Mon, 29 Apr 2024 23:13:15 GMT</pubDate>
     </item>
     <item>
       <title>股息和回购成为人们关注的焦点。高盛指定全球股票来演绎这一主题</title>
       <link>https://www.cnbc.com/2024/04/30/goldman-names-global-stocks-to-play-rising-wave-of-dividends-buybacks.html</link>
-      <description><![CDATA[该银行在 4 月 23 日的一份报告中表示：“股东回报有望达到历史最高水平。”]]></description>
+      <description><![CDATA[该银行在 4 月 23 日的一份报告中表示：“股东回报将达到历史最高水平。”]]></description>
       <guid>https://www.cnbc.com/2024/04/30/goldman-names-global-stocks-to-play-rising-wave-of-dividends-buybacks.html</guid>
       <pubDate>Mon, 29 Apr 2024 23:10:51 GMT</pubDate>
     </item>
