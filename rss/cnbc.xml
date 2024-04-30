@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 12:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 12:32:00 GMT</lastBuildDate>
     <item>
-      <title>礼来公司季度利润超出预期，因 Zepbound 和 Mounjaro 销售强劲而上调全年指引</title>
-      <link>https://www.cnbc.com/2024/04/30/eli-lilly-lly-earnings-q1-2024.html</link>
-      <description><![CDATA[尽管该药物的大多数剂量在美国出现短缺，Zepbound 本季度的销售额仍达到 5.174 亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/eli-lilly-lly-earnings-q1-2024.html</guid>
-      <pubDate>Tue, 30 Apr 2024 12:24:04 GMT</pubDate>
+      <title>吉普制造商 Stellantis 准备推出一系列新车型，但收入大幅下降，股价下跌 7%</title>
+      <link>https://www.cnbc.com/2024/04/30/stellantis-reports-sharp-fall-in-revenue-as-it-shifts-portfolio.html</link>
+      <description><![CDATA[全球汽车制造商 Stellantis 周二公布第一季度收入下降 12%，原因是销量下降和外汇影响。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/stellantis-reports-sharp-fall-in-revenue-as-it-shifts-portfolio.html</guid>
+      <pubDate>Tue, 30 Apr 2024 12:47:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dave & Buster's 允许顾客在街机游戏上下注</title>
+      <link>https://www.cnbc.com/2024/04/30/dave-busters-to-allow-customers-to-bet-on-arcade-games.html</link>
+      <description><![CDATA[该国最大的娱乐运营商之一 Dave &amp; Buster&#39;s 将允许其忠诚客户在其应用程序上相互竞争。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/dave-busters-to-allow-customers-to-bet-on-arcade-games.html</guid>
+      <pubDate>Tue, 30 Apr 2024 12:47:19 GMT</pubDate>
     </item>
     <item>
       <title>沃尔玛推出新杂货品牌，试图保持通胀推动的增长</title>
       <link>https://www.cnbc.com/2024/04/30/walmart-launches-new-grocery-brand-bettergoods.html</link>
       <description><![CDATA[美国最大的杂货商看到了通胀推动的杂货增长的空间。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/walmart-launches-new-grocery-brand-bettergoods.html</guid>
-      <pubDate>Tue, 30 Apr 2024 12:20:44 GMT</pubDate>
+      <pubDate>Tue, 30 Apr 2024 12:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>礼来公司季度利润超出预期，因 Zepbound 和 Mounjaro 销售强劲而上调全年指引</title>
+      <link>https://www.cnbc.com/2024/04/30/eli-lilly-lly-earnings-q1-2024.html</link>
+      <description><![CDATA[Zepbound 报告本季度销售额为 5.174 亿美元，尽管该药物的大部分剂量在美国陷入短缺。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/eli-lilly-lly-earnings-q1-2024.html</guid>
+      <pubDate>Tue, 30 Apr 2024 12:45:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国年轻人的财富在过去 4 年里增长了近 50%——这不仅仅来自于买房</title>
+      <link>https://www.cnbc.com/2024/04/30/young-americans-wealth-grew-by-nearly-50-percent-over-the-last-four-years.html</link>
+      <description><![CDATA[尤其是千禧一代，在过去四年里，各资产类别的财富都大幅增长。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/young-americans-wealth-grew-by-nearly-50-percent-over-the-last-four-years.html</guid>
+      <pubDate>Tue, 30 Apr 2024 12:30:02 GMT</pubDate>
     </item>
     <item>
       <title>乌克兰战争实时更新：俄罗斯称击落了六枚美制ATACMS导弹；敖德萨和哈尔科夫遭遇致命袭击</title>
@@ -36,12 +57,12 @@
     <item>
       <title>周二分析师呼吁：英伟达将受益于新芯片的提振，拉尔夫·劳伦准备跳跃，银行对特斯拉的消息做出反应</title>
       <link>https://www.cnbc.com/2024/04/30/tuesdays-analyst-calls-nvidia-to-get-a-boost-from-new-chip-ralph-lauren-poised-to-jump.html</link>
-      <description><![CDATA[这是 CNBC Pro 对周二分析师电话会议和华尔街闲聊的现场报道。请每 20-30 分钟刷新一次以查看最新帖子。]]></description>
+      <description><![CDATA[这是 CNBC Pro 对周二分析师电话会议和华尔街闲谈的现场报道。请每 20-30 分钟刷新一次以查看最新帖子。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/tuesdays-analyst-calls-nvidia-to-get-a-boost-from-new-chip-ralph-lauren-poised-to-jump.html</guid>
       <pubDate>Tue, 30 Apr 2024 11:56:54 GMT</pubDate>
     </item>
     <item>
-      <title>麦当劳盈利不及预期，因食客减少、中东抵制活动影响销量</title>
+      <title>麦当劳盈利未达预期，食客减少，中东抵制影响销售额</title>
       <link>https://www.cnbc.com/2024/04/30/mcdonalds-mcd-q1-2024-earnings.html</link>
       <description><![CDATA[麦当劳股价去年下跌7.5%，市值跌至1970亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/mcdonalds-mcd-q1-2024-earnings.html</guid>
@@ -55,16 +76,16 @@
       <pubDate>Tue, 30 Apr 2024 11:53:21 GMT</pubDate>
     </item>
     <item>
-      <title>汉堡王再投资3亿美元改造餐厅</title>
+      <title>汉堡王再投资 3 亿美元改造餐厅</title>
       <link>https://www.cnbc.com/2024/04/30/burger-king-invests-another-300-million-to-remodel-restaurants-.html</link>
       <description><![CDATA[该餐饮公司计划斥资 22 亿美元重振汉堡王的美国业务。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/burger-king-invests-another-300-million-to-remodel-restaurants-.html</guid>
       <pubDate>Tue, 30 Apr 2024 11:34:42 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔玛关闭医疗中心和虚拟护理服务，进军医疗保健领域最新举措失败</title>
+      <title>沃尔玛将关闭医疗中心和虚拟护理服务，最新进军医疗保健领域失败</title>
       <link>https://www.cnbc.com/2024/04/30/walmart-to-shutter-health-centers-virtual-care-service.html</link>
-      <description><![CDATA[沃尔玛表示，由于初级保健报销环境严峻且运营成本不断增加，诊所不是一种可持续的商业模式。]]></description>
+      <description><![CDATA[沃尔玛表示，由于初级保健的报销环境充满挑战以及运营成本不断增加，诊所不是一个可持续的商业模式。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/walmart-to-shutter-health-centers-virtual-care-service.html</guid>
       <pubDate>Tue, 30 Apr 2024 11:00:01 GMT</pubDate>
     </item>
@@ -76,32 +97,11 @@
       <pubDate>Tue, 30 Apr 2024 10:42:04 GMT</pubDate>
     </item>
     <item>
-      <title>吉普车制造商 Stellantis 报告称，随着其汽车产品组合的转变，收入大幅下降</title>
-      <link>https://www.cnbc.com/2024/04/30/stellantis-reports-sharp-fall-in-revenue-as-it-shifts-portfolio.html</link>
-      <description><![CDATA[全球汽车制造商 Stellantis 周二公布第一季度收入下降 12%，原因是销量下降和外汇影响。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/stellantis-reports-sharp-fall-in-revenue-as-it-shifts-portfolio.html</guid>
-      <pubDate>Tue, 30 Apr 2024 10:30:13 GMT</pubDate>
-    </item>
-    <item>
       <title>币安亿万富翁创始人将了解入狱时间是否即将到来——这是律师们的期望</title>
       <link>https://www.cnbc.com/2024/04/30/binance-founder-cz-heads-to-sentencing-hearing-facing-years-in-prison.html</link>
       <description><![CDATA[币安创始人赵长鹏将在西雅图的联邦法庭上了解他是否会入狱。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/binance-founder-cz-heads-to-sentencing-hearing-facing-years-in-prison.html</guid>
       <pubDate>Tue, 30 Apr 2024 10:13:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dave & Buster's 允许顾客在街机游戏上投注</title>
-      <link>https://www.cnbc.com/2024/04/30/dave-busters-to-allow-customers-to-bet-on-arcade-games.html</link>
-      <description><![CDATA[该国最大的娱乐运营商之一 Dave &amp; Buster&#39;s 将允许其忠诚客户在其应用程序上相互竞争。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/dave-busters-to-allow-customers-to-bet-on-arcade-games.html</guid>
-      <pubDate>Tue, 30 Apr 2024 10:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>大众汽车第一季度利润因销量下降而下降 20%</title>
-      <link>https://www.cnbc.com/2024/04/30/volkswagen-profit-drops-20percent-in-first-quarter-on-lower-sales.html</link>
-      <description><![CDATA[德国汽车制造商大众汽车周二表示，其 2024 年第一季度营业利润较去年同期下降 20%。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/volkswagen-profit-drops-20percent-in-first-quarter-on-lower-sales.html</guid>
-      <pubDate>Tue, 30 Apr 2024 08:11:22 GMT</pubDate>
     </item>
     <item>
       <title>法官驳回强生和百时美施贵宝对医疗保险药品价格谈判的挑战</title>
