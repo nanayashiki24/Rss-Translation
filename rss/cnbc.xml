@@ -1,70 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 30 Apr 2024 11:49:00 GMT</lastBuildDate>
-    <item>
-      <title>麦当劳盈利未达预期，食客减少，中东抵制影响销售额</title>
-      <link>https://www.cnbc.com/2024/04/30/mcdonalds-mcd-q1-2024-earnings.html</link>
-      <description><![CDATA[麦当劳股价在过去一年中下跌了 7.5%，其市值降至 1970 亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/mcdonalds-mcd-q1-2024-earnings.html</guid>
-      <pubDate>Tue, 30 Apr 2024 11:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>周二分析师呼吁：英伟达将受益于新芯片的提振，拉尔夫·劳伦准备跳跃，银行对特斯拉的消息做出反应</title>
-      <link>https://www.cnbc.com/2024/04/30/tuesdays-analyst-calls-nvidia-to-get-a-boost-from-new-chip-ralph-lauren-poised-to-jump.html</link>
-      <description><![CDATA[这是 CNBC Pro 对周二分析师电话会议和华尔街闲谈的现场报道。请每 20-30 分钟刷新一次以查看最新帖子。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/tuesdays-analyst-calls-nvidia-to-get-a-boost-from-new-chip-ralph-lauren-poised-to-jump.html</guid>
-      <pubDate>Tue, 30 Apr 2024 11:45:04 GMT</pubDate>
-    </item>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Tue, 30 Apr 2024 12:17:00 GMT</lastBuildDate>
     <item>
       <title>礼来公司季度利润超出预期，因 Zepbound 和 Mounjaro 销售强劲而上调全年指引</title>
       <link>https://www.cnbc.com/2024/04/30/eli-lilly-lly-earnings-q1-2024.html</link>
-      <description><![CDATA[Zepbound 报告本季度销售额为 5.174 亿美元，尽管该药物的大部分剂量在美国陷入短缺。]]></description>
+      <description><![CDATA[尽管该药物的大多数剂量在美国出现短缺，Zepbound 本季度的销售额仍达到 5.174 亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/eli-lilly-lly-earnings-q1-2024.html</guid>
-      <pubDate>Tue, 30 Apr 2024 11:42:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>可口可乐超出盈利预期，因价格上涨而上调收入前景</title>
-      <link>https://www.cnbc.com/2024/04/30/coca-cola-ko-q1-2024-earnings.html</link>
-      <description><![CDATA[去年，可口可乐股价下跌了 3.5%，导致该公司市值跌至 2670 亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/coca-cola-ko-q1-2024-earnings.html</guid>
-      <pubDate>Tue, 30 Apr 2024 11:41:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>汉堡王再投资3亿美元改造餐厅</title>
-      <link>https://www.cnbc.com/2024/04/30/burger-king-invests-another-300-million-to-remodel-restaurants-.html</link>
-      <description><![CDATA[该餐厅公司计划斥资 22 亿美元重振汉堡王的美国业务。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/burger-king-invests-another-300-million-to-remodel-restaurants-.html</guid>
-      <pubDate>Tue, 30 Apr 2024 11:34:42 GMT</pubDate>
+      <pubDate>Tue, 30 Apr 2024 12:24:04 GMT</pubDate>
     </item>
     <item>
       <title>沃尔玛推出新杂货品牌，试图保持通胀推动的增长</title>
       <link>https://www.cnbc.com/2024/04/30/walmart-launches-new-grocery-brand-bettergoods.html</link>
       <description><![CDATA[美国最大的杂货商看到了通胀推动的杂货增长的空间。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/walmart-launches-new-grocery-brand-bettergoods.html</guid>
-      <pubDate>Tue, 30 Apr 2024 11:29:33 GMT</pubDate>
+      <pubDate>Tue, 30 Apr 2024 12:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔玛将关闭医疗中心和虚拟护理服务，最新进军医疗保健领域失败</title>
+      <title>乌克兰战争实时更新：俄罗斯称击落了六枚美制ATACMS导弹；敖德萨和哈尔科夫遭遇致命袭击</title>
+      <link>https://www.cnbc.com/2024/04/30/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[俄罗斯导弹袭击导致 5 人死亡、32 人受伤，乌克兰港口城市敖德萨宣布哀悼一天。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Tue, 30 Apr 2024 12:08:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于支出保持弹性、利润率改善，PayPal 上调 2024 年利润预期</title>
+      <link>https://www.cnbc.com/2024/04/30/paypal-pypl-q1-earnings.html</link>
+      <description><![CDATA[PayPal 周二上调了全年调整后利润预测，而削减成本的措施提高了第一季度的营业利润率。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/paypal-pypl-q1-earnings.html</guid>
+      <pubDate>Tue, 30 Apr 2024 12:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>周二分析师呼吁：英伟达将受益于新芯片的提振，拉尔夫·劳伦准备跳跃，银行对特斯拉的消息做出反应</title>
+      <link>https://www.cnbc.com/2024/04/30/tuesdays-analyst-calls-nvidia-to-get-a-boost-from-new-chip-ralph-lauren-poised-to-jump.html</link>
+      <description><![CDATA[这是 CNBC Pro 对周二分析师电话会议和华尔街闲聊的现场报道。请每 20-30 分钟刷新一次以查看最新帖子。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/tuesdays-analyst-calls-nvidia-to-get-a-boost-from-new-chip-ralph-lauren-poised-to-jump.html</guid>
+      <pubDate>Tue, 30 Apr 2024 11:56:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>麦当劳盈利不及预期，因食客减少、中东抵制活动影响销量</title>
+      <link>https://www.cnbc.com/2024/04/30/mcdonalds-mcd-q1-2024-earnings.html</link>
+      <description><![CDATA[麦当劳股价去年下跌7.5%，市值跌至1970亿美元。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/mcdonalds-mcd-q1-2024-earnings.html</guid>
+      <pubDate>Tue, 30 Apr 2024 11:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>可口可乐超出盈利预期，因价格上涨而上调收入前景</title>
+      <link>https://www.cnbc.com/2024/04/30/coca-cola-ko-q1-2024-earnings.html</link>
+      <description><![CDATA[去年，可口可乐股价下跌了 3.5%，导致该公司市值跌至 2670 亿美元。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/coca-cola-ko-q1-2024-earnings.html</guid>
+      <pubDate>Tue, 30 Apr 2024 11:53:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>汉堡王再投资3亿美元改造餐厅</title>
+      <link>https://www.cnbc.com/2024/04/30/burger-king-invests-another-300-million-to-remodel-restaurants-.html</link>
+      <description><![CDATA[该餐饮公司计划斥资 22 亿美元重振汉堡王的美国业务。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/burger-king-invests-another-300-million-to-remodel-restaurants-.html</guid>
+      <pubDate>Tue, 30 Apr 2024 11:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃尔玛关闭医疗中心和虚拟护理服务，进军医疗保健领域最新举措失败</title>
       <link>https://www.cnbc.com/2024/04/30/walmart-to-shutter-health-centers-virtual-care-service.html</link>
       <description><![CDATA[沃尔玛表示，由于初级保健报销环境严峻且运营成本不断增加，诊所不是一种可持续的商业模式。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/walmart-to-shutter-health-centers-virtual-care-service.html</guid>
       <pubDate>Tue, 30 Apr 2024 11:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战争实时更新：敖德萨遭受致命导弹袭击； 98岁老人冒着火力步行数英里躲避逼近的俄罗斯人</title>
-      <link>https://www.cnbc.com/2024/04/30/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯导弹袭击造成 5 人死亡，32 人受伤，乌克兰港口城市敖德萨宣布哀悼日。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Tue, 30 Apr 2024 10:54:00 GMT</pubDate>
-    </item>
-    <item>
       <title>“紧张的五年”：汇丰银行首席执行官诺埃尔·奎因的意外辞职声明</title>
       <link>https://www.cnbc.com/2024/04/30/read-hsbc-ceo-noel-quinns-surprise-resignation-statement.html</link>
-      <description><![CDATA[汇丰银行首席执行官诺埃尔·奎恩表示，“现在是我在个人生活和商业生活之间取得更好平衡的最佳时机”。]]></description>
+      <description><![CDATA[汇丰银行首席执行官诺埃尔·奎因表示，“现在是我在个人生活和商业生活之间取得更好平衡的最佳时机”。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/read-hsbc-ceo-noel-quinns-surprise-resignation-statement.html</guid>
       <pubDate>Tue, 30 Apr 2024 10:42:04 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Tue, 30 Apr 2024 10:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>币安的亿万富翁创始人即将面临牢狱之灾——以下是律师们的预期</title>
+      <title>币安亿万富翁创始人将了解入狱时间是否即将到来——这是律师们的期望</title>
       <link>https://www.cnbc.com/2024/04/30/binance-founder-cz-heads-to-sentencing-hearing-facing-years-in-prison.html</link>
-      <description><![CDATA[币安创始人赵长鹏将在西雅图的联邦法庭上获悉他是否会入狱。]]></description>
+      <description><![CDATA[币安创始人赵长鹏将在西雅图的联邦法庭上了解他是否会入狱。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/binance-founder-cz-heads-to-sentencing-hearing-facing-years-in-prison.html</guid>
       <pubDate>Tue, 30 Apr 2024 10:13:12 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Tue, 30 Apr 2024 10:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>大众汽车第一季度利润因销量下降而下降20%</title>
+      <title>大众汽车第一季度利润因销量下降而下降 20%</title>
       <link>https://www.cnbc.com/2024/04/30/volkswagen-profit-drops-20percent-in-first-quarter-on-lower-sales.html</link>
       <description><![CDATA[德国汽车制造商大众汽车周二表示，其 2024 年第一季度营业利润较去年同期下降 20%。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/volkswagen-profit-drops-20percent-in-first-quarter-on-lower-sales.html</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>法官驳回强生和百时美施贵宝对医疗保险药品价格谈判的挑战</title>
       <link>https://www.cnbc.com/2024/04/29/jj-bristol-myers-squibb-lose-medicare-drug-price-talks-challenges.html</link>
-      <description><![CDATA[这一决定是拜登政府在与多家制药商就价格谈判是否合宪性展开激烈法律斗争中的又一次胜利。]]></description>
+      <description><![CDATA[这一决定是拜登政府在与多家制药商就价格谈判是否符合宪法问题展开的激烈法律斗争中的又一次胜利。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/jj-bristol-myers-squibb-lose-medicare-drug-price-talks-challenges.html</guid>
       <pubDate>Tue, 30 Apr 2024 01:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>商业团体声称监管越权，拜登政府面临诉讼猛攻</title>
-      <link>https://www.cnbc.com/2024/04/29/biden-faces-slew-lawsuits-business-groups-criticize-overreach.html</link>
-      <description><![CDATA[拜登政府面临一波针对其监管议程的诉讼，商业团体认为联邦机构正在超越其权力。]]></description>
-      <guid>https://www.cnbc.com/2024/04/29/biden-faces-slew-lawsuits-business-groups-criticize-overreach.html</guid>
-      <pubDate>Mon, 29 Apr 2024 23:47:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
