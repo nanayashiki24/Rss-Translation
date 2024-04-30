@@ -3,50 +3,8 @@
   <channel>
     <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 16:40:22 GMT</lastBuildDate>
-    <item>
-      <title>备忘录称，摩根大通扩大了销售主管的角色</title>
-      <link>https://www.reuters.com/business/finance/jpmorgan-broadens-roles-sales-executives-2024-04-30/</link>
-      <description><![CDATA[路透社周二看到的一份内部备忘录中称，摩根大通已扩大其销售部门部分高管的职责。]]></description>
-      <guid>https://www.reuters.com/business/finance/jpmorgan-broadens-roles-sales-executives-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>汇丰银行在出人意料的首席执行官搜寻中必须优先考虑亚洲专业知识</title>
-      <link>https://www.reuters.com/business/finance/hsbc-must-prioritise-asian-expertise-surprise-ceo-search-2024-04-30/</link>
-      <description><![CDATA[在首席执行官奎因 (Noel Quinn) 的领导下，汇丰成功应对了全球疫情以及叛逆投资者要求拆分这家拥有 160 年历史的银行的举措。投资者表示，奎因的意外离职是加速汇丰向亚洲战略转型的一个机会。]]></description>
-      <guid>https://www.reuters.com/business/finance/hsbc-must-prioritise-asian-expertise-surprise-ceo-search-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:39:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>联盟宣布与凯雷就蒂森克虏伯海事系统多数股权进行谈判</title>
-      <link>https://www.reuters.com/markets/deals/union-announces-talks-with-carlyle-thyssenkrupp-marine-systems-investment-2024-04-30/</link>
-      <description><![CDATA[德国IG Metall工会周二表示，已与凯雷投资公司就收购蒂森克虏伯海洋系统公司多数股权进行了初步谈判，并同意尽快推动达成协议。]]></description>
-      <guid>https://www.reuters.com/markets/deals/union-announces-talks-with-carlyle-thyssenkrupp-marine-systems-investment-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 14:59:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，法国兴业银行香港交易员在未经授权的投注被发现后离开银行</title>
-      <link>https://www.reuters.com/markets/socgen-hong-kong-traders-left-bank-after-unauthorised-bets-uncovered-source-says-2024-04-30/</link>
-      <description><![CDATA[一位知情人士称，法国兴业银行的两名驻香港交易员去年年底离开了这家法国银行，此前该集团发现了一系列通过衍生品进行的未经授权的押注。]]></description>
-      <guid>https://www.reuters.com/markets/socgen-hong-kong-traders-left-bank-after-unauthorised-bets-uncovered-source-says-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 14:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称，奥地利官员警告赖夫艾森不要与俄罗斯寡头交易</title>
-      <link>https://www.reuters.com/markets/deals/austrian-officials-warn-off-raiffeisen-russian-oligarch-deal-sources-say-2024-04-30/</link>
-      <description><![CDATA[知情人士称，奥地利当局因担心美国的强烈反对，敦促瑞夫艾森国际银行（RBI）放弃一项与俄罗斯寡头有关的交易，这对印度央行解救滞留在俄罗斯的资金的计划构成打击。]]></description>
-      <guid>https://www.reuters.com/markets/deals/austrian-officials-warn-off-raiffeisen-russian-oligarch-deal-sources-say-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 14:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>花旗首席执行官表示美国消费者更加谨慎，强调银行改革</title>
-      <link>https://www.reuters.com/business/finance/citigroup-ceo-says-us-consumers-are-turning-more-cautious-spending-2024-04-30/</link>
-      <description><![CDATA[花旗集团首席执行官简·弗雷泽(Jane Fraser)周二对股东表示，美国消费者对支出变得更加谨慎，购买规模也越来越小。]]></description>
-      <guid>https://www.reuters.com/business/finance/citigroup-ceo-says-us-consumers-are-turning-more-cautious-spending-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 14:38:27 GMT</pubDate>
-    </item>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 16:51:36 GMT</lastBuildDate>
     <item>
       <title>英格兰银行要求支付公司加强干扰缓解计划</title>
       <link>https://www.reuters.com/business/finance/bank-england-tells-payment-firms-step-up-disruption-mitigation-plans-2024-04-30/</link>
@@ -55,9 +13,9 @@
       <pubDate>Tue, 30 Apr 2024 13:01:40 GMT</pubDate>
     </item>
     <item>
-      <title>西班牙 BBVA 银行就合并事宜与竞争对手 Sabadell 银行接洽</title>
+      <title>BBVA 与萨瓦德尔探讨合并可能性</title>
       <link>https://www.reuters.com/markets/deals/bbva-says-it-will-explore-possible-merger-with-sabadell-2024-04-30/</link>
-      <description><![CDATA[西班牙银行 BBVA 周二表示，已与规模较小的竞争对手 Sabadell 就合并事宜进行接洽，该交易可能创造出一家资产规模接近 1 万亿欧元（1.07 万亿美元）的银行。]]></description>
+      <description><![CDATA[西班牙银行 BBVA 和规模较小的竞争对手萨瓦德尔周二表示，他们已开始谈判探讨可能的合并，导致萨瓦德尔股价上涨超过 7%。]]></description>
       <guid>https://www.reuters.com/markets/deals/bbva-says-it-will-explore-possible-merger-with-sabadell-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 12:24:59 GMT</pubDate>
     </item>
@@ -70,7 +28,7 @@
       <pubDate>Tue, 30 Apr 2024 11:01:03 GMT</pubDate>
     </item>
     <item>
-      <title>德科斯表示，如果通胀持续下降，欧洲央行应该在六月开始降息</title>
+      <title>德科斯称，如果通胀持续下降，欧洲央行应在 6 月份开始降息</title>
       <link>https://www.reuters.com/world/europe/ecb-should-start-cutting-rates-june-if-inflation-keeps-falling-de-cos-says-2024-04-30/</link>
       <description><![CDATA[欧洲央行决策者巴勃罗·埃尔南德斯·德科斯周二表示，如果通胀继续按预期逐步下降，欧洲央行应在 6 月开始降息。]]></description>
       <guid>https://www.reuters.com/world/europe/ecb-should-start-cutting-rates-june-if-inflation-keeps-falling-de-cos-says-2024-04-30/</guid>
@@ -84,14 +42,14 @@
       <pubDate>Tue, 30 Apr 2024 10:04:36 GMT</pubDate>
     </item>
     <item>
-      <title>币安首席执行官赵长鹏因洗钱罪面临刑罚</title>
+      <title>币安首席执行官赵因洗钱违法行为面临判刑</title>
       <link>https://www.reuters.com/legal/binances-ceo-zhao-faces-sentencing-over-money-laundering-violations-2024-04-30/</link>
       <description><![CDATA[全球最大的加密货币交易所币安网前首席执行官因承认违反美国洗钱法而于周二被判刑，他可能面临数年监禁。]]></description>
       <guid>https://www.reuters.com/legal/binances-ceo-zhao-faces-sentencing-over-money-laundering-violations-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:03:31 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：随着亚马逊到期，日元再次下滑，财政部计划令人烦恼</title>
+      <title>早盘报价：亚马逊到期，日元再次下跌，财政部计划令人恼火</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-30/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-30/</guid>
@@ -110,6 +68,48 @@
       <description><![CDATA[英美资源集团的投资者告诉路透社，必和必拓集团不能在不支付高额溢价的情况下挑选英美资源集团的资产，他们担心持有南非子公司的股份可能会遭受重大损失。]]></description>
       <guid>https://www.reuters.com/markets/deals/bhp-weighs-firm-bid-anglo-investors-fret-over-cherry-picking-assets-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 07:41:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>首都银行存款增加，赢回客户的努力取得成效</title>
+      <link>https://www.reuters.com/business/finance/metro-banks-total-deposits-rise-4-first-quarter-2024-04-30/</link>
+      <description><![CDATA[首都银行周二公布，第一季度存款总额增长了 4%，这要归功于该银行去年底推出的一项活动，以弥补客户在财务健康状况报告中大量提款的情况。]]></description>
+      <guid>https://www.reuters.com/business/finance/metro-banks-total-deposits-rise-4-first-quarter-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProSieben 股东在欧洲电视剧中扮演主角</title>
+      <link>https://www.reuters.com/business/media-telecom/prosieben-shareholders-take-lead-role-european-tv-drama-2024-04-30/</link>
+      <description><![CDATA[ProSiebenSat.1 和顶级投资者 MFE-MediaForEurope 周二加大了对立立场，因为股东准备就这家德国媒体集团的关键变革进行投票，包括提议从其数字业务中分拆。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/prosieben-shareholders-take-lead-role-european-tv-drama-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 06:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌干达财政部长称将从伊斯兰开发银行获得2.95亿美元贷款</title>
+      <link>https://www.reuters.com/world/africa/uganda-get-295-mln-loan-islamic-development-bank-finance-minister-says-2024-04-30/</link>
+      <description><![CDATA[东非国家乌干达财政部长周二表示，乌干达已与沙特阿拉伯伊斯兰开发银行（IDB）签署了一项 2.95 亿美元贷款协议，用于资助道路建设和其他项目。]]></description>
+      <guid>https://www.reuters.com/world/africa/uganda-get-295-mln-loan-islamic-development-bank-finance-minister-says-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应：汇丰银行首席执行官奎因宣布意外退休</title>
+      <link>https://www.reuters.com/business/finance/quote-box-hsbc-chief-executive-quinn-announces-surprise-retirement-2024-04-30/</link>
+      <description><![CDATA[汇丰银行周二表示，其首席执行官诺埃尔·奎恩 (Noel Quinn) 将退休，这对于这位在全球范围内监督了一系列大规模资产出售的精明领导人来说，是一个令人意外的离职。]]></description>
+      <guid>https://www.reuters.com/business/finance/quote-box-hsbc-chief-executive-quinn-announces-surprise-retirement-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cryptoverse：TON 因 Telegram 合作而腾飞</title>
+      <link>https://www.reuters.com/markets/currencies/cryptoverse-ton-takes-off-telegram-tie-up-2024-04-30/</link>
+      <description><![CDATA[近几个月来，一种名为 TON 的代币价值大幅上涨，投资者押注 TON 与通讯服务 Telegram 的集成可能会将这种加密货币带给该应用程序的约 9 亿用户。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/cryptoverse-ton-takes-off-telegram-tie-up-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 05:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>西班牙业务表现优于大市，桑坦德银行预计 2024 年盈利能力将更高</title>
+      <link>https://www.reuters.com/business/finance/santanders-q1-net-profit-up-11-compared-same-period-2023-2024-04-30/</link>
+      <description><![CDATA[西班牙最大的国际银行桑坦德银行表示，由于贷款收入的增长，特别是其国内市场的贷款收入的增长，帮助推动第一季度收益上升，因此今年的盈利能力有所提高。]]></description>
+      <guid>https://www.reuters.com/business/finance/santanders-q1-net-profit-up-11-compared-same-period-2023-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:55:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
