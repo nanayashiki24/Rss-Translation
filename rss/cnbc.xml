@@ -3,14 +3,21 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Tue, 30 Apr 2024 21:16:00 GMT</lastBuildDate>
+    <item>
+      <title>由于人工智能需求强劲，超微上调全年收入预测</title>
+      <link>https://www.cnbc.com/2024/04/30/super-micro-smci-q3-earnings-report-2024.html</link>
+      <description><![CDATA[Super Micro 现已成为标准普尔 500 指数的成分股。该公司的增长从上一季度的 103% 加速至 200%，但营收仍不及预期。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/super-micro-smci-q3-earnings-report-2024.html</guid>
+      <pubDate>Tue, 30 Apr 2024 21:36:34 GMT</pubDate>
+    </item>
     <item>
       <title>AMD表示今年将销售40亿美元的AI芯片，股价因符合预期而下跌</title>
       <link>https://www.cnbc.com/2024/04/30/amd-gaming-revenue-falls-48percent-year-over-year-and-the-stock-is-down.html</link>
       <description><![CDATA[AMD 销售与 Nvidia 竞争的人工智能芯片，但它的大部分收入来自 PC 芯片。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/amd-gaming-revenue-falls-48percent-year-over-year-and-the-stock-is-down.html</guid>
-      <pubDate>Tue, 30 Apr 2024 21:22:01 GMT</pubDate>
+      <pubDate>Tue, 30 Apr 2024 21:30:09 GMT</pubDate>
     </item>
     <item>
       <title>由于同店销售额下降，星巴克股价下跌 10%，季度业绩未达预期</title>
@@ -20,16 +27,9 @@
       <pubDate>Tue, 30 Apr 2024 21:17:16 GMT</pubDate>
     </item>
     <item>
-      <title>由于人工智能需求强劲，超微上调全年收入预测</title>
-      <link>https://www.cnbc.com/2024/04/30/super-micro-smci-q3-earnings-report-2024.html</link>
-      <description><![CDATA[Super Micro 现已成为标准普尔 500 指数的成分股。该公司的增长从上一季度的 103% 加速至 200%，但营收仍不及预期。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/super-micro-smci-q3-earnings-report-2024.html</guid>
-      <pubDate>Tue, 30 Apr 2024 21:16:24 GMT</pubDate>
-    </item>
-    <item>
       <title>盘后涨幅最大的股票：亚马逊、星巴克、Pinterest、Advanced Micro Devices 等</title>
       <link>https://www.cnbc.com/2024/04/30/stocks-making-the-biggest-moves-after-hours-amzn-sbux-pins-amd-and-more.html</link>
-      <description><![CDATA[这些是盘后交易中波动最大的股票。]]></description>
+      <description><![CDATA[这些是在盘中交易中涨幅最大的股票。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/stocks-making-the-biggest-moves-after-hours-amzn-sbux-pins-amd-and-more.html</guid>
       <pubDate>Tue, 30 Apr 2024 21:14:08 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>分析师表示，特朗普的第二任期经济议程可能会推高通胀</title>
       <link>https://www.cnbc.com/2024/04/30/trump-could-drive-inflation-higher-with-his-second-term-economic-agenda-analysts-say.html</link>
-      <description><![CDATA[唐纳德·特朗普指责乔·拜登总统在拜登担任总统期间造成了顽固的高通胀。]]></description>
+      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 将总统乔·拜登 (Joe Biden) 任期内的持续高通胀归咎于他。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/trump-could-drive-inflation-higher-with-his-second-term-economic-agenda-analysts-say.html</guid>
       <pubDate>Tue, 30 Apr 2024 20:24:08 GMT</pubDate>
     </item>
@@ -92,12 +92,12 @@
     <item>
       <title>以下是美联储周三结束会议时值得期待的一切</title>
       <link>https://www.cnbc.com/2024/04/30/heres-everything-to-expect-when-the-fed-wraps-up-its-meeting-wednesday.html</link>
-      <description><![CDATA[市场预计央行政策制定部门宣布利率变化的可能性几乎为零。]]></description>
+      <description><![CDATA[市场预计央行政策制定机构宣布利率变动的可能性几乎为零。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/heres-everything-to-expect-when-the-fed-wraps-up-its-meeting-wednesday.html</guid>
       <pubDate>Tue, 30 Apr 2024 19:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>拜登政府开始重新划分大麻类别，大麻股飙升</title>
+      <title>随着拜登政府采取行动对大麻进行重新分类，大麻库存飙升</title>
       <link>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</link>
       <description><![CDATA[与大麻相关的股票在市场低迷的一天中飙升。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</guid>
