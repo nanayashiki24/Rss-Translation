@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Tue, 30 Apr 2024 02:07:00 GMT</lastBuildDate>
+    <item>
+      <title>三星电子第一季度营业利润猛增933% 超出预期</title>
+      <link>https://www.cnbc.com/2024/04/30/samsung-electronics-first-quarter-earnings.html</link>
+      <description><![CDATA[三星电子周二表示，由于人工智能乐观情绪推动内存芯片价格反弹，第一季度营业利润出现增长。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/samsung-electronics-first-quarter-earnings.html</guid>
+      <pubDate>Tue, 30 Apr 2024 02:32:10 GMT</pubDate>
+    </item>
     <item>
       <title>亚洲市场大多上涨，追随华尔街的涨幅；中国工厂活动扩张速度放缓</title>
       <link>https://www.cnbc.com/2024/04/30/asia-markets.html</link>
@@ -22,28 +29,21 @@
     <item>
       <title>86% 的外籍人士表示压力很大，但研究表明他们也可能更好地应对倦怠</title>
       <link>https://www.cnbc.com/2024/04/30/expats-report-high-stress-but-they-may-also-cope-better-with-burnout.html</link>
-      <description><![CDATA[外籍人士是当今全球劳动力的重要组成部分。尽管他们承受着更大的压力，但他们也比当地人表现出更多的活力。]]></description>
+      <description><![CDATA[外籍人士是当今全球劳动力的重要组成部分。尽管他们承受的压力更大，但他们也比当地人表现出更多的活力。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/expats-report-high-stress-but-they-may-also-cope-better-with-burnout.html</guid>
       <pubDate>Tue, 30 Apr 2024 01:53:28 GMT</pubDate>
     </item>
     <item>
       <title>法官驳回强生和百时美施贵宝对医疗保险药品价格谈判的挑战</title>
       <link>https://www.cnbc.com/2024/04/29/jj-bristol-myers-squibb-lose-medicare-drug-price-talks-challenges.html</link>
-      <description><![CDATA[这一决定是拜登政府在与多家制药商就价格谈判是否合宪性展开激烈法律斗争中的又一次胜利。]]></description>
+      <description><![CDATA[这一决定是拜登政府在与多家制药商就价格谈判是否符合宪法问题展开的激烈法律斗争中的又一次胜利。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/jj-bristol-myers-squibb-lose-medicare-drug-price-talks-challenges.html</guid>
       <pubDate>Tue, 30 Apr 2024 01:31:06 GMT</pubDate>
     </item>
     <item>
-      <title>三星电子第一季度营业利润猛增933% 超出预期</title>
-      <link>https://www.cnbc.com/2024/04/30/samsung-electronics-first-quarter-earnings.html</link>
-      <description><![CDATA[三星电子周二表示，由于人工智能乐观情绪推动存储芯片价格反弹，第一季度营业利润大幅增长。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/samsung-electronics-first-quarter-earnings.html</guid>
-      <pubDate>Tue, 30 Apr 2024 01:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府面临诉讼潮，商业团体指责其监管过度</title>
+      <title>商业团体声称监管越权，拜登政府面临诉讼猛攻</title>
       <link>https://www.cnbc.com/2024/04/29/biden-faces-slew-lawsuits-business-groups-criticize-overreach.html</link>
-      <description><![CDATA[拜登政府面临一波针对其监管议程的诉讼，商业团体认为联邦机构正在超越其权力。]]></description>
+      <description><![CDATA[拜登政府面临一波针对其监管议程的诉讼，商业团体认为联邦机构超越了他们的权力。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/biden-faces-slew-lawsuits-business-groups-criticize-overreach.html</guid>
       <pubDate>Mon, 29 Apr 2024 23:47:29 GMT</pubDate>
     </item>
@@ -55,23 +55,23 @@
       <pubDate>Mon, 29 Apr 2024 23:43:17 GMT</pubDate>
     </item>
     <item>
-      <title>﻿﻿这只新兴市场基金在过去 1 年、5 年和 10 年的表现均优于大市。就是这样</title>
+      <title>这只新兴市场基金在过去 1 年、5 年和 10 年中表现优异。以下是</title>
       <link>https://www.cnbc.com/2024/04/30/-this-emerging-market-fund-has-outperformed-over-1-5-and-10-years-heres-how.html</link>
-      <description><![CDATA[该基金去年上涨了 14.2%，几乎是 MSCI 新兴市场指数 8.2% 的两倍。]]></description>
+      <description><![CDATA[该基金在过去一年中上涨了 14.2%，几乎是 MSCI 新兴市场指数 8.2% 的两倍。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/-this-emerging-market-fund-has-outperformed-over-1-5-and-10-years-heres-how.html</guid>
       <pubDate>Mon, 29 Apr 2024 23:13:15 GMT</pubDate>
     </item>
     <item>
       <title>股息和回购成为人们关注的焦点。高盛指定全球股票来演绎这一主题</title>
       <link>https://www.cnbc.com/2024/04/30/goldman-names-global-stocks-to-play-rising-wave-of-dividends-buybacks.html</link>
-      <description><![CDATA[该银行在 4 月 23 日的一份报告中表示：“股东回报将达到历史最高水平。”]]></description>
+      <description><![CDATA[该银行在 4 月 23 日的一份报告中表示：“股东回报有望达到历史最高水平。”]]></description>
       <guid>https://www.cnbc.com/2024/04/30/goldman-names-global-stocks-to-play-rising-wave-of-dividends-buybacks.html</guid>
       <pubDate>Mon, 29 Apr 2024 23:10:51 GMT</pubDate>
     </item>
     <item>
       <title>派拉蒙表示首席执行官鲍勃·巴基什(Bob Bakish)即将辞职，将由三名高管接任</title>
       <link>https://www.cnbc.com/2024/04/29/paramount-ceo-bob-bakish-stepping-down.html</link>
-      <description><![CDATA[该公司周一宣布，派拉蒙全球首席执行官鲍勃·巴基什 (Bob Bakish) 离职，而与 Skydance Media 的合并谈判仍在继续。]]></description>
+      <description><![CDATA[派拉蒙全球公司周一宣布，该公司首席执行官鲍勃·巴基什 (Bob Bakish) 将离职，与天舞传媒 (Skydance Media) 的合并谈判仍在继续。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/paramount-ceo-bob-bakish-stepping-down.html</guid>
       <pubDate>Mon, 29 Apr 2024 21:08:57 GMT</pubDate>
     </item>
@@ -85,12 +85,12 @@
     <item>
       <title>Skydance 向派拉蒙提出最终报价，合并谈判仍需进行股东投票</title>
       <link>https://www.cnbc.com/2024/04/29/shari-redstone-paramount-ceo-bob-bakish-removal.html</link>
-      <description><![CDATA[一个潜在的交易破坏者是是否对交易进行所谓的“少数多数”投票，这将赋予普通股股东潜在的影响力。]]></description>
+      <description><![CDATA[一个潜在的交易破坏因素是是否对该交易进行所谓的“少数股东多数”投票，这将赋予普通股股东潜在的影响力。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/shari-redstone-paramount-ceo-bob-bakish-removal.html</guid>
       <pubDate>Mon, 29 Apr 2024 20:42:04 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利银行家预计 2024 年将有 10 至 15 家科技公司 IPO，2025 年将是“更好的一年”</title>
+      <title>摩根士丹利银行家预计 2024 年将有 10 至 15 家科技公司进行 IPO，2025 年将是“更好的一年”</title>
       <link>https://www.cnbc.com/2024/04/29/morgan-stanley-sees-10-to-15-more-tech-ipos-in-2024-better-2025.html</link>
       <description><![CDATA[主导 Reddit 和 Astera Labs IPO 的摩根士丹利预计，今年将有 10 至 15 家科技公司上市，2025 年将是“更好的一年”。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/morgan-stanley-sees-10-to-15-more-tech-ipos-in-2024-better-2025.html</guid>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 29 Apr 2024 19:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>新报告发现，家族办公室正在股市以外寻求更高的回报</title>
+      <title>新报告发现，家族办公室正在将目光投向股市以外的更高回报</title>
       <link>https://www.cnbc.com/2024/04/29/family-offices-look-beyond-stocks-for-higher-return-less-volatility.html</link>
       <description><![CDATA[与股票不同，私募股权和私营公司等另类投资的估值变化更为渐进，从而消除了波动性。]]></description>
       <guid>https://www.cnbc.com/2024/04/29/family-offices-look-beyond-stocks-for-higher-return-less-volatility.html</guid>
