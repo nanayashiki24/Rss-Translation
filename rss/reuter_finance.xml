@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 | 今日头条 | 路透社</title>
+    <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 03:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 04:18:19 GMT</lastBuildDate>
     <item>
-      <title>伦敦金融城表示，2023 年英国金融业的外国投资将减半</title>
+      <title>汇丰宣布首席执行官奎因退休，第一季度利润下降1.8%</title>
+      <link>https://www.reuters.com/business/finance/hsbc-first-quarter-profit-drops-18-beats-estimates-2024-04-30/</link>
+      <description><![CDATA[汇丰银行首席执行官诺埃尔·奎因(Noel Quinn)周二表示，他将退休，这将是他在过去五年中通过在全球范围内进行一系列大规模资产出售进行彻底改革的银行的意外离职。]]></description>
+      <guid>https://www.reuters.com/business/finance/hsbc-first-quarter-profit-drops-18-beats-estimates-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:09:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>汇丰银行首席执行官诺埃尔·奎因 (Noel Quinn) 即将退休</title>
+      <link>https://www.reuters.com/business/finance/hsbc-ceo-noel-quinn-retire-2024-04-30/</link>
+      <description><![CDATA[汇丰控股周二表示，其首席执行官诺埃尔·奎恩 (Noel Quinn) 已决定退休。]]></description>
+      <guid>https://www.reuters.com/business/finance/hsbc-ceo-noel-quinn-retire-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 04:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>据《华尔街日报》报道，高盛正在就将通用汽车信用卡合作关系转让给巴克莱银行进行谈判</title>
+      <link>https://www.reuters.com/business/finance/goldman-talks-unload-gm-credit-card-partnership-barclays-wsj-reports-2024-04-30/</link>
+      <description><![CDATA[据《华尔街日报》周一援引知情人士的话报道，高盛正在就将其通用汽车信用卡项目转让给巴克莱银行进行谈判。]]></description>
+      <guid>https://www.reuters.com/business/finance/goldman-talks-unload-gm-credit-card-partnership-barclays-wsj-reports-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 03:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>伦敦金融城：2023 年英国金融业外国投资将减半</title>
       <link>https://www.reuters.com/world/uk/foreign-investment-uk-finance-sector-halves-2023-says-city-london-2024-04-29/</link>
       <description><![CDATA[伦敦金融城周二表示，尽管英国仍然是全球顶级投资目的地，但到 2023 年，英国金融和专业服务领域的外国投资将减半至 10 亿英镑（12.5 亿美元）。]]></description>
       <guid>https://www.reuters.com/world/uk/foreign-investment-uk-finance-sector-halves-2023-says-city-london-2024-04-29/</guid>
@@ -15,7 +36,7 @@
     <item>
       <title>Preqin 表示，第一季度多策略对冲基金发行量大幅下滑</title>
       <link>https://www.reuters.com/markets/multi-strategy-hedge-fund-launches-tumble-first-quarter-says-preqin-2024-04-29/</link>
-      <description><![CDATA[数据提供商 Preqin 的数据显示，第一季度新推出的多策略对冲基金占新基金的比例不到十分之一，低于 2023 年最后一个季度的约四分之一，这表明市场波动加剧的投资者可能会面临更大的压力。寻求风险较小的前景。]]></description>
+      <description><![CDATA[数据提供商 Preqin 的数据显示，第一季度新推出的多策略对冲基金占新基金的比例不到十分之一，低于 2023 年最后一个季度的约四分之一，这表明市场波动加剧的投资者可能会面临更大的风险。寻求风险较小的前景。]]></description>
       <guid>https://www.reuters.com/markets/multi-strategy-hedge-fund-launches-tumble-first-quarter-says-preqin-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 23:06:32 GMT</pubDate>
     </item>
@@ -41,7 +62,7 @@
       <pubDate>Mon, 29 Apr 2024 16:04:19 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利股东敦促代理顾问投票反对薪酬提议</title>
+      <title>摩根士丹利股东敦促投票反对代理顾问的薪酬提案</title>
       <link>https://www.reuters.com/business/morgan-stanley-shareholders-urged-vote-against-pay-proposal-by-proxy-adviser-2024-04-29/</link>
       <description><![CDATA[根据颇具影响力的代理顾问格拉斯·刘易斯 (Glass Lewis) 的建议，摩根士丹利股东应在 5 月 23 日举行的银行年会上投票反对其高管薪酬提案。]]></description>
       <guid>https://www.reuters.com/business/morgan-stanley-shareholders-urged-vote-against-pay-proposal-by-proxy-adviser-2024-04-29/</guid>
@@ -50,7 +71,7 @@
     <item>
       <title>德意志银行与邮政银行的混乱历史</title>
       <link>https://www.reuters.com/business/finance/deutsche-banks-topsy-turvy-history-with-postbank-2024-04-29/</link>
-      <description><![CDATA[德意志银行表示，该行可能因一项长期诉讼而面临高达 13 亿欧元（13.9 亿美元）的索赔，该诉讼指控该银行因收购零售银行部门 Postbank 而少付股东报酬。]]></description>
+      <description><![CDATA[德意志银行表示，该银行可能因一项长期诉讼而面临高达 13 亿欧元（13.9 亿美元）的索赔，该诉讼指控其在收购零售银行部门邮政银行时少付股东报酬。]]></description>
       <guid>https://www.reuters.com/business/finance/deutsche-banks-topsy-turvy-history-with-postbank-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 14:43:15 GMT</pubDate>
     </item>
@@ -62,9 +83,9 @@
       <pubDate>Mon, 29 Apr 2024 13:38:57 GMT</pubDate>
     </item>
     <item>
-      <title>德国财政部表示，2025 年德国人寿保险公司将获准提供更高的保证福利</title>
+      <title>fin min 表示，德国人寿保险公司可在 2025 年提供更高的保证福利</title>
       <link>https://www.reuters.com/markets/europe/german-life-insurers-allowed-offer-higher-guaranteed-benefits-2025-says-fin-min-2024-04-29/</link>
-      <description><![CDATA[德国财政部周一向路透社表示，德国财政部希望从 2025 年开始允许德国人寿保险公司再次提供具有更高保证福利的产品。]]></description>
+      <description><![CDATA[德国财政部周一告诉路透社，德国财政部希望从 2025 年起，德国人寿保险公司能够再次提供更高保障收益的产品。]]></description>
       <guid>https://www.reuters.com/markets/europe/german-life-insurers-allowed-offer-higher-guaranteed-benefits-2025-says-fin-min-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 12:12:04 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>富尔顿金融公司股价因收购失败的共和第一银行而上涨</title>
       <link>https://www.reuters.com/business/finance/fulton-financial-jumps-after-buying-failed-republic-first-banks-deposits-assets-2024-04-29/</link>
-      <description><![CDATA[富尔顿金融公司 (Fulton Financial) 的股价周一大幅上涨，此前美国监管机构促成了对总部位于费城的共和第一银行 (Republic First Bank) 的收购，但该银行因数月的问题而失败。]]></description>
+      <description><![CDATA[富尔顿金融公司 (Fulton Financial) 的股价周一大幅上涨，此前美国监管机构促成了对总部位于费城的共和第一银行 (Republic First Bank) 的收购，该银行因数月的问题而失败。]]></description>
       <guid>https://www.reuters.com/business/finance/fulton-financial-jumps-after-buying-failed-republic-first-banks-deposits-assets-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 10:21:27 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 10:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃利奥特增持股份，英美资源集团面临压力，被迫披露抵御必和必拓的计划</title>
-      <link>https://www.reuters.com/markets/deals/bhp-adviser-canvassing-investor-views-improved-anglo-bid-sources-say-2024-04-29/</link>
-      <description><![CDATA[周一，英美资源集团面临股东的呼吁，要求详细制定提高其价值的计划，以抵御竞购者必和必拓，因为激进投资者埃利奥特通过增加其在收购目标中的持股进一步提高了股份。]]></description>
-      <guid>https://www.reuters.com/markets/deals/bhp-adviser-canvassing-investor-views-improved-anglo-bid-sources-say-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国五巨头第一季度利润率缩水</title>
-      <link>https://www.reuters.com/business/chinas-agbank-posts-163-fall-q1-profit-2024-04-29/</link>
-      <description><![CDATA[由于贷款需求依然疲软，银行面临着支持资金匮乏的房地产开发商的压力，中国五大银行的利润率在第一季度出现萎缩。]]></description>
-      <guid>https://www.reuters.com/business/chinas-agbank-posts-163-fall-q1-profit-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:43:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>困扰德意志银行邮政银行部门的三大问题</title>
-      <link>https://www.reuters.com/markets/deals/trio-problems-dogging-deutsche-banks-postbank-arm-2024-04-29/</link>
-      <description><![CDATA[德意志银行警告称，一项旷日持久的诉讼称其向邮政银行支付的费用不足，这可能会给这家德国最大的银行造成高达 13 亿欧元（13.9 亿美元）的损失。]]></description>
-      <guid>https://www.reuters.com/markets/deals/trio-problems-dogging-deutsche-banks-postbank-arm-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 07:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
