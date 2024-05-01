@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice/@financialjuice</title>
+    <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 01 May 2024 09:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:50:59 GMT</lastBuildDate>
+    <item>
+      <title>AXIOS：耶伦呼吁美联储独立。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785604093328675052#m</link>
+      <description><![CDATA[AXIOS：耶伦请求美联储独立。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785604093328675052#m</guid>
+      <pubDate>Wed, 01 May 2024 09:36:05 GMT</pubDate>
+    </item>
     <item>
       <title>英国出售 4.625% 2034 年债券
 投标覆盖 3.1
@@ -26,9 +33,9 @@
       <pubDate>Wed, 01 May 2024 09:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>英国 10 年期金边债券实际收益率 4.371%（预测 -，前值 4.015%） $宏观</title>
+      <title>英国 10 年期国债收益率实际 4.371%（预测 -，之前 4.015%）$MACRO</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785596010225434680#m</link>
-      <description><![CDATA[英国 10 年期政府债券收益率实际为 4.371%（预测 -，之前为 4.015%）$MACRO]]></description>
+      <description><![CDATA[英国 10 年期金边实际收益率 4.371%（预测 -，之前 4.015%）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785596010225434680#m</guid>
       <pubDate>Wed, 01 May 2024 09:03:58 GMT</pubDate>
     </item>
@@ -70,14 +77,14 @@
     <item>
       <title>🔴 英格兰第一银行 9 月份降息不再完全反映在 OIS 曲线上。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785562007225192739#m</link>
-      <description><![CDATA[🔴 OIS 曲线不再完全反映 9 月份英格兰银行首次降息的影响。]]></description>
+      <description><![CDATA[🔴英国第一银行 9 月份降息不再完全反映在 OIS 曲线上。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785562007225192739#m</guid>
       <pubDate>Wed, 01 May 2024 06:48:51 GMT</pubDate>
     </item>
     <item>
       <title>英国全国房价环比实际 -0.4%（预测 0.1%，前值 -0.2%） 宏观美元</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785549879277764627#m</link>
-      <description><![CDATA[英国全国房价实际值 -0.4%（预测 0.1%，之前 -0.2%）$MACRO]]></description>
+      <description><![CDATA[英国全国房价实际 -0.4%（预测 0.1%，之前 -0.2%）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785549879277764627#m</guid>
       <pubDate>Wed, 01 May 2024 06:00:39 GMT</pubDate>
     </item>
@@ -109,13 +116,6 @@
       <description><![CDATA[拜登总统批准俄克拉荷马州发生灾难声明 - 声明]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785528373860569568#m</guid>
       <pubDate>Wed, 01 May 2024 04:35:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>荷兰 3 月份零售额同比增长 3.9% - CBS。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785527334386250190#m</link>
-      <description><![CDATA[荷兰 3 月份零售额同比增长 3.9% - CBS。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785527334386250190#m</guid>
-      <pubDate>Wed, 01 May 2024 04:31:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
