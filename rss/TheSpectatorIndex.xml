@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数 / @spectatorindex</title>
+    <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 消息源：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 01 May 2024 02:50:47 GMT</lastBuildDate>
+    <description>Twitter 提要：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Wed, 01 May 2024 03:17:28 GMT</lastBuildDate>
+    <item>
+      <title>突发新闻：纽约警方在哥伦比亚大学逮捕约 100 人</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785504418198409406#m</link>
+      <description><![CDATA[突发新闻：纽约警方在哥伦比亚大学逮捕了约 100 人]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785504418198409406#m</guid>
+      <pubDate>Wed, 01 May 2024 03:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>突发新闻：美国有线电视新闻网 (CNN) 报道称，“数十人”在哥伦比亚大学被捕并被装上巴士</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785499378108743926#m</link>
@@ -52,19 +59,19 @@
 
 （希尔/艾默生）</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785497964452180456#m</link>
-      <description><![CDATA[🇺🇸 美国总统选举民意调查，摇摆州。
+      <description><![CDATA[🇺🇸 美国总统大选民意调查，摇摆州。
 
 亚利桑那州
 
 拜登：44%
 特朗普：48%
 
-佐治亚州
+格鲁吉亚
 
 拜登：44%
 特朗普：47%
 
-密歇根州
+密歇根
 
 拜登：44%
 特朗普：45%
@@ -89,12 +96,12 @@
 拜登：45%
 特朗普：47%
 
-(The Hill/Emerson)]]></description>
+（希尔/艾默生）]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785497964452180456#m</guid>
       <pubDate>Wed, 01 May 2024 02:34:22 GMT</pubDate>
     </item>
     <item>
-      <title>突发新闻：哥伦比亚大学表示，在抗议者“选择通过他们的行动使局势升级”后，它要求纽约警察局介入以“恢复我们社区的安全和秩序”</title>
+      <title>突发新闻：哥伦比亚大学表示，在抗议者“选择通过他们的行动使局势升级”后，它要求纽约警察局出席，以“恢复我们社区的安全和秩序”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785493360188551549#m</link>
       <description><![CDATA[突发新闻：哥伦比亚大学表示，在抗议者“选择通过他们的行动使局势升级”后，它要求纽约警察局介入以“恢复我们社区的安全和秩序”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785493360188551549#m</guid>
@@ -108,7 +115,7 @@
       <pubDate>Wed, 01 May 2024 02:14:11 GMT</pubDate>
     </item>
     <item>
-      <title>上一篇：纽约警方称哥伦比亚大学对抗议者使用催泪瓦斯的报道是错误的</title>
+      <title>最新消息：纽约警方称哥伦比亚大学对抗议者使用催泪瓦斯的报道是虚假的</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785491215695409571#m</link>
       <description><![CDATA[刚刚：纽约警方称有关哥伦比亚大学对抗议者使用催泪瓦斯的报道是错误的]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785491215695409571#m</guid>
@@ -117,7 +124,7 @@
     <item>
       <title>您支持强行拆除美国大学抗议者营地吗？</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785479606226813163#m</link>
-      <description><![CDATA[您支持强行拆除美国大学的抗议者营地吗？]]></description>
+      <description><![CDATA[你是否支持强制拆除美国大学的抗议者营地？]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785479606226813163#m</guid>
       <pubDate>Wed, 01 May 2024 01:21:25 GMT</pubDate>
     </item>
@@ -131,7 +138,7 @@
     <item>
       <title>突发：纽约警方收到哥伦比亚大学要求清理抗议者营地的请求</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785474208207896791#m</link>
-      <description><![CDATA[突发新闻：纽约警方收到哥伦比亚大学要求清理抗议者营地的请求]]></description>
+      <description><![CDATA[突发新闻：纽约警方收到哥伦比亚大学清理抗议者营地的请求]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785474208207896791#m</guid>
       <pubDate>Wed, 01 May 2024 00:59:58 GMT</pubDate>
     </item>
@@ -150,7 +157,7 @@
       <pubDate>Tue, 30 Apr 2024 21:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚：亚马逊超出预期，季度营收达 1430 亿美元</title>
+      <title>刚刚发布：亚马逊超出预期，季度营收达 1,430 亿美元</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785410939275423902#m</link>
       <description><![CDATA[刚刚：亚马逊超出预期，季度收入达 1,430 亿美元]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785410939275423902#m</guid>
@@ -175,7 +182,7 @@
     <item>
       <title>刚刚：马来西亚100多家肯德基分店将因“亲巴勒斯坦抵制”而暂时关闭</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785405589419606108#m</link>
-      <description><![CDATA[最新消息：受“亲巴勒斯坦抵制”影响，马来西亚 100 多家肯德基门店将暂时关闭]]></description>
+      <description><![CDATA[刚刚：由于“支持巴勒斯坦的抵制”，马来西亚超过 100 家肯德基分店将暂时关闭]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785405589419606108#m</guid>
       <pubDate>Tue, 30 Apr 2024 20:27:18 GMT</pubDate>
     </item>
@@ -185,13 +192,6 @@
       <description><![CDATA[刚刚：联合国秘书长安东尼奥·古特雷斯表示“定居点是两国解决方案的障碍”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785405304898982138#m</guid>
       <pubDate>Tue, 30 Apr 2024 20:26:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚：以色列对黎巴嫩南部发动空袭</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785399905068142807#m</link>
-      <description><![CDATA[刚刚：以色列空袭黎巴嫩南部]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785399905068142807#m</guid>
-      <pubDate>Tue, 30 Apr 2024 20:04:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
