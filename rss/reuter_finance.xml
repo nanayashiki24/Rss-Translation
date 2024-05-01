@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 |今日头条 |路透社</title>
+    <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 01 May 2024 11:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 11:51:42 GMT</lastBuildDate>
     <item>
       <title>印度反垄断监管机构调查保乐力加是否与新德里零售商勾结</title>
       <link>https://www.reuters.com/sustainability/indian-antitrust-regulator-checks-if-pernod-colluded-with-new-delhi-retailers-2024-05-01/</link>
@@ -13,7 +13,7 @@
       <pubDate>Wed, 01 May 2024 07:52:42 GMT</pubDate>
     </item>
     <item>
-      <title>Ninewide 数据显示，英国 4 月份房价意外下跌</title>
+      <title>全国数据显示英国四月份房价意外下跌</title>
       <link>https://www.reuters.com/world/uk/uk-house-prices-fall-unexpectedly-april-nationwide-data-shows-2024-05-01/</link>
       <description><![CDATA[周三，抵押贷款机构 Nationwide 的数据显示，英国房价在 4 月份连续第二个月意外下跌。]]></description>
       <guid>https://www.reuters.com/world/uk/uk-house-prices-fall-unexpectedly-april-nationwide-data-shows-2024-05-01/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>澳大利亚银行因成本上升和抵押贷款竞争而面临利润挤压</title>
       <link>https://www.reuters.com/business/finance/australia-banks-face-profit-squeeze-rising-costs-mortgage-competition-2024-05-01/</link>
-      <description><![CDATA[澳大利亚最大的几家银行可能会报告上半年利润下滑，因为高昂的运营成本以及抵押贷款和存款销售的竞争挤压了利润率，这可能导致股市上涨趋势出现逆转，分析师称股市上涨导致该行业过热。]]></description>
+      <description><![CDATA[澳大利亚最大的银行可能会报告上半年利润疲弱，因为高运营成本以及销售抵押贷款和存款的竞争挤压了利润率，分析师称股市上涨导致该行业过热，这可能会出现逆转。]]></description>
       <guid>https://www.reuters.com/business/finance/australia-banks-face-profit-squeeze-rising-costs-mortgage-competition-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 00:46:58 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>贝莱德将推出 PIF 支持的沙特投资平台</title>
       <link>https://www.reuters.com/business/finance/blackrock-launch-pif-backed-saudi-investment-platform-2024-04-30/</link>
-      <description><![CDATA[全球最大的资产管理公司贝莱德周二表示，计划在沙特阿拉伯推出一个新的投资平台，并得到沙特主权财富基金公共投资基金 (PIF) 高达 50 亿美元的支持。]]></description>
+      <description><![CDATA[全球最大的资产管理公司贝莱德周二表示，计划在沙特阿拉伯推出一个新的投资平台，该平台将获得沙特主权财富基金公共投资基金（PIF）高达 50 亿美元的支持。]]></description>
       <guid>https://www.reuters.com/business/finance/blackrock-launch-pif-backed-saudi-investment-platform-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 17:03:32 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>独家：奥地利官员警告赖夫艾森不要与俄罗斯寡头交易</title>
       <link>https://www.reuters.com/markets/deals/austrian-officials-warn-off-raiffeisen-russian-oligarch-deal-sources-say-2024-04-30/</link>
-      <description><![CDATA[知情人士称，奥地利当局因担心美国的强烈反对，敦促瑞夫艾森国际银行（RBI）放弃一项与俄罗斯寡头有关的交易，这对印度央行解救滞留在俄罗斯的资金的计划构成打击。]]></description>
+      <description><![CDATA[知情人士称，由于担心遭到美国的强烈反对，奥地利当局已敦促奥地利奥合国银行（RBI）放弃与俄罗斯寡头有关的一项交易，这对 RBI 解锁滞留在俄罗斯的资金的计划是一个打击。]]></description>
       <guid>https://www.reuters.com/markets/deals/austrian-officials-warn-off-raiffeisen-russian-oligarch-deal-sources-say-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 14:46:26 GMT</pubDate>
     </item>
