@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Wed, 01 May 2024 07:45:00 GMT</lastBuildDate>
+    <item>
+      <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数期货下跌：实时更新</title>
+      <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
+      <description><![CDATA[美联储将于周三发布利率政策决定，交易员将关注政策制定者不愿降息的情况。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 01 May 2024 08:44:27 GMT</pubDate>
+    </item>
     <item>
       <title>纽约市警方在哥伦比亚大学突袭中逮捕了数十名亲巴勒斯坦抗议者</title>
       <link>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</link>
@@ -15,7 +22,7 @@
     <item>
       <title>乌克兰战争实时更新：莫斯科希望在进攻前加强武器和部队；俄罗斯的焦点似乎转移到顿涅茨克</title>
       <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯似乎正在寻求加强其军队的战斗力和武器供应，以应对预计在五月中旬和六月初发动的新的大规模攻势。]]></description>
+      <description><![CDATA[俄罗斯似乎正在寻求加强其军队的战斗力和武器供应，以应对预计在五月中旬、六月初发动的新的大规模攻势。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Wed, 01 May 2024 08:28:43 GMT</pubDate>
     </item>
@@ -27,16 +34,9 @@
       <pubDate>Wed, 01 May 2024 08:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数期货下跌：实时更新</title>
-      <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
-      <description><![CDATA[美联储将于周三发布利率政策决定，交易员将关注政策制定者不愿降息的情况。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 01 May 2024 06:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管“绿色抵制”浪潮日益高涨，但全球最幸福国家仍致力于实现净负排放</title>
+      <title>尽管“绿潮​​”日益盛行，世界上最幸福的国家仍以净负排放为目标</title>
       <link>https://www.cnbc.com/2024/05/01/climate-crisis-worlds-happiest-countries-are-looking-beyond-net-zero.html</link>
-      <description><![CDATA[尽管绿色政治的强烈反对，芬兰和丹麦都将未来几年的目标定为“净负排放”。]]></description>
+      <description><![CDATA[尽管绿色政治的强烈反对，芬兰和丹麦都在未来几年瞄准“净负排放”。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/climate-crisis-worlds-happiest-countries-are-looking-beyond-net-zero.html</guid>
       <pubDate>Wed, 01 May 2024 05:01:45 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 30 Apr 2024 23:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>花旗指定 3 只生物科技股将发挥价值 29 亿美元的增长机会——其中一只的上涨空间约为 50%</title>
+      <title>花旗列出 3 只生物科技股，有望创造 29 亿美元的增长机会，其中每只股票上涨空间约为 50%</title>
       <link>https://www.cnbc.com/2024/05/01/citi-names-3-biotech-stocks-to-play-a-growing-2point9-billion-opportunity.html</link>
       <description><![CDATA[由于市场目前预计首次降息将在 9 月而不是之前认为的 6 月或 7 月，生物科技股可能会开始表现良好。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/citi-names-3-biotech-stocks-to-play-a-growing-2point9-billion-opportunity.html</guid>
@@ -83,7 +83,7 @@
       <pubDate>Tue, 30 Apr 2024 23:13:15 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊成本削减使营业利润率首次升至两位数</title>
+      <title>亚马逊成本削减使营业利润率首次达到两位数</title>
       <link>https://www.cnbc.com/2024/04/30/amazon-cost-cuts-lift-operating-margin-to-double-digits-for-first-time.html</link>
       <description><![CDATA[亚马逊的营业利润率跃升至 10% 以上，超过 2021 年 8.2% 的历史高点。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/amazon-cost-cuts-lift-operating-margin-to-double-digits-for-first-time.html</guid>
