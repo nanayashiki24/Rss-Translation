@@ -3,21 +3,21 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Wed, 01 May 2024 07:45:00 GMT</lastBuildDate>
+    <item>
+      <title>豪华汽车制造商阿斯顿·马丁股价下跌 12%，亏损近一倍</title>
+      <link>https://www.cnbc.com/2024/05/01/aston-martins-losses-nearly-double-on-lower-sales-but-carmaker-projects-growth-from-new-models.html</link>
+      <description><![CDATA[调整后税前亏损为 1.105 亿英镑（1.378 亿美元），而上一年亏损为 5730 万英镑。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/aston-martins-losses-nearly-double-on-lower-sales-but-carmaker-projects-growth-from-new-models.html</guid>
+      <pubDate>Wed, 01 May 2024 08:02:00 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰战争实时更新：莫斯科希望在进攻前加强武器和部队；俄罗斯的焦点似乎转移到顿涅茨克</title>
       <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
       <description><![CDATA[俄罗斯似乎正在寻求加强其军队的战斗力和武器供应，以应对预计在五月中旬、六月初发动的新的大规模攻势。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Wed, 01 May 2024 07:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>豪华汽车制造商阿斯顿·马丁股价下跌 12%，亏损近一倍</title>
-      <link>https://www.cnbc.com/2024/05/01/aston-martins-losses-nearly-double-on-lower-sales-but-carmaker-projects-growth-from-new-models.html</link>
-      <description><![CDATA[调整后税前亏损为 1.105 亿英镑（1.378 亿美元），而上一年亏损为 5730 万英镑。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/aston-martins-losses-nearly-double-on-lower-sales-but-carmaker-projects-growth-from-new-models.html</guid>
-      <pubDate>Wed, 01 May 2024 07:34:09 GMT</pubDate>
     </item>
     <item>
       <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数期货下跌：实时更新</title>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 04:38:56 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普媒体内幕交易审判从联合创始人作证开始，“我根本没有得到报酬”</title>
+      <title>特朗普媒体内幕交易案开庭，联合创始人作证称“我从未收到过任何报酬”</title>
       <link>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</link>
       <description><![CDATA[特朗普媒体 (Trump Media) 宣布计划于 2021 年底与一家空壳公司合并。该交易的法律后果正在多个法庭上展开。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</guid>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 01 May 2024 00:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>币安联合创始人赵长鹏即使被判入狱四个月，其财富仍将继续增长 330 亿美元</title>
+      <title>币安联合创始人赵在入狱四个月后仍将继续增加其 330 亿美元的财富</title>
       <link>https://www.cnbc.com/2024/04/30/binance-founder-zhaos-huge-wealth-unaffected-by-prison-sentence.html</link>
       <description><![CDATA[币安创始人赵长鹏预计，在入狱期间，他的 330 亿美元个人财富将继续攀升。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/binance-founder-zhaos-huge-wealth-unaffected-by-prison-sentence.html</guid>
@@ -76,7 +76,7 @@
       <pubDate>Tue, 30 Apr 2024 23:14:15 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲只有两只股票连续 5 个季度超出预期且每次都上涨</title>
+      <title>欧洲仅有 2 只股票连续 5 个季度超出预期，且每次都出现上涨</title>
       <link>https://www.cnbc.com/2024/05/01/only-2-stocks-in-europe-have-beaten-estimates-for-5-quarters-and-rallied-each-time.html</link>
       <description><![CDATA[CNBC Pro 筛选了超出分析师每股收益预期的欧洲股票，并在接下来的交易日看到股价上涨。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/only-2-stocks-in-europe-have-beaten-estimates-for-5-quarters-and-rallied-each-time.html</guid>
@@ -92,14 +92,14 @@
     <item>
       <title>DJT：特朗普获得 3600 万股特朗普媒体股票，价值 18 亿美元作为盈利奖金</title>
       <link>https://www.cnbc.com/2024/04/30/djt-trump-receives-36-million-more-shares-of-trump-media-as-bonus.html</link>
-      <description><![CDATA[这些股票是特朗普同名媒体公司在三月份上市前不久同意的合同“盈利奖金”的一部分。]]></description>
+      <description><![CDATA[这些股票是特朗普同名媒体公司在三月份上市前不久同意的合同“收益奖金”的一部分。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/djt-trump-receives-36-million-more-shares-of-trump-media-as-bonus.html</guid>
       <pubDate>Tue, 30 Apr 2024 22:57:39 GMT</pubDate>
     </item>
     <item>
       <title>AMD表示今年将销售40亿美元的AI芯片；股价下跌符合预测</title>
       <link>https://www.cnbc.com/2024/04/30/amd-gaming-revenue-falls-48percent-year-over-year-and-the-stock-is-down.html</link>
-      <description><![CDATA[AMD 销售与 Nvidia 竞争的人工智能芯片，但它的大部分收入来自 PC 芯片。]]></description>
+      <description><![CDATA[AMD 销售的 AI 芯片与 Nvidia 竞争，但其大部分收入来自 PC 芯片。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/amd-gaming-revenue-falls-48percent-year-over-year-and-the-stock-is-down.html</guid>
       <pubDate>Tue, 30 Apr 2024 22:34:24 GMT</pubDate>
     </item>
