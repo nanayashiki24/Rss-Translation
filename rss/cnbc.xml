@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 01 May 2024 10:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 11:09:00 GMT</lastBuildDate>
+    <item>
+      <title>以下是美联储周三将推动市场的一切预期</title>
+      <link>https://www.cnbc.com/2024/04/30/heres-everything-to-expect-when-the-fed-wraps-up-its-meeting-wednesday.html</link>
+      <description><![CDATA[市场预计央行政策制定部门宣布利率变化的可能性几乎为零。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/heres-everything-to-expect-when-the-fed-wraps-up-its-meeting-wednesday.html</guid>
+      <pubDate>Wed, 01 May 2024 11:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>周三分析师呼吁：亚马逊赢得好评，3M 获得一些支持，星巴克降价</title>
+      <link>https://www.cnbc.com/2024/05/01/wednesdays-analyst-calls-amazon-earnings-draw-praise-3m-finds-some-support.html</link>
+      <description><![CDATA[这是 CNBC Pro 对周三分析师电话会议和华尔街闲谈的现场报道。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/wednesdays-analyst-calls-amazon-earnings-draw-praise-3m-finds-some-support.html</guid>
+      <pubDate>Wed, 01 May 2024 11:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>必胜客、肯德基销售额令人失望，百胜餐饮集团盈利未达预期</title>
+      <link>https://www.cnbc.com/2024/05/01/yum-brands-yum-q1-2024-earnings.html</link>
+      <description><![CDATA[肯德基和必胜客报告同店销售额下降，而塔可钟的同店销售额仅增长 1%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/yum-brands-yum-q1-2024-earnings.html</guid>
+      <pubDate>Wed, 01 May 2024 11:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于利率上升，对风险较高的可调利率抵押贷款的需求达到今年最高水平</title>
+      <link>https://www.cnbc.com/2024/05/01/demand-for-riskier-adjustable-rate-mortgages-hits-highest-level-of-the-year.html</link>
+      <description><![CDATA[根据抵押贷款银行家协会的数据，上周 ARM 申请占抵押贷款需求的比例上升至 7.8%。这是今年的最高水平。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/demand-for-riskier-adjustable-rate-mortgages-hits-highest-level-of-the-year.html</guid>
+      <pubDate>Wed, 01 May 2024 11:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>CVS 公布盈利大幅下滑，因医疗成本上升而下调利润前景</title>
       <link>https://www.cnbc.com/2024/05/01/cvs-health-cvs-earnings-q1-2024.html</link>
       <description><![CDATA[由于许多 Medicare Advantage 患者返回医院接受在新冠疫情期间推迟的手术，CVS 和其他保险公司的医疗费用飙升。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/cvs-health-cvs-earnings-q1-2024.html</guid>
-      <pubDate>Wed, 01 May 2024 10:47:34 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 10:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>为了对汽车经销商进行电动汽车和其他主题的培训，福特转向游戏化和人工智能驱动的教育</title>
-      <link>https://www.cnbc.com/2024/05/01/ford-university-dealer-training-ev-ai-gamification.html</link>
-      <description><![CDATA[经销店员工是福特以外的经销商雇用的，对于公司的销售、绩效以及客户参与度和满意度至关重要。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/ford-university-dealer-training-ev-ai-gamification.html</guid>
-      <pubDate>Wed, 01 May 2024 10:47:34 GMT</pubDate>
+      <title>巴克莱建议，将您持有的大型科技股多元化，投资于具有类似特征的其他股票</title>
+      <link>https://www.cnbc.com/2024/05/01/diversify-your-big-tech-holdings-into-these-other-stocks-with-similar-traits-recommends-barclays.html</link>
+      <description><![CDATA[尽管巴克莱认为大型科技公司的估值看起来很合理，但该公司表示，它们“不是唯一的游戏”，并建议投资者实现投资组合多元化。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/diversify-your-big-tech-holdings-into-these-other-stocks-with-similar-traits-recommends-barclays.html</guid>
+      <pubDate>Wed, 01 May 2024 10:55:35 GMT</pubDate>
     </item>
     <item>
       <title>强生公司将支付 65 亿美元解决美国几乎所有滑石粉卵巢癌诉讼</title>
@@ -34,21 +62,7 @@
       <pubDate>Wed, 01 May 2024 10:38:47 GMT</pubDate>
     </item>
     <item>
-      <title>周三分析师呼吁：亚马逊赢得好评，3M 获得一些支持，星巴克降价</title>
-      <link>https://www.cnbc.com/2024/05/01/wednesdays-analyst-calls-amazon-earnings-draw-praise-3m-finds-some-support.html</link>
-      <description><![CDATA[这是 CNBC Pro 对周三分析师电话会议和华尔街闲谈的现场报道。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/wednesdays-analyst-calls-amazon-earnings-draw-praise-3m-finds-some-support.html</guid>
-      <pubDate>Wed, 01 May 2024 10:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>基金经理表示，美联储只会降息以帮助美国偿还飙升的债务</title>
-      <link>https://www.cnbc.com/2024/05/01/fund-manager-says-there-is-no-economic-rationale-for-fed-rate-cuts.html</link>
-      <description><![CDATA[基金经理弗雷迪·莱特表示，美联储降息的原因可能是帮助美国支付国债利息。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/fund-manager-says-there-is-no-economic-rationale-for-fed-rate-cuts.html</guid>
-      <pubDate>Wed, 01 May 2024 10:07:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府免除了 317,000 名前艺术学院学生的 61 亿美元学生债务</title>
+      <title>拜登政府免除 31.7 万名艺术学院毕业生 61 亿美元的学生债务</title>
       <link>https://www.cnbc.com/2024/05/01/biden-forgives-6point1-billion-in-student-debt-for-art-institute-students.html</link>
       <description><![CDATA[拜登政府宣布将免除31.7万名艺术学院前学生逾61亿美元的学生债务。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/biden-forgives-6point1-billion-in-student-debt-for-art-institute-students.html</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[许多医生无法获得服务报酬。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/change-healthcare-cyberattack-doctors-tap-personal-savings-for-costs.html</guid>
       <pubDate>Tue, 30 Apr 2024 20:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是美联储周三结束会议时值得期待的一切</title>
-      <link>https://www.cnbc.com/2024/04/30/heres-everything-to-expect-when-the-fed-wraps-up-its-meeting-wednesday.html</link>
-      <description><![CDATA[市场预计央行政策制定部门宣布利率变化的可能性几乎为零。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/heres-everything-to-expect-when-the-fed-wraps-up-its-meeting-wednesday.html</guid>
-      <pubDate>Tue, 30 Apr 2024 19:34:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府开始重新划分大麻类别，大麻股飙升</title>
-      <link>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</link>
-      <description><![CDATA[与大麻相关的股票在市场低迷的一天中飙升。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</guid>
-      <pubDate>Tue, 30 Apr 2024 19:19:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
