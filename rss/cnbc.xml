@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 01 May 2024 13:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 13:44:00 GMT</lastBuildDate>
+    <item>
+      <title>4 月份私人就业人数增加 192,000 人，高于劳动力市场弹性的预期</title>
+      <link>https://www.cnbc.com/2024/05/01/adp-jobs-report-april-2024-192000-jobs-added.html</link>
+      <description><![CDATA[4月份私人就业人数增长速度快于预期，表明美国劳动力市场仍有充足的推动力。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/adp-jobs-report-april-2024-192000-jobs-added.html</guid>
+      <pubDate>Wed, 01 May 2024 13:46:03 GMT</pubDate>
+    </item>
     <item>
       <title>随着华尔街准备美联储利率决定，标准普尔下跌 500 英寸：实时更新</title>
       <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
-      <description><![CDATA[美联储将于周三发布利率政策决定，交易员将关注政策制定者不愿降息的情况。]]></description>
+      <description><![CDATA[美联储将于周三公布其利率政策决定，交易员将关注政策制定者不愿降息的态度。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 01 May 2024 13:34:28 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 13:43:55 GMT</pubDate>
     </item>
     <item>
       <title>在美联储决定和加沙停火谈判之前，美国原油价格连续第三天下跌，跌破81美元</title>
       <link>https://www.cnbc.com/2024/05/01/crude-oil-prices-today.html</link>
-      <description><![CDATA[大量数据显示通胀持续存在，消费者信心下降，美国经济增长速度慢于预期。]]></description>
+      <description><![CDATA[大量数据表明，通货膨胀十分顽固，消费者信心正在下降，美国经济增长速度低于预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/crude-oil-prices-today.html</guid>
-      <pubDate>Wed, 01 May 2024 13:25:38 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 13:43:28 GMT</pubDate>
     </item>
     <item>
       <title>吉姆·克莱默 (Jim Cramer) 周三股市最值得关注的 10 件事</title>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 13:25:32 GMT</pubDate>
     </item>
     <item>
-      <title>辉瑞公司超出收入预期，因成本削减和新冠药物销售降幅小于预期而上调利润前景</title>
+      <title>辉瑞收入超出预期，上调利润预期，因成本削减且新冠药物销售降幅小于预期</title>
       <link>https://www.cnbc.com/2024/05/01/pfizer-pfe-earnings-q1-2024.html</link>
       <description><![CDATA[这家制药巨头的季度业绩还得益于其新冠抗病毒药物 Paxlovid 的销售额降幅小于预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/pfizer-pfe-earnings-q1-2024.html</guid>
@@ -62,14 +69,7 @@
       <pubDate>Wed, 01 May 2024 12:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>4 月份私人就业人数增加 192,000 人，高于劳动力市场弹性的预期</title>
-      <link>https://www.cnbc.com/2024/05/01/adp-jobs-report-april-2024-192000-jobs-added.html</link>
-      <description><![CDATA[4月份私人就业人数增长速度快于预期，表明美国劳动力市场仍有充足的推动力。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/adp-jobs-report-april-2024-192000-jobs-added.html</guid>
-      <pubDate>Wed, 01 May 2024 12:54:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰战争实时更新：俄罗斯展示在乌克兰缴获的北约军事装备；莫斯科加强武器和前线部队</title>
+      <title>乌克兰战争实况：俄罗斯展示在乌克兰缴获的北约军事装备；莫斯科将加强武器和前线部队</title>
       <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
       <description><![CDATA[俄罗斯民众涌向莫斯科，观看俄罗斯军队在乌克兰缴获的北约军事装备的新展览。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
