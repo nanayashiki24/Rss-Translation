@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 01 May 2024 10:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 10:51:00 GMT</lastBuildDate>
+    <item>
+      <title>CVS 公布盈利大幅下滑，因医疗成本上升而下调利润前景</title>
+      <link>https://www.cnbc.com/2024/05/01/cvs-health-cvs-earnings-q1-2024.html</link>
+      <description><![CDATA[由于许多 Medicare Advantage 患者返回医院接受在新冠疫情期间推迟的手术，CVS 和其他保险公司的医疗费用飙升。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/cvs-health-cvs-earnings-q1-2024.html</guid>
+      <pubDate>Wed, 01 May 2024 10:47:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>为了对汽车经销商进行电动汽车和其他主题的培训，福特转向游戏化和人工智能驱动的教育</title>
+      <link>https://www.cnbc.com/2024/05/01/ford-university-dealer-training-ev-ai-gamification.html</link>
+      <description><![CDATA[经销店员工是福特以外的经销商雇用的，对于公司的销售、绩效以及客户参与度和满意度至关重要。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/ford-university-dealer-training-ev-ai-gamification.html</guid>
+      <pubDate>Wed, 01 May 2024 10:47:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>强生公司将支付 65 亿美元解决美国几乎所有滑石粉卵巢癌诉讼</title>
+      <link>https://www.cnbc.com/2024/05/01/johnson-johnson-will-pay-6point5-billion-to-resolve-nearly-all-talc-ovarian-cancer-lawsuits-in-us.html</link>
+      <description><![CDATA[该交易将使强生能够通过子公司 LTL Management 的第三次破产申请来解决诉讼。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/johnson-johnson-will-pay-6point5-billion-to-resolve-nearly-all-talc-ovarian-cancer-lawsuits-in-us.html</guid>
+      <pubDate>Wed, 01 May 2024 10:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数期货下跌：实时更新</title>
+      <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
+      <description><![CDATA[美联储将于周三发布利率政策决定，交易员将关注政策制定者不愿降息的情况。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 01 May 2024 10:38:47 GMT</pubDate>
+    </item>
     <item>
       <title>周三分析师呼吁：亚马逊赢得好评，3M 获得一些支持，星巴克降价</title>
       <link>https://www.cnbc.com/2024/05/01/wednesdays-analyst-calls-amazon-earnings-draw-praise-3m-finds-some-support.html</link>
       <description><![CDATA[这是 CNBC Pro 对周三分析师电话会议和华尔街闲谈的现场报道。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/wednesdays-analyst-calls-amazon-earnings-draw-praise-3m-finds-some-support.html</guid>
       <pubDate>Wed, 01 May 2024 10:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了对汽车经销商进行电动汽车和其他主题的培训，福特转向游戏化和人工智能驱动的教育</title>
-      <link>https://www.cnbc.com/2024/05/01/ford-university-dealer-training-ev-ai-gamification.html</link>
-      <description><![CDATA[经销商员工是福特以外的经销商雇用的，对于公司的销售、绩效以及客户参与度和满意度至关重要。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/ford-university-dealer-training-ev-ai-gamification.html</guid>
-      <pubDate>Wed, 01 May 2024 10:25:59 GMT</pubDate>
     </item>
     <item>
       <title>基金经理表示，美联储只会降息以帮助美国偿还飙升的债务</title>
@@ -48,13 +69,6 @@
       <pubDate>Wed, 01 May 2024 09:37:02 GMT</pubDate>
     </item>
     <item>
-      <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数期货下跌：实时更新</title>
-      <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
-      <description><![CDATA[美联储将于周三公布其利率政策决定，交易员将关注政策制定者不愿降息的态度。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 01 May 2024 08:44:27 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普媒体内幕交易审判从联合创始人作证开始，“我根本没有得到报酬”</title>
       <link>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</link>
       <description><![CDATA[特朗普媒体 (Trump Media) 宣布计划于 2021 年底与一家空壳公司合并。该交易的法律后果正在多个法庭上展开。]]></description>
@@ -69,13 +83,6 @@
       <pubDate>Wed, 01 May 2024 00:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克裁减 Supercharger 团队约 500 名员工后，特斯拉股价下跌近 6%</title>
-      <link>https://www.cnbc.com/2024/04/30/tesla-shares-drop-after-musk-cuts-about-500-jobs-in-supercharger-team.html</link>
-      <description><![CDATA[特斯拉正在继续进行大规模重组，并从 Supercharger 团队中解雇了约 500 名员工。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/tesla-shares-drop-after-musk-cuts-about-500-jobs-in-supercharger-team.html</guid>
-      <pubDate>Tue, 30 Apr 2024 22:55:43 GMT</pubDate>
-    </item>
-    <item>
       <title>AMD表示今年将销售40亿美元的AI芯片；股价下跌符合预测</title>
       <link>https://www.cnbc.com/2024/04/30/amd-gaming-revenue-falls-48percent-year-over-year-and-the-stock-is-down.html</link>
       <description><![CDATA[AMD 销售与 Nvidia 竞争的人工智能芯片，但它的大部分收入来自 PC 芯片。]]></description>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 30 Apr 2024 22:34:24 GMT</pubDate>
     </item>
     <item>
-      <title>联合健康公司遭受网络攻击，迫使医生动用个人储蓄以维持生计</title>
+      <title>联合健康公司遭受网络攻击，迫使医生动用个人积蓄维持生计</title>
       <link>https://www.cnbc.com/2024/04/30/change-healthcare-cyberattack-doctors-tap-personal-savings-for-costs.html</link>
       <description><![CDATA[许多医生无法获得服务报酬。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/change-healthcare-cyberattack-doctors-tap-personal-savings-for-costs.html</guid>
@@ -97,18 +104,11 @@
       <pubDate>Tue, 30 Apr 2024 19:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>随着拜登政府采取行动对大麻进行重新分类，大麻库存飙升</title>
+      <title>拜登政府开始重新划分大麻类别，大麻股飙升</title>
       <link>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</link>
       <description><![CDATA[与大麻相关的股票在市场低迷的一天中飙升。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</guid>
       <pubDate>Tue, 30 Apr 2024 19:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>麦当劳和其他大品牌警告低收入消费者开始崩溃</title>
-      <link>https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html</link>
-      <description><![CDATA[价格上涨给一系列与消费者互动的行业的客户带来了压力。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html</guid>
-      <pubDate>Tue, 30 Apr 2024 18:48:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
