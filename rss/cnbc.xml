@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 01 May 2024 04:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 05:03:00 GMT</lastBuildDate>
+    <item>
+      <title>尽管“绿潮​​”日益盛行，世界上最幸福的国家仍以净负排放为目标</title>
+      <link>https://www.cnbc.com/2024/05/01/climate-crisis-worlds-happiest-countries-are-looking-beyond-net-zero.html</link>
+      <description><![CDATA[尽管绿色政治的强烈反对，芬兰和丹麦都将未来几年的目标定为“净负排放”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/climate-crisis-worlds-happiest-countries-are-looking-beyond-net-zero.html</guid>
+      <pubDate>Wed, 01 May 2024 05:01:45 GMT</pubDate>
+    </item>
     <item>
       <title>纽约市警方在哥伦比亚大学突袭中逮捕了数十名亲巴勒斯坦抗议者</title>
       <link>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</link>
-      <description><![CDATA[有人看到一长队警察从二楼的窗户爬进大楼，然后乘着一辆带梯子的车辆到达楼上。]]></description>
+      <description><![CDATA[人们看到一长串警察从二楼的窗户爬进大楼，使用带有梯子的车辆进入楼上。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</guid>
       <pubDate>Wed, 01 May 2024 04:38:56 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普媒体内幕交易审判从联合创始人作证开始，“我根本没有得到报酬”</title>
+      <title>特朗普媒体内幕交易案开庭，联合创始人作证称“我从未收到过任何报酬”</title>
       <link>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</link>
       <description><![CDATA[特朗普媒体 (Trump Media) 宣布计划于 2021 年底与一家空壳公司合并。该交易的法律后果正在多个法庭上展开。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</guid>
@@ -29,14 +36,14 @@
     <item>
       <title>星巴克股价下跌 12%，因同店销售下滑，咖啡连锁店大幅下调 2024 年业绩预期</title>
       <link>https://www.cnbc.com/2024/04/30/starbucks-sbux-earnings-q2-2024.html</link>
-      <description><![CDATA[星巴克报告称，所有地区的同店销售额均出现萎缩，客流量也出现下降。]]></description>
+      <description><![CDATA[在所有地区，星巴克均报告同店销售额萎缩和客流量下降。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/starbucks-sbux-earnings-q2-2024.html</guid>
       <pubDate>Wed, 01 May 2024 00:17:26 GMT</pubDate>
     </item>
     <item>
       <title>币安联合创始人赵在入狱四个月后仍将继续增加其 330 亿美元的财富</title>
       <link>https://www.cnbc.com/2024/04/30/binance-founder-zhaos-huge-wealth-unaffected-by-prison-sentence.html</link>
-      <description><![CDATA[币安创始人赵长鹏预计，在入狱期间，他的 330 亿美元个人财富将继续攀升。]]></description>
+      <description><![CDATA[币安创始人赵长鹏预计，他在狱中个人财富将继续增长 330 亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/binance-founder-zhaos-huge-wealth-unaffected-by-prison-sentence.html</guid>
       <pubDate>Tue, 30 Apr 2024 23:34:33 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>花旗指定 3 只生物科技股将发挥价值 29 亿美元的增长机会——其中一只的上涨空间约为 50%</title>
       <link>https://www.cnbc.com/2024/05/01/citi-names-3-biotech-stocks-to-play-a-growing-2point9-billion-opportunity.html</link>
-      <description><![CDATA[由于市场目前预计首次降息将在 9 月而不是之前认为的 6 月或 7 月，生物科技股可能会开始表现良好。]]></description>
+      <description><![CDATA[目前市场预计首次降息将在9月份，而不是之前认为的6月或7月，生物科技股可能开始表现良好。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/citi-names-3-biotech-stocks-to-play-a-growing-2point9-billion-opportunity.html</guid>
       <pubDate>Tue, 30 Apr 2024 23:14:15 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 30 Apr 2024 23:13:15 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊成本削减使营业利润率首次升至两位数</title>
+      <title>亚马逊成本削减使营业利润率首次达到两位数</title>
       <link>https://www.cnbc.com/2024/04/30/amazon-cost-cuts-lift-operating-margin-to-double-digits-for-first-time.html</link>
       <description><![CDATA[亚马逊的营业利润率跃升至 10% 以上，超过 2021 年 8.2% 的历史高点。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/amazon-cost-cuts-lift-operating-margin-to-double-digits-for-first-time.html</guid>
@@ -90,21 +97,14 @@
       <pubDate>Tue, 30 Apr 2024 22:34:24 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 股价因盈利好转和收入强劲增长而飙升 18%</title>
-      <link>https://www.cnbc.com/2024/04/30/pinterest-shares-soar-16percent-on-earnings-beat-strong-revenue-growth-.html</link>
-      <description><![CDATA[Pinterest 公布第一季度业绩后，周二该公司股价在盘后交易中出现上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/pinterest-shares-soar-16percent-on-earnings-beat-strong-revenue-growth-.html</guid>
-      <pubDate>Tue, 30 Apr 2024 21:09:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府开始重新划分大麻类别，大麻股飙升</title>
+      <title>随着拜登政府采取行动对大麻进行重新分类，大麻库存飙升</title>
       <link>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</link>
       <description><![CDATA[在市场原本下跌的一天，大麻相关股票却大幅上涨。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</guid>
       <pubDate>Tue, 30 Apr 2024 19:19:32 GMT</pubDate>
     </item>
     <item>
-      <title>麦当劳和其他大品牌警告称，低收入消费者开始崩溃</title>
+      <title>麦当劳和其他大品牌警告低收入消费者开始崩溃</title>
       <link>https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html</link>
       <description><![CDATA[价格上涨给一系列与消费者互动的行业的客户带来了压力。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html</guid>
