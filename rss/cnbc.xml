@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Wed, 01 May 2024 05:03:00 GMT</lastBuildDate>
     <item>
+      <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数期货下跌：实时更新</title>
+      <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
+      <description><![CDATA[美联储将于周三发布利率政策决定，交易员将关注政策制定者不愿降息的情况。]]></description>
+      <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 01 May 2024 05:24:57 GMT</pubDate>
+    </item>
+    <item>
       <title>尽管“绿潮​​”日益盛行，世界上最幸福的国家仍以净负排放为目标</title>
       <link>https://www.cnbc.com/2024/05/01/climate-crisis-worlds-happiest-countries-are-looking-beyond-net-zero.html</link>
-      <description><![CDATA[尽管绿色政治的强烈反对，芬兰和丹麦都将未来几年的目标定为“净负排放”。]]></description>
+      <description><![CDATA[尽管绿色政治的强烈反对，芬兰和丹麦都在未来几年瞄准“净负排放”。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/climate-crisis-worlds-happiest-countries-are-looking-beyond-net-zero.html</guid>
       <pubDate>Wed, 01 May 2024 05:01:45 GMT</pubDate>
     </item>
@@ -29,12 +36,12 @@
     <item>
       <title>超级富豪投资者俱乐部 Tiger 21 主席表示，对冲基金已经“死得一塌糊涂”</title>
       <link>https://www.cnbc.com/2024/05/01/hedge-funds-are-dead-as-a-doornail-for-the-ultra-rich-says-tiger-21.html</link>
-      <description><![CDATA[创始人 Michael Sonnenfeldt 表示，对冲基金作为超高净值投资者网络 Tiger 21 成员的投资资产类别已经“死亡”。]]></description>
+      <description><![CDATA[创始人迈克尔·索南菲尔德 (Michael Sonnenfeldt) 表示，对冲基金作为一种投资资产类别，在其超高净值投资者网络 Tiger 21 的成员中已经“死亡”。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/hedge-funds-are-dead-as-a-doornail-for-the-ultra-rich-says-tiger-21.html</guid>
       <pubDate>Wed, 01 May 2024 00:59:17 GMT</pubDate>
     </item>
     <item>
-      <title>星巴克股价下跌 12%，因同店销售下滑，咖啡连锁店大幅下调 2024 年业绩预期</title>
+      <title>由于同店销售拖累，咖啡连锁店大幅下调 2024 年预测，星巴克股价下跌 12%</title>
       <link>https://www.cnbc.com/2024/04/30/starbucks-sbux-earnings-q2-2024.html</link>
       <description><![CDATA[在所有地区，星巴克均报告同店销售额萎缩和客流量下降。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/starbucks-sbux-earnings-q2-2024.html</guid>
@@ -43,21 +50,14 @@
     <item>
       <title>币安联合创始人赵在入狱四个月后仍将继续增加其 330 亿美元的财富</title>
       <link>https://www.cnbc.com/2024/04/30/binance-founder-zhaos-huge-wealth-unaffected-by-prison-sentence.html</link>
-      <description><![CDATA[币安创始人赵长鹏预计，他在狱中个人财富将继续增长 330 亿美元。]]></description>
+      <description><![CDATA[币安创始人赵长鹏预计，在入狱期间，他的 330 亿美元个人财富将继续攀升。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/binance-founder-zhaos-huge-wealth-unaffected-by-prison-sentence.html</guid>
       <pubDate>Tue, 30 Apr 2024 23:34:33 GMT</pubDate>
     </item>
     <item>
-      <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数期货下跌：实时更新</title>
-      <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
-      <description><![CDATA[美联储将于周三发布利率政策决定，交易员将关注政策制定者不愿降息的情况。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 30 Apr 2024 23:31:27 GMT</pubDate>
-    </item>
-    <item>
       <title>花旗指定 3 只生物科技股将发挥价值 29 亿美元的增长机会——其中一只的上涨空间约为 50%</title>
       <link>https://www.cnbc.com/2024/05/01/citi-names-3-biotech-stocks-to-play-a-growing-2point9-billion-opportunity.html</link>
-      <description><![CDATA[目前市场预计首次降息将在9月份，而不是之前认为的6月或7月，生物科技股可能开始表现良好。]]></description>
+      <description><![CDATA[由于市场目前预计首次降息将在 9 月而不是之前认为的 6 月或 7 月，生物科技股可能会开始表现良好。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/citi-names-3-biotech-stocks-to-play-a-growing-2point9-billion-opportunity.html</guid>
       <pubDate>Tue, 30 Apr 2024 23:14:15 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>随着拜登政府采取行动对大麻进行重新分类，大麻库存飙升</title>
       <link>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</link>
-      <description><![CDATA[在市场原本下跌的一天，大麻相关股票却大幅上涨。]]></description>
+      <description><![CDATA[与大麻相关的股票在市场低迷的一天中飙升。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/cannabis-stocks-surge-as-biden-administration-moves-to-reclassify-marijuana.html</guid>
       <pubDate>Tue, 30 Apr 2024 19:19:32 GMT</pubDate>
     </item>
