@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Wed, 01 May 2024 07:45:00 GMT</lastBuildDate>
+    <item>
+      <title>纽约市警方在哥伦比亚大学突袭中逮捕了数十名亲巴勒斯坦抗议者</title>
+      <link>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</link>
+      <description><![CDATA[人们看到一长串警察从二楼的窗户爬进大楼，使用带有梯子的车辆进入楼上。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</guid>
+      <pubDate>Wed, 01 May 2024 08:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战争实时更新：莫斯科希望在进攻前加强武器和部队；俄罗斯的焦点似乎转移到顿涅茨克</title>
+      <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[俄罗斯似乎正在寻求加强其军队的战斗力和武器供应，以应对预计在五月中旬和六月初发动的新的大规模攻势。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Wed, 01 May 2024 08:28:43 GMT</pubDate>
+    </item>
     <item>
       <title>豪华汽车制造商阿斯顿·马丁股价下跌 12%，亏损近一倍</title>
       <link>https://www.cnbc.com/2024/05/01/aston-martins-losses-nearly-double-on-lower-sales-but-carmaker-projects-growth-from-new-models.html</link>
       <description><![CDATA[调整后税前亏损为 1.105 亿英镑（1.378 亿美元），而上一年亏损为 5730 万英镑。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/aston-martins-losses-nearly-double-on-lower-sales-but-carmaker-projects-growth-from-new-models.html</guid>
       <pubDate>Wed, 01 May 2024 08:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰战争实时更新：莫斯科希望在进攻前加强武器和部队；俄罗斯的焦点似乎转移到顿涅茨克</title>
-      <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯似乎正在寻求加强其军队的战斗力和武器供应，以应对预计在五月中旬、六月初发动的新的大规模攻势。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Wed, 01 May 2024 07:43:08 GMT</pubDate>
     </item>
     <item>
       <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数期货下跌：实时更新</title>
@@ -27,21 +34,14 @@
       <pubDate>Wed, 01 May 2024 06:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>尽管“绿潮​​”日益盛行，世界上最幸福的国家仍以净负排放为目标</title>
+      <title>尽管“绿色抵制”浪潮日益高涨，但全球最幸福国家仍致力于实现净负排放</title>
       <link>https://www.cnbc.com/2024/05/01/climate-crisis-worlds-happiest-countries-are-looking-beyond-net-zero.html</link>
-      <description><![CDATA[尽管绿色政治的强烈反对，芬兰和丹麦都在未来几年瞄准“净负排放”。]]></description>
+      <description><![CDATA[尽管绿色政治的强烈反对，芬兰和丹麦都将未来几年的目标定为“净负排放”。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/climate-crisis-worlds-happiest-countries-are-looking-beyond-net-zero.html</guid>
       <pubDate>Wed, 01 May 2024 05:01:45 GMT</pubDate>
     </item>
     <item>
-      <title>纽约市警方在哥伦比亚大学突袭中逮捕了数十名亲巴勒斯坦抗议者</title>
-      <link>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</link>
-      <description><![CDATA[人们看到一长串警察从二楼的窗户爬进大楼，使用带有梯子的车辆进入楼上。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</guid>
-      <pubDate>Wed, 01 May 2024 04:38:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普媒体内幕交易案开庭，联合创始人作证称“我从未收到过任何报酬”</title>
+      <title>特朗普媒体内幕交易审判从联合创始人作证开始，“我根本没有得到报酬”</title>
       <link>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</link>
       <description><![CDATA[特朗普媒体 (Trump Media) 宣布计划于 2021 年底与一家空壳公司合并。该交易的法律后果正在多个法庭上展开。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</guid>
@@ -76,14 +76,14 @@
       <pubDate>Tue, 30 Apr 2024 23:14:15 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲仅有 2 只股票连续 5 个季度超出预期，且每次都出现上涨</title>
+      <title>欧洲只有两只股票连续 5 个季度超出预期且每次都上涨</title>
       <link>https://www.cnbc.com/2024/05/01/only-2-stocks-in-europe-have-beaten-estimates-for-5-quarters-and-rallied-each-time.html</link>
       <description><![CDATA[CNBC Pro 筛选了超出分析师每股收益预期的欧洲股票，并在接下来的交易日看到股价上涨。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/only-2-stocks-in-europe-have-beaten-estimates-for-5-quarters-and-rallied-each-time.html</guid>
       <pubDate>Tue, 30 Apr 2024 23:13:15 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊成本削减使营业利润率首次达到两位数</title>
+      <title>亚马逊成本削减使营业利润率首次升至两位数</title>
       <link>https://www.cnbc.com/2024/04/30/amazon-cost-cuts-lift-operating-margin-to-double-digits-for-first-time.html</link>
       <description><![CDATA[亚马逊的营业利润率跃升至 10% 以上，超过 2021 年 8.2% 的历史高点。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/amazon-cost-cuts-lift-operating-margin-to-double-digits-for-first-time.html</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>AMD表示今年将销售40亿美元的AI芯片；股价下跌符合预测</title>
       <link>https://www.cnbc.com/2024/04/30/amd-gaming-revenue-falls-48percent-year-over-year-and-the-stock-is-down.html</link>
-      <description><![CDATA[AMD 销售的 AI 芯片与 Nvidia 竞争，但其大部分收入来自 PC 芯片。]]></description>
+      <description><![CDATA[AMD 销售与 Nvidia 竞争的人工智能芯片，但它的大部分收入来自 PC 芯片。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/amd-gaming-revenue-falls-48percent-year-over-year-and-the-stock-is-down.html</guid>
       <pubDate>Tue, 30 Apr 2024 22:34:24 GMT</pubDate>
     </item>
