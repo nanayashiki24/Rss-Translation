@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数/@spectatorindex</title>
+    <title>观众指数 / @spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 01 May 2024 02:35:47 GMT</lastBuildDate>
+    <description>Twitter 消息源：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Wed, 01 May 2024 02:50:47 GMT</lastBuildDate>
+    <item>
+      <title>突发新闻：美国有线电视新闻网 (CNN) 报道称，“数十人”在哥伦比亚大学被捕并被装上巴士</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785499378108743926#m</link>
+      <description><![CDATA[突发新闻：CNN 报道称，“数十人”在哥伦比亚大学被捕并被装上巴士]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785499378108743926#m</guid>
+      <pubDate>Wed, 01 May 2024 02:39:59 GMT</pubDate>
+    </item>
     <item>
       <title>🇺🇸 美国总统大选民意调查，摇摆州。
 
@@ -45,14 +52,14 @@
 
 （希尔/艾默生）</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785497964452180456#m</link>
-      <description><![CDATA[🇺🇸 美国总统大选民意调查，摇摆州。
+      <description><![CDATA[🇺🇸 美国总统选举民意调查，摇摆州。
 
 亚利桑那州
 
 拜登：44%
 特朗普：48%
 
-格鲁吉亚
+佐治亚州
 
 拜登：44%
 特朗普：47%
@@ -82,7 +89,7 @@
 拜登：45%
 特朗普：47%
 
-（希尔/艾默生）]]></description>
+(The Hill/Emerson)]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785497964452180456#m</guid>
       <pubDate>Wed, 01 May 2024 02:34:22 GMT</pubDate>
     </item>
@@ -94,7 +101,7 @@
       <pubDate>Wed, 01 May 2024 02:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>突发消息：纽约警方在解散哥伦比亚大学抗议者营地时逮捕了大批人</title>
+      <title>突发新闻：纽约警方在解散哥伦比亚大学抗议者营地时逮捕了大批人</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785492885154283859#m</link>
       <description><![CDATA[突发新闻：纽约警方在解散哥伦比亚大学抗议者营地时逮捕了大量人员]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785492885154283859#m</guid>
@@ -124,7 +131,7 @@
     <item>
       <title>突发：纽约警方收到哥伦比亚大学要求清理抗议者营地的请求</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785474208207896791#m</link>
-      <description><![CDATA[突发新闻：纽约警方收到哥伦比亚大学清理抗议者营地的请求]]></description>
+      <description><![CDATA[突发新闻：纽约警方收到哥伦比亚大学要求清理抗议者营地的请求]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785474208207896791#m</guid>
       <pubDate>Wed, 01 May 2024 00:59:58 GMT</pubDate>
     </item>
@@ -145,7 +152,7 @@
     <item>
       <title>刚刚：亚马逊超出预期，季度营收达 1430 亿美元</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785410939275423902#m</link>
-      <description><![CDATA[最新消息：亚马逊季度营收超预期达 1430 亿美元]]></description>
+      <description><![CDATA[刚刚：亚马逊超出预期，季度收入达 1,430 亿美元]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785410939275423902#m</guid>
       <pubDate>Tue, 30 Apr 2024 20:48:33 GMT</pubDate>
     </item>
@@ -185,22 +192,6 @@
       <description><![CDATA[刚刚：以色列空袭黎巴嫩南部]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785399905068142807#m</guid>
       <pubDate>Tue, 30 Apr 2024 20:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>可可价格（每吨）。
-
-4 月 19 日：12,200 美元
-
-现在：9,200 美元</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785399807483445293#m</link>
-      <description><![CDATA[可可价格（每吨）。 
-
-4 月 19 日：12,200 美元
-
-现在：9,200 美元
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785399807483445293#m</guid>
-      <pubDate>Tue, 30 Apr 2024 20:04:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
