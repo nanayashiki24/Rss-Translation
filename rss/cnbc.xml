@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 01 May 2024 15:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 15:49:00 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 支持的 GPU 云提供商 CoreWeave 估值飙升至 190 亿美元</title>
+      <link>https://www.cnbc.com/2024/05/01/nvidia-backed-gpu-cloud-provider-coreweave-is-worth-19-billion.html</link>
+      <description><![CDATA[CoreWeave 打算在全球更多地方建立更多充满图形处理单元的云，以对抗亚马逊和谷歌。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/nvidia-backed-gpu-cloud-provider-coreweave-is-worth-19-billion.html</guid>
+      <pubDate>Wed, 01 May 2024 15:50:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于 DJT 股票的热销停滞，特朗普媒体股价暴跌超过 10%</title>
+      <link>https://www.cnbc.com/2024/05/01/djt-shares-crack-50-as-trump-media-continues-stock-bounce-back.html</link>
+      <description><![CDATA[即使在大股东唐纳德·特朗普获得额外股份之后，Truth Social 应用程序的所有者特朗普媒体 (Trump Media) 的 DJT 股票也取得了一系列收益。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/djt-shares-crack-50-as-trump-media-continues-stock-bounce-back.html</guid>
+      <pubDate>Wed, 01 May 2024 15:50:35 GMT</pubDate>
+    </item>
     <item>
       <title>Super Micro 营收未达预期，股价暴跌 18%</title>
       <link>https://www.cnbc.com/2024/05/01/super-micro-stock-plummets-18percent-after-posting-revenue-miss-.html</link>
-      <description><![CDATA[超微电脑公司股价周三暴跌，此前这家服务器公司公布的第三季度营收未达到预期。]]></description>
+      <description><![CDATA[超微电脑(Super Micro Computer)股价周三暴跌，此前这家服务器公司公布的第三季度营收略低于预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/super-micro-stock-plummets-18percent-after-posting-revenue-miss-.html</guid>
-      <pubDate>Wed, 01 May 2024 15:38:49 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 15:47:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯展示在乌克兰缴获的北约军事装备；莫斯科加强武器和前线部队</title>
+      <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[俄罗斯民众涌向莫斯科，观看俄罗斯军队在乌克兰缴获的北约军事装备的新展览。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Wed, 01 May 2024 15:47:21 GMT</pubDate>
     </item>
     <item>
       <title>随着华尔街为美联储利率决定做好准备，标准普尔 500 指数下跌：实时更新</title>
       <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
       <description><![CDATA[美联储将于周三发布利率政策决定，交易员将关注政策制定者不愿降息的情况。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 01 May 2024 15:38:28 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 15:41:09 GMT</pubDate>
     </item>
     <item>
       <title>曾经炙手可热的人工智能游戏超微正在被碾压，但大多数分析师仍保持乐观</title>
@@ -25,13 +46,6 @@
       <description><![CDATA[尽管周三股价回落，但华尔街主要银行大多对超微的长期前景持乐观态度。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/ai-play-super-micro-is-getting-crushed-but-most-analysts-stay-bullish.html</guid>
       <pubDate>Wed, 01 May 2024 15:35:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于 DJT 股票的热销停滞，特朗普媒体股价暴跌超过 10%</title>
-      <link>https://www.cnbc.com/2024/05/01/djt-shares-crack-50-as-trump-media-continues-stock-bounce-back.html</link>
-      <description><![CDATA[即使在大股东唐纳德·特朗普获得额外股份之后，Truth Social 应用程序的所有者特朗普媒体 (Trump Media) 的 DJT 股票也取得了一系列收益。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/djt-shares-crack-50-as-trump-media-continues-stock-bounce-back.html</guid>
-      <pubDate>Wed, 01 May 2024 15:34:01 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊支持的 Anthropic 推出 iPhone 应用程序和业务层，与 OpenAI 的 ChatGPT 竞争</title>
@@ -43,42 +57,28 @@
     <item>
       <title>巴克莱银行表示不会投资向以色列供货的国防公司</title>
       <link>https://www.cnbc.com/2024/05/01/barclays-says-it-doesnt-invest-in-defence-firms-supplying-israel.html</link>
-      <description><![CDATA[巴克莱银行周三表示，该银行不投资向以色列供应加沙武器的公司。]]></description>
+      <description><![CDATA[英国银行周三表示，巴克莱银行不会投资向以色列在加沙提供武器的公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/barclays-says-it-doesnt-invest-in-defence-firms-supplying-israel.html</guid>
       <pubDate>Wed, 01 May 2024 15:30:56 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战争实时更新：俄罗斯展示在乌克兰缴获的北约军事装备；莫斯科加强武器和前线部队</title>
-      <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯民众涌向莫斯科，观看俄罗斯军队在乌克兰缴获的北约军事装备的新展览。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Wed, 01 May 2024 15:26:42 GMT</pubDate>
-    </item>
-    <item>
       <title>首席执行官给出“明确的盈利路径”的两年计划后，NYCB 股价上涨 30%</title>
       <link>https://www.cnbc.com/2024/05/01/nycb-shares-jump-after-new-ceo-gives-two-year-plan-for-clear-path-to-profitability.html</link>
-      <description><![CDATA[在前财政部长史蒂文·姆努钦 (Steven Mnuchin) 领导的投资者团体向 NYCB 注入超过 10 亿美元后，首席执行官约瑟夫·奥廷 (Joseph Otting) 于 4 月接手了 NYCB。]]></description>
+      <description><![CDATA[在前财政部长史蒂芬·姆努钦领导的投资者集团向纽约市商业银行注资逾 10 亿美元后，首席执行官约瑟夫·奥廷 (Joseph Otting) 于 4 月接管了纽约市商业银行。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/nycb-shares-jump-after-new-ceo-gives-two-year-plan-for-clear-path-to-profitability.html</guid>
       <pubDate>Wed, 01 May 2024 15:26:41 GMT</pubDate>
     </item>
     <item>
-      <title>美国司法部指控“比特币耶稣”税务欺诈 4800 万美元，寻求引渡</title>
+      <title>美国司法部指控“比特币耶稣”涉嫌 4800 万美元税务欺诈，并寻求引渡</title>
       <link>https://www.cnbc.com/2024/05/01/doj-charges-bitcoin-jesus-with-48-million-in-tax-fraud-seeks-extradition-.html</link>
       <description><![CDATA[美国国税局试图在追踪涉嫌比特币金融犯罪方面变得更加复杂。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/doj-charges-bitcoin-jesus-with-48-million-in-tax-fraud-seeks-extradition-.html</guid>
       <pubDate>Wed, 01 May 2024 15:20:40 GMT</pubDate>
     </item>
     <item>
-      <title>在美联储决定和加沙停火谈判之前，美国原油价格连续第三天下跌，跌破81美元</title>
-      <link>https://www.cnbc.com/2024/05/01/crude-oil-prices-today.html</link>
-      <description><![CDATA[大量数据表明，通货膨胀十分顽固，消费者信心正在下降，美国经济增长速度低于预期。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/crude-oil-prices-today.html</guid>
-      <pubDate>Wed, 01 May 2024 14:37:41 GMT</pubDate>
-    </item>
-    <item>
       <title>4 月份私人就业人数增加 192,000 人，高于劳动力市场弹性的预期</title>
       <link>https://www.cnbc.com/2024/05/01/adp-jobs-report-april-2024-192000-jobs-added.html</link>
-      <description><![CDATA[4 月份私人就业人数增长速度快于预期，表明美国劳动力市场仍有充足的推动力。]]></description>
+      <description><![CDATA[4月份私人就业人数增长速度快于预期，表明美国劳动力市场仍有充足的推动力。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/adp-jobs-report-april-2024-192000-jobs-added.html</guid>
       <pubDate>Wed, 01 May 2024 14:27:47 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Wed, 01 May 2024 11:44:21 GMT</pubDate>
     </item>
     <item>
-      <title>联合健康公司遭受网络攻击，迫使医生动用个人储蓄以维持生计</title>
+      <title>联合健康公司遭受网络攻击，迫使医生动用个人积蓄维持生计</title>
       <link>https://www.cnbc.com/2024/04/30/change-healthcare-cyberattack-doctors-tap-personal-savings-for-costs.html</link>
       <description><![CDATA[许多医生无法获得服务报酬。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/change-healthcare-cyberattack-doctors-tap-personal-savings-for-costs.html</guid>
