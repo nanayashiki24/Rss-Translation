@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT 世界新闻</title>
+    <title>RT世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Wed, 01 May 2024 18:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:51:23 GMT</lastBuildDate>
+    <item>
+      <title>“不是我们的战争”：波兰人游行反对乌克兰援助（视频）</title>
+      <link>https://www.rt.com/news/596854-poland-ukraine-war-march/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 华沙举行反战抗议活动，反对波兰继续向乌克兰提供军事援助在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596854-poland-ukraine-war-march/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Wed, 01 May 2024 18:41:09 GMT</pubDate>
+    </item>
     <item>
       <title>科学家提出“病态”理论解释外星人为何没有接触过</title>
       <link>https://www.rt.com/news/596852-aliens-contact-humans-theory/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -36,7 +43,7 @@
     <item>
       <title>乌克兰涉嫌纵火德国武器高管财产——媒体</title>
       <link>https://www.rt.com/news/596841-home-ceo-german-arms-burned-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 德国莱茵金属军火制造商首席执行官拥有的避暑别墅在一次明显的纵火袭击中被烧毁在 RT.com 上阅读全文]]></description>
+      <description><![CDATA[ 德国莱茵金属武器制造商首席执行官拥有的一座避暑别墅在一次明显的纵火袭击中被烧毁在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596841-home-ceo-german-arms-burned-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Wed, 01 May 2024 10:01:57 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 捷克共和国官员找不到足够的证据来指控俄罗斯人，他们称俄罗斯人在 2014 年炸毁了一个武器库 在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596808-czech-police-russian-intel-explosions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Tue, 30 Apr 2024 16:54:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普因违反禁言令而被罚款</title>
-      <link>https://www.rt.com/news/596812-trump-gag-order-fine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 美国前总统因公开反对检察官而被处以 9,000 美元罚款在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596812-trump-gag-order-fine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Tue, 30 Apr 2024 15:33:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
