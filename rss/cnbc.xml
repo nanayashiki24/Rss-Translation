@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 01 May 2024 03:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 04:04:00 GMT</lastBuildDate>
     <item>
-      <title>纽约市警察在亲巴勒斯坦抗议活动中进入哥伦比亚大学</title>
+      <title>特朗普媒体内幕交易审判从联合创始人作证开始，“我根本没有得到报酬”</title>
+      <link>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</link>
+      <description><![CDATA[特朗普媒体 (Trump Media) 宣布计划于 2021 年底与一家空壳公司合并。该交易的法律后果正在多个法庭上展开。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/trump-media-insider-trading-trial-begins-in-new-york-.html</guid>
+      <pubDate>Wed, 01 May 2024 04:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约市警察在亲巴勒斯坦抗议中进入哥伦比亚大学</title>
       <link>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</link>
       <description><![CDATA[人们看到一长串警察从二楼的窗户爬进大楼，使用带有梯子的车辆进入楼上。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/new-york-city-police-enter-columbia-university-amid-pro-palestinian-protests.html</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>币安联合创始人赵在入狱四个月后仍将继续增加其 330 亿美元的财富</title>
       <link>https://www.cnbc.com/2024/04/30/binance-founder-zhaos-huge-wealth-unaffected-by-prison-sentence.html</link>
-      <description><![CDATA[币安创始人赵长鹏预计，在入狱期间，他的 330 亿美元个人财富将继续攀升。]]></description>
+      <description><![CDATA[币安创始人赵长鹏预计，他在狱中个人财富将继续增长 330 亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/binance-founder-zhaos-huge-wealth-unaffected-by-prison-sentence.html</guid>
       <pubDate>Tue, 30 Apr 2024 23:34:33 GMT</pubDate>
     </item>
@@ -83,16 +90,9 @@
       <pubDate>Tue, 30 Apr 2024 22:34:24 GMT</pubDate>
     </item>
     <item>
-      <title>由于人工智能需求强劲，超微上调全年收入预测</title>
-      <link>https://www.cnbc.com/2024/04/30/super-micro-smci-q3-earnings-report-2024.html</link>
-      <description><![CDATA[超微目前是标普 500 指数的成分股。该公司的增速从上一季度的 103% 加速至 200%，但营收仍未达标。]]></description>
-      <guid>https://www.cnbc.com/2024/04/30/super-micro-smci-q3-earnings-report-2024.html</guid>
-      <pubDate>Tue, 30 Apr 2024 22:04:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pinterest 股价因盈利好转和收入强劲增长而飙升 18%</title>
+      <title>Pinterest 股价飙升 18%，得益于盈利超出预期、收入增长强劲</title>
       <link>https://www.cnbc.com/2024/04/30/pinterest-shares-soar-16percent-on-earnings-beat-strong-revenue-growth-.html</link>
-      <description><![CDATA[在 Pinterest 公布第一季度业绩后，其股价在周二盘后交易中大幅上涨。]]></description>
+      <description><![CDATA[Pinterest 公布第一季度业绩后，周二该公司股价在盘后交易中出现上涨。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/pinterest-shares-soar-16percent-on-earnings-beat-strong-revenue-growth-.html</guid>
       <pubDate>Tue, 30 Apr 2024 21:09:48 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Tue, 30 Apr 2024 19:19:32 GMT</pubDate>
     </item>
     <item>
-      <title>麦当劳和其他大品牌警告称，低收入消费者开始崩溃</title>
+      <title>麦当劳和其他大品牌警告低收入消费者开始崩溃</title>
       <link>https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html</link>
       <description><![CDATA[价格上涨给一系列与消费者互动的行业的客户带来了压力。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html</guid>
