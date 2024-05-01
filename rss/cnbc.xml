@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 01 May 2024 21:04:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 21:19:00 GMT</lastBuildDate>
     <item>
-      <title>高通公司推出人工智能智能手机，营收预测好于预期</title>
+      <title>埃克森美孚与 FTC 达成协议，准备完成 600 亿美元的先锋交易</title>
+      <link>https://www.cnbc.com/2024/05/01/exxon-mobil-reaches-agreement-with-ftc-poised-to-close-60-billion-pioneer-deal.html</link>
+      <description><![CDATA[据知情人士透露，鉴于监管机构和埃克森美孚已达成同意协议，联邦贸易委员会不会阻止该交易。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/exxon-mobil-reaches-agreement-with-ftc-poised-to-close-60-billion-pioneer-deal.html</guid>
+      <pubDate>Wed, 01 May 2024 21:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>盘后涨幅最大的股票：eBay、高通、DoorDash、Carvana 等</title>
+      <link>https://www.cnbc.com/2024/05/01/stocks-making-the-biggest-moves-after-hours-ebay-qcom-dash-cvna.html</link>
+      <description><![CDATA[这些是盘后交易中波动最大的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/stocks-making-the-biggest-moves-after-hours-ebay-qcom-dash-cvna.html</guid>
+      <pubDate>Wed, 01 May 2024 21:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>高通大力推人工智能智能手机 营收预测好于预期</title>
       <link>https://www.cnbc.com/2024/05/01/qualcomm-earnings-report-q2-2024.html</link>
       <description><![CDATA[高通表示，对需要最先进芯片的“高端”智能手机的强劲需求。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/qualcomm-earnings-report-q2-2024.html</guid>
@@ -25,13 +39,6 @@
       <description><![CDATA[UnitedHealth 首席执行官估计，三分之一美国人的数据可能在 Change Healthcare 网络攻击中受到损害。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/unitedhealth-ceo-one-third-of-americans-could-be-impacted-by-change-healthcare-cyberattack.html</guid>
       <pubDate>Wed, 01 May 2024 21:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>邮轮运营商上市后维京股价上涨 8%</title>
-      <link>https://www.cnbc.com/2024/05/01/viking-ipo-vik-cruise-line-company-trading-on-nyse.html</link>
-      <description><![CDATA[该公司首次公开募股恰逢游轮预订量强劲反弹。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/viking-ipo-vik-cruise-line-company-trading-on-nyse.html</guid>
-      <pubDate>Wed, 01 May 2024 20:57:39 GMT</pubDate>
     </item>
     <item>
       <title>Masimo 的亿万富翁首席执行官将股票作为保证金以获取现金，同时在代理权之争之前保留所有权</title>
@@ -57,7 +64,7 @@
     <item>
       <title>美联储会议回顾：鲍威尔几乎排除了美联储下一步行动的可能性</title>
       <link>https://www.cnbc.com/2024/05/01/fed-meeting-today-live-updates-on-may-fed-rate-decision.html</link>
-      <description><![CDATA[美联储将联邦基金目标利率维持在5.25%至5.5%。主席杰罗姆·鲍威尔表示，央行的下一步行动不太可能是加息。]]></description>
+      <description><![CDATA[美联储维持联邦基金目标利率在5.25%至5.5%不变。美联储主席杰罗姆·鲍威尔表示，美联储下一步不太可能加息。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/fed-meeting-today-live-updates-on-may-fed-rate-decision.html</guid>
       <pubDate>Wed, 01 May 2024 20:23:34 GMT</pubDate>
     </item>
@@ -90,16 +97,9 @@
       <pubDate>Wed, 01 May 2024 19:11:03 GMT</pubDate>
     </item>
     <item>
-      <title>从 5 月开始，比特币跌至 2 月以来的最低水平：CNBC Crypto World</title>
-      <link>https://www.cnbc.com/video/2024/05/01/bitcoin-sinks-lowest-level-since-february-to-start-may-crypto-world.html</link>
-      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过备受瞩目的采访、解释和来自不断变化的加密行业的独特故事，让观众了解未来的发展趋势。在今天的节目中，The Verge 的 Liz Lopatto 讨论了币安前首席执行官赵长鹏的判决，赵长鹏因洗钱违规行为被判入狱四个月。]]></description>
-      <guid>https://www.cnbc.com/video/2024/05/01/bitcoin-sinks-lowest-level-since-february-to-start-may-crypto-world.html</guid>
-      <pubDate>Wed, 01 May 2024 19:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储维持利率稳定，并没有缓解高借贷成本——这对你的钱意味着什么</title>
+      <title>美联储维持利率稳定，不缓解高借贷成本——这对你的资金意味着什么</title>
       <link>https://www.cnbc.com/2024/05/01/federal-reserve-holds-rates-steady-what-that-means-for-your-money.html</link>
-      <description><![CDATA[美联储推出了降息预期——这对您的信用卡、抵押贷款利率、汽车贷款和储蓄账户意味着什么。]]></description>
+      <description><![CDATA[美联储推迟了降息预期——这对您的信用卡、抵押贷款利率、汽车贷款和储蓄账户意味着什么。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/federal-reserve-holds-rates-steady-what-that-means-for-your-money.html</guid>
       <pubDate>Wed, 01 May 2024 19:01:50 GMT</pubDate>
     </item>
