@@ -1,23 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 01 May 2024 13:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 13:58:00 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰战争实时更新：俄罗斯展示在乌克兰缴获的北约军事装备；莫斯科加强武器和前线部队</title>
+      <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[俄罗斯民众涌向莫斯科，观看俄罗斯军队在乌克兰缴获的北约军事装备的新展览。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Wed, 01 May 2024 14:11:08 GMT</pubDate>
+    </item>
     <item>
       <title>4 月份私人就业人数增加 192,000 人，高于劳动力市场弹性的预期</title>
       <link>https://www.cnbc.com/2024/05/01/adp-jobs-report-april-2024-192000-jobs-added.html</link>
       <description><![CDATA[4月份私人就业人数增长速度快于预期，表明美国劳动力市场仍有充足的推动力。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/adp-jobs-report-april-2024-192000-jobs-added.html</guid>
-      <pubDate>Wed, 01 May 2024 13:46:03 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 14:10:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着 Trump Media 股价继续反弹，DJT 股价突破 50 美元</title>
+      <link>https://www.cnbc.com/2024/05/01/djt-shares-crack-50-as-trump-media-continues-stock-bounce-back.html</link>
+      <description><![CDATA[即使在大股东唐纳德·特朗普获得额外股份之后，Truth Social 应用程序的所有者特朗普媒体 (Trump Media) 的 DJT 股票也取得了一系列收益。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/djt-shares-crack-50-as-trump-media-continues-stock-bounce-back.html</guid>
+      <pubDate>Wed, 01 May 2024 14:05:10 GMT</pubDate>
     </item>
     <item>
       <title>随着华尔街准备美联储利率决定，标准普尔下跌 500 英寸：实时更新</title>
       <link>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</link>
-      <description><![CDATA[美联储将于周三公布其利率政策决定，交易员将关注政策制定者不愿降息的态度。]]></description>
+      <description><![CDATA[美联储将于周三发布利率政策决定，交易员将关注政策制定者不愿降息的情况。]]></description>
       <guid>https://www.cnbc.com/2024/04/30/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 01 May 2024 13:43:55 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 13:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>CVS 股价暴跌 18%，因医疗成本上升导致健康公司大幅下调利润预期</title>
+      <link>https://www.cnbc.com/2024/05/01/cvs-health-cvs-earnings-q1-2024.html</link>
+      <description><![CDATA[由于许多 Medicare Advantage 患者返回医院接受在新冠疫情期间推迟的手术，CVS 和其他保险公司的医疗费用飙升。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/cvs-health-cvs-earnings-q1-2024.html</guid>
+      <pubDate>Wed, 01 May 2024 13:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>贝莱德将开设一家沙特投资公司，首期资金为 PIF 的 50 亿美元</title>
+      <link>https://www.cnbc.com/2024/05/01/blackrock-to-open-a-saudi-investment-firm-with-5-billion-from-pif-.html</link>
+      <description><![CDATA[新平台将被称为贝莱德利雅得投资管理公司（BlackRock Riyadh Investment Management，简称 BRIM）。]]></description>
+      <guid>https://www.cnbc.com/2024/05/01/blackrock-to-open-a-saudi-investment-firm-with-5-billion-from-pif-.html</guid>
+      <pubDate>Wed, 01 May 2024 13:43:52 GMT</pubDate>
     </item>
     <item>
       <title>在美联储决定和加沙停火谈判之前，美国原油价格连续第三天下跌，跌破81美元</title>
@@ -27,23 +55,16 @@
       <pubDate>Wed, 01 May 2024 13:43:28 GMT</pubDate>
     </item>
     <item>
-      <title>吉姆·克莱默 (Jim Cramer) 周三股市最值得关注的 10 件事</title>
-      <link>https://www.cnbc.com/2024/05/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html</link>
-      <description><![CDATA[华尔街在经历了糟糕的四月份并打破了连续五个月的涨幅后，五月份开始面临压力。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/jim-cramers-top-10-things-to-watch-in-the-stock-market-wednesday.html</guid>
-      <pubDate>Wed, 01 May 2024 13:25:36 GMT</pubDate>
-    </item>
-    <item>
       <title>强生公司将支付 65 亿美元解决美国几乎所有滑石粉卵巢癌诉讼</title>
       <link>https://www.cnbc.com/2024/05/01/johnson-johnson-will-pay-6point5-billion-to-resolve-nearly-all-talc-ovarian-cancer-lawsuits-in-us.html</link>
-      <description><![CDATA[该交易将使强生能够通过子公司 LTL Management 的第三次破产申请来解决诉讼。]]></description>
+      <description><![CDATA[该交易将允许强生通过子公司 LTL Management 的第三次破产申请来解决诉讼。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/johnson-johnson-will-pay-6point5-billion-to-resolve-nearly-all-talc-ovarian-cancer-lawsuits-in-us.html</guid>
       <pubDate>Wed, 01 May 2024 13:25:32 GMT</pubDate>
     </item>
     <item>
-      <title>辉瑞收入超出预期，上调利润预期，因成本削减且新冠药物销售降幅小于预期</title>
+      <title>辉瑞公司超出收入预期，因成本削减和新冠药物销售降幅小于预期而上调利润前景</title>
       <link>https://www.cnbc.com/2024/05/01/pfizer-pfe-earnings-q1-2024.html</link>
-      <description><![CDATA[这家制药巨头的季度业绩还得益于其新冠抗病毒药物 Paxlovid 的销售额降幅小于预期。]]></description>
+      <description><![CDATA[这家制药巨头的季度业绩还受益于其 Covid 抗病毒药物 Paxlovid 的销量降幅小于人们的担忧。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/pfizer-pfe-earnings-q1-2024.html</guid>
       <pubDate>Wed, 01 May 2024 13:17:28 GMT</pubDate>
     </item>
@@ -55,42 +76,21 @@
       <pubDate>Wed, 01 May 2024 13:07:32 GMT</pubDate>
     </item>
     <item>
-      <title>拜登政府免除了 317,000 名前艺术学院学生的 61 亿美元学生债务</title>
+      <title>拜登政府免除 31.7 万名艺术学院毕业生 61 亿美元的学生债务</title>
       <link>https://www.cnbc.com/2024/05/01/biden-forgives-6point1-billion-in-student-debt-for-art-institute-students.html</link>
       <description><![CDATA[拜登政府宣布将免除31.7万名艺术学院前学生逾61亿美元的学生债务。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/biden-forgives-6point1-billion-in-student-debt-for-art-institute-students.html</guid>
       <pubDate>Wed, 01 May 2024 12:58:53 GMT</pubDate>
     </item>
     <item>
-      <title>CVS 公布盈利大幅下滑，因医疗成本上升而下调利润前景</title>
-      <link>https://www.cnbc.com/2024/05/01/cvs-health-cvs-earnings-q1-2024.html</link>
-      <description><![CDATA[由于许多 Medicare Advantage 患者返回医院接受在新冠疫情期间推迟的手术，CVS 和其他保险公司的医疗费用飙升。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/cvs-health-cvs-earnings-q1-2024.html</guid>
-      <pubDate>Wed, 01 May 2024 12:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰战争实况：俄罗斯展示在乌克兰缴获的北约军事装备；莫斯科将加强武器和前线部队</title>
-      <link>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯民众涌向莫斯科，观看俄罗斯军队在乌克兰缴获的北约军事装备的新展览。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Wed, 01 May 2024 12:48:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦检察官正在审查 Cash App 和 Square 所有者 Block 的金融交易</title>
-      <link>https://www.cnbc.com/2024/05/01/federal-prosecutors-are-examining-financial-transactions-at-block-owner-of-cash-app-and-square.html</link>
-      <description><![CDATA[内部文件显示，Block 处理了恐怖组织的加密交易，Square 处理了涉及受经济制裁国家的交易。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/federal-prosecutors-are-examining-financial-transactions-at-block-owner-of-cash-app-and-square.html</guid>
-      <pubDate>Wed, 01 May 2024 12:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>新任首席执行官给出“清晰的盈利路径”两年计划后，NYCB 股价上涨</title>
+      <title>新任首席执行官给出“明确的盈利路径”的两年计划后，NYCB 股价上涨</title>
       <link>https://www.cnbc.com/2024/05/01/nycb-shares-jump-after-new-ceo-gives-two-year-plan-for-clear-path-to-profitability.html</link>
-      <description><![CDATA[在前财政部长史蒂文·姆努钦 (Steven Mnuchin) 领导的投资者团体向 NYCB 注入超过 10 亿美元后，首席执行官约瑟夫·奥廷 (Joseph Otting) 于 4 月接手了 NYCB。]]></description>
+      <description><![CDATA[在前财政部长史蒂芬·姆努钦领导的投资者集团向纽约市商业银行注资逾 10 亿美元后，首席执行官约瑟夫·奥廷 (Joseph Otting) 于 4 月接管了纽约市商业银行。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/nycb-shares-jump-after-new-ceo-gives-two-year-plan-for-clear-path-to-profitability.html</guid>
       <pubDate>Wed, 01 May 2024 12:32:10 GMT</pubDate>
     </item>
     <item>
-      <title>由于利率上升，对风险较高的可调利率抵押贷款的需求达到今年最高水平</title>
+      <title>由于利率上升，风险较高的可调利率抵押贷款需求达到今年最高水平</title>
       <link>https://www.cnbc.com/2024/05/01/demand-for-riskier-adjustable-rate-mortgages-hits-highest-level-of-the-year.html</link>
       <description><![CDATA[根据抵押贷款银行家协会的数据，上周 ARM 申请占抵押贷款需求的比例上升至 7.8%。这是今年的最高水平。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/demand-for-riskier-adjustable-rate-mortgages-hits-highest-level-of-the-year.html</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>巴克莱建议，将您持有的大型科技股多元化，投资于具有类似特征的其他股票</title>
       <link>https://www.cnbc.com/2024/05/01/diversify-your-big-tech-holdings-into-these-other-stocks-with-similar-traits-recommends-barclays.html</link>
-      <description><![CDATA[尽管巴克莱认为大型科技公司的估值看起来很合理，但该公司表示，它们“不是唯一的游戏”，并建议投资者实现投资组合多元化。]]></description>
+      <description><![CDATA[尽管巴克莱认为大型科技公司的估值合理，但该公司表示，它们“并不是城里唯一的游戏”，并建议投资者分散投资组合。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/diversify-your-big-tech-holdings-into-these-other-stocks-with-similar-traits-recommends-barclays.html</guid>
       <pubDate>Wed, 01 May 2024 10:55:35 GMT</pubDate>
     </item>
