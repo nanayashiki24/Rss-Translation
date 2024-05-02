@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
-    <description>Twitter 消息源：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 05:15:42 GMT</lastBuildDate>
+    <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Thu, 02 May 2024 06:19:01 GMT</lastBuildDate>
+    <item>
+      <title>晨间果汁 - 欧洲会议准备 https://features.financialjuice.com/2024/05/02/morning-juice-europe-session-prep-55/</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785911169036775484#m</link>
+      <description><![CDATA[MORNING JUICE - 欧洲会议准备 features.financialjuice.com/…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785911169036775484#m</guid>
+      <pubDate>Thu, 02 May 2024 05:56:17 GMT</pubDate>
+    </item>
     <item>
       <title>日本消费者信心实际 38.3（预测 39.8，前值 39.5） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785897147352694952#m</link>
@@ -36,7 +44,7 @@
     <item>
       <title>$B 以最高收益率利差 -0.007% 重新拍卖</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785875735271374899#m</link>
-      <description><![CDATA[$B 以最高收益差价 -0.007% 重新进行拍卖]]></description>
+      <description><![CDATA[$B 以最高收益率 -0.007% 重新拍卖]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785875735271374899#m</guid>
       <pubDate>Thu, 02 May 2024 03:35:29 GMT</pubDate>
     </item>
@@ -78,7 +86,7 @@
     <item>
       <title>韩国央行以 3.515% 的收益率出售 2 年期货币稳定债券</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785846784327037326#m</link>
-      <description><![CDATA[韩国央行以 3.515% 的收益率出售 2 年期货币稳定债券]]></description>
+      <description><![CDATA[韩国央行发行两年期货币稳定债券，收益率为3.515%]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785846784327037326#m</guid>
       <pubDate>Thu, 02 May 2024 01:40:27 GMT</pubDate>
     </item>
@@ -102,13 +110,6 @@
       <description><![CDATA[经季节性调整后，澳大利亚建筑审批量环比上升 1.9%]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785844334220201994#m</guid>
       <pubDate>Thu, 02 May 2024 01:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>经季节性调整后，澳大利亚货物出口环比增长 0.1%</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785844323075924350#m</link>
-      <description><![CDATA[经季节调整后，澳大利亚货物出口环比增长 0.1%]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785844323075924350#m</guid>
-      <pubDate>Thu, 02 May 2024 01:30:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
