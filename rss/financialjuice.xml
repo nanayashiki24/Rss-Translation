@@ -1,20 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice/@financialjuice</title>
+    <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
-    <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 06:19:01 GMT</lastBuildDate>
+    <description>Twitter 消息源：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Thu, 02 May 2024 06:37:36 GMT</lastBuildDate>
     <item>
-      <title>晨间果汁 - 欧洲会议准备 https://features.financialjuice.com/2024/05/02/morning-juice-europe-session-prep-55/</title>
+      <title>2024 年 4 月瑞士 CPI 完整报告 https://www.bfs.admin.ch/bfs/en/home/news/whats-new.assetdetail.31906236.html</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785920545877336488#m</link>
+      <description><![CDATA[2024 年 4 月瑞士消费者物价指数 (CPI) 完整报告 bfs.admin.ch /bfs/en/home/new…
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785920545877336488#m</guid>
+      <pubDate>Thu, 02 May 2024 06:33:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔴 英国利率期货在美联储会议后开盘时按英国央行 9 月降息的全价定价。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785920254771650651#m</link>
+      <description><![CDATA[🔴 美联储会议后，英国利率期货在市场开盘时充分反映出英国央行 9 月份降息的预期。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785920254771650651#m</guid>
+      <pubDate>Thu, 02 May 2024 06:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞士实际零售额同比 -0.1%（预测 -，前值 -0.2%） 宏观经济</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785919789107421595#m</link>
+      <description><![CDATA[瑞士零售销售额同比实际 -0.1%（预测 -，之前 -0.2%）$MACRO&lt; /p&gt;]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785919789107421595#m</guid>
+      <pubDate>Thu, 02 May 2024 06:30:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔴⚠️ 突发：瑞士 CPI 同比实际增长 1.4%（预测 1.1%，前值 1.0%）</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785919777489268871#m</link>
+      <description><![CDATA[🔴⚠️突发数据：瑞士 CPI 同比实际 1.4%（预测 1.1%，之前 1.0%）$宏观]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785919777489268871#m</guid>
+      <pubDate>Thu, 02 May 2024 06:30:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔴瑞士 CPI 环比实际 0.3%（预测 0.1%，前值 0.0%）$宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785919765963251895#m</link>
+      <description><![CDATA[🔴瑞士 CPI 环比实际 0.3%（预测 0.1%，之前 0.0%）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785919765963251895#m</guid>
+      <pubDate>Thu, 02 May 2024 06:30:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>MORNING JUICE - 欧洲会议准备 https://features.financialjuice.com/2024/05/02/morning-juice-europe-session-prep-55/</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785911169036775484#m</link>
-      <description><![CDATA[MORNING JUICE - 欧洲会议准备 features.financialjuice.com/…
+      <description><![CDATA[MORNING JUICE - 欧洲会议准备 features.financialjuice.com/ ...
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785911169036775484#m</guid>
       <pubDate>Thu, 02 May 2024 05:56:17 GMT</pubDate>
     </item>
     <item>
-      <title>日本消费者信心实际 38.3（预测 39.8，前值 39.5） $宏观</title>
+      <title>日本消费者信心实际值 38.3（预测值 39.8，前值 39.5） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785897147352694952#m</link>
       <description><![CDATA[日本消费者信心实际值 38.3（预测 39.8，前值 39.5）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785897147352694952#m</guid>
@@ -75,41 +111,6 @@
       <description><![CDATA[日本ITO建议，如果日元继续疲软并受到通胀影响，年底前可能将利率上调至0.5%]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785856857925399000#m</guid>
       <pubDate>Thu, 02 May 2024 02:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本伊藤预测，如果经济保持强劲，中长期日本央行政策利率可能达到 2%</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785856846407839791#m</link>
-      <description><![CDATA[日本伊藤预测，如果经济保持强劲，日本央行中长期政策利率可能达到 2%]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785856846407839791#m</guid>
-      <pubDate>Thu, 02 May 2024 02:20:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国央行以 3.515% 的收益率出售 2 年期货币稳定债券</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785846784327037326#m</link>
-      <description><![CDATA[韩国央行发行两年期货币稳定债券，收益率为3.515%]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785846784327037326#m</guid>
-      <pubDate>Thu, 02 May 2024 01:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>PAN 将在增强流动性拍卖中提供 0.5 万亿日元 JGBS</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785844357267931471#m</link>
-      <description><![CDATA[PAN 将在增强流动性拍卖中提供 0.5 万亿日元的 JGBS]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785844357267931471#m</guid>
-      <pubDate>Thu, 02 May 2024 01:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔴澳大利亚建筑审批实际 1.9%（预测 3.4%，前值 -1.9%） 宏观经济</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785844345754579121#m</link>
-      <description><![CDATA[🔴澳大利亚建筑审批实际为 1.9%（预测为 3.4%，之前为 -1.9%）$MACRO&lt; /p&gt;]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785844345754579121#m</guid>
-      <pubDate>Thu, 02 May 2024 01:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>经季节性调整后，澳大利亚建筑审批量环比上升 1.9%</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785844334220201994#m</link>
-      <description><![CDATA[经季节性调整后，澳大利亚建筑审批量环比上升 1.9%]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785844334220201994#m</guid>
-      <pubDate>Thu, 02 May 2024 01:30:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
