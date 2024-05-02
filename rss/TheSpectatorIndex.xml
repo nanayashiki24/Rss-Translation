@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数/@spectatorindex</title>
+    <title>观众指数 / @spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
     <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 04:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 05:40:24 GMT</lastBuildDate>
+    <item>
+      <title>突发新闻：洛杉矶警察开始向加州大学洛杉矶分校的抗议者营地推进</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785904986964242458#m</link>
+      <description><![CDATA[突发新闻：洛杉矶警察开始向加州大学洛杉矶分校的抗议者营地推进]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785904986964242458#m</guid>
+      <pubDate>Thu, 02 May 2024 05:31:44 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚：🇦🇺 澳大利亚报告自 2020 年以来贸易顺差最小</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785891370441531882#m</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 02 May 2024 04:37:37 GMT</pubDate>
     </item>
     <item>
-      <title>突发消息：大批洛杉矶警察抵达加州大学洛杉矶分校，靠近校园抗议者营地。</title>
+      <title>突发新闻：大量洛杉矶警察抵达加州大学洛杉矶分校，靠近校园抗议者营地。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785878886179598702#m</link>
       <description><![CDATA[突发新闻：大量洛杉矶警察抵达加州大学洛杉矶分校，靠近校园抗议者营地。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785878886179598702#m</guid>
@@ -27,7 +34,7 @@
       <pubDate>Thu, 02 May 2024 02:26:27 GMT</pubDate>
     </item>
     <item>
-      <title>刚刚：美国众议院 57 名民主党人签署了一封信，呼吁拜登总统帮助阻止对拉法的进攻。</title>
+      <title>最新消息：🇺🇸 美国众议院的 57 名民主党人签署了一封信，呼吁拜登总统帮助阻止对拉法赫的进攻。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785808991572136422#m</link>
       <description><![CDATA[刚刚：美国众议院 🇺🇸 的 57 名民主党人签署了一封信，呼吁拜登总统帮助阻止对拉法的进攻。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785808991572136422#m</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>突发新闻：彭博社报道称，美国和沙特阿拉伯可能在“几周内”就防务协议达成协议</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785756381217452052#m</link>
-      <description><![CDATA[突发新闻：彭博社报道称，美国和沙特阿拉伯可能在“数周内”就防御协议达成协议]]></description>
+      <description><![CDATA[突发新闻：彭博社报道称，美国和沙特阿拉伯可能“在几周内”就国防协议达成协议]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785756381217452052#m</guid>
       <pubDate>Wed, 01 May 2024 19:41:13 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[刚刚：CNBC 报道称，Google 已开始解雇数百名“核心”员工，并开始在印度和墨西哥等国家/地区招聘相同职位]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785752006310965624#m</guid>
       <pubDate>Wed, 01 May 2024 19:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发新闻：以色列军方参谋长表示“我们正在准备在北部发动进攻”</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1785751159661343021#m</link>
-      <description><![CDATA[突发新闻：以色列军方参谋长表示“我们正在准备在北部发动进攻”]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1785751159661343021#m</guid>
-      <pubDate>Wed, 01 May 2024 19:20:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
