@@ -1,12 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice/@financialjuice</title>
+    <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
-    <description>Twitter 消息源：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Thu, 02 May 2024 07:50:43 GMT</lastBuildDate>
+    <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Thu, 02 May 2024 08:17:42 GMT</lastBuildDate>
     <item>
-      <title>🔴法国制造业 PMI 实际值 45.3（预测值 44.9，前值 44.9）</title>
+      <title>意大利 PPI 环比实际值 -0.4%（预测 -，前值 -1.0%） $宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785943583733796908#m</link>
+      <description><![CDATA[意大利 PPI MOM 实际值 -0.4%（预测 -，之前 -1.0%）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785943583733796908#m</guid>
+      <pubDate>Thu, 02 May 2024 08:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>意大利 PPI 同比实际 -12.7% (预测 -，之前 -10.8%) $MACRO</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785943529652465715#m</link>
+      <description><![CDATA[意大利 PPI 同比实际 -12.7%（预测 -，之前 -10.8%）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785943529652465715#m</guid>
+      <pubDate>Thu, 02 May 2024 08:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 4 月欧元区制造业 PMI 完整报告
+
+ https://www.pmi.spglobal.com/Public/Home/PressRelease/1d86b2380d414987b341ad80ec9f330c</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785942790335074454#m</link>
+      <description><![CDATA[2024 年 4 月欧元区制造业 PMI 完整报告
+
+pmi.spglobal.com/Public/Home…]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785942790335074454#m</guid>
+      <pubDate>Thu, 02 May 2024 08:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔴欧元区 MFG PMI 最终实际值 45.7（预测 45.6，前值 45.6） $宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785942414944805129#m</link>
+      <description><![CDATA[🔴欧元区 MFG PMI 最终实际值 45.7（预测 45.6，前值 45.6）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785942414944805129#m</guid>
+      <pubDate>Thu, 02 May 2024 08:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>挪威制造业 PMI 实际 52.4（预测 -，前值 50.8）$宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785942403473395769#m</link>
+      <description><![CDATA[挪威制造业 PMI 实际 52.4（预测 -，前值 50.8）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785942403473395769#m</guid>
+      <pubDate>Thu, 02 May 2024 08:00:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国 20924 年 4 月制造业 PMI 完整报告 https://www.pmi.spglobal.com/Public/Home/PressRelease/45465f8a51944c308028397a66a81fe7</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785941578592166032#m</link>
+      <description><![CDATA[20924 年 4 月德国制造业 PMI 完整报告pmi.spglobal.com/Public/Home... ]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785941578592166032#m</guid>
+      <pubDate>Thu, 02 May 2024 07:57:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔴 德国制造业PMI终值实际值42.5（预测值42.2，前值42.2）$MACRO</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785941138119016869#m</link>
+      <description><![CDATA[🔴德国制造业 PMI 最终实际值 42.5（预测 42.2，前值 42.2）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785941138119016869#m</guid>
+      <pubDate>Thu, 02 May 2024 07:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国 4 月制造业 PMI 完整报告 https://www.pmi.spglobal.com/Public/Home/PressRelease/fd00fa875f1048babf9a508f523251a0</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785940143712477344#m</link>
+      <description><![CDATA[法国 4 月制造业 PMI 完整报告pmi.spglobal.com/Public/Home…&lt; /p&gt;]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785940143712477344#m</guid>
+      <pubDate>Thu, 02 May 2024 07:51:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔴法国制造业 PMI 实际值 45.3（预测值 44.9，前值 44.9） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785939897049641164#m</link>
       <description><![CDATA[🔴法国制造业 PMI 实际 45.3（预测 44.9，前值 44.9）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785939897049641164#m</guid>
@@ -43,7 +103,7 @@
     <item>
       <title>瑞士制造业 PMI 实际 41.4（预测 45.5，前值 45.2） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785934851595518227#m</link>
-      <description><![CDATA[瑞士制造业 PMI 实际 41.4（预测 45.5，前值 45.2）$MACRO]]></description>
+      <description><![CDATA[瑞士制造业 PMI 实际 41.4（预测 45.5，之前 45.2）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785934851595518227#m</guid>
       <pubDate>Thu, 02 May 2024 07:30:24 GMT</pubDate>
     </item>
@@ -53,62 +113,6 @@
       <description><![CDATA[2024 年 4 月西班牙制造业 PMI 完整报告pmi.spglobal.com/Public/Home... ]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785931782942023782#m</guid>
       <pubDate>Thu, 02 May 2024 07:18:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>西班牙制造业PMI实际值52.2（预测值51.4，前值51.4）$MACRO</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785931086377136207#m</link>
-      <description><![CDATA[西班牙制造业 PMI 实际值 52.2（预测 51.4，前值 51.4）$MACRO]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785931086377136207#m</guid>
-      <pubDate>Thu, 02 May 2024 07:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>货币强弱图表：最强 - 瑞士法郎、澳元、加元、新西兰元、美元、欧元、英镑、日元 - 最弱。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785929536208572670#m</link>
-      <description><![CDATA[货币强度图表：最强 - 瑞士法郎、澳元、加元、新西兰元、美元、欧元、英镑、日元 - 最弱。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785929536208572670#m</guid>
-      <pubDate>Thu, 02 May 2024 07:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织预测 2024 年英国经济增长率为 0.4%（之前为 0.7%），2025 年为 1%（之前为 1.2%）。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785928793732825373#m</link>
-      <description><![CDATA[经合组织预计 2024 年英国经济增长率为 0.4%（此前为 0.7%），2025 年为 1%（此前为 1.2%）。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785928793732825373#m</guid>
-      <pubDate>Thu, 02 May 2024 07:06:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织将中国 2024 年经济增长预期上调至 4.9%（此前为 4.7%），将 2025 年增长预期上调至 4.5%（此前为 4.2%）。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785928503638020478#m</link>
-      <description><![CDATA[经合组织将中国 2024 年经济增长预期上调至 4.9%（此前为 4.7%），将 2025 年增长预期上调至 4.5%（此前为 4.2%）。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785928503638020478#m</guid>
-      <pubDate>Thu, 02 May 2024 07:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织将日本 2024 年经济增速下调至 0.5%（此前为 1%），预计 2025 年日本经济增速为 1.1%（此前为 1%）。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785928449229488315#m</link>
-      <description><![CDATA[经合组织将日本 2024 年经济增速下调至 0.5%（此前为 1%），预计 2025 年日本经济增速为 1.1%（此前为 1%）。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785928449229488315#m</guid>
-      <pubDate>Thu, 02 May 2024 07:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织将 2024 年全球增长预测上调至 3.1%（2 月份预测为 2.9%），预计 2025 年增长 3.2%（2 月份预测为 3%）。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785928352416542899#m</link>
-      <description><![CDATA[经合组织将 2024 年全球增长预测上调至 3.1%（2 月份为 2.9%），预计 2025 年将增长 3.2%（2 月份为 3%）。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785928352416542899#m</guid>
-      <pubDate>Thu, 02 May 2024 07:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织将 2024 年美国经济增长预测上调至 2.6%（此前为 2.1%），预计 2025 年为 1.8%（此前为 1.7%）。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785928191082737945#m</link>
-      <description><![CDATA[经合组织将 2024 年美国经济增长预测上调至 2.6%（之前为 2.1%），预计 2025 年增长 1.8%（之前为 1.7%）。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785928191082737945#m</guid>
-      <pubDate>Thu, 02 May 2024 07:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织将 2024 年世界 GDP 预测从 2.9% 上调至 3.1%。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1785928072081871278#m</link>
-      <description><![CDATA[经合组织将 2024 年世界 GDP 预测从 2.9% 上调至 3.1%。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1785928072081871278#m</guid>
-      <pubDate>Thu, 02 May 2024 07:03:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
