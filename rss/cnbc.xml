@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 02 May 2024 22:32:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 22:56:00 GMT</lastBuildDate>
     <item>
       <title>iPhone 销量下降 10% 苹果宣布史上最大规模 1100 亿美元股票回购</title>
       <link>https://www.cnbc.com/2024/05/02/apple-aapl-earnings-report-q2-2024.html</link>
       <description><![CDATA[苹果首席执行官蒂姆·库克 (Tim Cook) 向 CNBC 表示，与去年同期相比，该季度的销售额出现了困难。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/apple-aapl-earnings-report-q2-2024.html</guid>
-      <pubDate>Thu, 02 May 2024 22:21:46 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 23:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>安进放弃实验性减肥药，转而注射</title>
+      <link>https://www.cnbc.com/2024/05/02/amgen-scraps-experimental-weight-loss-pill-moves-forward-with-injection.html</link>
+      <description><![CDATA[安进公司是竞相进入由诺和诺德公司和礼来公司主导的炙手可热的减肥药物领域的多家制药商之一。]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/amgen-scraps-experimental-weight-loss-pill-moves-forward-with-injection.html</guid>
+      <pubDate>Thu, 02 May 2024 22:59:23 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，特朗普当选的 SEC 将致力于扭转气候披露规则，加剧 ESG 斗争</title>
@@ -25,13 +32,6 @@
       <description><![CDATA[布洛克的收益报告发布之际，有报道称美国检察官正在调查该公司的合规做法，导致股价下跌。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/block-sq-earnings-q1-2024.html</guid>
       <pubDate>Thu, 02 May 2024 21:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>安进放弃实验性减肥药，转而注射</title>
-      <link>https://www.cnbc.com/2024/05/02/amgen-scraps-experimental-weight-loss-pill-moves-forward-with-injection.html</link>
-      <description><![CDATA[安进（Amgen）是多家制药商竞相加入由诺和诺德（Novo Nordisk）和礼来（Eli Lilly）主导的炙手可热的减肥药领域的制药商之一。]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/amgen-scraps-experimental-weight-loss-pill-moves-forward-with-injection.html</guid>
-      <pubDate>Thu, 02 May 2024 21:42:13 GMT</pubDate>
     </item>
     <item>
       <title>Coinbase报告称，比特币上涨导致利润激增后，第一季度营收超出预期</title>
@@ -50,7 +50,7 @@
     <item>
       <title>摩根大通对加密货币持谨慎态度，散户投资者在 ETF 炒作后纷纷抛售</title>
       <link>https://www.cnbc.com/2024/05/02/jpmorgan-is-cautious-on-crypto-as-retail-investors-dump-following-etf-hype.html</link>
-      <description><![CDATA[摩根大通表示，美联储暂停政策后，加密货币市场周三表现乐观，但投资者仍应谨慎行事。]]></description>
+      <description><![CDATA[摩根大通表示，美联储暂停加息后，加密货币市场周三表现乐观，但投资者仍应谨慎行事。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/jpmorgan-is-cautious-on-crypto-as-retail-investors-dump-following-etf-hype.html</guid>
       <pubDate>Thu, 02 May 2024 21:03:27 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 02 May 2024 20:19:20 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦贸易委员会指控先锋公司前首席执行官与欧佩克勾结，禁止其担任埃克森美孚董事会成员</title>
+      <title>联邦贸易委员会指控先锋公司前首席执行官与欧佩克勾结，阻止他担任埃克森美孚董事会席位</title>
       <link>https://www.cnbc.com/2024/05/02/ftc-accuses-ex-pioneer-ceo-of-colluding-with-opec-blocks-him-from-exxon-board.html</link>
       <description><![CDATA[据《华尔街日报》报道，联邦贸易委员会已决定将这些指控提交司法部进行可能的刑事调查。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/ftc-accuses-ex-pioneer-ceo-of-colluding-with-opec-blocks-him-from-exxon-board.html</guid>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 | 今日头条 | 路透社</title>
+    <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 22:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 23:16:32 GMT</lastBuildDate>
     <item>
       <title>据《华尔街日报》报道，道明银行调查与芬太尼非法利润洗钱有关</title>
       <link>https://www.reuters.com/business/finance/td-bank-probe-tied-laundering-illicit-fentanyl-profits-wsj-reports-2024-05-02/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>被解雇的法国兴业银行交易员因未经授权的投注而回击老板</title>
       <link>https://www.reuters.com/business/finance/fired-socgen-trader-hits-back-bosses-unauthorised-bets-2024-05-02/</link>
-      <description><![CDATA[去年年底，法国兴业银行揭露一系列未经授权的赌注后，法国兴业银行解雇了一名交易员，该交易员批评了他的前任老板，称他们对未能识别这些交易负有责任。]]></description>
+      <description><![CDATA[去年年底，法国兴业银行发现了一系列未经授权的押注行为，随后解雇了该行的一名交易员。他批评了自己的前任老板，称他们未能识别这些交易，这是他们的错。]]></description>
       <guid>https://www.reuters.com/business/finance/fired-socgen-trader-hits-back-bosses-unauthorised-bets-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 11:45:41 GMT</pubDate>
     </item>
