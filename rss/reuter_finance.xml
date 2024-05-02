@@ -3,10 +3,38 @@
   <channel>
     <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 11:51:47 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 02 May 2024 12:27:07 GMT</lastBuildDate>
     <item>
-      <title>德意志银行和工会同意提高邮政银行员工的工资</title>
+      <title>能源市场波动创纪录 纽约证券交易所母公司 ICE 利润上涨</title>
+      <link>https://www.reuters.com/business/finance/nyse-parent-ices-profit-rises-record-surge-energy-market-volatility-2024-05-02/</link>
+      <description><![CDATA[洲际交易所周四公布第一季度调整后利润增长，因能源市场交易量激增，成交量创下历史新高。]]></description>
+      <guid>https://www.reuters.com/business/finance/nyse-parent-ices-profit-rises-record-surge-energy-market-volatility-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 11:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼日利亚法院将币安和高管的审判推迟至 5 月 17 日</title>
+      <link>https://www.reuters.com/business/finance/nigeria-court-adjourns-binance-execs-trial-may-17-2024-05-02/</link>
+      <description><![CDATA[尼日利亚一家法院周四将针对加密货币交易所 Binance 及其两名高管的洗钱审判推迟至 5 月 17 日，此前该交易所的一名律师表示，他没有收到准备此案所需的文件。]]></description>
+      <guid>https://www.reuters.com/business/finance/nigeria-court-adjourns-binance-execs-trial-may-17-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 11:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>BBVA 合并提案推动萨瓦德尔股价进一步上涨，但远低于溢价</title>
+      <link>https://www.reuters.com/markets/deals/sabadell-shares-rise-further-bbva-merger-proposal-well-below-premium-2024-05-02/</link>
+      <description><![CDATA[西班牙萨瓦德尔银行 (Sabadell) 的股价周四上涨约 5%，自规模更大的竞争对手 BBVA 本周宣布合并提议以来，该银行股价上涨，但仍远低于市场评估全股票交易可行性时提出的溢价。]]></description>
+      <guid>https://www.reuters.com/markets/deals/sabadell-shares-rise-further-bbva-merger-proposal-well-below-premium-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 11:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：美联储缩减量化宽松安抚情绪，日元再次上涨</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 10:09:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>德意志银行与工会达成邮政银行员工薪酬协议</title>
       <link>https://www.reuters.com/business/finance/deutsche-bank-union-agree-raise-pay-postbank-employees-2024-05-02/</link>
       <description><![CDATA[德意志银行管理层周四表示，德意志银行管理层已与工会就其邮政银行部门数千名员工达成了薪资协议，结束了数月的争执。]]></description>
       <guid>https://www.reuters.com/business/finance/deutsche-bank-union-agree-raise-pay-postbank-employees-2024-05-02/</guid>
@@ -22,14 +50,14 @@
     <item>
       <title>欧盟向黎巴嫩提供10亿欧元经济和安全支持</title>
       <link>https://www.reuters.com/world/middle-east/eu-offers-1-bln-euros-economic-security-support-lebanon-2024-05-02/</link>
-      <description><![CDATA[欧盟委员会主席乌尔苏拉·冯德莱恩周四在访问贝鲁特期间表示，欧盟已向黎巴嫩提供10亿欧元（10.7亿美元）的一揽子金融计划，以支持其摇摇欲坠的经济和安全部队。]]></description>
+      <description><![CDATA[欧盟委员会主席乌尔苏拉·冯德莱恩周四访问贝鲁特时表示，欧盟已向黎巴嫩提供 10 亿欧元（10.7 亿美元）的财政援助，以支持其陷入困境的经济和安全部队。]]></description>
       <guid>https://www.reuters.com/world/middle-east/eu-offers-1-bln-euros-economic-security-support-lebanon-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 09:19:53 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯无法与西方资产扣押相媲美，但它可以造成痛苦</title>
+      <title>俄罗斯无法与西方国家的资产扣押相比，但它可以造成痛苦</title>
       <link>https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/</link>
-      <description><![CDATA[如果西方领导人扣押其被冻结的资产，俄罗斯实施同等报复的能力已因外国投资减少而受到削弱，但官员和经济学家表示，俄罗斯仍然有办法进行反击。]]></description>
+      <description><![CDATA[如果西方领导人扣押俄罗斯的冻结资产，俄罗斯实施同等报复的能力已经因外国投资减少而减弱，但官员和经济学家表示，俄罗斯仍然有办法进行反击。]]></description>
       <guid>https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 07:06:10 GMT</pubDate>
     </item>
@@ -50,66 +78,37 @@
     <item>
       <title>Raiffeisen 表示 Strabag 交易正在经过仔细的风险评估</title>
       <link>https://www.reuters.com/business/finance/raiffeisen-says-strabag-deal-under-careful-risk-assessment-2024-05-02/</link>
-      <description><![CDATA[Raiffeisen 国际银行 (RBI)
- 俄罗斯最大的西方银行周四表示，对与俄罗斯大亨有关联的建筑公司 Strabag 股份的收购仍在仔细评估是否存在合规风险。]]></description>
+      <description><![CDATA[俄罗斯最大的西方银行周四表示，Raiffeisen Bank International (RBI) 收购与俄罗斯大亨有联系的建筑公司 Strabag 的股份仍在仔细评估是否存在合规风险。]]></description>
       <guid>https://www.reuters.com/business/finance/raiffeisen-says-strabag-deal-under-careful-risk-assessment-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:51:27 GMT</pubDate>
     </item>
     <item>
       <title>ING宣布股票回购，季度净利息收入下降</title>
       <link>https://www.reuters.com/business/finance/ing-posts-lower-q1-net-interest-income-higher-interest-rates-lift-funding-costs-2024-05-02/</link>
-      <description><![CDATA[荷兰银行 ING Groep 周四宣布回购 25 亿欧元股票，此前该银行表示，受高利率推动，第一季度业绩表现强劲，早盘股价上涨逾 5%。]]></description>
+      <description><![CDATA[荷兰银行 ING Groep 周四宣布回购 25 亿欧元的股票，此前这家荷兰银行表示，在高利率的推动下，第一季度业绩强劲，导致其股价在早盘交易中上涨超过 5%。]]></description>
       <guid>https://www.reuters.com/business/finance/ing-posts-lower-q1-net-interest-income-higher-interest-rates-lift-funding-costs-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:14:46 GMT</pubDate>
     </item>
     <item>
       <title>《朝鲜日报》称瑞士信贷可能因卖空韩国而面临 3600 万美元的罚款</title>
       <link>https://www.reuters.com/business/finance/credit-suisse-may-face-36-mln-fine-over-skorea-short-selling-says-chosun-ilbo-2024-05-02/</link>
-      <description><![CDATA[韩国《朝鲜日报》周四援引业内消息人士的话称，韩国金融当局已通知瑞士信贷公司，该公司可能因涉嫌违反卖空规则而面临 500 亿韩元（3632 万美元）的罚款。]]></description>
+      <description><![CDATA[韩国《朝鲜日报》周四援引业内消息人士的话称，韩国金融当局已通知瑞士信贷银行，该公司可能因涉嫌违反卖空规则而面临 500 亿韩元（3632 万美元）的罚款。]]></description>
       <guid>https://www.reuters.com/business/finance/credit-suisse-may-face-36-mln-fine-over-skorea-short-selling-says-chosun-ilbo-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 04:42:45 GMT</pubDate>
     </item>
     <item>
       <title>汇丰维持香港最优惠贷款利率于5.875%不变</title>
       <link>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</link>
-      <description><![CDATA[汇丰控股周四表示，该行将维持香港最佳贷款利率于 5.875% 不变，此前香港事实上的央行维持隔夜贴现窗口的基准利率不变，以追随美联储维持利率稳定的决定。]]></description>
+      <description><![CDATA[汇丰控股周四表示，在香港事实上的央行维持通过隔夜贴现窗口收取的基本利率不变，追随美联储维持利率稳定的决定后，该公司已将香港最优惠贷款利率维持在5.875%。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 04:27:39 GMT</pubDate>
     </item>
     <item>
-      <title>渣打银行利润超过手续费收入增长预期</title>
+      <title>渣打银行利润超出预期，费用收入增加抵消了信贷损失</title>
       <link>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</link>
       <description><![CDATA[渣打银行周四第一季度税前利润超出预期，增长 5.5%，其交易和财富业务收入的激增足以弥补额外的信贷损失。]]></description>
       <guid>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 04:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港央行维持关键利率不变，追踪美联储决定</title>
-      <link>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</link>
-      <description><![CDATA[香港金融管理局（金管局）周四将通过隔夜贴现窗口收取的基本利率维持在 5.75% 不变，以追随美联储维持利率稳定的决定。]]></description>
-      <guid>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 03:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>星展集团季度业绩超出预期，预计又创历史新高</title>
-      <link>https://www.reuters.com/business/finance/singapore-bank-dbs-first-quarter-net-profit-rises-15-year-record-high-2024-05-01/</link>
-      <description><![CDATA[新加坡最大的银行星展集团周四公布第一季度业绩，全面增长超出预期，并表示预计净利润将超过去年创纪录的业绩。]]></description>
-      <guid>https://www.reuters.com/business/finance/singapore-bank-dbs-first-quarter-net-profit-rises-15-year-record-high-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 22:39:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚国民银行公布利润下降但暗示银行利润率紧缩正在缓解</title>
-      <link>https://www.reuters.com/markets/national-australia-bank-first-half-cash-earnings-fall-13-2024-05-01/</link>
-      <description><![CDATA[澳大利亚国民银行周四公布上半年盈利出现两位数下降，但赞扬了经济实力，并表示至关重要的住房贷款市场的利润紧缩斗争显示出缓解的迹象。]]></description>
-      <guid>https://www.reuters.com/markets/national-australia-bank-first-half-cash-earnings-fall-13-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 22:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>大都会人寿第一季度利润因保费和投资收入增加而增长</title>
-      <link>https://www.reuters.com/business/finance/metlife-q1-profit-rises-higher-premiums-investment-income-2024-05-01/</link>
-      <description><![CDATA[大都会人寿周三公布第一季度利润增长，得益于保费上涨和投资回报强劲。]]></description>
-      <guid>https://www.reuters.com/business/finance/metlife-q1-profit-rises-higher-premiums-investment-income-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 21:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
