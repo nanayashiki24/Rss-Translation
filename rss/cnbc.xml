@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 02 May 2024 02:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 02:48:00 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉股价“非常昂贵”：基金经理表示，电动汽车制造商可能因降价而面临“巨大的需求问题”</title>
+      <link>https://www.cnbc.com/2024/05/02/tesla-to-face-a-huge-demand-problem-over-price-cuts-says-investor.html</link>
+      <description><![CDATA[GAM Investments 运营多头/空头基金的马克·霍廷 (Mark Hawtin) 表示：“最重要的是，基本面并不好。”]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/tesla-to-face-a-huge-demand-problem-over-price-cuts-says-investor.html</guid>
+      <pubDate>Thu, 02 May 2024 02:39:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>花旗刚刚将这些上涨超过 30% 的全球股票添加到其“最高信念想法”名单中</title>
+      <link>https://www.cnbc.com/2024/05/02/citi-added-these-stocks-to-its-highest-conviction-ideas-list.html</link>
+      <description><![CDATA[花旗刚刚刷新了欧洲“最有说服力的想法”清单，并推荐了投资者现在可以采用的具体交易策略。]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/citi-added-these-stocks-to-its-highest-conviction-ideas-list.html</guid>
+      <pubDate>Thu, 02 May 2024 02:37:18 GMT</pubDate>
+    </item>
     <item>
       <title>美国对俄罗斯实施数百项制裁，瞄准中国企业</title>
       <link>https://www.cnbc.com/2024/05/02/us-issues-hundreds-of-sanctions-targeting-russia-takes-aim-at-chinese-companies.html</link>
@@ -43,14 +57,14 @@
     <item>
       <title>美联储决定维持利率稳定后股指期货上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/01/stock-market-today-live-updates.html</link>
-      <description><![CDATA[周三，随着交易员研究美联储的最新决定和主席杰罗姆·鲍威尔的新闻发布会，华尔街波动剧烈。]]></description>
+      <description><![CDATA[周三华尔街波动剧烈，交易员研究了美联储的最新决定和主席杰罗姆·鲍威尔的新闻发布会。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/stock-market-today-live-updates.html</guid>
       <pubDate>Wed, 01 May 2024 23:09:50 GMT</pubDate>
     </item>
     <item>
-      <title>高通推出人工智能智能手机，营收预测好于预期</title>
+      <title>高通公司推出人工智能智能手机，营收预测好于预期</title>
       <link>https://www.cnbc.com/2024/05/01/qualcomm-earnings-report-q2-2024.html</link>
-      <description><![CDATA[高通公司指出，对需要最先进芯片的“高端”智能手机的强劲需求。]]></description>
+      <description><![CDATA[高通表示，对需要最先进芯片的“高端”智能手机的强劲需求。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/qualcomm-earnings-report-q2-2024.html</guid>
       <pubDate>Wed, 01 May 2024 21:47:57 GMT</pubDate>
     </item>
@@ -62,7 +76,7 @@
       <pubDate>Wed, 01 May 2024 21:02:07 GMT</pubDate>
     </item>
     <item>
-      <title>UnitedHealth 首席执行官估计三分之一的美国人可能会受到 Change Healthcare 网络攻击的影响</title>
+      <title>UnitedHealth 首席执行官估计三分之一的美国人可能受到 Change Healthcare 网络攻击的影响</title>
       <link>https://www.cnbc.com/2024/05/01/unitedhealth-ceo-one-third-of-americans-could-be-impacted-by-change-healthcare-cyberattack.html</link>
       <description><![CDATA[UnitedHealth 首席执行官估计，三分之一美国人的数据可能在 Change Healthcare 网络攻击中受到损害。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/unitedhealth-ceo-one-third-of-americans-could-be-impacted-by-change-healthcare-cyberattack.html</guid>
@@ -90,25 +104,11 @@
       <pubDate>Wed, 01 May 2024 19:16:42 GMT</pubDate>
     </item>
     <item>
-      <title>随着美联储决定利率下降，这些股票涨幅最大</title>
-      <link>https://www.cnbc.com/2024/05/01/these-are-the-stocks-with-the-most-to-gain-or-lose-from-the-fed-decision.html</link>
-      <description><![CDATA[关注美联储主席杰罗姆·鲍威尔周三的言论，以及这对这些利率敏感股票意味着什么。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/these-are-the-stocks-with-the-most-to-gain-or-lose-from-the-fed-decision.html</guid>
-      <pubDate>Wed, 01 May 2024 19:11:03 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌解雇数百名“核心”员工，将部分职位转移到印度和墨西哥</title>
       <link>https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html</link>
-      <description><![CDATA[谷歌正在裁减更多员工并在美国以外地区招聘新员工。]]></description>
+      <description><![CDATA[谷歌正在裁员，并在美国境外招聘更多员工。]]></description>
       <guid>https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html</guid>
       <pubDate>Wed, 01 May 2024 18:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>为何数百家美国银行可能面临破产风险</title>
-      <link>https://www.cnbc.com/2024/05/01/why-hundreds-of-us-banks-may-be-at-risk-of-failure.html</link>
-      <description><![CDATA[Klaros Group 的一项研究显示，在约 4,000 家银行中，有 282 家银行面临商业房地产和更高利率的威胁。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/why-hundreds-of-us-banks-may-be-at-risk-of-failure.html</guid>
-      <pubDate>Wed, 01 May 2024 15:53:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
