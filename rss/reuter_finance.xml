@@ -3,8 +3,8 @@
   <channel>
     <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 11:36:54 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 02 May 2024 11:51:47 GMT</lastBuildDate>
     <item>
       <title>德意志银行和工会同意提高邮政银行员工的工资</title>
       <link>https://www.reuters.com/business/finance/deutsche-bank-union-agree-raise-pay-postbank-employees-2024-05-02/</link>
@@ -22,12 +22,12 @@
     <item>
       <title>欧盟向黎巴嫩提供10亿欧元经济和安全支持</title>
       <link>https://www.reuters.com/world/middle-east/eu-offers-1-bln-euros-economic-security-support-lebanon-2024-05-02/</link>
-      <description><![CDATA[欧盟委员会主席乌尔苏拉·冯德莱恩周四访问贝鲁特时表示，欧盟已向黎巴嫩提供 10 亿欧元（10.7 亿美元）的财政援助，以支持其陷入困境的经济和安全部队。]]></description>
+      <description><![CDATA[欧盟委员会主席乌尔苏拉·冯德莱恩周四在访问贝鲁特期间表示，欧盟已向黎巴嫩提供10亿欧元（10.7亿美元）的一揽子金融计划，以支持其摇摇欲坠的经济和安全部队。]]></description>
       <guid>https://www.reuters.com/world/middle-east/eu-offers-1-bln-euros-economic-security-support-lebanon-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 09:19:53 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯无法与西方国家的资产扣押相比，但它可以造成痛苦</title>
+      <title>俄罗斯无法与西方资产扣押相媲美，但它可以造成痛苦</title>
       <link>https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/</link>
       <description><![CDATA[如果西方领导人扣押其被冻结的资产，俄罗斯实施同等报复的能力已因外国投资减少而受到削弱，但官员和经济学家表示，俄罗斯仍然有办法进行反击。]]></description>
       <guid>https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/</guid>
@@ -58,7 +58,7 @@
     <item>
       <title>ING宣布股票回购，季度净利息收入下降</title>
       <link>https://www.reuters.com/business/finance/ing-posts-lower-q1-net-interest-income-higher-interest-rates-lift-funding-costs-2024-05-02/</link>
-      <description><![CDATA[荷兰银行 ING Groep 周四宣布回购 25 亿欧元的股票，此前这家荷兰银行表示，在高利率的推动下，第一季度业绩强劲，导致其股价在早盘交易中上涨超过 5%。]]></description>
+      <description><![CDATA[荷兰银行 ING Groep 周四宣布回购 25 亿欧元股票，此前该银行表示，受高利率推动，第一季度业绩表现强劲，早盘股价上涨逾 5%。]]></description>
       <guid>https://www.reuters.com/business/finance/ing-posts-lower-q1-net-interest-income-higher-interest-rates-lift-funding-costs-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:14:46 GMT</pubDate>
     </item>
@@ -72,7 +72,7 @@
     <item>
       <title>汇丰维持香港最优惠贷款利率于5.875%不变</title>
       <link>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</link>
-      <description><![CDATA[汇丰控股周四表示，在香港事实上的央行维持通过隔夜贴现窗口收取的基本利率不变，追随美联储维持利率稳定的决定后，该公司已将香港最优惠贷款利率维持在5.875%。]]></description>
+      <description><![CDATA[汇丰控股周四表示，该行将维持香港最佳贷款利率于 5.875% 不变，此前香港事实上的央行维持隔夜贴现窗口的基准利率不变，以追随美联储维持利率稳定的决定。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 04:27:39 GMT</pubDate>
     </item>
@@ -98,7 +98,7 @@
       <pubDate>Wed, 01 May 2024 22:39:46 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚国民银行报告利润下降，但暗示银行利润率紧缩正在缓解</title>
+      <title>澳大利亚国民银行公布利润下降但暗示银行利润率紧缩正在缓解</title>
       <link>https://www.reuters.com/markets/national-australia-bank-first-half-cash-earnings-fall-13-2024-05-01/</link>
       <description><![CDATA[澳大利亚国民银行周四公布上半年盈利出现两位数下降，但赞扬了经济实力，并表示至关重要的住房贷款市场的利润紧缩斗争显示出缓解的迹象。]]></description>
       <guid>https://www.reuters.com/markets/national-australia-bank-first-half-cash-earnings-fall-13-2024-05-01/</guid>
