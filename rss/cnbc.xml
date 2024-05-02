@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 02 May 2024 17:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:15:00 GMT</lastBuildDate>
+    <item>
+      <title>联邦贸易委员会指控先锋公司前首席执行官与欧佩克勾结，阻止他担任埃克森美孚董事会席位</title>
+      <link>https://www.cnbc.com/2024/05/02/ftc-accuses-ex-pioneer-ceo-of-colluding-with-opec-blocks-him-from-exxon-board.html</link>
+      <description><![CDATA[据《华尔街日报》报道，美国联邦贸易委员会已决定将这些指控提交司法部，以进行刑事调查。]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/ftc-accuses-ex-pioneer-ceo-of-colluding-with-opec-blocks-him-from-exxon-board.html</guid>
+      <pubDate>Thu, 02 May 2024 18:17:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官裁定特朗普竞选律师目前无法退出工作场所歧视案</title>
+      <link>https://www.cnbc.com/2024/05/02/trump-campaign-lawyers-cant-quit-workplace-discrimination-case-for-now-judge-rules.html</link>
+      <description><![CDATA[A.J. 提起的诉讼德尔加多声称，在她透露自己怀上了另一位顾问杰森·米勒的身孕后，特朗普竞选团队歧视了她。]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/trump-campaign-lawyers-cant-quit-workplace-discrimination-case-for-now-judge-rules.html</guid>
+      <pubDate>Thu, 02 May 2024 18:14:16 GMT</pubDate>
+    </item>
     <item>
       <title>美国国税局的目标是在战略计划更新中将最富有纳税人的审计率提高一倍以上</title>
       <link>https://www.cnbc.com/2024/05/02/irs-aims-to-more-than-double-its-audit-rate-on-wealthiest-taxpayers-.html</link>
       <description><![CDATA[美国国税局发布了其战略运营计划的更新，其中包括对最富有的纳税人、大公司和合伙企业进行更多审计。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/irs-aims-to-more-than-double-its-audit-rate-on-wealthiest-taxpayers-.html</guid>
-      <pubDate>Thu, 02 May 2024 17:47:34 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 18:12:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>斯托米·丹尼尔斯前律师回忆起发短信“我们做了什么？”当特朗普赢得 2016 年大选时</title>
+      <link>https://www.cnbc.com/2024/05/02/trump-trial-lawyer-behind-stormy-daniels-hush-money-payment-testifies.html</link>
+      <description><![CDATA[唐纳德·特朗普因违反禁言令而被法官胡安·默尚认定为藐视法庭，之后他重返纽约接受刑事封口费审判。]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/trump-trial-lawyer-behind-stormy-daniels-hush-money-payment-testifies.html</guid>
+      <pubDate>Thu, 02 May 2024 17:58:41 GMT</pubDate>
     </item>
     <item>
       <title>代理顾问 ISS 表示工会和养老基金应该支持诺福克南方激进投资者</title>
       <link>https://www.cnbc.com/2024/05/02/norfolk-southern-iss-activist-third-proxy-advisor-endorsement-.html</link>
-      <description><![CDATA[机构股东服务公司 (Institutional Shareholder Services) 周四表示，关注 ESG 的投资者和工会应该支持诺福克南方激进分子安科拉 (Ancora) 及其首席执行官吉姆·巴伯 (Jim Barber)。]]></description>
+      <description><![CDATA[机构股东服务公司 (Institutional Shareholder Services) 周四表示，注重 ESG 的投资者和工会应该支持诺福克南方激进分子安科拉 (Ancora) 及其首席执行官吉姆·巴伯 (Jim Barber)。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/norfolk-southern-iss-activist-third-proxy-advisor-endorsement-.html</guid>
-      <pubDate>Thu, 02 May 2024 17:33:14 GMT</pubDate>
+      <pubDate>Thu, 02 May 2024 17:57:22 GMT</pubDate>
     </item>
     <item>
       <title>华尔街对美联储今年将降息多少次感到困惑和分歧</title>
@@ -29,16 +50,9 @@
     <item>
       <title>这些股票下周的报告往往超出预期并上涨</title>
       <link>https://www.cnbc.com/2024/05/02/these-stocks-reporting-next-week-often-beat-estimates-and-rally.html</link>
-      <description><![CDATA[关注这些股票下周即将公布的财报，看看它们的股价是否可能出现上涨和反弹。]]></description>
+      <description><![CDATA[关注这些股票下周的收益情况，看看它们是否可能出现股价上涨和反弹。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/these-stocks-reporting-next-week-often-beat-estimates-and-rally.html</guid>
       <pubDate>Thu, 02 May 2024 17:22:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯托米·丹尼尔斯前律师回忆起发短信“我们做了什么？”当特朗普赢得 2016 年大选时</title>
-      <link>https://www.cnbc.com/2024/05/02/trump-trial-lawyer-behind-stormy-daniels-hush-money-payment-testifies.html</link>
-      <description><![CDATA[唐纳德·特朗普因违反禁言令而被法官胡安·默查恩判定藐视法庭，随后他重返纽约接受刑事封口费审判。]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/trump-trial-lawyer-behind-stormy-daniels-hush-money-payment-testifies.html</guid>
-      <pubDate>Thu, 02 May 2024 17:12:33 GMT</pubDate>
     </item>
     <item>
       <title>中午涨幅最大的股票：Apple、Peloton、Wayfair、Carvana 等</title>
@@ -64,7 +78,7 @@
     <item>
       <title>美国 10 个最“负担不起”的城市——洛杉矶排名第一</title>
       <link>https://www.cnbc.com/2024/05/02/us-cities-most-unaffordable-neighborhoods-creditnews-research.html</link>
-      <description><![CDATA[Creditnews Research 根据典型已婚夫妇家庭可购买房屋的社区百分比对城市进行了排名。]]></description>
+      <description><![CDATA[Creditnews Research 根据典型已婚夫妇家庭可购房的社区百分比对城市进行了排名。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/us-cities-most-unaffordable-neighborhoods-creditnews-research.html</guid>
       <pubDate>Thu, 02 May 2024 16:42:35 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Peloton 周四宣布，首席执行官巴里·麦卡锡 (Barry McCarthy) 将在接替创始人约翰·福利 (John Foley) 两年多后辞职。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/peloton-ceo-barry-mccarthy-steps-down-15percent-of-staff-laid-off.html</guid>
       <pubDate>Thu, 02 May 2024 14:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普再次不会承诺接受总统选举结果</title>
-      <link>https://www.cnbc.com/2024/05/02/trump-again-wont-commit-to-accepting-the-presidential-election-results.html</link>
-      <description><![CDATA[这位共和党推定候选人在接受《密尔沃基哨兵报》采访时表示，只有“一切都是诚实的”，他才会“很乐意接受结果”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/trump-again-wont-commit-to-accepting-the-presidential-election-results.html</guid>
-      <pubDate>Thu, 02 May 2024 13:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌解雇数百名“核心”员工，将部分职位转移到印度和墨西哥</title>
-      <link>https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html</link>
-      <description><![CDATA[谷歌正在裁员，并在美国境外招聘更多员工。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/google-cuts-hundreds-of-core-workers-moves-jobs-to-india-mexico.html</guid>
-      <pubDate>Thu, 02 May 2024 07:49:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

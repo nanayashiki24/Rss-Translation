@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT 世界新闻</title>
+    <title>RT世界新闻</title>
     <link>https://www.rt.com/news/</link>
-    <description>RT 世界新闻</description>
-    <lastBuildDate>Thu, 02 May 2024 17:51:10 GMT</lastBuildDate>
+    <description>RT世界新闻</description>
+    <lastBuildDate>Thu, 02 May 2024 18:19:49 GMT</lastBuildDate>
+    <item>
+      <title>中国测试下一代航母</title>
+      <link>https://www.rt.com/news/596892-china-tests-aircraft-carrier/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 中国第三艘也是最先进的航空母舰福建舰本周开始首次海试在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/596892-china-tests-aircraft-carrier/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Thu, 02 May 2024 17:58:49 GMT</pubDate>
+    </item>
     <item>
       <title>美国共和党人欲罢免众议院议长</title>
       <link>https://www.rt.com/news/596898-us-republican-oust-house-speaker/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -48,14 +55,14 @@
       <pubDate>Thu, 02 May 2024 14:03:22 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟各地图书馆的俄罗斯珍本书籍消失 - 纽约时报</title>
+      <title>俄罗斯珍本书籍从欧盟各地图书馆消失 - 纽约时报</title>
       <link>https://www.rt.com/news/596880-rare-russian-books-stolen-europe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 据报道，超过 170 本价值 260 万美元的俄罗斯稀有书籍从欧洲图书馆被盗，其中包括亚历山大·普希金的作品在 RT.com 上阅读全文]]></description>
+      <description><![CDATA[ 据报道，价值 260 万美元的 170 多本俄罗斯珍本书籍在欧洲图书馆被盗，其中包括亚历山大·普希金的作品 在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596880-rare-russian-books-stolen-europe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Thu, 02 May 2024 13:08:15 GMT</pubDate>
     </item>
     <item>
-      <title>美国大学的亲巴勒斯坦抗议活动：实时更新</title>
+      <title>美国大学爆发亲巴勒斯坦抗议活动：实时更新</title>
       <link>https://www.rt.com/news/596869-palestine-protests-us-colleges/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 美国校园反对以色列加沙战争的示威活动导致冲突和多人被捕在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596869-palestine-protests-us-colleges/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -97,18 +104,11 @@
       <pubDate>Thu, 02 May 2024 01:07:08 GMT</pubDate>
     </item>
     <item>
-      <title>“不是我们的战争”：波兰人游行反对乌克兰援助（视频）</title>
+      <title>“这不是我们的战争”：波兰人游行抗议乌克兰援助（视频）</title>
       <link>https://www.rt.com/news/596854-poland-ukraine-war-march/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 华沙举行反战抗议活动，反对波兰继续向乌克兰提供军事援助在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/596854-poland-ukraine-war-march/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Wed, 01 May 2024 18:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>科学家提出“病态”理论解释外星人为何没有接触过</title>
-      <link>https://www.rt.com/news/596852-aliens-contact-humans-theory/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 天文学家弗雷德里克·沃尔特告诉《每日邮报》，外星文明可能已被伽马射线爆发消灭了在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/596852-aliens-contact-humans-theory/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Wed, 01 May 2024 17:25:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
