@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 |今日头条 |路透社</title>
+    <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 20:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 20:52:24 GMT</lastBuildDate>
+    <item>
+      <title>独家：消息人士称，收购公司 Sycamore 竞相将 Nordstrom 私有化</title>
+      <link>https://www.reuters.com/markets/deals/buyout-firm-sycamore-vies-take-nordstrom-private-sources-say-2024-05-02/</link>
+      <description><![CDATA[据知情人士透露，Sycamore Partners 是有意将美国百货公司诺德斯特龙 (Nordstrom) 私有化的收购股权公司之一。]]></description>
+      <guid>https://www.reuters.com/markets/deals/buyout-firm-sycamore-vies-take-nordstrom-private-sources-say-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 19:49:59 GMT</pubDate>
+    </item>
     <item>
       <title>消息人士称，高盛取消了欧盟时代英国顶级银行家的奖金上限</title>
       <link>https://www.reuters.com/business/finance/goldman-sachs-scraps-eu-era-bonus-cap-top-bankers-uk-source-says-2024-05-02/</link>
-      <description><![CDATA[据知情人士透露，高盛已取消了英国高级银行家的奖金上限，几个月前，英国刚刚取消了从欧盟继承下来的这项政策。]]></description>
+      <description><![CDATA[据知情人士透露，在英国取消从欧盟继承的政策几个月后，高盛取消了英国顶级银行家的奖金上限。]]></description>
       <guid>https://www.reuters.com/business/finance/goldman-sachs-scraps-eu-era-bonus-cap-top-bankers-uk-source-says-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 14:34:03 GMT</pubDate>
     </item>
     <item>
       <title>交易员准备迎接另一轮日元打地鼠大战</title>
       <link>https://www.reuters.com/markets/currencies/traders-prep-another-round-yen-whack-a-mole-2024-05-02/</link>
-      <description><![CDATA[日本试图支撑日元汇率的努力让全球交易柜台处于高度戒备状态，在伦敦和东京的长周末到来之前，交易商们不敢冒险，这可能为当局提供另一个提振疲弱日元的机会。]]></description>
+      <description><![CDATA[日本为支撑本币所做的努力使全球各地的交易部门处于高度戒备状态，交易商不愿冒险，因为伦敦和东京的长周末可能会为当局提供另一个支撑脆弱日元的机会。]]></description>
       <guid>https://www.reuters.com/markets/currencies/traders-prep-another-round-yen-whack-a-mole-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 14:05:01 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 12:32:15 GMT</pubDate>
     </item>
     <item>
-      <title>Janus Henderson 收购科威特国家银行另类投资业务，进军中东市场</title>
+      <title>Janus Henderson 收购科威特国家银行另类投资业务进军中东</title>
       <link>https://www.reuters.com/markets/deals/janus-henderson-buys-national-bank-kuwaits-alternative-investment-business-2024-05-02/</link>
       <description><![CDATA[全球资产管理公司 Janus Henderson 计划收购科威特国家银行的另类投资业务，该交易预计将加强其在新兴市场的地位及其在中东的客户机会。]]></description>
       <guid>https://www.reuters.com/markets/deals/janus-henderson-buys-national-bank-kuwaits-alternative-investment-business-2024-05-02/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>由于IPO市场低迷抵消了创纪录的能源交易，纽约证券交易所母公司ICE的收入低于预期</title>
       <link>https://www.reuters.com/business/finance/nyse-parent-ices-profit-rises-record-surge-energy-market-volatility-2024-05-02/</link>
-      <description><![CDATA[洲际交易所周四公布的第一季度营收略低于预期，原因是美国首次公开募股的复苏不均衡，削弱了创纪录交易活动的回升势头。第一季度 IPO 收入下降 4% 至 1.22 亿美元。根据 LSEG 数据，分析师平均预期跌幅较小，约为 2.33%。]]></description>
+      <description><![CDATA[周四，洲际交易所公布第一季度营收略低于预期，原因是美国首次公开募股复苏不平衡，削弱了创纪录交易活动的上升势头。第一季度，IPO 营收下降 4% 至 1.22 亿美元。根据伦敦证券交易所的数据，分析师平均预计降幅较小，约为 2.33%。]]></description>
       <guid>https://www.reuters.com/business/finance/nyse-parent-ices-profit-rises-record-surge-energy-market-volatility-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 11:38:11 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 02 May 2024 11:06:29 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：美联储缩减量化宽松安抚情绪，日元再次上涨</title>
+      <title>早盘报价：美联储缩减QT令市场平静，日元再次上涨</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>欧盟向黎巴嫩提供10亿欧元经济和安全支持</title>
       <link>https://www.reuters.com/world/middle-east/eu-offers-1-bln-euros-economic-security-support-lebanon-2024-05-02/</link>
-      <description><![CDATA[欧盟委员会主席乌尔苏拉·冯德莱恩周四在访问贝鲁特期间表示，欧盟已向黎巴嫩提供10亿欧元（10.7亿美元）的一揽子金融计划，以支持其摇摇欲坠的经济和安全部队。]]></description>
+      <description><![CDATA[欧盟委员会主席乌尔苏拉·冯德莱恩周四访问贝鲁特时表示，欧盟已向黎巴嫩提供 10 亿欧元（10.7 亿美元）的财政援助，以支持其陷入困境的经济和安全部队。]]></description>
       <guid>https://www.reuters.com/world/middle-east/eu-offers-1-bln-euros-economic-security-support-lebanon-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 09:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯无法与西方国家的资产扣押相比，但它可以造成痛苦</title>
-      <link>https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/</link>
-      <description><![CDATA[如果西方领导人扣押其被冻结的资产，俄罗斯实施同等报复的能力已因外国投资减少而受到削弱，但官员和经济学家表示，俄罗斯仍然有办法进行反击。]]></description>
-      <guid>https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:06:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
