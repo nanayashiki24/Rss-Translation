@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 |今日头条 |路透社</title>
+    <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 19:51:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 20:15:42 GMT</lastBuildDate>
+    <item>
+      <title>独家：消息人士称，收购公司 Sycamore 竞相将 Nordstrom 私有化</title>
+      <link>https://www.reuters.com/markets/deals/buyout-firm-sycamore-vies-take-nordstrom-private-sources-say-2024-05-02/</link>
+      <description><![CDATA[据知情人士透露，Sycamore Partners 是表示有兴趣将美国百货公司 Nordstrom 私有化的收购股权公司之一。]]></description>
+      <guid>https://www.reuters.com/markets/deals/buyout-firm-sycamore-vies-take-nordstrom-private-sources-say-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 19:49:59 GMT</pubDate>
+    </item>
     <item>
       <title>消息人士称，高盛取消了欧盟时代英国顶级银行家的奖金上限</title>
       <link>https://www.reuters.com/business/finance/goldman-sachs-scraps-eu-era-bonus-cap-top-bankers-uk-source-says-2024-05-02/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>独家：消息人士称，瑞银正在考虑进行资产管理改革以降低成本</title>
       <link>https://www.reuters.com/business/finance/ubs-weighs-asset-management-overhaul-reduce-costs-sources-say-2024-05-02/</link>
-      <description><![CDATA[知情人士向路透社透露，瑞银正在考虑削减资产管理部门数亿美元成本的计划，因为该行正在研究应对该业务利润承压的选择。]]></description>
+      <description><![CDATA[知情人士告诉路透社，瑞银正在考虑削减其资产管理部门数亿美元成本的计划，因为该银行正在研究利润面临压力的企业的选择。]]></description>
       <guid>https://www.reuters.com/business/finance/ubs-weighs-asset-management-overhaul-reduce-costs-sources-say-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 13:25:57 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 02 May 2024 12:38:53 GMT</pubDate>
     </item>
     <item>
-      <title>匈牙利精通媒体的新人旨在破坏政治现状</title>
+      <title>匈牙利媒体精明的新人旨在打破政治现状</title>
       <link>https://www.reuters.com/world/europe/hungarys-media-savvy-newcomer-aims-disrupt-political-status-quo-2024-05-02/</link>
       <description><![CDATA[上个月的一个星期六早上，彼得·马扎尔（Peter Magyar）在繁忙的布达佩斯市场大厅前与支持者自拍时，他请求支持者给他一分钟时间。]]></description>
       <guid>https://www.reuters.com/world/europe/hungarys-media-savvy-newcomer-aims-disrupt-political-status-quo-2024-05-02/</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>早盘竞价：美联储缩减量化宽松安抚情绪，日元再次上涨</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 10:09:32 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[欧盟委员会主席乌尔苏拉·冯德莱恩周四在访问贝鲁特期间表示，欧盟已向黎巴嫩提供10亿欧元（10.7亿美元）的一揽子金融计划，以支持其摇摇欲坠的经济和安全部队。]]></description>
       <guid>https://www.reuters.com/world/middle-east/eu-offers-1-bln-euros-economic-security-support-lebanon-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 09:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯无法与西方资产扣押相媲美，但它可以造成痛苦</title>
-      <link>https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/</link>
-      <description><![CDATA[如果西方领导人扣押其被冻结的资产，俄罗斯实施同等报复的能力已因外国投资减少而受到削弱，但官员和经济学家表示，俄罗斯仍然有办法进行反击。]]></description>
-      <guid>https://www.reuters.com/world/europe/russia-cant-match-western-asset-seizure-it-can-inflict-pain-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:06:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
