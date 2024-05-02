@@ -3,12 +3,19 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 02 May 2024 21:34:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Thu, 02 May 2024 22:07:00 GMT</lastBuildDate>
+    <item>
+      <title>iPhone 销量下降 10% 苹果宣布史上最大规模 1100 亿美元股票回购</title>
+      <link>https://www.cnbc.com/2024/05/02/apple-aapl-earnings-report-q2-2024.html</link>
+      <description><![CDATA[苹果首席执行官蒂姆·库克 (Tim Cook) 向 CNBC 表示，与上年同期相比，销量同比下降。]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/apple-aapl-earnings-report-q2-2024.html</guid>
+      <pubDate>Thu, 02 May 2024 22:01:28 GMT</pubDate>
+    </item>
     <item>
       <title>Block 股价因第一季度业绩好于预期而上涨</title>
       <link>https://www.cnbc.com/2024/05/02/block-sq-earnings-q1-2024.html</link>
-      <description><![CDATA[布洛克的收益报告发布之际，有报道称美国检察官正在调查该公司的合规做法，导致股价下跌。]]></description>
+      <description><![CDATA[布洛克的盈利报告发布之际，有报道称美国检察官正在调查该公司的合规做法，导致股价下跌。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/block-sq-earnings-q1-2024.html</guid>
       <pubDate>Thu, 02 May 2024 21:50:17 GMT</pubDate>
     </item>
@@ -27,13 +34,6 @@
       <pubDate>Thu, 02 May 2024 21:28:11 GMT</pubDate>
     </item>
     <item>
-      <title>iPhone 销量下降 10% 苹果宣布史上最大规模 1100 亿美元股票回购</title>
-      <link>https://www.cnbc.com/2024/05/02/apple-aapl-earnings-report-q2-2024.html</link>
-      <description><![CDATA[苹果首席执行官蒂姆·库克 (Tim Cook) 向 CNBC 表示，与上年同期相比，销量同比下降。]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/apple-aapl-earnings-report-q2-2024.html</guid>
-      <pubDate>Thu, 02 May 2024 21:25:16 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普否认在审判期间睡觉：“我只是闭上美丽的蓝眼睛”</title>
       <link>https://www.cnbc.com/2024/05/02/trump-trial-lawyer-behind-stormy-daniels-hush-money-payment-testifies.html</link>
       <description><![CDATA[唐纳德·特朗普因违反禁言令而被法官胡安·默尚认定为藐视法庭，之后他重返纽约接受刑事封口费审判。]]></description>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 02 May 2024 21:22:03 GMT</pubDate>
     </item>
     <item>
-      <title>摩根大通对加密货币持谨慎态度，散户投资者在 ETF 炒作后纷纷抛售</title>
+      <title>散户投资者在 ETF 炒作后抛售，摩根大通对加密货币持谨慎态度</title>
       <link>https://www.cnbc.com/2024/05/02/jpmorgan-is-cautious-on-crypto-as-retail-investors-dump-following-etf-hype.html</link>
       <description><![CDATA[摩根大通表示，美联储暂停政策后，加密货币市场周三表现乐观，但投资者仍应谨慎行事。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/jpmorgan-is-cautious-on-crypto-as-retail-investors-dump-following-etf-hype.html</guid>
@@ -53,13 +53,6 @@
       <description><![CDATA[劳工统计局报告于东部时间上午 8:30 发布。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/heres-what-to-expect-from-the-april-jobs-report-on-friday.html</guid>
       <pubDate>Thu, 02 May 2024 21:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>道指收盘上涨逾 300 点，标普 500 指数三日来首次上涨：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/01/stock-market-today-live-updates.html</link>
-      <description><![CDATA[由于投资者期待更多企业盈利以及本周晚些时候公布的重要劳工报告，股市周四上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/05/01/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 02 May 2024 20:46:53 GMT</pubDate>
     </item>
     <item>
       <title>Peloton 首席执行官巴里·麦卡锡 (Barry McCarthy) 辞职，公司将裁员 15%，以寻求债务再融资</title>
@@ -76,14 +69,21 @@
       <pubDate>Thu, 02 May 2024 20:19:20 GMT</pubDate>
     </item>
     <item>
+      <title>美联储表示不太可能加息后，比特币价格回升至 59,000 美元：CNBC Crypto World</title>
+      <link>https://www.cnbc.com/video/2024/05/02/bitcoin-climbs-to-59000-fed-signals-unlikely-to-raise-rates-crypto-world.html</link>
+      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过备受瞩目的采访、解释和来自不断变化的加密行业的独特故事，让观众了解未来的发展趋势。在今天的节目中，New Form Capital 的 Alex Marinier 讨论了华尔街对区块链技术日益增长的兴趣。]]></description>
+      <guid>https://www.cnbc.com/video/2024/05/02/bitcoin-climbs-to-59000-fed-signals-unlikely-to-raise-rates-crypto-world.html</guid>
+      <pubDate>Thu, 02 May 2024 19:00:01 GMT</pubDate>
+    </item>
+    <item>
       <title>联邦贸易委员会指控先锋公司前首席执行官与欧佩克勾结，阻止他担任埃克森美孚董事会席位</title>
       <link>https://www.cnbc.com/2024/05/02/ftc-accuses-ex-pioneer-ceo-of-colluding-with-opec-blocks-him-from-exxon-board.html</link>
-      <description><![CDATA[据《华尔街日报》报道，联邦贸易委员会已决定将这些指控提交司法部进行可能的刑事调查。]]></description>
+      <description><![CDATA[据《华尔街日报》报道，美国联邦贸易委员会已决定将这些指控提交司法部，以进行刑事调查。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/ftc-accuses-ex-pioneer-ceo-of-colluding-with-opec-blocks-him-from-exxon-board.html</guid>
       <pubDate>Thu, 02 May 2024 18:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>美国国税局在战略计划更新中计划将最富有纳税人的审计率提高一倍以上</title>
+      <title>美国国税局的目标是在战略计划更新中将最富有纳税人的审计率提高一倍以上</title>
       <link>https://www.cnbc.com/2024/05/02/irs-aims-to-more-than-double-its-audit-rate-on-wealthiest-taxpayers-.html</link>
       <description><![CDATA[美国国税局发布了其战略运营计划的更新，其中包括对最富有的纳税人、大公司和合伙企业进行更多审计。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/irs-aims-to-more-than-double-its-audit-rate-on-wealthiest-taxpayers-.html</guid>
@@ -99,14 +99,14 @@
     <item>
       <title>全球最大橄榄油生产商称，该行业正面临史上最艰难时刻之一</title>
       <link>https://www.cnbc.com/2024/05/02/spains-deoleo-says-olive-oil-sector-faces-one-of-its-toughest-moments.html</link>
-      <description><![CDATA[西班牙的 Deoleo 表示，该行业必须经历“深刻的转型”，因为它正面临历史上最具挑战性的时刻之一。]]></description>
+      <description><![CDATA[西班牙的 Deoleo 表示，该行业必须经历“深刻的转型”，因为它正在努力应对其历史上最具挑战性的时刻之一。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/spains-deoleo-says-olive-oil-sector-faces-one-of-its-toughest-moments.html</guid>
       <pubDate>Thu, 02 May 2024 16:47:23 GMT</pubDate>
     </item>
     <item>
-      <title>沃伦·巴菲特的年会可能解释了他的股票投资组合的惊人走势</title>
+      <title>沃伦·巴菲特的年度股东大会或许可以解释他的股票投资组合的意外变动</title>
       <link>https://www.cnbc.com/2024/05/02/souring-on-apple-mystery-bank-stock-buffett-may-clarify-portfolio-at-annual-meeting.html</link>
-      <description><![CDATA[这位 93 岁的偶像可能会在本周末的伯克希尔年度会议上详细阐述其庞大股票投资组合的一些近期变动。]]></description>
+      <description><![CDATA[这位 93 岁的偶像可能会在本周末的伯克希尔年度会议上详细阐述其庞大股票投资组合的一些近期举措。]]></description>
       <guid>https://www.cnbc.com/2024/05/02/souring-on-apple-mystery-bank-stock-buffett-may-clarify-portfolio-at-annual-meeting.html</guid>
       <pubDate>Thu, 02 May 2024 16:03:50 GMT</pubDate>
     </item>
