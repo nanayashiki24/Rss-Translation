@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 03 May 2024 19:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 20:15:08 GMT</lastBuildDate>
     <item>
-      <title>截至 4 月 30 日当周的 CFTC 头寸
+      <title>本周，标准普尔 500 指数上涨 0.55%，纳斯达克指数上涨 1.43%，道指上涨 1.14%。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786486451263201345#m</link>
+      <description><![CDATA[本周，标准普尔 500 指数上涨 0.55%，纳斯达克指数上涨 1.43%，道指上涨 1.14%。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786486451263201345#m</guid>
+      <pubDate>Fri, 03 May 2024 20:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈马斯：我们决心以满足巴勒斯坦人要求的方式达成停战协议。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786485409326801104#m</link>
+      <description><![CDATA[哈马斯：我们决心以满足巴勒斯坦人要求的方式达成停战协议。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786485409326801104#m</guid>
+      <pubDate>Fri, 03 May 2024 19:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈马斯：我们在研究停火提案时强调运动的积极精神，并以同样的精神前往开罗达成协议。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786485372895011074#m</link>
+      <description><![CDATA[哈马斯：我们在研究停火提案时强调运动的积极精神，以同样的精神前往开罗达成协议。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786485372895011074#m</guid>
+      <pubDate>Fri, 03 May 2024 19:57:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国信贷动能将受到利率不确定性的影响 - 惠誉评级 https://www.fitch ratings.com/research/banks/us-credit-momentum-will-be-tempered-by-rate-uncertainty-03-05-2024</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786484911215399338#m</link>
+      <description><![CDATA[美国信贷势头将因利率不确定性而受到影响 - 惠誉评级 fitch ratings.com/research/ba…]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786484911215399338#m</guid>
+      <pubDate>Fri, 03 May 2024 19:56:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>惠誉评级：美国信贷势头将因利率不确定性而受到抑制。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786484750145696220#m</link>
+      <description><![CDATA[惠誉评级：美国信贷势头将因利率不确定性而受到抑制。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786484750145696220#m</guid>
+      <pubDate>Fri, 03 May 2024 19:55:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>CFTC 持仓情况（截至 4 月 30 日当周）
 https://www.financialjuice.com/News/8114394/CFTC-Positions-Week-Ended-April-30th.aspx</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786479687599800800#m</link>
       <description><![CDATA[截至 4 月 30 日的 CFTC 持仓周
@@ -42,7 +77,7 @@ financialjuice.com/News/8114…
       <pubDate>Fri, 03 May 2024 18:42:27 GMT</pubDate>
     </item>
     <item>
-      <title>NYMEX 天然气六月期货结算价为 2.1420 美元/百万英热单位。</title>
+      <title>NYMEX 六月天然气期货结算价为 2.1420 美元/MMBTU。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786463789463838929#m</link>
       <description><![CDATA[NYMEX 六月天然气期货结算价为 2.1420 美元/MMBTU。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786463789463838929#m</guid>
@@ -51,26 +86,26 @@ financialjuice.com/News/8114…
     <item>
       <title>NYMEX 6 月汽油期货结算价为每加仑 2.5551 美元。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786463756672721389#m</link>
-      <description><![CDATA[NYMEX 六月汽油期货结算价为每加仑 2.5551 美元。]]></description>
+      <description><![CDATA[NYMEX 汽油六月期货收于每加仑​​ 2.5551 美元。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786463756672721389#m</guid>
       <pubDate>Fri, 03 May 2024 18:32:05 GMT</pubDate>
     </item>
     <item>
-      <title>NYMEX WTI 原油 6 月期货结算价报每桶 78.11 美元，下跌 84 美分，跌幅 1.06%。</title>
+      <title>NYMEX WTI 原油 6 月期货收于每桶 78.11 美元，下跌 84 美分，跌幅 1.06%。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786463680499945843#m</link>
       <description><![CDATA[纽约商业交易所 WTI 原油 6 月期货收于每桶 78.11 美元，下跌 84 美分，跌幅 1.06%。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786463680499945843#m</guid>
       <pubDate>Fri, 03 May 2024 18:31:46 GMT</pubDate>
     </item>
     <item>
-      <title>NYMEX 6 月柴油期货结算价为每加仑 2.4434 美元。</title>
+      <title>NYMEX 柴油六月期货收盘价为每加仑 2.4434 美元。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786463646580662333#m</link>
       <description><![CDATA[NYMEX 六月柴油期货结算价为每加仑 2.4434 美元。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786463646580662333#m</guid>
       <pubDate>Fri, 03 May 2024 18:31:38 GMT</pubDate>
     </item>
     <item>
-      <title>70 个交易对手在美联储反向回购操作中获得了 450.165B 美元。</title>
+      <title>70 个交易对手在美联储逆回购操作中吸纳了 4501.65 亿美元。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786444663454372223#m</link>
       <description><![CDATA[70 个交易对手在美联储反向回购操作中获得了 450.165B 美元。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786444663454372223#m</guid>
@@ -82,41 +117,6 @@ financialjuice.com/News/8114…
       <description><![CDATA[埃及将于周六在开罗接待哈马斯代表团，讨论加沙休战 - 埃及阿尔卡赫拉新闻电视台援引埃及资深消息人士的话说。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786442191314817357#m</guid>
       <pubDate>Fri, 03 May 2024 17:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国贝克休斯石油钻井平台实际数量 499（预测 -，之前 506） $宏观</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786440895484571801#m</link>
-      <description><![CDATA[美国贝克休斯石油钻井平台实际数量为 499（预测 -，之前为 506）$MACRO]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786440895484571801#m</guid>
-      <pubDate>Fri, 03 May 2024 17:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国贝克休斯实际钻机总数 605（预测 -，之前 613） $宏观</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786440841264869792#m</link>
-      <description><![CDATA[美国贝克休斯实际钻机总数 605（预测 -，之前 613）$MACRO]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786440841264869792#m</guid>
-      <pubDate>Fri, 03 May 2024 17:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列高级官员：预计哈马斯将同意交换协议的第一阶段，但条​​件很苛刻 - 阿拉伯天空新闻。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786430293890474440#m</link>
-      <description><![CDATA[以色列高级官员：预计哈马斯将同意交换协议的第一阶段，但条​​件很苛刻 - 阿拉伯天空新闻。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786430293890474440#m</guid>
-      <pubDate>Fri, 03 May 2024 16:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯预计 5 月份柴油海运出口量将降至三年多来的最低水平。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786422637792538919#m</link>
-      <description><![CDATA[俄罗斯预计 5 月份柴油海运出口量将降至三年多来的最低水平。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786422637792538919#m</guid>
-      <pubDate>Fri, 03 May 2024 15:48:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cheniere 首席商务官 ANATOL FEYGIN：由于亚洲热浪和一些工厂面临的技术挑战，液化天然气供应紧张。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786416678902833227#m</link>
-      <description><![CDATA[CHENIERE 首席商务官 ANATOL FEYGIN：亚洲热浪和一些工厂面临的技术挑战导致液化天然气供应紧张。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786416678902833227#m</guid>
-      <pubDate>Fri, 03 May 2024 15:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
