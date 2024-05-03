@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 03 May 2024 17:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 18:16:00 GMT</lastBuildDate>
+    <item>
+      <title>Dave & Buster 允许在街机游戏上投注的计划受到审查</title>
+      <link>https://www.cnbc.com/2024/05/03/dave-busters-plan-to-allow-betting-on-arcade-games-draws-scrutiny-.html</link>
+      <description><![CDATA[伊利诺伊州的一位立法者正在提议立法禁止在家庭娱乐场所进行赌博，称此类公司没有适当的保障措施。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/dave-busters-plan-to-allow-betting-on-arcade-games-draws-scrutiny-.html</guid>
+      <pubDate>Fri, 03 May 2024 18:14:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于疲弱的就业报告增加了美联储降息的希望，道琼斯指数上涨超过400点：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/02/stock-market-today-live-updates.html</link>
+      <description><![CDATA[继 4 月份就业增长弱于预期以及 4 月份工资涨幅放缓之后，交易员预计年底前将进行第二次降息。]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 03 May 2024 18:13:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着公共服务贷款减免计划部分处理暂停，借款人需要了解什么</title>
+      <link>https://www.cnbc.com/2024/05/03/public-service-loan-forgiveness-program-will-go-on-partial-pause.html</link>
+      <description><![CDATA[美国教育部最近表示，广受欢迎的公共服务贷款减免计划将从 5 月 1 日到 7 月部分暂停。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/public-service-loan-forgiveness-program-will-go-on-partial-pause.html</guid>
+      <pubDate>Fri, 03 May 2024 18:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴菲特的伯克希尔哈撒韦公司今年击败了市场，并在股东大会上接近创纪录</title>
+      <link>https://www.cnbc.com/2024/05/03/berkshire-hathaway-shares-are-near-all-time-highs-but-concerns-linger.html</link>
+      <description><![CDATA[该集团的核心保险业务正在提高公司的盈利，但能源仍然是一个风险。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/berkshire-hathaway-shares-are-near-all-time-highs-but-concerns-linger.html</guid>
+      <pubDate>Fri, 03 May 2024 17:58:51 GMT</pubDate>
+    </item>
     <item>
       <title>查理·芒格缺席的伯克希尔·哈撒韦公司首次年会：对沃伦·巴菲特有何期待</title>
       <link>https://www.cnbc.com/2024/05/03/berkshire-hathaways-2024-meeting-is-saturday-heres-how-to-watch.html</link>
@@ -27,20 +55,6 @@
       <pubDate>Fri, 03 May 2024 17:41:52 GMT</pubDate>
     </item>
     <item>
-      <title>由于疲弱的就业报告增加了美联储降息的希望，道琼斯指数上涨超过400点：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/02/stock-market-today-live-updates.html</link>
-      <description><![CDATA[继 4 月份就业增长弱于预期以及 4 月份工资涨幅放缓之后，交易员预计年底前将进行第二次降息。]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 03 May 2024 17:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴菲特的伯克希尔哈撒韦公司今年的表现超出市场预期，在股东大会前接近创纪录水平</title>
-      <link>https://www.cnbc.com/2024/05/03/berkshire-hathaway-shares-are-near-all-time-highs-but-concerns-linger.html</link>
-      <description><![CDATA[该集团的核心保险业务正在提高公司的盈利，但能源仍然是一个风险。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/berkshire-hathaway-shares-are-near-all-time-highs-but-concerns-linger.html</guid>
-      <pubDate>Fri, 03 May 2024 17:19:42 GMT</pubDate>
-    </item>
-    <item>
       <title>伯克希尔哈撒韦公司的神秘股票大赌注可能很快就会揭晓</title>
       <link>https://www.cnbc.com/2024/05/03/berkshire-hathaways-big-mystery-stock-wager-could-be-revealed-soon.html</link>
       <description><![CDATA[沃伦·巴菲特的赌注笼罩在神秘之中，自去年年底首次披露以来，一直吸引着伯克希尔·哈撒韦公司的投资者。]]></description>
@@ -50,7 +64,7 @@
     <item>
       <title>这些知名的大型股票正在形成可怕的死亡十字图模式</title>
       <link>https://www.cnbc.com/2024/05/03/these-big-well-known-stocks-are-forming-the-dreaded-death-cross-chart-pattern.html</link>
-      <description><![CDATA[当股票的 50 天移动平均线跌破 200 天移动平均线时，死亡交叉就形成，发出投资者看跌股票的信号。]]></description>
+      <description><![CDATA[当股票的 50 天移动平均线跌破其 200 天移动平均线时，就会形成死亡交叉，这表明投资者看跌该股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/03/these-big-well-known-stocks-are-forming-the-dreaded-death-cross-chart-pattern.html</guid>
       <pubDate>Fri, 03 May 2024 16:52:56 GMT</pubDate>
     </item>
@@ -60,13 +74,6 @@
       <description><![CDATA[胡安·梅尔尚法官尚未就唐纳德·特朗普是否再次违反禁止他谈论陪审员和证人的禁言令做出裁决。]]></description>
       <guid>https://www.cnbc.com/2024/05/03/trump-trial-resumes-after-infamous-cohen-phone-call-tape-is-played-for-jury-.html</guid>
       <pubDate>Fri, 03 May 2024 16:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>移民工人正在帮助提振美国劳动力市场</title>
-      <link>https://www.cnbc.com/2024/05/03/immigrant-workers-are-helping-boost-the-us-labor-market.html</link>
-      <description><![CDATA[政府预测，移民工人的涌入将使未来十年的国内生产总值增加7万亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/immigrant-workers-are-helping-boost-the-us-labor-market.html</guid>
-      <pubDate>Fri, 03 May 2024 16:41:19 GMT</pubDate>
     </item>
     <item>
       <title>苹果公司盈利超预期并回购了 1100 亿美元股票，有望迎来 2022 年以来最好的一天</title>
@@ -85,7 +92,7 @@
     <item>
       <title>巴菲特弟子比尔·斯通分享他在参加 20 次年会后学到的重要经验教训</title>
       <link>https://www.cnbc.com/2024/05/03/buffett-disciple-bill-stone-shares-key-lessons-hes-learned-after-going-to-20-annual-meetings.html</link>
-      <description><![CDATA[比尔·斯通是沃伦·巴菲特的长期追随者，自 1999 年以来一直是伯克希尔哈撒韦公司的股东，他的投资风格受到了这位“奥马哈先知”的启发。]]></description>
+      <description><![CDATA[比尔·斯通是沃伦·巴菲特的长期弟子，自 1999 年以来一直是伯克希尔的股东，他的投资风格深受“奥马哈先知”的启发。]]></description>
       <guid>https://www.cnbc.com/2024/05/03/buffett-disciple-bill-stone-shares-key-lessons-hes-learned-after-going-to-20-annual-meetings.html</guid>
       <pubDate>Fri, 03 May 2024 15:36:18 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[除非控股股东莎莉·雷石东在阿波罗-索尼收购后重申其承诺，否则 Skydance 可能会放弃派拉蒙的收购要约。]]></description>
       <guid>https://www.cnbc.com/2024/05/03/paramount-news-skydance-could-drop-bid-after-sony-apollo-offer.html</guid>
       <pubDate>Fri, 03 May 2024 15:12:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>34 岁的男子每月支付 4,150 美元购买迈阿密购物中心楼上的一居室公寓——看看里面</title>
-      <link>https://www.cnbc.com/2024/05/03/unlocked-luxury-one-bedroom-rental-in-miami-florida.html</link>
-      <description><![CDATA[Rachel Koggan 于 2021 年从纽约搬到迈阿密，住在布里克尔市中心上方一套 1,200 平方英尺的公寓里。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/unlocked-luxury-one-bedroom-rental-in-miami-florida.html</guid>
-      <pubDate>Fri, 03 May 2024 12:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
