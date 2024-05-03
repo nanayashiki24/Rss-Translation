@@ -1,38 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 | 今日头条 | 路透社</title>
+    <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 08:37:20 GMT</lastBuildDate>
-    <item>
-      <title>投资者因人工智能热潮涌入台湾 ETF，令一些人感到不安</title>
-      <link>https://www.reuters.com/markets/asia/investors-flood-into-taiwan-etfs-ai-boom-unnerving-some-2024-05-03/</link>
-      <description><![CDATA[随着投资者争相涉足人工智能供应链，资金大量涌入台湾交易所交易基金，在该行业的涨势变得反复无常之际，分析师和监管机构变得更加谨慎。]]></description>
-      <guid>https://www.reuters.com/markets/asia/investors-flood-into-taiwan-etfs-ai-boom-unnerving-some-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 05:08:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：Uniper休眠的俄罗斯天然气合同可能对上市构成障碍</title>
-      <link>https://www.reuters.com/business/energy/unipers-dormant-russian-gas-contracts-may-pose-hurdle-listing-2024-05-03/</link>
-      <description><![CDATA[三名知情人士表示，欧洲能源危机最大的企业受害者 Uniper 正在寻求法院解决其休眠的俄罗斯天然气供应合同问题，一旦该公司完全重返股市，该合同可能会令投资者望而却步。]]></description>
-      <guid>https://www.reuters.com/business/energy/unipers-dormant-russian-gas-contracts-may-pose-hurdle-listing-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 05:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资银行业务击败竞争对手，法国农业信贷银行第一季度盈利大幅增长</title>
-      <link>https://www.reuters.com/business/finance/credit-agricoles-q1-earnings-jump-investment-banking-beats-rivals-2024-05-03/</link>
-      <description><![CDATA[法国第二大上市银行法国农业信贷银行周五公布第一季度净利润增长 55%，超出预期，这得益于企业和投资银行业务销售表现优于竞争对手。]]></description>
-      <guid>https://www.reuters.com/business/finance/credit-agricoles-q1-earnings-jump-investment-banking-beats-rivals-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 05:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于投资银行意外，法国兴业银行第一季度利润跌幅低于预期</title>
-      <link>https://www.reuters.com/business/finance/socgens-investment-bank-limits-q1-profit-plunge-2024-05-03/</link>
-      <description><![CDATA[法国兴业银行第一季度净利润降幅低于预期，原因是股本衍生品销售利润抵消了其零售银行和固定收益交易的疲软。]]></description>
-      <guid>https://www.reuters.com/business/finance/socgens-investment-bank-limits-q1-profit-plunge-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 04:29:56 GMT</pubDate>
-    </item>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Fri, 03 May 2024 08:51:39 GMT</lastBuildDate>
     <item>
       <title>SVB Financial 出售风险投资业务 SVB Capital</title>
       <link>https://www.reuters.com/business/finance/svb-financial-sell-investment-platform-business-svb-capital-2024-05-03/</link>
@@ -48,7 +20,7 @@
       <pubDate>Thu, 02 May 2024 22:50:25 GMT</pubDate>
     </item>
     <item>
-      <title>据《华尔街日报》报道，道明银行调查与非法芬太尼利润洗钱有关</title>
+      <title>据《华尔街日报》报道，道明银行调查与芬太尼非法利润洗钱有关</title>
       <link>https://www.reuters.com/business/finance/td-bank-probe-tied-laundering-illicit-fentanyl-profits-wsj-reports-2024-05-02/</link>
       <description><![CDATA[据《华尔街日报》周四报道，美国司法部 (DoJ) 对道明银行的调查重点是中国毒贩和犯罪集团如何利用这家加拿大第二大银行通过芬太尼销售洗钱。]]></description>
       <guid>https://www.reuters.com/business/finance/td-bank-probe-tied-laundering-illicit-fentanyl-profits-wsj-reports-2024-05-02/</guid>
@@ -57,7 +29,7 @@
     <item>
       <title>独家：消息人士称，收购公司 Sycamore 竞相将 Nordstrom 私有化</title>
       <link>https://www.reuters.com/markets/deals/buyout-firm-sycamore-vies-take-nordstrom-private-sources-say-2024-05-02/</link>
-      <description><![CDATA[据知情人士透露，Sycamore Partners 是表示有兴趣将美国百货公司 Nordstrom 私有化的收购股权公司之一。]]></description>
+      <description><![CDATA[据知情人士透露，Sycamore Partners 是有意将美国百货公司诺德斯特龙 (Nordstrom) 私有化的收购股权公司之一。]]></description>
       <guid>https://www.reuters.com/markets/deals/buyout-firm-sycamore-vies-take-nordstrom-private-sources-say-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 19:49:59 GMT</pubDate>
     </item>
@@ -69,9 +41,9 @@
       <pubDate>Thu, 02 May 2024 14:34:03 GMT</pubDate>
     </item>
     <item>
-      <title>交易员准备迎接另一轮日元打地鼠大战</title>
+      <title>交易员们准备迎接新一轮日元打地鼠战</title>
       <link>https://www.reuters.com/markets/currencies/traders-prep-another-round-yen-whack-a-mole-2024-05-02/</link>
-      <description><![CDATA[日本试图支撑日元汇率的努力让全球交易柜台处于高度戒备状态，在伦敦和东京的长周末到来之前，交易商们不敢冒险，这可能为当局提供另一个提振疲弱日元的机会。]]></description>
+      <description><![CDATA[日本为支撑本币所做的努力使全球各地的交易部门处于高度戒备状态，交易商不愿冒险，因为伦敦和东京的长周末可能会为当局提供另一个支撑脆弱日元的机会。]]></description>
       <guid>https://www.reuters.com/markets/currencies/traders-prep-another-round-yen-whack-a-mole-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 14:05:01 GMT</pubDate>
     </item>
@@ -99,16 +71,44 @@
     <item>
       <title>Janus Henderson 收购科威特国家银行另类投资业务进军中东</title>
       <link>https://www.reuters.com/markets/deals/janus-henderson-buys-national-bank-kuwaits-alternative-investment-business-2024-05-02/</link>
-      <description><![CDATA[全球资产管理公司Janus Henderson计划收购科威特国家银行的另类投资业务，该交易预计将加强其在新兴市场的地位及其在中东的客户机会。]]></description>
+      <description><![CDATA[全球资产管理公司 Janus Henderson 计划收购科威特国家银行的另类投资业务，该交易预计将加强其在新兴市场的地位及其在中东的客户机会。]]></description>
       <guid>https://www.reuters.com/markets/deals/janus-henderson-buys-national-bank-kuwaits-alternative-investment-business-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 12:03:31 GMT</pubDate>
     </item>
     <item>
       <title>被解雇的法国兴业银行交易员因未经授权的投注而回击老板</title>
       <link>https://www.reuters.com/business/finance/fired-socgen-trader-hits-back-bosses-unauthorised-bets-2024-05-02/</link>
-      <description><![CDATA[去年年底，法国兴业银行揭露了一系列未经授权的赌注后，法国兴业银行解雇了一名交易员，该交易员批评了他的前任老板，称他们对未能识别这些交易负有责任。]]></description>
+      <description><![CDATA[去年年底，法国兴业银行发现了一系列未经授权的押注行为，随后解雇了该行的一名交易员。他批评了自己的前任老板，称他们未能识别这些交易，这是他们的错。]]></description>
       <guid>https://www.reuters.com/business/finance/fired-socgen-trader-hits-back-bosses-unauthorised-bets-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 11:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于IPO市场低迷抵消了创纪录的能源交易，纽约证券交易所母公司ICE的收入低于预期</title>
+      <link>https://www.reuters.com/business/finance/nyse-parent-ices-profit-rises-record-surge-energy-market-volatility-2024-05-02/</link>
+      <description><![CDATA[周四，洲际交易所公布第一季度营收略低于预期，原因是美国首次公开募股复苏不平衡，削弱了创纪录交易活动的上升势头。第一季度，IPO 营收下降 4% 至 1.22 亿美元。根据伦敦证券交易所的数据，分析师平均预计降幅较小，约为 2.33%。]]></description>
+      <guid>https://www.reuters.com/business/finance/nyse-parent-ices-profit-rises-record-surge-energy-market-volatility-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 11:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼日利亚法院将币安和高管的审判推迟至 5 月 17 日</title>
+      <link>https://www.reuters.com/business/finance/nigeria-court-adjourns-binance-execs-trial-may-17-2024-05-02/</link>
+      <description><![CDATA[尼日利亚一家法院周四将针对加密货币交易所 Binance 及其两名高管的洗钱审判推迟至 5 月 17 日，此前该交易所的一名律师表示，他没有收到准备此案所需的文件。]]></description>
+      <guid>https://www.reuters.com/business/finance/nigeria-court-adjourns-binance-execs-trial-may-17-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 11:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，萨瓦德尔在收购要约后聘请了 BBVA 期权顾问</title>
+      <link>https://www.reuters.com/markets/deals/sabadell-shares-rise-further-bbva-merger-proposal-well-below-premium-2024-05-02/</link>
+      <description><![CDATA[消息人士周四称，在竞争对手 BBVA 公布 120 亿欧元（128.3 亿美元）收购要约后，西班牙萨瓦德尔银行已安排顾问评估其选择，萨瓦德尔银行股价因拟议交易而扩大涨幅。]]></description>
+      <guid>https://www.reuters.com/markets/deals/sabadell-shares-rise-further-bbva-merger-proposal-well-below-premium-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 11:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：美联储缩减量化宽松安抚情绪，日元再次上涨</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 10:09:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
