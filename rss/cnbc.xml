@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 03 May 2024 14:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 15:09:00 GMT</lastBuildDate>
+    <item>
+      <title>特朗普媒体审计员被美国证券交易委员会指控“大规模欺诈”，并被永久禁止</title>
+      <link>https://www.cnbc.com/2024/05/03/trump-media-auditor-charged-by-sec-with-massive-fraud-permanently-barred-from-public-company-audits.html</link>
+      <description><![CDATA[Trump Media 是 Truth Social 应用程序的所有者，其股票代码为 DJT。前总统唐纳德·特朗普是该公司的大股东。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/trump-media-auditor-charged-by-sec-with-massive-fraud-permanently-barred-from-public-company-audits.html</guid>
+      <pubDate>Fri, 03 May 2024 15:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>特别委员会结束独家谈判，Skydance 对派拉蒙的收购取决于 Shari Redstone</title>
+      <link>https://www.cnbc.com/2024/05/03/paramount-news-skydance-could-drop-bid-after-sony-apollo-offer.html</link>
+      <description><![CDATA[除非控股股东莎莉·雷石东 (Shari Redstone) 在阿波罗和索尼竞标之后重申其承诺，否则天舞电影公司很可能放弃派拉蒙的报价。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/paramount-news-skydance-could-drop-bid-after-sony-apollo-offer.html</guid>
+      <pubDate>Fri, 03 May 2024 15:12:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于疲弱的就业报告提高了美联储降息的希望，道指上涨逾 300 点：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/02/stock-market-today-live-updates.html</link>
+      <description><![CDATA[继 4 月份就业增长弱于预期以及 4 月份工资涨幅放缓之后，交易员预计年底前将进行第二次降息。]]></description>
+      <guid>https://www.cnbc.com/2024/05/02/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 03 May 2024 15:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>查理·芒格缺席的伯克希尔·哈撒韦公司首次年会：对沃伦·巴菲特有何期待</title>
+      <link>https://www.cnbc.com/2024/05/03/berkshire-hathaways-2024-meeting-is-saturday-heres-how-to-watch.html</link>
+      <description><![CDATA[当伯克希尔·哈撒韦公司的年度股东大会周六在奥马哈开幕时，查理·芒格的缺席将成为每个人的忧虑。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/berkshire-hathaways-2024-meeting-is-saturday-heres-how-to-watch.html</guid>
+      <pubDate>Fri, 03 May 2024 15:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>CFRA表示，在“资本家伍德斯托克音乐节”之前购买“被低估”的伯克希尔哈撒韦公司股票</title>
+      <link>https://www.cnbc.com/2024/05/03/buy-undervalued-berkshire-hathaway-shares-ahead-of-woodstock-for-capitalists-says-cfra.html</link>
+      <description><![CDATA[据CFRA称，在沃伦·巴菲特在伯克希尔·哈撒韦公司年会上登台之前，投资者可能想购买他的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/buy-undervalued-berkshire-hathaway-shares-ahead-of-woodstock-for-capitalists-says-cfra.html</guid>
+      <pubDate>Fri, 03 May 2024 15:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>苹果公司盈利超预期并回购了 1100 亿美元股票，有望迎来 2022 年以来最好的一天</title>
       <link>https://www.cnbc.com/2024/05/03/apple-stock-on-pace-for-best-day-since-2022-after-earnings-beat.html</link>
@@ -13,25 +48,11 @@
       <pubDate>Fri, 03 May 2024 14:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普媒体审计员被美国证券交易委员会指控“大规模欺诈”，并被永久禁止</title>
-      <link>https://www.cnbc.com/2024/05/03/trump-media-auditor-charged-by-sec-with-massive-fraud-permanently-barred-from-public-company-audits.html</link>
-      <description><![CDATA[Trump Media 是 Truth Social 应用程序的所有者，其股票代码为 DJT。前总统唐纳德·特朗普是该公司的大股东。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/trump-media-auditor-charged-by-sec-with-massive-fraud-permanently-barred-from-public-company-audits.html</guid>
-      <pubDate>Fri, 03 May 2024 14:48:57 GMT</pubDate>
-    </item>
-    <item>
       <title>随着诺和诺德（Novo Nordisk）和礼来（Eli Lilly）股价下滑，安进（Amgen）股价因减肥注射进展而飙升</title>
       <link>https://www.cnbc.com/2024/05/03/amgen-soars-on-weight-loss-drug-progress-novo-nordisk-eli-lilly-slide.html</link>
       <description><![CDATA[安进的最新消息引发了人们对减肥药市场潜在新竞争的担忧，导致诺和诺德和礼来公司的股价下跌。]]></description>
       <guid>https://www.cnbc.com/2024/05/03/amgen-soars-on-weight-loss-drug-progress-novo-nordisk-eli-lilly-slide.html</guid>
       <pubDate>Fri, 03 May 2024 14:44:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能工程师报告称，科技行业为了保持竞争力而进行的“激烈竞争”导致了倦怠和仓促推出</title>
-      <link>https://www.cnbc.com/2024/05/03/ai-engineers-face-burnout-as-rat-race-to-stay-competitive-hits-tech.html</link>
-      <description><![CDATA[科技行业的人工智能工作者告诉 CNBC，以极快的速度推出功能和产品的压力已经决定了他们的工作。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/ai-engineers-face-burnout-as-rat-race-to-stay-competitive-hits-tech.html</guid>
-      <pubDate>Fri, 03 May 2024 14:42:14 GMT</pubDate>
     </item>
     <item>
       <title>Wegovy 制造商诺和诺德 (Novo Nordisk) 股价下跌 4%，创 10 月份以来最糟糕的一天</title>
@@ -48,16 +69,9 @@
       <pubDate>Fri, 03 May 2024 14:35:50 GMT</pubDate>
     </item>
     <item>
-      <title>特别委员会结束独家谈判后，Skydance 竞购派拉蒙取决于 Shari Redstone</title>
-      <link>https://www.cnbc.com/2024/05/03/paramount-news-skydance-could-drop-bid-after-sony-apollo-offer.html</link>
-      <description><![CDATA[除非控股股东莎莉·雷石东在阿波罗-索尼收购后重申其承诺，否则 Skydance 可能会放弃派拉蒙的收购要约。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/paramount-news-skydance-could-drop-bid-after-sony-apollo-offer.html</guid>
-      <pubDate>Fri, 03 May 2024 14:35:30 GMT</pubDate>
-    </item>
-    <item>
       <title>巴菲特弟子比尔·斯通分享他在参加 20 次年会后学到的重要经验教训</title>
       <link>https://www.cnbc.com/2024/05/03/buffett-disciple-bill-stone-shares-key-lessons-hes-learned-after-going-to-20-annual-meetings.html</link>
-      <description><![CDATA[比尔·斯通是沃伦·巴菲特的长期追随者，自 1999 年以来一直是伯克希尔哈撒韦公司的股东，他自己的投资风格也受到了这位“奥马哈先知”的启发。]]></description>
+      <description><![CDATA[比尔·斯通是沃伦·巴菲特的长期弟子，自 1999 年起成为伯克希尔的股东，他自己的投资风格深受“奥马哈先知”的启发。]]></description>
       <guid>https://www.cnbc.com/2024/05/03/buffett-disciple-bill-stone-shares-key-lessons-hes-learned-after-going-to-20-annual-meetings.html</guid>
       <pubDate>Fri, 03 May 2024 14:26:27 GMT</pubDate>
     </item>
@@ -76,18 +90,11 @@
       <pubDate>Fri, 03 May 2024 13:48:24 GMT</pubDate>
     </item>
     <item>
-      <title>美国 4 月就业岗位增加 17.5 万个，远低于预期，失业率升至 3.9%</title>
+      <title>美国4月就业增长总计17.5万人，远低于预期，失业率升至3.9%</title>
       <link>https://www.cnbc.com/2024/05/03/jobs-report-april-2024-us-job-growth-totaled-175000-in-april.html</link>
       <description><![CDATA[市场此前预计就业增长24万，失业率维持在3.8%。]]></description>
       <guid>https://www.cnbc.com/2024/05/03/jobs-report-april-2024-us-job-growth-totaled-175000-in-april.html</guid>
       <pubDate>Fri, 03 May 2024 13:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>美银表示，这种罕见的肌肉疾病游戏可以上涨 50% 以上</title>
-      <link>https://www.cnbc.com/2024/05/03/this-rare-muscle-disease-play-can-rally-more-than-50percent-bofa-says.html</link>
-      <description><![CDATA[该银行发起研究报道并给予买入评级。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/this-rare-muscle-disease-play-can-rally-more-than-50percent-bofa-says.html</guid>
-      <pubDate>Fri, 03 May 2024 13:38:26 GMT</pubDate>
     </item>
     <item>
       <title>沃伦·巴菲特的大部分财富是在 65 岁之后积累的。以下是个人投资者可以学到的东西</title>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 03 May 2024 12:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>“交易者正义”：前法国兴业银行交易员因高风险投注而被解雇，声称自己成为“替罪羊”</title>
-      <link>https://www.cnbc.com/2024/05/03/socgen-trader-fired-for-risky-bets-claims-he-was-made-a-scapegoat.html</link>
-      <description><![CDATA[一名因未经授权的高风险投注而被解雇的前法国兴业银行交易员痛斥这家法国银行让他成为“替罪羊”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/03/socgen-trader-fired-for-risky-bets-claims-he-was-made-a-scapegoat.html</guid>
-      <pubDate>Fri, 03 May 2024 12:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国国税局的目标是在战略计划更新中将最富有纳税人的审计率提高一倍以上</title>
-      <link>https://www.cnbc.com/2024/05/02/irs-aims-to-more-than-double-its-audit-rate-on-wealthiest-taxpayers-.html</link>
-      <description><![CDATA[美国国税局发布了其战略运营计划的更新，其中包括对最富有的纳税人、大公司和合伙企业进行更多审计。]]></description>
-      <guid>https://www.cnbc.com/2024/05/02/irs-aims-to-more-than-double-its-audit-rate-on-wealthiest-taxpayers-.html</guid>
-      <pubDate>Thu, 02 May 2024 18:12:16 GMT</pubDate>
+      <title>34 岁的男子每月支付 4,150 美元购买迈阿密购物中心楼上的一居室公寓——看看里面</title>
+      <link>https://www.cnbc.com/2024/05/03/unlocked-luxury-one-bedroom-rental-in-miami-florida.html</link>
+      <description><![CDATA[雷切尔·科根 (Rachel Koggan) 于 2021 年从纽约搬到迈阿密，住在布里克尔城中心上方的一套 1,200 平方英尺的公寓里。]]></description>
+      <guid>https://www.cnbc.com/2024/05/03/unlocked-luxury-one-bedroom-rental-in-miami-florida.html</guid>
+      <pubDate>Fri, 03 May 2024 12:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
