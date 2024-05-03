@@ -1,12 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice/@financialjuice</title>
+    <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 03 May 2024 13:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 14:13:41 GMT</lastBuildDate>
     <item>
-      <title>美联储鲍曼完整演讲 https://www.federalreserve.gov/newsevents/speech/bowman20240503a.htm</title>
+      <title>ISM 服务 PMI 四月份完整报告 https://www.ismworld.org/supply-management-news-and-reports/reports/ism-report-on-business/services/april/</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786395897196113986#m</link>
+      <description><![CDATA[4 月份 ISM 服务 PMI 完整报告 ismworld.org/supply-manageme…]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786395897196113986#m</guid>
+      <pubDate>Fri, 03 May 2024 14:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国 ISM 服务业实际就业人数 45.9（预测 49，前值 48.5） $宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786395425668313390#m</link>
+      <description><![CDATA[美国 ISM 服务业实际就业人数 45.9（预测 49，之前 48.5）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786395425668313390#m</guid>
+      <pubDate>Fri, 03 May 2024 14:00:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国 ISM 服务新订单实际 52.2（预测 54.5，前值 54.4） $宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786395413961900445#m</link>
+      <description><![CDATA[美国 ISM 服务新订单实际 52.2（预测 54.5，前期 54.4）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786395413961900445#m</guid>
+      <pubDate>Fri, 03 May 2024 14:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国 ISM 服务实际支付价格 59.2（预测 55，之前 53.4） $宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786395402385739924#m</link>
+      <description><![CDATA[美国 ISM 服务实际支付价格为 59.2（预测为 55，之前为 53.4）$MACRO]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786395402385739924#m</guid>
+      <pubDate>Fri, 03 May 2024 14:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>🔴⚠️ 突发：美国 ISM 服务 PMI 实际 49.4（预测 52，前值 51.4）$宏观</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786395390775861372#m</link>
+      <description><![CDATA[🔴⚠️突发：美国 ISM 服务 PMI 实际 49.4（预测 52，前值 51.4）$MACRO&lt; /p&gt;]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786395390775861372#m</guid>
+      <pubDate>Fri, 03 May 2024 14:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本财务大臣铃木：外汇应该反映基本面，汇率波动幅度过大是不可取的。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786395349449429311#m</link>
+      <description><![CDATA[日本财务大臣铃木：外汇应该反映基本面，过度的外汇波动是不可取的。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786395349449429311#m</guid>
+      <pubDate>Fri, 03 May 2024 14:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本财务大臣铃木拒绝对当前外汇水平发表评论。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786394715828498675#m</link>
+      <description><![CDATA[日本财务大臣铃木拒绝就当前外汇水平发表评论。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786394715828498675#m</guid>
+      <pubDate>Fri, 03 May 2024 13:57:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊拉克今年将每日减产 602,000 桶作为补偿 - 欧佩克。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786394618331890088#m</link>
+      <description><![CDATA[伊拉克今年将削减 602,000 桶/日的补偿 - OPEC。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786394618331890088#m</guid>
+      <pubDate>Fri, 03 May 2024 13:57:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈萨克斯坦将削减 389,000 桶/天的补偿 - 欧佩克。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786394349825143282#m</link>
+      <description><![CDATA[哈萨克斯坦将削减 389,000 桶/天的补偿 - 欧佩克。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786394349825143282#m</guid>
+      <pubDate>Fri, 03 May 2024 13:56:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊拉克和哈萨克斯坦概述了 OPEC+ 补偿削减 - 声明。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786393950355386404#m</link>
+      <description><![CDATA[伊拉克和哈萨克斯坦概述了 OPEC+ 补偿削减 - 声明。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786393950355386404#m</guid>
+      <pubDate>Fri, 03 May 2024 13:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储鲍曼完整讲话 https://www.federalreserve.gov/newsevents/speech/bowman20240503a.htm</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392768840978487#m</link>
       <description><![CDATA[美联储鲍曼全文federalreserve.gov/newsevent…
 ]]></description>
@@ -21,95 +91,25 @@
       <pubDate>Fri, 03 May 2024 13:48:30 GMT</pubDate>
     </item>
     <item>
-      <title>美国标准普尔服务业 PMI 4 月最终报告 https://www.pmi.spglobal.com/Public/Home/PressRelease/68793e4a444c4f8c8aaa120c2a82686b</title>
+      <title>美国标普服务业PMI 4月终报告 https://www.pmi.spglobal.com/Public/Home/PressRelease/68793e4a444c4f8c8aaa120c2a82686b</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392380704166277#m</link>
-      <description><![CDATA[美国标普服务业PMI 4月最终报告pmi.spglobal.com/Public/Home…]]></description>
+      <description><![CDATA[美国标准普尔服务业 PMI 4 月最终报告 pmi.spglobal.com/Public/Home...]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392380704166277#m</guid>
       <pubDate>Fri, 03 May 2024 13:48:27 GMT</pubDate>
     </item>
     <item>
-      <title>美联储鲍曼：还存在金融环境放松的风险，财政刺激可能会刺激需求，阻碍甚至逆转通胀进程。</title>
+      <title>美联储鲍曼：还存在金融状况宽松的风险，财政刺激可能会刺激需求，阻碍甚至逆转通胀进程。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392281341165854#m</link>
       <description><![CDATA[美联储鲍曼：还存在金融状况放松的风险，财政刺激可能会抑制需求，阻碍甚至逆转通胀进程。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392281341165854#m</guid>
       <pubDate>Fri, 03 May 2024 13:48:04 GMT</pubDate>
     </item>
     <item>
-      <title>美联储鲍曼：大量新移民涌入一些缺乏经济适用住房的地区，可能会推高租金。</title>
+      <title>美联储鲍曼：新移民流入一些缺乏经济适用住房的地区可能会推高租金。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392248508174439#m</link>
       <description><![CDATA[美联储鲍曼：新移民流入一些缺乏经济适用住房的地区可能会推高租金。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392248508174439#m</guid>
       <pubDate>Fri, 03 May 2024 13:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：地缘政治的发展也是通胀的上行风险。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392236927676847#m</link>
-      <description><![CDATA[美联储鲍曼：地缘政治发展也是通胀的上行风险。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392236927676847#m</guid>
-      <pubDate>Fri, 03 May 2024 13:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：过去几年数据修改的程度使得评估经济变得更具挑战性。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392200466629114#m</link>
-      <description><![CDATA[美联储鲍曼：过去几年数据修订的程度使得评估经济变得更具挑战性。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392200466629114#m</guid>
-      <pubDate>Fri, 03 May 2024 13:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：我在决定未来政策立场变化时将保持谨慎。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392188940656876#m</link>
-      <description><![CDATA[美联储鲍曼：我在决定未来政策立场变化时将保持谨慎。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392188940656876#m</guid>
-      <pubDate>Fri, 03 May 2024 13:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：我预计通胀将在一段时间内保持高位。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392156095033509#m</link>
-      <description><![CDATA[美联储鲍曼：我预计通胀将在一段时间内保持高位。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392156095033509#m</guid>
-      <pubDate>Fri, 03 May 2024 13:47:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：如果数据显示通胀进展停滞或逆转，我仍然愿意在未来的会议上提高联邦基金利率。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392139108106420#m</link>
-      <description><![CDATA[美联储鲍曼：如果数据显示通胀进展停滞或逆转，我仍然愿意在未来的会议上提高联邦基金利率。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392139108106420#m</guid>
-      <pubDate>Fri, 03 May 2024 13:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：我的基本预期仍然是，在政策利率保持稳定的情况下，通胀将进一步下降。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786392063157662016#m</link>
-      <description><![CDATA[美联储鲍曼：我的基本预期仍然是，在政策利率保持稳定的情况下，通胀将进一步下降。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786392063157662016#m</guid>
-      <pubDate>Fri, 03 May 2024 13:47:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：我将继续密切关注数据，以评估适当的货币政策。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786391987484029027#m</link>
-      <description><![CDATA[美联储鲍曼：我将继续密切关注数据，以评估适当的货币政策。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786391987484029027#m</guid>
-      <pubDate>Fri, 03 May 2024 13:46:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：我的前景仍然面临一些上行通胀风险。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786391954537730247#m</link>
-      <description><![CDATA[美联储鲍曼：我的前景仍然面临一些上行通胀风险。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786391954537730247#m</guid>
-      <pubDate>Fri, 03 May 2024 13:46:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：FE 的货币政策立场似乎具有限制性。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786391813151993899#m</link>
-      <description><![CDATA[美联储鲍曼：FE 的货币政策立场似乎具有限制性。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786391813151993899#m</guid>
-      <pubDate>Fri, 03 May 2024 13:46:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储鲍曼：货币政策似乎具有限制性。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1786391802725179684#m</link>
-      <description><![CDATA[美联储鲍曼：货币政策似乎具有限制性。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1786391802725179684#m</guid>
-      <pubDate>Fri, 03 May 2024 13:46:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

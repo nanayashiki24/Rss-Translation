@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数/@spectatorindex</title>
+    <title>观众指数 / @spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
     <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 03 May 2024 13:51:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 14:13:49 GMT</lastBuildDate>
+    <item>
+      <title>科学：根据《新科学家》发表的一项研究，生气“即使只有几分钟”也会改变血管功能，“这可能会增加心脏病和中风的可能性”。</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1786395295065993595#m</link>
+      <description><![CDATA[科学：根据《新科学家》发表的一项研究，生气“即使只有几分钟”也会改变血管功能，“这可能会增加心脏病和中风的风险”。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1786395295065993595#m</guid>
+      <pubDate>Fri, 03 May 2024 14:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>研发实力，2023 年。
 
@@ -159,13 +166,6 @@
       <description><![CDATA[突发新闻：Apple 宣布回购 1,100 亿美元的股票，这是历史上规模最大的一次。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1786135325992984691#m</guid>
       <pubDate>Thu, 02 May 2024 20:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>上一篇：过去一年苹果在中国的收入下降了8.1%</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1786133223606521984#m</link>
-      <description><![CDATA[最新消息：过去一年苹果在中国的收入下降了 8.1%]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1786133223606521984#m</guid>
-      <pubDate>Thu, 02 May 2024 20:38:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
