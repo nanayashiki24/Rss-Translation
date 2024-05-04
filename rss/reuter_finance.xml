@@ -3,8 +3,15 @@
   <channel>
     <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 04 May 2024 19:52:07 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sat, 04 May 2024 20:15:51 GMT</lastBuildDate>
+    <item>
+      <title>据彭博社报道，中国平安投票反对重新任命汇丰银行首席执行官为董事</title>
+      <link>https://www.reuters.com/business/finance/ping-an-votes-against-reappointment-hsbc-ceo-director-bloomberg-news-reports-2024-05-04/</link>
+      <description><![CDATA[据彭博社周六报道，汇丰控股公司最大的亚洲投资者、中国平安保险集团有限公司在该行股东大会上投票反对重新任命即将离任的首席执行官诺埃尔·奎因 (Noel Quinn) 为董事。]]></description>
+      <guid>https://www.reuters.com/business/finance/ping-an-votes-against-reappointment-hsbc-ceo-director-bloomberg-news-reports-2024-05-04/</guid>
+      <pubDate>Sat, 04 May 2024 19:48:31 GMT</pubDate>
+    </item>
     <item>
       <title>英国汇丰银行表示移动和网上银行业务面临中断</title>
       <link>https://www.reuters.com/business/finance/hsbc-uk-says-mobile-online-banking-facing-disruption-2024-05-04/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 03 May 2024 18:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>流亡中国商人的幕僚长在美国承认欺诈罪</title>
+      <title>流亡中国商人幕僚长在美国承认欺诈罪</title>
       <link>https://www.reuters.com/world/us/exiled-chinese-businessmans-chief-of-staff-pleads-guilty-us-fraud-2024-05-03/</link>
       <description><![CDATA[流亡中国商人郭文贵的幕僚长周五承认与郭文贵合谋实施一项大规模计划，诈骗数千名投资者超过 10 亿美元。]]></description>
       <guid>https://www.reuters.com/world/us/exiled-chinese-businessmans-chief-of-staff-pleads-guilty-us-fraud-2024-05-03/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>联合银行首席执行官对股票回购持谨慎态度，但对费用持乐观态度</title>
       <link>https://www.reuters.com/business/finance/intesa-ceo-cautious-share-buybacks-upbeat-fees-2024-05-03/</link>
-      <description><![CDATA[联合圣保罗银行首席执行官卡洛·梅西纳周五表示，尽管有空间，但在批准进一步股票回购方面将持谨慎态度，这导致这家意大利最大银行的股价走低。]]></description>
+      <description><![CDATA[意大利联合圣保罗银行首席执行官卡洛·梅西纳周五表示，尽管联合圣保罗银行还有回购空间，但该行在批准任何进一步的股票回购时将保持谨慎，这导致意大利最大银行的股价下跌。]]></description>
       <guid>https://www.reuters.com/business/finance/intesa-ceo-cautious-share-buybacks-upbeat-fees-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:50:33 GMT</pubDate>
     </item>
@@ -84,14 +91,14 @@
       <pubDate>Fri, 03 May 2024 13:56:43 GMT</pubDate>
     </item>
     <item>
-      <title>全球股票基金每周吸引大量资金流入，其中亚洲领涨</title>
+      <title>全球股票基金每周吸引强劲资金流入，以亚洲为首</title>
       <link>https://www.reuters.com/markets/global-markets-flows-graphic-2024-05-03/</link>
-      <description><![CDATA[截至 5 月 1 日的七天内，全球股票基金重新引起了投资者的兴趣，原因是人们对该地区（特别是中国）经济复苏的乐观情绪导致流入亚洲的资金激增。]]></description>
+      <description><![CDATA[截至 5 月 1 日的 7 天内，全球股票基金再次受到投资者的关注，原因是人们对亚洲（尤其是中国）经济复苏持乐观态度，资金流入亚洲。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-flows-graphic-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 13:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>德国商报报道，德国政府正在调查 Raiffeisen-Strabag 交易</title>
+      <title>据《商报》报道，德国政府正在调查 Raiffeisen-Strabag 交易</title>
       <link>https://www.reuters.com/markets/deals/german-government-looking-into-raiffeisen-strabag-deal-reports-handelsblatt-2024-05-03/</link>
       <description><![CDATA[新闻媒体《商报》周五援引政府消息人士的话报道称，德国经济部正在调查 Raiffeisen Bank International 收购 Strabag 股份的计划，Strabag 是一家与俄罗斯大亨有联系的建筑公司。]]></description>
       <guid>https://www.reuters.com/markets/deals/german-government-looking-into-raiffeisen-strabag-deal-reports-handelsblatt-2024-05-03/</guid>
@@ -103,13 +110,6 @@
       <description><![CDATA[三名知情人士告诉路透社，江森自控国际公司正在考虑出售其 ADT 警报业务，以剥离一些非核心业务。]]></description>
       <guid>https://www.reuters.com/markets/deals/johnson-controls-weighs-sale-adt-alarms-unit-sources-say-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:43:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国立法者将质询市场监管机构“点名羞辱”计划</title>
-      <link>https://www.reuters.com/world/uk/uk-lawmakers-grill-markets-watchdog-over-naming-shaming-plans-2024-05-03/</link>
-      <description><![CDATA[议会财务委员会周五表示，英国金融监管机构将被要求下周对其“点名和羞辱”提议做出回应，以回应政治和行业日益增长的批评。]]></description>
-      <guid>https://www.reuters.com/world/uk/uk-lawmakers-grill-markets-watchdog-over-naming-shaming-plans-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 11:23:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
