@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 | 今日头条 | 路透社</title>
+    <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 05 May 2024 11:37:16 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sun, 05 May 2024 12:26:01 GMT</lastBuildDate>
     <item>
       <title>消息人士称，中国平安投票反对重新任命汇丰银行首席执行官为董事</title>
       <link>https://www.reuters.com/business/finance/ping-an-votes-against-reappointment-hsbc-ceo-director-bloomberg-news-reports-2024-05-04/</link>
@@ -34,7 +34,7 @@
       <pubDate>Sat, 04 May 2024 08:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>挪威财富基金将支持巴克莱银行首席执行官和主席出席年度股东大会</title>
+      <title>挪威财富基金支持巴克莱首席执行官兼年度股东大会主席</title>
       <link>https://www.reuters.com/markets/europe/norway-wealth-fund-back-barclays-ceo-chair-agm-2024-05-04/</link>
       <description><![CDATA[挪威1.6万亿美元的主权财富基金是全球最大的投资者之一，该基金经理周六表示，支持重新任命巴克莱银行首席执行官C.S. Venkatakrishnan和主席奈杰尔·希金斯进入英国银行董事会。]]></description>
       <guid>https://www.reuters.com/markets/europe/norway-wealth-fund-back-barclays-ceo-chair-agm-2024-05-04/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>华尔街未来一周：由于利率上升造成影响，美国小盘股陷入困境</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</link>
-      <description><![CDATA[美联储努力抑制通胀之际，利率维持高位的前景进一步给美国小型企业的股票前景蒙上阴影，这些企业今年的表现落后于大盘。]]></description>
+      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上阴影，这些企业今年的表现落后于大盘。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:35:37 GMT</pubDate>
     </item>
