@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Sun, 05 May 2024 16:52:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 17:30:00 GMT</lastBuildDate>
+    <item>
+      <title>特朗普副总统充满希望的克里斯蒂·诺姆建议拜登的狗指挥官也应该被安葬</title>
+      <link>https://www.cnbc.com/2024/05/05/trump-vp-hopeful-kristi-noem-suggests-bidens-dog-should-be-put-down.html</link>
+      <description><![CDATA[克里斯蒂·诺姆 (Kristi Noem) 有望在 2024 年大选中成为唐纳德·特朗普 (Donald Trump) 的副总统候选人。]]></description>
+      <guid>https://www.cnbc.com/2024/05/05/trump-vp-hopeful-kristi-noem-suggests-bidens-dog-should-be-put-down.html</guid>
+      <pubDate>Sun, 05 May 2024 17:28:35 GMT</pubDate>
+    </item>
     <item>
       <title>哈马斯表示，最新的停火谈判已经结束。以色列誓言在“不久的将来”采取军事行动</title>
       <link>https://www.cnbc.com/2024/05/05/hamas-says-latest-cease-fire-talks-have-ended-israel-vows-military-operation-in-very-near-future.html</link>
@@ -15,7 +22,7 @@
     <item>
       <title>生成式人工智能将在不久的将来自行设计新药</title>
       <link>https://www.cnbc.com/2024/05/05/within-a-few-years-generative-ai-will-design-new-drugs-on-its-own.html</link>
-      <description><![CDATA[人工智能无需人类科学家就能为制药公司进行药物研发的时代很快就要来临了。]]></description>
+      <description><![CDATA[用不了多久，人工智能就能在没有人类科学家的情况下为制药公司处理药物发现。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/within-a-few-years-generative-ai-will-design-new-drugs-on-its-own.html</guid>
       <pubDate>Sun, 05 May 2024 16:11:48 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 05 May 2024 14:46:40 GMT</pubDate>
     </item>
     <item>
-      <title>在全球紧张局势之际，中国国家主席抵达欧洲重振关系</title>
+      <title>中国国家主席抵达欧洲，在全球紧张局势下重振中欧关系</title>
       <link>https://www.cnbc.com/2024/05/05/chinas-president-arrives-in-europe-to-reinvigorate-ties-at-a-time-of-global-tensions.html</link>
       <description><![CDATA[周日，习近平开始了对欧洲三个国家的访问，欧洲大陆在如何应对北京日益增长的实力和中美竞争问题上存在分歧。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/chinas-president-arrives-in-europe-to-reinvigorate-ties-at-a-time-of-global-tensions.html</guid>
@@ -43,23 +50,16 @@
     <item>
       <title>这位美国人在意大利买了一套 1 美元的房子，并花了 35,000 美元进行装修：“在这里更容易快乐”</title>
       <link>https://www.cnbc.com/2024/05/05/american-renovating-1-homes-in-italy-its-easier-to-be-happier-here.html</link>
-      <description><![CDATA[鲁比亚·丹尼尔斯 (Rubia Daniels) 在西西里岛购买了三栋废弃的房屋，每栋以 1 欧元的价格出售。]]></description>
+      <description><![CDATA[Rubia Daniels 在西西里岛购买了三栋废弃房屋，每栋售价 1 欧元。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/american-renovating-1-homes-in-italy-its-easier-to-be-happier-here.html</guid>
       <pubDate>Sun, 05 May 2024 13:05:01 GMT</pubDate>
     </item>
     <item>
-      <title>这对姐妹在 22 岁和 24 岁时成为家庭农场的共同所有者，加入女性行列，成为农场的关键决策者</title>
+      <title>这对姐妹分别在 22 岁和 24 岁时成为家庭农场的共同所有者，加入了女性农场关键决策者的行列</title>
       <link>https://www.cnbc.com/2024/05/05/women-farmers-are-often-key-decision-makers.html</link>
-      <description><![CDATA[女性在农场中做出许多日常决策，并管理企业财​​务。以下是 Alstede Farms 的女性如何展示这一趋势。]]></description>
+      <description><![CDATA[妇女在农场做出许多日常决策，并管理企业财​​务。以下是阿尔斯特德农场的女性如何展示这一趋势。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/women-farmers-are-often-key-decision-makers.html</guid>
       <pubDate>Sun, 05 May 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>紧张局势升级后，内塔尼亚胡内阁投票决定关闭半岛电视台驻以色列办事处</title>
-      <link>https://www.cnbc.com/2024/05/05/netanyahus-cabinet-votes-to-close-al-jazeera-offices-in-israel.html</link>
-      <description><![CDATA[以色列总理本杰明·内塔尼亚胡周日表示，以色列政府已一致投票决定关闭卡塔尔所属广播公司半岛电视台的当地办事处。]]></description>
-      <guid>https://www.cnbc.com/2024/05/05/netanyahus-cabinet-votes-to-close-al-jazeera-offices-in-israel.html</guid>
-      <pubDate>Sun, 05 May 2024 11:10:48 GMT</pubDate>
     </item>
     <item>
       <title>华尔街顶级分析师向收益投资者推荐这些股息股票</title>
@@ -69,7 +69,7 @@
       <pubDate>Sun, 05 May 2024 10:57:39 GMT</pubDate>
     </item>
     <item>
-      <title>苹果刚刚公布了一项 1100 亿美元的回购计划。这就是为什么这并不能让该股稳操胜券的原因</title>
+      <title>苹果刚刚公布了 1100 亿美元的回购计划。这就是为什么这并不能让该股票成为必然的赢家</title>
       <link>https://www.cnbc.com/2024/05/05/apple-just-unveiled-a-110-billion-buyback-plan-why-that-doesnt-assure-a-winner.html</link>
       <description><![CDATA[苹果和专门从事回购公司的 ETF 到 2024 年的表现都逊于大盘。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/apple-just-unveiled-a-110-billion-buyback-plan-why-that-doesnt-assure-a-winner.html</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>沃伦·巴菲特在伯克希尔·哈撒韦公司年会上的讲话的完整回顾：“我希望明年能来”</title>
       <link>https://www.cnbc.com/2024/05/04/live-updates-warren-buffett-at-berkshire-hathaway-annual-meeting-2024.html</link>
-      <description><![CDATA[伯克希尔哈撒韦公司董事长兼首席执行官沃伦·巴菲特将主持该公司年度股东大会。]]></description>
+      <description><![CDATA[伯克希尔哈撒韦公司董事长兼首席执行官沃伦·巴菲特将主持公司年会。]]></description>
       <guid>https://www.cnbc.com/2024/05/04/live-updates-warren-buffett-at-berkshire-hathaway-annual-meeting-2024.html</guid>
       <pubDate>Sat, 04 May 2024 20:39:33 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Sat, 04 May 2024 20:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>沃伦·巴菲特的大部分股票投资组合都集中在 5 只股票上。它们分别是</title>
+      <title>沃伦·巴菲特的大部分股票投资组合仅包含 5 只股票。这就是它们的含义</title>
       <link>https://www.cnbc.com/2024/05/04/most-of-warren-buffetts-stock-portfolio-is-tied-up-in-just-5-stocks-heres-what-they-are.html</link>
       <description><![CDATA[伯克希尔哈撒韦公司周六公布了 2024 年第一季度的数据，显示该集团的大部分股票投资组合仅集中于五只股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/04/most-of-warren-buffetts-stock-portfolio-is-tied-up-in-just-5-stocks-heres-what-they-are.html</guid>
