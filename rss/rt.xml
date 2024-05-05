@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT世界新闻</title>
+    <title>RT 世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Sun, 05 May 2024 21:51:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 22:14:16 GMT</lastBuildDate>
+    <item>
+      <title>辉瑞首席执行官：癌症‘是我们的新冠’</title>
+      <link>https://www.rt.com/news/597038-cancer-new-covid-pfizer-ceo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 美国辉瑞制药巨头首席执行官 Albert Bourla 表示，计划专注于癌症治疗，希望获得巨额利润在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/597038-cancer-new-covid-pfizer-ceo/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Sun, 05 May 2024 22:12:22 GMT</pubDate>
+    </item>
     <item>
       <title>美国冻结向以色列运送军事援助 – Axios</title>
       <link>https://www.rt.com/news/597037-military-aid-israel-frozen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -78,7 +85,7 @@
     <item>
       <title>纽约市犹太教堂收到多起炸弹威胁——官员</title>
       <link>https://www.rt.com/news/597011-bomb-threats-nyc-synagogues/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 当地官员表示，纽约犹太教堂和布鲁克林博物馆收到恶作剧炸弹威胁在 RT.com 上阅读全文]]></description>
+      <description><![CDATA[ 当地官员称，纽约犹太教堂和布鲁克林博物馆收到了恶作剧炸弹威胁在 RT.com 阅读全文]]></description>
       <guid>https://www.rt.com/news/597011-bomb-threats-nyc-synagogues/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Sun, 05 May 2024 07:31:15 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 英国保守党遭遇自 90 年代末以来最严重的地方选举失败 在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/597009-tories-crushing-defeat-england/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Sun, 05 May 2024 01:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>支持巴勒斯坦的抗议者扰乱大学毕业典礼（视频）</title>
-      <link>https://www.rt.com/news/597007-palestine-protest-michigan-university/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 巴勒斯坦支持者在密歇根州最大的大学之一的大学毕业典礼上举行示威在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/597007-palestine-protest-michigan-university/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Sat, 04 May 2024 23:37:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
