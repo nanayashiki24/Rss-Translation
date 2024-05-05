@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Sun, 05 May 2024 19:28:00 GMT</lastBuildDate>
+    <item>
+      <title>从 25 年监禁到仅仅 4 个月：加密货币亿万富翁首席执行官主要竞争对手的最终判决</title>
+      <link>https://www.cnbc.com/2024/05/05/inside-the-final-prison-verdict-on-an-epic-crypto-ceo-rivalry.html</link>
+      <description><![CDATA[比特币亿万富翁赵长鹏和萨姆·班克曼-弗里德的刑事判决于本周完成，这是截然不同的加密传奇的最后一章。]]></description>
+      <guid>https://www.cnbc.com/2024/05/05/inside-the-final-prison-verdict-on-an-epic-crypto-ceo-rivalry.html</guid>
+      <pubDate>Sun, 05 May 2024 19:38:16 GMT</pubDate>
+    </item>
     <item>
       <title>更多风暴席卷休斯顿地区，数百人已从洪水中获救</title>
       <link>https://www.cnbc.com/2024/05/05/more-storms-move-through-houston-area-where-hundreds-have-been-rescued-from-floodwaters.html</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[天然气生产商看好需求，因为他们看到人工智能和数据中心巨大的能源需求带来了显着的增长空间。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/ai-could-drive-natural-gas-boom-as-utilities-face-surging-electric-demand.html</guid>
       <pubDate>Sun, 05 May 2024 16:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 25 年监禁到仅仅 4 个月：加密货币亿万富翁首席执行官主要竞争对手的最终判决</title>
-      <link>https://www.cnbc.com/2024/05/05/inside-the-final-prison-verdict-on-an-epic-crypto-ceo-rivalry.html</link>
-      <description><![CDATA[比特币亿万富翁赵长鹏和 Sam Bankman-Fried 的刑事判决本周完成，这是截然不同的加密货币传奇的最后一章。]]></description>
-      <guid>https://www.cnbc.com/2024/05/05/inside-the-final-prison-verdict-on-an-epic-crypto-ceo-rivalry.html</guid>
-      <pubDate>Sun, 05 May 2024 14:46:40 GMT</pubDate>
     </item>
     <item>
       <title>在全球紧张局势之际，中国国家主席抵达欧洲重振关系</title>
