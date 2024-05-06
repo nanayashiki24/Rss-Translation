@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 06 May 2024 07:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 07:36:38 GMT</lastBuildDate>
     <item>
-      <title>西班牙服务业 PMI 2024 年 4 月完整报告 https://www.pmi.spglobal.com/Public/Home/PressRelease/7d4b84afe4a441edad8750fd1f014233</title>
+      <title>哈马斯可能因拉法行动而退出停战谈判。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787385144602456465#m</link>
+      <description><![CDATA[哈马斯可能因拉法行动而退出停战谈判。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787385144602456465#m</guid>
+      <pubDate>Mon, 06 May 2024 07:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 4 月西班牙服务业 PMI 完整报告 https://www.pmi.spglobal.com/Public/Home/PressRelease/7d4b84afe4a441edad8750fd1f014233</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787381399030317275#m</link>
       <description><![CDATA[2024 年 4 月西班牙服务业 PMI 完整报告pmi.spglobal.com/Public/Home... ]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787381399030317275#m</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>货币强弱图表：最强 - 澳元、英镑、加元、新西兰元、美元、欧元、瑞士法郎、日元 - 最弱。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787377468623466934#m</link>
-      <description><![CDATA[货币强度图表：最强 - 澳元、英镑、加元、新西兰元、美元、欧元、瑞士法郎、日元 - 最弱。]]></description>
+      <description><![CDATA[货币强弱图表：最强 - 澳元、英镑、加元、新西兰元、美元、欧元、瑞士法郎、日元 - 最弱。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787377468623466934#m</guid>
       <pubDate>Mon, 06 May 2024 07:02:51 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
       <pubDate>Mon, 06 May 2024 05:33:26 GMT</pubDate>
     </item>
     <item>
-      <title>以色列军方要求部分拉法居民向北迁移</title>
+      <title>以色列军方要求一些拉法居民北迁</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787345563949609207#m</link>
       <description><![CDATA[以色列军方要求一些拉法居民北移]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787345563949609207#m</guid>
@@ -92,7 +99,7 @@
       <pubDate>Mon, 06 May 2024 03:03:18 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲央行的立场：夸大欧洲央行的影响，美联储没有必要出现分歧</title>
+      <title>欧洲央行政策：没有必要夸大欧洲央行与美联储政策分歧的影响</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787317175142801841#m</link>
       <description><![CDATA[欧洲央行的立场：夸大了欧洲央行的影响，美联储没有必要出现分歧]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787317175142801841#m</guid>
@@ -104,13 +111,6 @@
       <description><![CDATA[欧洲央行首席经济学家莱恩在 EL 机密采访中的评论]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787317163876872442#m</guid>
       <pubDate>Mon, 06 May 2024 03:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲央行的策略：通胀信心改善</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787317152313127010#m</link>
-      <description><![CDATA[欧洲央行的立场：对通胀改善的信心]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787317152313127010#m</guid>
-      <pubDate>Mon, 06 May 2024 03:03:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
