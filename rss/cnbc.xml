@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 06 May 2024 15:50:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 06 May 2024 16:14:00 GMT</lastBuildDate>
+    <item>
+      <title>高盛长期看好核电和铀。这只股票是获得投资机会的关键途径</title>
+      <link>https://www.cnbc.com/2024/05/06/goldman-bullish-on-nuclear-power-sees-upside-for-this-uranium-play.html</link>
+      <description><![CDATA[高盛将 Cameco 的 12 个月目标股价上调 1 美元。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/goldman-bullish-on-nuclear-power-sees-upside-for-this-uranium-play.html</guid>
+      <pubDate>Mon, 06 May 2024 16:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在一次高风险的测试中，波音公司将首次将美国宇航局宇航员送入太空</title>
+      <link>https://www.cnbc.com/2024/05/06/in-a-high-stakes-test-boeing-will-launch-nasa-astronauts-to-space-for-the-first-time.html</link>
+      <description><![CDATA[经过多年的拖延和挫折，波音公司计划于周一晚上搭乘其 Starliner 宇宙飞船将两名资深宇航员送入国际空间站。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/in-a-high-stakes-test-boeing-will-launch-nasa-astronauts-to-space-for-the-first-time.html</guid>
+      <pubDate>Mon, 06 May 2024 16:13:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>派珀·桑德勒 (Piper Sandler) 表示，救济性反弹“充其量也值得怀疑”，股市今年将下跌</title>
+      <link>https://www.cnbc.com/2024/05/06/relief-rally-is-questionable-at-best-and-stocks-to-finish-year-lower-from-here-says-piper-sandler.html</link>
+      <description><![CDATA[Piper Sandler 对近期市场上涨趋势的可持续性表示怀疑。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/relief-rally-is-questionable-at-best-and-stocks-to-finish-year-lower-from-here-says-piper-sandler.html</guid>
+      <pubDate>Mon, 06 May 2024 16:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>纽约联储调查显示，租房者买房的希望已降至历史最低点</title>
+      <link>https://www.cnbc.com/2024/05/06/renters-hopes-of-being-able-to-buy-a-home-have-fallen-to-a-record-low-new-york-fed-survey-shows.html</link>
+      <description><![CDATA[相信自己有一天能够买得起房的租房者比例降至 13.4%，创下历史新低。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/renters-hopes-of-being-able-to-buy-a-home-have-fallen-to-a-record-low-new-york-fed-survey-shows.html</guid>
+      <pubDate>Mon, 06 May 2024 16:10:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于美联储降息的希望，股市本周初上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
+      <description><![CDATA[美国股市周一上涨，华尔街希望延续前一交易日的强劲涨幅。]]></description>
+      <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
+      <pubDate>Mon, 06 May 2024 15:54:42 GMT</pubDate>
+    </item>
     <item>
       <title>巴菲特旗下的伯克希尔哈撒韦公司受益于保险业务提升第一季度利润且现金接近2000亿美元</title>
       <link>https://www.cnbc.com/2024/05/06/berkshire-hathaway-gains-as-insurance-lifts-first-quarter-profit-and-cash-nears-200-billion.html</link>
@@ -15,54 +50,19 @@
     <item>
       <title>Equinox 推出价值 40,000 美元的会员资格，帮助您延长寿命</title>
       <link>https://www.cnbc.com/2024/05/06/equinox-launches-40000-optimize-membership.html</link>
-      <description><![CDATA[“Optimize by Equinox”是一项个性化的健康计划，包括从个人训练和营养到睡眠指导和按摩治疗的一切。]]></description>
+      <description><![CDATA[“Optimize by Equinox” 是一个个性化的健康计划，其中包括从个人训练和营养到睡眠指导和按摩疗法的所有内容。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/equinox-launches-40000-optimize-membership.html</guid>
       <pubDate>Mon, 06 May 2024 15:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>由于美联储降息的希望，股市本周初上涨：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
-      <description><![CDATA[美国股市周一上涨，华尔街希望延续前一交易日的强劲涨幅。]]></description>
-      <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
-      <pubDate>Mon, 06 May 2024 15:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>校园抗议数周后，哥伦比亚取消全校范围内的毕业典礼</title>
-      <link>https://www.cnbc.com/2024/05/06/columbia-cancels-universitywide-commencement-ceremony-after-weeks-of-protests-on-campus.html</link>
-      <description><![CDATA[当学生要求加沙停火并坚持要求大学从可能从战争中获利的公司撤资时，校园内爆发了抗议活动。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/columbia-cancels-universitywide-commencement-ceremony-after-weeks-of-protests-on-campus.html</guid>
-      <pubDate>Mon, 06 May 2024 15:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛长期看好核电和铀矿。这只股票是获得曝光的关键途径</title>
-      <link>https://www.cnbc.com/2024/05/06/goldman-bullish-on-nuclear-power-sees-upside-for-this-uranium-play.html</link>
-      <description><![CDATA[高盛将 Cameco 的 12 个月目标股价上调 1 美元。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/goldman-bullish-on-nuclear-power-sees-upside-for-this-uranium-play.html</guid>
-      <pubDate>Mon, 06 May 2024 15:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约联储调查显示，租房者买房的希望已降至历史最低点</title>
-      <link>https://www.cnbc.com/2024/05/06/renters-hopes-of-being-able-to-buy-a-home-have-fallen-to-a-record-low-new-york-fed-survey-shows.html</link>
-      <description><![CDATA[相信自己有一天能够买得起房的租房者比例降至 13.4%，创下历史新低。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/renters-hopes-of-being-able-to-buy-a-home-have-fallen-to-a-record-low-new-york-fed-survey-shows.html</guid>
-      <pubDate>Mon, 06 May 2024 15:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Robinhood 表示 SEC 可能对其加密业务采取执法行动</title>
+      <title>Robinhood 表示 SEC 可能对其加密货币业务采取执法行动</title>
       <link>https://www.cnbc.com/2024/05/06/robinhood-says-sec-could-pursue-enforcement-actions-over-crypto-operations.html</link>
       <description><![CDATA[Robinhood 在 2 月份透露，它收到了 SEC 与其加密业务相关的传票。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/robinhood-says-sec-could-pursue-enforcement-actions-over-crypto-operations.html</guid>
       <pubDate>Mon, 06 May 2024 14:58:10 GMT</pubDate>
     </item>
     <item>
-      <title>迪士尼收益交易比直接购买看涨期权更有可能赚钱</title>
-      <link>https://www.cnbc.com/2024/05/06/a-disney-earnings-trade-more-likely-to-make-money-than-just-buying-call-options-outright.html</link>
-      <description><![CDATA[本周公布收益的几只股票意味着一些相当大的变动。我们将更深入地探讨期权交易者在迪士尼押注的内容。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/a-disney-earnings-trade-more-likely-to-make-money-than-just-buying-call-options-outright.html</guid>
-      <pubDate>Mon, 06 May 2024 14:55:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国人无法停止“浪费”——以下是避免这种金融陷阱的方法</title>
+      <title>美国人无法停止“挥霍”——以下是如何避免这种财务陷阱</title>
       <link>https://www.cnbc.com/2024/05/06/americans-cant-stop-spaving-heres-how-to-avoid-this-financial-trap.html</link>
       <description><![CDATA[专家表示，如果不小心的话，“节省开支”，即多花钱多存钱，可能会导致过度支出和高息信用卡债务。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/americans-cant-stop-spaving-heres-how-to-avoid-this-financial-trap.html</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>通用汽车等美国汽车制造商正在迅速失去中国这个曾经的增长引擎</title>
       <link>https://www.cnbc.com/2024/05/06/us-automakers-like-gm-rapidly-lose-ground-in-china.html</link>
-      <description><![CDATA[由于中美地缘政治关系紧张、消费者情绪发生变化以及国内竞争加剧，通用汽车在中国的失宠令人震惊。]]></description>
+      <description><![CDATA[由于与美国的地缘政治紧张局势、消费者信心的变化和国内竞争的加剧，通用汽车在中国的失宠令人震惊。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/us-automakers-like-gm-rapidly-lose-ground-in-china.html</guid>
       <pubDate>Mon, 06 May 2024 13:55:55 GMT</pubDate>
     </item>
