@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 06 May 2024 06:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:49:00 GMT</lastBuildDate>
     <item>
-      <title>“一字不差的求职信”：职业顾问称 Z 世代正在滥用人工智能</title>
+      <title>美国就业数据弱于预期，10年期国债收益率维持在4.5%以下</title>
+      <link>https://www.cnbc.com/2024/05/06/bonds-10-year-treasury-yield-falls-after-april-jobs-data.html</link>
+      <description><![CDATA[美国国债收益率走低，在周五公布的四月份就业报告显示就业增长弱于预期且失业率上升后，美国国债收益率继续下跌。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/bonds-10-year-treasury-yield-falls-after-april-jobs-data.html</guid>
+      <pubDate>Mon, 06 May 2024 06:46:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国就业数据公布后，欧洲市场将上涨，全球情绪保持稳定</title>
+      <link>https://www.cnbc.com/2024/05/06/european-markets-open-to-close-earnings-data-and-news.html</link>
+      <description><![CDATA[由于美国就业数据弱于预期，交易员继续评估降息的可能性，欧洲市场周一将上涨。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/european-markets-open-to-close-earnings-data-and-news.html</guid>
+      <pubDate>Mon, 06 May 2024 06:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>“求职信一字不差”：职业顾问称 Z 世代正在滥用人工智能</title>
       <link>https://www.cnbc.com/2024/05/06/career-consultant-says-gen-z-are-misusing-ai-to-generate-cover-letters.html</link>
       <description><![CDATA[一位职业顾问表示，雇主收到了由 ChatGPT 生成的 Z 世代的“一模一样”求职信：“它的使用方式不正确。”]]></description>
       <guid>https://www.cnbc.com/2024/05/06/career-consultant-says-gen-z-are-misusing-ai-to-generate-cover-letters.html</guid>
       <pubDate>Mon, 06 May 2024 06:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>中国蚂蚁集团加倍推进全球扩张，推出跨境支付服务 Alipay+</title>
+      <title>中国蚂蚁集团通过提供支付宝+跨境支付加倍全球扩张</title>
       <link>https://www.cnbc.com/2024/05/06/chinese-fintech-ant-group-doubles-down-on-global-expansion-with-alipay.html</link>
       <description><![CDATA[蚂蚁金服于2020年推出支付宝+，允许外国人在本国使用某些移动支付应用程序扫描支付宝二维码在中国进行支付。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/chinese-fintech-ant-group-doubles-down-on-global-expansion-with-alipay.html</guid>
       <pubDate>Mon, 06 May 2024 05:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>就业报告弱于预期后，股指期货小幅走高：实时更新</title>
+      <title>就业报告弱于预期，令投资者期待，股指期货小幅走高：实时更新</title>
       <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
       <description><![CDATA[由于就业报告弱于预期，主要股指上周收盘上涨，周一美国股指期货小幅走高。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
@@ -64,23 +78,9 @@
     <item>
       <title>从 25 年监禁到仅仅 4 个月：加密货币亿万富翁首席执行官主要竞争对手的最终判决</title>
       <link>https://www.cnbc.com/2024/05/05/inside-the-final-prison-verdict-on-an-epic-crypto-ceo-rivalry.html</link>
-      <description><![CDATA[比特币亿万富翁赵长鹏和萨姆·班克曼-弗里德的刑事判决于本周完成，这是截然不同的加密传奇的最后一章。]]></description>
+      <description><![CDATA[比特币亿万富翁赵长鹏和 Sam Bankman-Fried 的刑事判决本周完成，这是截然不同的加密货币传奇的最后一章。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/inside-the-final-prison-verdict-on-an-epic-crypto-ceo-rivalry.html</guid>
       <pubDate>Sun, 05 May 2024 19:38:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>更多风暴席卷休斯顿地区，数百人已从洪水中获救</title>
-      <link>https://www.cnbc.com/2024/05/05/more-storms-move-through-houston-area-where-hundreds-have-been-rescued-from-floodwaters.html</link>
-      <description><![CDATA[休斯顿当局尚未报告任何死亡或受伤情况，从休斯顿到德克萨斯州东部农村的大片地区已被淹没。]]></description>
-      <guid>https://www.cnbc.com/2024/05/05/more-storms-move-through-houston-area-where-hundreds-have-been-rescued-from-floodwaters.html</guid>
-      <pubDate>Sun, 05 May 2024 18:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普副总统候选人克里斯蒂·诺姆建议拜登的狗指挥官也应该被处死</title>
-      <link>https://www.cnbc.com/2024/05/05/trump-vp-hopeful-kristi-noem-suggests-bidens-dog-should-be-put-down.html</link>
-      <description><![CDATA[克里斯蒂·诺姆 (Kristi Noem) 有望在 2024 年大选中成为唐纳德·特朗普 (Donald Trump) 的副总统候选人。]]></description>
-      <guid>https://www.cnbc.com/2024/05/05/trump-vp-hopeful-kristi-noem-suggests-bidens-dog-should-be-put-down.html</guid>
-      <pubDate>Sun, 05 May 2024 17:28:35 GMT</pubDate>
     </item>
     <item>
       <title>随着电力公司面临电力需求激增，人工智能可以推动天然气繁荣</title>
@@ -97,7 +97,7 @@
       <pubDate>Sat, 04 May 2024 20:39:33 GMT</pubDate>
     </item>
     <item>
-      <title>巴菲特表示，伯克希尔出售了其全部派拉蒙股份：“我们损失了很多钱”</title>
+      <title>巴菲特称伯克希尔已出售其持有的全部派拉蒙股份：“我们损失了不少钱”</title>
       <link>https://www.cnbc.com/2024/05/04/buffett-says-berkshire-sold-its-entire-paramount-stake-we-lost-quite-a-bit-of-money.html</link>
       <description><![CDATA[巴菲特表示：“我对派拉蒙的决定负有100%的责任。” “这100%是我的决定，我们已经全部卖掉了，而且损失了不少钱。”]]></description>
       <guid>https://www.cnbc.com/2024/05/04/buffett-says-berkshire-sold-its-entire-paramount-stake-we-lost-quite-a-bit-of-money.html</guid>
