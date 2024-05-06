@@ -3,8 +3,15 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Mon, 06 May 2024 11:04:00 GMT</lastBuildDate>
+    <item>
+      <title>由于美联储降息的希望，股票期货本周开始上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
+      <description><![CDATA[由于就业报告弱于预期，主要股指上周收盘上涨，周一美国股指期货小幅走高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
+      <pubDate>Mon, 06 May 2024 11:17:29 GMT</pubDate>
+    </item>
     <item>
       <title>周一分析师呼吁：美光科技是首选，钢铁股在抛售后将大幅上涨</title>
       <link>https://www.cnbc.com/2024/05/06/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
@@ -20,14 +27,7 @@
       <pubDate>Mon, 06 May 2024 11:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>由于美联储降息的希望，股票期货本周开始上涨：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
-      <description><![CDATA[由于就业报告弱于预期，主要股指上周收盘上涨，周一美国股指期货小幅走高。]]></description>
-      <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
-      <pubDate>Mon, 06 May 2024 10:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>休斯顿周围的暴雨有所缓解，但在数百次救援和疏散后洪水仍然存在</title>
+      <title>休斯顿周边大雨有所缓解，但经过数百次救援和疏散后洪水依然存在</title>
       <link>https://www.cnbc.com/2024/05/05/more-storms-move-through-houston-area-where-hundreds-have-been-rescued-from-floodwaters.html</link>
       <description><![CDATA[休斯顿地区连续几天遭受暴雨袭击，周一，德克萨斯州的一些学校因洪水关闭。一名5岁男孩在一辆汽车被冲走后死亡。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/more-storms-move-through-houston-area-where-hundreds-have-been-rescued-from-floodwaters.html</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>盖洛普分析显示，当民主党担任总统时，美国将赢得全球对中国领导地位的认可</title>
       <link>https://www.cnbc.com/2024/05/06/us-is-preferred-over-china-as-world-leader-when-a-democrat-is-president-.html</link>
-      <description><![CDATA[根据盖洛普 2007 年的数据，当民主党领导人入主白宫时，大多数国家更愿意与美国结盟，而不是与中国结盟。]]></description>
+      <description><![CDATA[盖洛普 2007 年的数据显示，当民主党领导人入主白宫时，大多数国家更愿意与美国结盟，而不是与中国结盟。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/us-is-preferred-over-china-as-world-leader-when-a-democrat-is-president-.html</guid>
       <pubDate>Mon, 06 May 2024 09:20:51 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Sun, 05 May 2024 23:23:26 GMT</pubDate>
     </item>
     <item>
-      <title>从 25 年监禁到仅仅 4 个月：加密货币亿万富翁 CEO 的最终判决结果</title>
+      <title>从 25 年监禁到仅仅 4 个月：加密货币亿万富翁首席执行官主要竞争对手的最终判决</title>
       <link>https://www.cnbc.com/2024/05/05/inside-the-final-prison-verdict-on-an-epic-crypto-ceo-rivalry.html</link>
       <description><![CDATA[比特币亿万富翁赵长鹏和萨姆·班克曼-弗里德的刑事判决于本周完成，这是截然不同的加密传奇的最后一章。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/inside-the-final-prison-verdict-on-an-epic-crypto-ceo-rivalry.html</guid>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 04 May 2024 15:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 2016 年和 2020 年的选举民调如此错误——以及需要做出哪些改变来解决这个问题</title>
+      <title>为什么 2016 年和 2020 年的选举民调如此错误——以及如何改变来解决这个问题</title>
       <link>https://www.cnbc.com/2024/05/04/why-election-polls-were-wrong-in-2016-and-2020-and-whats-changing.html</link>
       <description><![CDATA[2016 年选举民意调查估计，希拉里·克林顿 (Hillary Clinton) 有 90% 的机会击败唐纳德·特朗普 (Donald Trump)。]]></description>
       <guid>https://www.cnbc.com/2024/05/04/why-election-polls-were-wrong-in-2016-and-2020-and-whats-changing.html</guid>
