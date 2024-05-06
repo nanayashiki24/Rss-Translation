@@ -3,8 +3,15 @@
   <channel>
     <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 03:17:30 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 06 May 2024 04:19:25 GMT</lastBuildDate>
+    <item>
+      <title>首席经济学家莱恩表示，欧洲央行降息的理由越来越充分</title>
+      <link>https://www.reuters.com/markets/rates-bonds/ecb-rate-cut-case-getting-stronger-says-chief-economist-lane-2024-05-06/</link>
+      <description><![CDATA[欧洲央行首席经济学家 Philip Lane 周一对西班牙报纸《机密报》表示，随着服务业通胀终于开始缓解，欧洲央行 6 月份降息的理由越来越充分。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/ecb-rate-cut-case-getting-stronger-says-chief-economist-lane-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 03:06:24 GMT</pubDate>
+    </item>
     <item>
       <title>随着利润下滑，西太平洋银行宣布新的回购和特别股息</title>
       <link>https://www.reuters.com/business/finance/australias-westpac-net-profit-falls-16-announces-additional-661-million-buyback-2024-05-05/</link>
@@ -20,7 +27,7 @@
       <pubDate>Sat, 04 May 2024 19:48:31 GMT</pubDate>
     </item>
     <item>
-      <title>英国汇丰银行表示所有服务在中断后均恢复正常</title>
+      <title>英国汇丰银行称中断后所有服务均已恢复正常</title>
       <link>https://www.reuters.com/business/finance/hsbc-uk-says-mobile-online-banking-facing-disruption-2024-05-04/</link>
       <description><![CDATA[英国汇丰银行周六表示，在客户的个人移动和网上银行服务间歇性中断后，其所有服务均正常运行，在此期间，其借记卡、信用卡、数字钱包和自动柜员机仍然正常运行。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-uk-says-mobile-online-banking-facing-disruption-2024-05-04/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Sat, 04 May 2024 08:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>挪威财富基金将支持巴克莱银行首席执行官和主席出席年度股东大会</title>
+      <title>挪威财富基金支持巴克莱首席执行官兼年度股东大会主席</title>
       <link>https://www.reuters.com/markets/europe/norway-wealth-fund-back-barclays-ceo-chair-agm-2024-05-04/</link>
       <description><![CDATA[挪威1.6万亿美元的主权财富基金是全球最大的投资者之一，该基金经理周六表示，支持重新任命巴克莱银行首席执行官C.S. Venkatakrishnan和主席奈杰尔·希金斯进入英国银行董事会。]]></description>
       <guid>https://www.reuters.com/markets/europe/norway-wealth-fund-back-barclays-ceo-chair-agm-2024-05-04/</guid>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 03 May 2024 14:43:36 GMT</pubDate>
     </item>
     <item>
-      <title>美国证券交易委员会指控审计师 BF Borgers 涉嫌欺诈，其客户包括特朗普媒体</title>
+      <title>美国 SEC 指控审计员 BF Borgers 欺诈，其客户包括特朗普媒体</title>
       <link>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</link>
       <description><![CDATA[审计员 BF Borgers 及其所有者本杰明·博格斯 (Benjamin Borgers)，其客户包括特朗普媒体
  美国证券交易委员会 (SEC) 周五表示，该公司被指控犯有“大规模欺诈”罪，影响了 1,500 多份 SEC 备案文件。]]></description>
@@ -100,16 +107,9 @@
     <item>
       <title>全球股票基金每周吸引强劲资金流入，以亚洲为首</title>
       <link>https://www.reuters.com/markets/global-markets-flows-graphic-2024-05-03/</link>
-      <description><![CDATA[截至 5 月 1 日的 7 天内，全球股票基金再次受到投资者的关注，原因是人们对亚洲（尤其是中国）经济复苏持乐观态度，资金流入亚洲。]]></description>
+      <description><![CDATA[截至 5 月 1 日的七天内，全球股票基金重新引起了投资者的兴趣，原因是人们对该地区（特别是中国）经济复苏的乐观情绪导致流入亚洲的资金激增。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-flows-graphic-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 13:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国商报报道，德国政府正在调查 Raiffeisen-Strabag 交易</title>
-      <link>https://www.reuters.com/markets/deals/german-government-looking-into-raiffeisen-strabag-deal-reports-handelsblatt-2024-05-03/</link>
-      <description><![CDATA[新闻媒体《商报》周五援引政府消息人士的话报道称，德国经济部正在调查 Raiffeisen Bank International 收购 Strabag 股份的计划，Strabag 是一家与俄罗斯大亨有联系的建筑公司。]]></description>
-      <guid>https://www.reuters.com/markets/deals/german-government-looking-into-raiffeisen-strabag-deal-reports-handelsblatt-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 12:34:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
