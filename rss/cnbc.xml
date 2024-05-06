@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 06 May 2024 04:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 06:14:00 GMT</lastBuildDate>
     <item>
-      <title>中国蚂蚁集团通过提供支付宝+跨境支付加倍全球扩张</title>
+      <title>“一字不差的求职信”：职业顾问称 Z 世代正在滥用人工智能</title>
+      <link>https://www.cnbc.com/2024/05/06/career-consultant-says-gen-z-are-misusing-ai-to-generate-cover-letters.html</link>
+      <description><![CDATA[一位职业顾问表示，雇主收到了由 ChatGPT 生成的 Z 世代的“一模一样”求职信：“它的使用方式不正确。”]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/career-consultant-says-gen-z-are-misusing-ai-to-generate-cover-letters.html</guid>
+      <pubDate>Mon, 06 May 2024 06:11:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国蚂蚁集团加倍推进全球扩张，推出跨境支付服务 Alipay+</title>
       <link>https://www.cnbc.com/2024/05/06/chinese-fintech-ant-group-doubles-down-on-global-expansion-with-alipay.html</link>
       <description><![CDATA[蚂蚁金服于2020年推出支付宝+，允许外国人在本国使用某些移动支付应用程序扫描支付宝二维码在中国进行支付。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/chinese-fintech-ant-group-doubles-down-on-global-expansion-with-alipay.html</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>三星还是SK海力士？专业人士表示，Nvidia 的一家供应商是更好的人工智能游戏</title>
       <link>https://www.cnbc.com/2024/05/06/samsung-or-sk-hynix-ones-a-better-play-on-the-ai-boom-say-pros.html</link>
-      <description><![CDATA[由于人工智能的热潮，存储芯片一直备受关注——这两只股票已经主导了存储芯片市场。]]></description>
+      <description><![CDATA[由于人工智能的蓬勃发展，存储芯片一直受到关注，而这两只股票主导了存储芯片市场。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/samsung-or-sk-hynix-ones-a-better-play-on-the-ai-boom-say-pros.html</guid>
       <pubDate>Sun, 05 May 2024 23:30:14 GMT</pubDate>
     </item>
@@ -69,7 +76,7 @@
       <pubDate>Sun, 05 May 2024 18:56:02 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普副总统充满希望的克里斯蒂·诺姆建议拜登的狗指挥官也应该被安葬</title>
+      <title>特朗普副总统候选人克里斯蒂·诺姆建议拜登的狗指挥官也应该被处死</title>
       <link>https://www.cnbc.com/2024/05/05/trump-vp-hopeful-kristi-noem-suggests-bidens-dog-should-be-put-down.html</link>
       <description><![CDATA[克里斯蒂·诺姆 (Kristi Noem) 有望在 2024 年大选中成为唐纳德·特朗普 (Donald Trump) 的副总统候选人。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/trump-vp-hopeful-kristi-noem-suggests-bidens-dog-should-be-put-down.html</guid>
@@ -92,16 +99,9 @@
     <item>
       <title>巴菲特表示，伯克希尔出售了其全部派拉蒙股份：“我们损失了很多钱”</title>
       <link>https://www.cnbc.com/2024/05/04/buffett-says-berkshire-sold-its-entire-paramount-stake-we-lost-quite-a-bit-of-money.html</link>
-      <description><![CDATA[巴菲特说：“我对收购派拉蒙的决定负有 100% 的责任。这 100% 是我的决定，我们卖掉了所有资产，损失了不少钱。”]]></description>
+      <description><![CDATA[巴菲特表示：“我对派拉蒙的决定负有100%的责任。” “这100%是我的决定，我们已经全部卖掉了，而且损失了不少钱。”]]></description>
       <guid>https://www.cnbc.com/2024/05/04/buffett-says-berkshire-sold-its-entire-paramount-stake-we-lost-quite-a-bit-of-money.html</guid>
       <pubDate>Sat, 04 May 2024 20:17:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃伦·巴菲特的大部分股票投资组合仅包含 5 只股票。这就是它们的含义</title>
-      <link>https://www.cnbc.com/2024/05/04/most-of-warren-buffetts-stock-portfolio-is-tied-up-in-just-5-stocks-heres-what-they-are.html</link>
-      <description><![CDATA[伯克希尔哈撒韦公司周六公布了 2024 年第一季度的数据，显示该集团的大部分股票投资组合仅集中于五只股票。]]></description>
-      <guid>https://www.cnbc.com/2024/05/04/most-of-warren-buffetts-stock-portfolio-is-tied-up-in-just-5-stocks-heres-what-they-are.html</guid>
-      <pubDate>Sat, 04 May 2024 13:54:34 GMT</pubDate>
     </item>
     <item>
       <title>为什么 2016 年和 2020 年的选举民意调查出现如此大的错误——以及如何改变来解决这个问题</title>
