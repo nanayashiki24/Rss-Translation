@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 06 May 2024 18:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 19:07:00 GMT</lastBuildDate>
     <item>
-      <title>沃伦·巴菲特继任计划的“扭曲”引起了伯克希尔哈撒韦公司奥马哈忠实信徒的关注</title>
-      <link>https://www.cnbc.com/2024/05/06/twist-in-succession-plan-raises-eyebrows-among-buffetts-omaha-faithful.html</link>
-      <description><![CDATA[许多伯克希尔哈撒韦公司的股东在上周末的年会上离开时，思考着沃伦·巴菲特关于继任者的重大启示。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/twist-in-succession-plan-raises-eyebrows-among-buffetts-omaha-faithful.html</guid>
-      <pubDate>Mon, 06 May 2024 18:46:59 GMT</pubDate>
+      <title>哈马斯表示接受埃及和卡塔尔调解人的停火提议，美国和以色列正在审查计划细节</title>
+      <link>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</link>
+      <description><![CDATA[随着周末谈判的升温，中央情报局局长威廉·伯恩斯帮助促成了谈判。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</guid>
+      <pubDate>Mon, 06 May 2024 19:10:56 GMT</pubDate>
     </item>
     <item>
       <title>由于美联储降息的希望，股市本周初上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
       <description><![CDATA[美国股市周一上涨，华尔街希望延续前一交易日的强劲涨幅。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
-      <pubDate>Mon, 06 May 2024 18:41:29 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 19:10:51 GMT</pubDate>
     </item>
     <item>
-      <title>哈马斯表示接受埃及、卡塔尔调解人的停火提议，美国和以色列正在审查计划细节</title>
-      <link>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</link>
-      <description><![CDATA[随着周末谈判的升温，中央情报局局长威廉·伯恩斯帮助促成了谈判。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</guid>
-      <pubDate>Mon, 06 May 2024 18:38:36 GMT</pubDate>
+      <title>Robinhood 披露了 SEC 对潜在执法行动的警告信：CNBC Crypto World</title>
+      <link>https://www.cnbc.com/video/2024/05/06/robinhood-discloses-sec-letter-warning-potential-enforcement-actions-crypto-world.html</link>
+      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过备受瞩目的采访、解释和来自不断变化的加密行业的独特故事，让观众了解未来的发展趋势。在今天的节目中，比特币 IRA 的联合创始人兼首席运营官 Chris Kline 讨论了周末反弹后加密货币市场的动向。]]></description>
+      <guid>https://www.cnbc.com/video/2024/05/06/robinhood-discloses-sec-letter-warning-potential-enforcement-actions-crypto-world.html</guid>
+      <pubDate>Mon, 06 May 2024 19:05:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃伦·巴菲特继任计划的“扭曲”引起了伯克希尔哈撒韦公司奥马哈忠实信徒的关注</title>
+      <link>https://www.cnbc.com/2024/05/06/twist-in-succession-plan-raises-eyebrows-among-buffetts-omaha-faithful.html</link>
+      <description><![CDATA[许多伯克希尔哈撒韦公司的股东在上周末的年会上离开时，思考着沃伦·巴菲特关于继任者的重大启示。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/twist-in-succession-plan-raises-eyebrows-among-buffetts-omaha-faithful.html</guid>
+      <pubDate>Mon, 06 May 2024 18:46:59 GMT</pubDate>
     </item>
     <item>
       <title>特朗普审判：色情明星封口费是根据与特朗普儿子的协议报销的</title>
@@ -48,13 +55,6 @@
       <pubDate>Mon, 06 May 2024 17:45:21 GMT</pubDate>
     </item>
     <item>
-      <title>雪佛龙首席执行官表示天然气需求将超出数据中心电力需求的预期</title>
-      <link>https://www.cnbc.com/2024/05/06/chevron-ceo-says-natural-gas-demand-will-outpace-expectations.html</link>
-      <description><![CDATA[雪佛龙首席执行官迈克·沃斯表示，由于可再生能源在满足峰值需求方面仍然面临挑战，天然气将在数据中心供电方面发挥关键作用。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/chevron-ceo-says-natural-gas-demand-will-outpace-expectations.html</guid>
-      <pubDate>Mon, 06 May 2024 17:36:47 GMT</pubDate>
-    </item>
-    <item>
       <title>迪士尼在周二盘前公布财报。这是华尔街正在关注的事情</title>
       <link>https://www.cnbc.com/2024/05/06/disney-reports-earnings-tuesday-heres-what-wall-street-is-watching.html</link>
       <description><![CDATA[华特迪士尼将在周二盘前公布业绩，届时其顶级流媒体主导地位将受到考验。]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>美国人无法停止“浪费”——以下是如何避免这种财务陷阱的方法</title>
       <link>https://www.cnbc.com/2024/05/06/americans-cant-stop-spaving-heres-how-to-avoid-this-financial-trap.html</link>
-      <description><![CDATA[专家表示，如果不小心的话，“节省开支”，即多花钱多存钱，可能会导致过度支出和高息信用卡债务。]]></description>
+      <description><![CDATA[专家表示，“节省”，即花更多钱来省更多钱，如果不小心，可能会导致过度消费和高利息的信用卡债务。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/americans-cant-stop-spaving-heres-how-to-avoid-this-financial-trap.html</guid>
       <pubDate>Mon, 06 May 2024 17:21:00 GMT</pubDate>
     </item>
@@ -104,9 +104,9 @@
       <pubDate>Mon, 06 May 2024 13:55:55 GMT</pubDate>
     </item>
     <item>
-      <title>沃伦·巴菲特在今年的伯克希尔·哈撒韦公司年会上对自己的死亡率发表了看法</title>
+      <title>沃伦·巴菲特在今年的伯克希尔·哈撒韦公司年会上谈到了自己的死亡问题</title>
       <link>https://www.cnbc.com/2024/05/05/warren-buffett-mulls-over-his-own-mortality-at-this-years-berkshire-hathaway-annual-meeting-.html</link>
-      <description><![CDATA[这位“奥马哈先知”坦率地谈到了自己不再领导他与已故查理芒格共同创立的企业集团的未来。]]></description>
+      <description><![CDATA[这位“奥马哈先知”坦率地谈到了当他不再领导他与已故查理芒格建立的企业集团时的未来。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/warren-buffett-mulls-over-his-own-mortality-at-this-years-berkshire-hathaway-annual-meeting-.html</guid>
       <pubDate>Mon, 06 May 2024 13:24:21 GMT</pubDate>
     </item>
