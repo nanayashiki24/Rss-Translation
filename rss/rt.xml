@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT 世界新闻</title>
+    <title>RT世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Mon, 06 May 2024 20:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 21:14:02 GMT</lastBuildDate>
     <item>
-      <title>习近平拒绝支持泽连斯基单边“和平会议”</title>
+      <title>美国告诉以色列，不会“按目前计划”支持拉法行动</title>
+      <link>https://www.rt.com/news/597081-us-israel-rafah-gaza/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 美国国务院表示，对加沙城的袭击将导致更多巴勒斯坦人死亡并扰乱援助物资的运送在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/597081-us-israel-rafah-gaza/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Mon, 06 May 2024 20:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>习近平拒绝支持泽连斯基单方面“和平会议”</title>
       <link>https://www.rt.com/news/597093-china-ukraine-peace-conference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 中国领导人表示乌克兰和谈应得到各方认可在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/597093-china-ukraine-peace-conference/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 06 May 2024 19:50:09 GMT</pubDate>
     </item>
     <item>
-      <title>莫斯科抨击法国的“好战言论”</title>
+      <title>莫斯科猛烈抨击法国的“好战言论”</title>
       <link>https://www.rt.com/news/597086-russia-france-ukraine-conflict/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 俄罗斯外交部告诉法国特使，巴黎在乌克兰冲突中奉行破坏性和挑衅性政策在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/597086-russia-france-ukraine-conflict/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 06 May 2024 15:22:47 GMT</pubDate>
     </item>
     <item>
-      <title>泽连斯基无视反攻警告——北约成员国</title>
+      <title>北约成员：泽连斯基无视反攻警告</title>
       <link>https://www.rt.com/news/597080-italy-ukraine-counteroffensive-warning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 意大利国防部长吉多·克罗塞托表示，俄罗斯的军事优势意味着基辅的行动注定会失败在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/597080-italy-ukraine-counteroffensive-warning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
@@ -97,18 +104,11 @@
       <pubDate>Mon, 06 May 2024 11:19:48 GMT</pubDate>
     </item>
     <item>
-      <title>民主党领导人警告美军可能进入乌克兰冲突地区</title>
+      <title>民主党领袖警告美军可能介入乌克兰冲突</title>
       <link>https://www.rt.com/news/597053-democrat-leader-us-troops-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
       <description><![CDATA[ 众议院少数党领袖哈基姆·杰弗里斯表示，如果基辅在战场上遭受重大失败，美国可能会向乌克兰派遣军队在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/597053-democrat-leader-us-troops-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Mon, 06 May 2024 09:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交媒体是以色列加沙公关失败的罪魁祸首——布林肯</title>
-      <link>https://www.rt.com/news/597047-blinken-social-media-israel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 美国高级外交官安东尼·布林肯谈到加沙战争期间以色列的公关问题时，社交媒体上事实被迷失，情绪占据主导地位 在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/597047-blinken-social-media-israel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Mon, 06 May 2024 08:24:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
