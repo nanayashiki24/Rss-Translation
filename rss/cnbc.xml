@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Mon, 06 May 2024 21:17:00 GMT</lastBuildDate>
+    <item>
+      <title>财政部称，预计社会保障将在 2035 年出现资金短缺，比之前的预测晚了一年</title>
+      <link>https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html</link>
+      <description><![CDATA[更光明的经济前景有助于将社会保障信托基金的预计耗尽日期推迟一年。但国会仍然迫切需要采取行动。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html</guid>
+      <pubDate>Mon, 06 May 2024 21:36:28 GMT</pubDate>
+    </item>
     <item>
       <title>Palantir 股价因指引低于预期而下跌 3%</title>
       <link>https://www.cnbc.com/2024/05/06/palantir-pltr-earnings-q1-2024.html</link>
@@ -15,14 +22,14 @@
     <item>
       <title>盘后涨幅最大的股票：Palantir Technologies、Lucid Group 等</title>
       <link>https://www.cnbc.com/2024/05/06/stocks-making-the-biggest-moves-after-hours-pltr-lcid-mchp.html</link>
-      <description><![CDATA[这些是在盘中交易中涨幅最大的股票。]]></description>
+      <description><![CDATA[这些是盘后交易中波动最大的股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/stocks-making-the-biggest-moves-after-hours-pltr-lcid-mchp.html</guid>
       <pubDate>Mon, 06 May 2024 21:11:05 GMT</pubDate>
     </item>
     <item>
       <title>以色列对拉法发动袭击 将派代表团继续加沙停火谈判</title>
       <link>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</link>
-      <description><![CDATA[白宫发言人表示，在拉法采取的军事行动“可能会让超过一百万无辜人民面临更大的风险”。]]></description>
+      <description><![CDATA[白宫发言人表示，在拉法采取的军事行动“可能使超过一百万无辜人民面临更大的风险”。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</guid>
       <pubDate>Mon, 06 May 2024 21:02:53 GMT</pubDate>
     </item>
@@ -41,23 +48,16 @@
       <pubDate>Mon, 06 May 2024 20:45:03 GMT</pubDate>
     </item>
     <item>
-      <title>在降息希望的推动下，道琼斯指数上涨逾 170 点，连续第四个交易日上涨：实时更新</title>
+      <title>受降息希望推动，道琼斯指数上涨逾 170 点，连续第四个交易日上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
       <description><![CDATA[美国股市周一上涨，华尔街希望延续前一交易日的强劲涨幅。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
       <pubDate>Mon, 06 May 2024 20:28:40 GMT</pubDate>
     </item>
     <item>
-      <title>财政部表示，预计到 2035 年，社会保障将出现资金短缺，比之前的预测晚了一年</title>
-      <link>https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html</link>
-      <description><![CDATA[更光明的经济前景有助于将社会保障信托基金预计的耗尽日期推迟一年。但国会仍然迫切需要采取行动。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html</guid>
-      <pubDate>Mon, 06 May 2024 20:24:17 GMT</pubDate>
-    </item>
-    <item>
       <title>迪士尼在周二盘前公布财报。这是华尔街正在关注的事情</title>
       <link>https://www.cnbc.com/2024/05/06/disney-reports-earnings-tuesday-heres-what-wall-street-is-watching.html</link>
-      <description><![CDATA[华特迪士尼将在周二盘前公布业绩，这将考验其在顶级流媒体领域的主导地位。]]></description>
+      <description><![CDATA[华特迪士尼将在周二盘前公布业绩，届时其顶级流媒体主导地位将受到考验。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/disney-reports-earnings-tuesday-heres-what-wall-street-is-watching.html</guid>
       <pubDate>Mon, 06 May 2024 20:21:00 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Mon, 06 May 2024 19:45:25 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普审判：色情明星封口费是根据与特朗普儿子的协议报销的</title>
+      <title>特朗普审判：色情明星封口费是根据与特朗普儿子的协议支付的</title>
       <link>https://www.cnbc.com/2024/05/06/trump-trial-resumes-after-week-of-tears-gag-order-threats.html</link>
       <description><![CDATA[唐纳德·特朗普 (Donald Trump) 的纽约刑事封口费审判在特朗普集团前控制官杰夫·麦康尼 (Jeff McConney) 的证人证词下重新开始。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/trump-trial-resumes-after-week-of-tears-gag-order-threats.html</guid>
