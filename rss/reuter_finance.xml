@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 | 今日头条 | 路透社</title>
+    <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 12:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 13:16:58 GMT</lastBuildDate>
+    <item>
+      <title>瑞士国家银行探索金融资产代币化的方法</title>
+      <link>https://www.reuters.com/business/finance/swiss-national-bank-exploring-ways-tokenise-financial-assets-2024-05-06/</link>
+      <description><![CDATA[瑞士央行主席托马斯·乔丹周一表示，瑞士央行正在研究将金融资产数字化代币化的最佳方式，以提高支付的安全性和效率。]]></description>
+      <guid>https://www.reuters.com/business/finance/swiss-national-bank-exploring-ways-tokenise-financial-assets-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 12:29:09 GMT</pubDate>
+    </item>
     <item>
       <title>早间出价：到处都有救济（大部分）</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-06/</link>
@@ -13,9 +20,9 @@
       <pubDate>Mon, 06 May 2024 09:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，萨瓦德尔董事会开会考虑 BBVA 130 亿美元的收购要约</title>
+      <title>消息人士称，萨瓦德尔董事会开会考虑 BBVA 130 亿美元的报价</title>
       <link>https://www.reuters.com/markets/deals/sabadells-board-meets-analyse-bbva-bid-proposal-newspapers-say-2024-05-06/</link>
-      <description><![CDATA[两名知情人士称，萨瓦德尔董事会将于周一召开会议，讨论西班牙大型银行 BBVA 上周宣布的全股收购要约，收购价值约为 120 亿欧元（129 亿美元）。]]></description>
+      <description><![CDATA[两名知情人士称，萨瓦德尔董事会周一召开会议，讨论西班牙大型银行 BBVA 上周宣布的全股收购要约，收购价值约为 120 亿欧元（129 亿美元）。]]></description>
       <guid>https://www.reuters.com/markets/deals/sabadells-board-meets-analyse-bbva-bid-proposal-newspapers-say-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 08:00:56 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 06 May 2024 07:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>据英国《金融时报》报道，瑞士信贷集团首席执行官乌尔里希·科纳最终离开瑞银</title>
+      <title>据英国《金融时报》报道，瑞士信贷首席执行官乌尔里希·科纳最终离开瑞银</title>
       <link>https://www.reuters.com/business/finance/final-credit-suisse-ceo-ulrich-korner-leave-ubs-ft-reports-2024-05-06/</link>
       <description><![CDATA[据英国《金融时报》周一报道，瑞士信贷最后任首席执行官乌尔里希·科纳（Ulrich Korner）将在未来几周内离开瑞银。]]></description>
       <guid>https://www.reuters.com/business/finance/final-credit-suisse-ceo-ulrich-korner-leave-ubs-ft-reports-2024-05-06/</guid>
@@ -69,9 +76,9 @@
       <pubDate>Sat, 04 May 2024 08:15:11 GMT</pubDate>
     </item>
     <item>
-      <title>瑞信中国证券合资公司称 2023 年员工人数将减少 46%</title>
+      <title>瑞信中国证券合资公司称2023年员工人数将减少46%</title>
       <link>https://www.reuters.com/business/finance/credit-suisse-china-securities-jv-says-staff-down-46-2023-2024-05-04/</link>
-      <description><![CDATA[瑞士信贷在中国的证券经纪合资企业表示，2023 年其员工人数将减少 46%，这一年瑞士当局安排了一次收购，以防止该公司倒闭。]]></description>
+      <description><![CDATA[瑞信在中国的证券经纪合资企业表示，其员工人数在 2023 年下降了 46%，这一年瑞士当局安排了收购，以防止该公司倒闭。]]></description>
       <guid>https://www.reuters.com/business/finance/credit-suisse-china-securities-jv-says-staff-down-46-2023-2024-05-04/</guid>
       <pubDate>Sat, 04 May 2024 08:05:54 GMT</pubDate>
     </item>
@@ -83,9 +90,9 @@
       <pubDate>Sat, 04 May 2024 07:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街未来一周：由于利率上升造成影响，美国小盘股陷入困境</title>
+      <title>华尔街本周展望：美国小型股因利率上升而陷入困境</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</link>
-      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上阴影，这些企业今年的表现落后于大盘。]]></description>
+      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上了阴影，这些企业今年的表现落后于大盘。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:35:37 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 03 May 2024 17:57:23 GMT</pubDate>
     </item>
     <item>
-      <title>前 Odey 投资组合经理 Hanbury 警告投资者“盲目购买”</title>
+      <title>前 Odey 投资组合经理汉伯里警告投资者正在“盲目购买”</title>
       <link>https://www.reuters.com/business/ex-odey-portfolio-manager-hanbury-warns-investors-are-buying-blind-2024-05-03/</link>
-      <description><![CDATA[前欧迪资产管理公司（OAM）投资组合经理詹姆斯·汉伯里（James Hanbury）在致投资者的一封信中表示，被动和系统性交易策略的发展如此之快，以至于那些根据公司基本面进行交易的人可能会受到伤害。]]></description>
+      <description><![CDATA[前奥迪资产管理公司 (OAM) 投资组合经理詹姆斯汉伯里 (James Hanbury) 在致投资者的一封信中表示，被动和系统性交易策略已经发展得太过迅速，以至于那些根据公司基本面进行交易的人可能会受到伤害。]]></description>
       <guid>https://www.reuters.com/business/ex-odey-portfolio-manager-hanbury-warns-investors-are-buying-blind-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 16:16:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>检察官因涉嫌欺诈而寻求对意大利部长进行审判</title>
-      <link>https://www.reuters.com/world/europe/prosecutors-seek-trial-italian-minister-over-alleged-fraud-2024-05-03/</link>
-      <description><![CDATA[意大利检察官周五表示，他们希望指控旅游部长丹妮拉·桑坦奇 (Daniela Santanche) 涉嫌在新冠病毒大流行期间对其前出版公司进行福利欺诈。]]></description>
-      <guid>https://www.reuters.com/world/europe/prosecutors-seek-trial-italian-minister-over-alleged-fraud-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 15:56:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
