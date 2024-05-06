@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice/@financialjuice</title>
+    <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 06 May 2024 04:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 04:50:54 GMT</lastBuildDate>
+    <item>
+      <title>五一假期中国国内旅游支出同比增长12.7%</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787340986772824556#m</link>
+      <description><![CDATA[五一假期中国国内旅游支出同比增长12.7%]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787340986772824556#m</guid>
+      <pubDate>Mon, 06 May 2024 04:37:53 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲央行的立场：美联储的决定对欧元区影响有限</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787317186672877615#m</link>
-      <description><![CDATA[欧洲央行政策：美联储决策对欧元区影响有限]]></description>
+      <description><![CDATA[欧洲央行的立场：美联储的决定对欧元区影响有限]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787317186672877615#m</guid>
       <pubDate>Mon, 06 May 2024 03:03:18 GMT</pubDate>
     </item>
@@ -29,12 +36,12 @@
     <item>
       <title>欧洲央行的策略：通胀信心改善</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787317152313127010#m</link>
-      <description><![CDATA[欧洲央行的立场：对通胀改善的信心]]></description>
+      <description><![CDATA[欧洲央行的路线图：对通胀改善的信心]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787317152313127010#m</guid>
       <pubDate>Mon, 06 May 2024 03:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲央行行长：四月份服务业通胀放缓标志着显着进展</title>
+      <title>欧洲央行行长莱恩：4 月份服务业通胀放缓标志着显著进展</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787317140808253883#m</link>
       <description><![CDATA[欧洲央行行长：四月份服务业通胀放缓标志着显着进展]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787317140808253883#m</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[中国4月财新综合PMI：环比52.8，高于上月的52.7]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787297601764614251#m</guid>
       <pubDate>Mon, 06 May 2024 01:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔴中国财新服务业 PMI 实际 52.5（预测 52.5，前值 52.7）$宏观</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787297590121234690#m</link>
-      <description><![CDATA[🔴中国财新服务业 PMI 实际 52.5（预测 52.5，前期 52.7）$MACRO]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787297590121234690#m</guid>
-      <pubDate>Mon, 06 May 2024 01:45:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
