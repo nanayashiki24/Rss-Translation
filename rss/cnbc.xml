@@ -1,33 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 06 May 2024 19:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 19:29:00 GMT</lastBuildDate>
+    <item>
+      <title>Hartford Total Return Bond ETF 收益率接近 5%，并以在整个市场中发现价值而自豪</title>
+      <link>https://www.cnbc.com/2024/05/06/this-bond-etf-yields-nearly-5percent-and-prides-itself-on-find-value-across-the-market.html</link>
+      <description><![CDATA[根据晨星公司的数据，HTRB 去年的总回报率为 7.15%，在同行中排名第 23 位。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/this-bond-etf-yields-nearly-5percent-and-prides-itself-on-find-value-across-the-market.html</guid>
+      <pubDate>Mon, 06 May 2024 19:37:09 GMT</pubDate>
+    </item>
     <item>
       <title>沃伦·巴菲特继任计划的“扭曲”引起了伯克希尔哈撒韦公司奥马哈忠实信徒的关注</title>
       <link>https://www.cnbc.com/2024/05/06/twist-in-succession-plan-raises-eyebrows-among-buffetts-omaha-faithful.html</link>
-      <description><![CDATA[许多伯克希尔哈撒韦公司的股东在上周末的年会上离开时，思考着沃伦·巴菲特关于继任者的重大启示。]]></description>
+      <description><![CDATA[上周末，伯克希尔·哈撒韦公司的许多股东在离开年度股东大会时，都在思考沃伦·巴菲特关于继任问题的重大披露。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/twist-in-succession-plan-raises-eyebrows-among-buffetts-omaha-faithful.html</guid>
-      <pubDate>Mon, 06 May 2024 19:19:46 GMT</pubDate>
+      <pubDate>Mon, 06 May 2024 19:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>哈马斯表示接受埃及和卡塔尔调解人的停火提议，美国和以色列正在审查计划细节</title>
+      <title>花旗集团首席执行官简·弗雷泽表示，低收入消费者的支出变得更加谨慎</title>
+      <link>https://www.cnbc.com/2024/05/06/citigroup-ceo-jane-fraser-says-low-income-consumers-are-more-cautious.html</link>
+      <description><![CDATA[花旗集团首席执行官简·弗雷泽 (Jane Fraser) 周一与 CNBC 的萨拉·艾森 (Sara Eisen) 一起接受了有关经济的采访。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/citigroup-ceo-jane-fraser-says-low-income-consumers-are-more-cautious.html</guid>
+      <pubDate>Mon, 06 May 2024 19:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>专家称，以下是如何避免因继承的个人退休账户税而受到“打击”</title>
+      <link>https://www.cnbc.com/2024/05/06/how-to-reduce-taxes-on-your-inherited-individual-retirement-account.html</link>
+      <description><![CDATA[专家表示，您继承的个人退休账户可能会受到税收的“打击”。以下是如何最大限度地减少您的责任。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/how-to-reduce-taxes-on-your-inherited-individual-retirement-account.html</guid>
+      <pubDate>Mon, 06 May 2024 19:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈马斯表示接受埃及、卡塔尔调解人的停火提议，美国和以色列正在审查计划细节</title>
       <link>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</link>
       <description><![CDATA[随着周末谈判的升温，中央情报局局长威廉·伯恩斯帮助促成了谈判。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</guid>
       <pubDate>Mon, 06 May 2024 19:10:56 GMT</pubDate>
     </item>
     <item>
-      <title>美联储降息预期推动股市本周初上涨：实时更新</title>
+      <title>由于美联储降息的希望，股市本周初上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
       <description><![CDATA[美国股市周一上涨，华尔街希望延续前一交易日的强劲涨幅。]]></description>
       <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
       <pubDate>Mon, 06 May 2024 19:10:51 GMT</pubDate>
     </item>
     <item>
-      <title>Robinhood 披露美国证券交易委员会 (SEC) 警告可能采取执法行动的信函：CNBC Crypto World</title>
+      <title>Robinhood 披露了 SEC 对潜在执法行动的警告信：CNBC Crypto World</title>
       <link>https://www.cnbc.com/video/2024/05/06/robinhood-discloses-sec-letter-warning-potential-enforcement-actions-crypto-world.html</link>
       <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过备受瞩目的采访、解释和来自不断变化的加密行业的独特故事，让观众了解未来的发展趋势。在今天的节目中，比特币 IRA 的联合创始人兼首席运营官 Chris Kline 讨论了周末反弹后加密货币市场的动向。]]></description>
       <guid>https://www.cnbc.com/video/2024/05/06/robinhood-discloses-sec-letter-warning-potential-enforcement-actions-crypto-world.html</guid>
@@ -39,13 +60,6 @@
       <description><![CDATA[唐纳德·特朗普 (Donald Trump) 的纽约刑事封口费审判在特朗普集团前控制官杰夫·麦康尼 (Jeff McConney) 的证人证词下重新开始。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/trump-trial-resumes-after-week-of-tears-gag-order-threats.html</guid>
       <pubDate>Mon, 06 May 2024 18:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hartford Total Return Bond ETF 收益率接近 5%，并以在整个市场中发现价值而自豪</title>
-      <link>https://www.cnbc.com/2024/05/06/this-bond-etf-yields-nearly-5percent-and-prides-itself-on-find-value-across-the-market.html</link>
-      <description><![CDATA[据晨星数据显示，HTRB 去年的总回报率为 7.15%，在同行中排名 23%。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/this-bond-etf-yields-nearly-5percent-and-prides-itself-on-find-value-across-the-market.html</guid>
-      <pubDate>Mon, 06 May 2024 18:23:11 GMT</pubDate>
     </item>
     <item>
       <title>埃克森美孚首席执行官表示与雪佛龙关于赫斯圭亚那石油资产的争端可能会拖到2025年</title>
@@ -62,7 +76,7 @@
       <pubDate>Mon, 06 May 2024 17:31:23 GMT</pubDate>
     </item>
     <item>
-      <title>美国人无法停止“挥霍”——以下是如何避免这种财务陷阱</title>
+      <title>美国人无法停止“浪费”——以下是如何避免这种财务陷阱的方法</title>
       <link>https://www.cnbc.com/2024/05/06/americans-cant-stop-spaving-heres-how-to-avoid-this-financial-trap.html</link>
       <description><![CDATA[专家表示，如果不小心的话，“节省开支”，即多花钱多存钱，可能会导致过度支出和高息信用卡债务。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/americans-cant-stop-spaving-heres-how-to-avoid-this-financial-trap.html</guid>
@@ -71,21 +85,21 @@
     <item>
       <title>前首席执行官霍华德·舒尔茨表示，星巴克在盈利大幅下滑后需要对其门店进行改造</title>
       <link>https://www.cnbc.com/2024/05/06/howard-schultz-weighs-in-on-starbucks-earnings-miss.html</link>
-      <description><![CDATA[星巴克最新季度报告称，同店销售额意外下滑，并下调了全年业绩预期。]]></description>
+      <description><![CDATA[在最近一个季度，星巴克公布同店销售额意外下降，并大幅下调了全年预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/howard-schultz-weighs-in-on-starbucks-earnings-miss.html</guid>
       <pubDate>Mon, 06 May 2024 17:08:34 GMT</pubDate>
     </item>
     <item>
-      <title>中午涨幅最大的股票：伯克希尔哈撒韦公司、美光公司、泰森食品公司、精神航空公司等</title>
+      <title>午盘涨幅最大的股票：伯克希尔哈撒韦公司、美光科技、泰森食品、精神航空等</title>
       <link>https://www.cnbc.com/2024/05/06/stocks-making-big-midday-moves-berkshire-hathaway-micron-tyson-foods-spirit-air-and-more-.html</link>
       <description><![CDATA[这些是午盘交易中涨幅最大的一些股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/stocks-making-big-midday-moves-berkshire-hathaway-micron-tyson-foods-spirit-air-and-more-.html</guid>
       <pubDate>Mon, 06 May 2024 16:48:27 GMT</pubDate>
     </item>
     <item>
-      <title>纽约联储调查显示，租房者买房的希望已降至历史最低点</title>
+      <title>纽约联储调查显示，租房者买房的希望已降至历史最低水平</title>
       <link>https://www.cnbc.com/2024/05/06/renters-hopes-of-being-able-to-buy-a-home-have-fallen-to-a-record-low-new-york-fed-survey-shows.html</link>
-      <description><![CDATA[相信自己有一天能够买得起房子的租房者比例下降至历史最低的 13.4%。]]></description>
+      <description><![CDATA[相信自己有一天能够买得起房的租房者比例降至 13.4%，创下历史新低。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/renters-hopes-of-being-able-to-buy-a-home-have-fallen-to-a-record-low-new-york-fed-survey-shows.html</guid>
       <pubDate>Mon, 06 May 2024 16:34:23 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[Robinhood 在 2 月份透露，它收到了 SEC 与其加密业务相关的传票。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/robinhood-says-sec-could-pursue-enforcement-actions-over-crypto-operations.html</guid>
       <pubDate>Mon, 06 May 2024 14:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽车等美国汽车制造商正在迅速失去中国这个曾经的增长引擎</title>
-      <link>https://www.cnbc.com/2024/05/06/us-automakers-like-gm-rapidly-lose-ground-in-china.html</link>
-      <description><![CDATA[由于与美国的地缘政治紧张局势、消费者信心的变化和国内竞争的加剧，通用汽车在中国的失宠令人震惊。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/us-automakers-like-gm-rapidly-lose-ground-in-china.html</guid>
-      <pubDate>Mon, 06 May 2024 13:55:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃伦·巴菲特在今年的伯克希尔·哈撒韦公司年会上对自己的死亡率发表了看法</title>
-      <link>https://www.cnbc.com/2024/05/05/warren-buffett-mulls-over-his-own-mortality-at-this-years-berkshire-hathaway-annual-meeting-.html</link>
-      <description><![CDATA[这位“奥马哈先知”坦率地谈到了当他不再领导他与已故查理芒格建立的企业集团时的未来。]]></description>
-      <guid>https://www.cnbc.com/2024/05/05/warren-buffett-mulls-over-his-own-mortality-at-this-years-berkshire-hathaway-annual-meeting-.html</guid>
-      <pubDate>Mon, 06 May 2024 13:24:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
