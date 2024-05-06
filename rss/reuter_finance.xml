@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 | 今日头条 | 路透社</title>
+    <title>最新财经新闻 |今日头条 |路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新财经新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 23:37:53 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 06 May 2024 23:51:47 GMT</lastBuildDate>
+    <item>
+      <title>尽管现金收益较低，澳大利亚澳新银行仍宣布回购 13 亿美元</title>
+      <link>https://www.reuters.com/markets/asia/australias-anz-group-announces-13-bln-buyback-first-half-cash-earnings-drop-7-2024-05-06/</link>
+      <description><![CDATA[澳新银行集团周二宣布进行新的 20 亿澳元（13.2 亿美元）股票回购，尽管该集团报告称，由于澳大利亚抵押贷款市场的激烈竞争以及运营费用的增加，上半年现金收益下降了 7%。]]></description>
+      <guid>https://www.reuters.com/markets/asia/australias-anz-group-announces-13-bln-buyback-first-half-cash-earnings-drop-7-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 22:02:27 GMT</pubDate>
+    </item>
     <item>
       <title>高盛针对 1MDB 的刑事案件正式结束</title>
       <link>https://www.reuters.com/legal/goldman-sachs-criminal-case-over-1mdb-formally-ends-2024-05-06/</link>
-      <description><![CDATA[在高盛履行义务并支付了 29 亿美元罚款后，一名美国法官于周一正式结束了美国政府对高盛的刑事诉讼，该诉讼与这家华尔街银行为马来西亚基金 1MDB 所做的工作有关。]]></description>
+      <description><![CDATA[周一，一名美国法官正式结束了美国政府针对高盛提起的刑事诉讼，该案涉及高盛为马来西亚基金 1MDB 提供的服务，此前高盛履行了义务并支付了 29 亿美元的罚款。]]></description>
       <guid>https://www.reuters.com/legal/goldman-sachs-criminal-case-over-1mdb-formally-ends-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 20:26:23 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 06 May 2024 18:18:54 GMT</pubDate>
     </item>
     <item>
-      <title>3 月份投资者从对冲基金撤资 99 亿美元 - Nasdaq eVestment</title>
+      <title>投资者 3 月份从对冲基金撤资 99 亿美元 - Nasdaq eVestment</title>
       <link>https://www.reuters.com/business/finance/investors-pull-99-bln-hedge-funds-march-nasdaq-evestment-2024-05-06/</link>
       <description><![CDATA[纳斯达克 eVestment 周一发布的一份报告称，3 月份投资者从对冲基金净撤资额估计为 99 亿美元，高于 2 月份的 7.8 亿美元，这也是连续 22 个月行业资金流出总额超过资金流入。]]></description>
       <guid>https://www.reuters.com/business/finance/investors-pull-99-bln-hedge-funds-march-nasdaq-evestment-2024-05-06/</guid>
@@ -57,14 +64,14 @@
     <item>
       <title>法国和中国公司在习近平巴黎之行期间签署协议</title>
       <link>https://www.reuters.com/markets/french-chinese-firms-ink-deals-sidelines-xis-paris-visit-2024-05-06/</link>
-      <description><![CDATA[在中国国家主席习近平访问法国首都期间，法国和中国企业周一签署了涉及能源、金融和交通领域的多项协议。]]></description>
+      <description><![CDATA[周一，在中国国家主席习近平访问法国首都期间，法国和中国企业签署了能源、金融和运输等领域的协议。]]></description>
       <guid>https://www.reuters.com/markets/french-chinese-firms-ink-deals-sidelines-xis-paris-visit-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 16:32:56 GMT</pubDate>
     </item>
     <item>
       <title>美国医院网络 Steward 申请破产，寻求新贷款</title>
       <link>https://www.reuters.com/world/us/us-hospital-network-steward-files-bankruptcy-aims-new-loan-2024-05-06/</link>
-      <description><![CDATA[Steward Health 在美国八个州经营着 31 家医院，周一在德克萨斯州根据美国破产法第 11 章申请破产，旨在从其房东 Medical Properties Trust 获得新贷款。]]></description>
+      <description><![CDATA[Steward Health Care 在美国 8 个州经营 31 家医院，周一在德克萨斯州根据美国破产法第 11 章申请破产，旨在从其房东 Medical Properties Trust 获得新贷款。]]></description>
       <guid>https://www.reuters.com/world/us/us-hospital-network-steward-files-bankruptcy-aims-new-loan-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 14:07:22 GMT</pubDate>
     </item>
@@ -90,25 +97,18 @@
       <pubDate>Mon, 06 May 2024 08:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>谋杀、勒索失宠，意大利黑手党转向白领犯罪</title>
+      <title>意大利黑手党不再以谋杀和敲诈勒索为生，转而从事白领犯罪</title>
       <link>https://www.reuters.com/world/europe/italys-white-collar-mafia-is-making-business-killing-2024-05-06/</link>
       <description><![CDATA[如今，意大利黑手党很少沾染鲜血。]]></description>
       <guid>https://www.reuters.com/world/europe/italys-white-collar-mafia-is-making-business-killing-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 07:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>据英国《金融时报》报道，瑞士信贷集团首席执行官乌尔里希·科纳最终离开瑞银</title>
+      <title>据英国《金融时报》报道，瑞士信贷首席执行官乌尔里希·科纳最终离开瑞银</title>
       <link>https://www.reuters.com/business/finance/final-credit-suisse-ceo-ulrich-korner-leave-ubs-ft-reports-2024-05-06/</link>
       <description><![CDATA[据英国《金融时报》周一报道，瑞士信贷最后任首席执行官乌尔里希·科纳（Ulrich Korner）将在未来几周内离开瑞银。]]></description>
       <guid>https://www.reuters.com/business/finance/final-credit-suisse-ceo-ulrich-korner-leave-ubs-ft-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 04:51:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>政策制定者称欧洲央行对降息信心增强</title>
-      <link>https://www.reuters.com/markets/rates-bonds/ecb-rate-cut-case-getting-stronger-says-chief-economist-lane-2024-05-06/</link>
-      <description><![CDATA[欧洲央行三名政策制定者周一表示，随着欧元区通胀持续缓解，欧洲央行对降息的信心越来越大。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/ecb-rate-cut-case-getting-stronger-says-chief-economist-lane-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 03:06:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
