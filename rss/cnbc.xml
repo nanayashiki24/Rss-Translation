@@ -3,10 +3,17 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 06 May 2024 21:17:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 06 May 2024 22:12:00 GMT</lastBuildDate>
     <item>
-      <title>财政部称，预计社会保障将在 2035 年出现资金短缺，比之前的预测晚了一年</title>
+      <title>道指连续四天上涨后，股票期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数周一第四次上涨，受到美联储降息希望的提振。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</guid>
+      <pubDate>Mon, 06 May 2024 22:14:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>财政部表示，预计到 2035 年，社会保障将出现资金短缺，比之前的预测晚了一年</title>
       <link>https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html</link>
       <description><![CDATA[更光明的经济前景有助于将社会保障信托基金的预计耗尽日期推迟一年。但国会仍然迫切需要采取行动。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html</guid>
@@ -15,14 +22,14 @@
     <item>
       <title>Palantir 股价因指引低于预期而下跌 3%</title>
       <link>https://www.cnbc.com/2024/05/06/palantir-pltr-earnings-q1-2024.html</link>
-      <description><![CDATA[国防科技和人工智能公司 Palantir 公布的收益超出了分析师的收入预期，但也发布了低于预期的全年指引。]]></description>
+      <description><![CDATA[国防科技和人工智能公司 Palantir 公布的收益超出了分析师的收入预期，但全年业绩指引也低于预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/palantir-pltr-earnings-q1-2024.html</guid>
       <pubDate>Mon, 06 May 2024 21:16:37 GMT</pubDate>
     </item>
     <item>
       <title>盘后涨幅最大的股票：Palantir Technologies、Lucid Group 等</title>
       <link>https://www.cnbc.com/2024/05/06/stocks-making-the-biggest-moves-after-hours-pltr-lcid-mchp.html</link>
-      <description><![CDATA[这些是盘后交易中波动最大的股票。]]></description>
+      <description><![CDATA[这些是在盘中交易中涨幅最大的股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/stocks-making-the-biggest-moves-after-hours-pltr-lcid-mchp.html</guid>
       <pubDate>Mon, 06 May 2024 21:11:05 GMT</pubDate>
     </item>
@@ -41,28 +48,21 @@
       <pubDate>Mon, 06 May 2024 20:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>律师称，在平等就业机会委员会结案后，数十名前雇员计划起诉鲍莱罗，指控其存在歧视行为</title>
+      <title>律师称，EEOC 结案后，数十名前雇员计划起诉 Bowlero，指控其存在歧视</title>
       <link>https://www.cnbc.com/2024/05/06/dozens-of-former-employees-plan-to-sue-bowlero-for-discrimination.html</link>
       <description><![CDATA[在平等就业机会委员会拒绝对鲍莱罗提起诉讼后，数十名前员工计划以歧视和报复为由起诉该公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/dozens-of-former-employees-plan-to-sue-bowlero-for-discrimination.html</guid>
       <pubDate>Mon, 06 May 2024 20:45:03 GMT</pubDate>
     </item>
     <item>
-      <title>受降息希望推动，道琼斯指数上涨逾 170 点，连续第四个交易日上涨：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</link>
-      <description><![CDATA[美国股市周一上涨，华尔街希望延续前一交易日的强劲涨幅。]]></description>
-      <guid>https://www.cnbc.com/2024/05/05/stock-futures-inch-higher-sunday-after-weaker-than-expected-jobs-report-left-investors-looking-up-live-updates.html</guid>
-      <pubDate>Mon, 06 May 2024 20:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪士尼在周二盘前公布财报。这是华尔街正在关注的事情</title>
+      <title>迪士尼周二盘前公布财报。以下是华尔街关注的焦点</title>
       <link>https://www.cnbc.com/2024/05/06/disney-reports-earnings-tuesday-heres-what-wall-street-is-watching.html</link>
       <description><![CDATA[华特迪士尼将在周二盘前公布业绩，届时其顶级流媒体主导地位将受到考验。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/disney-reports-earnings-tuesday-heres-what-wall-street-is-watching.html</guid>
       <pubDate>Mon, 06 May 2024 20:21:00 GMT</pubDate>
     </item>
     <item>
-      <title>泰瑟枪和警用随身摄像机制造商 Axon 正在收购防空初创公司 Dedrone</title>
+      <title>泰瑟枪和警用摄像机制造商 Axon 正在收购防空初创公司 Dedrone</title>
       <link>https://www.cnbc.com/2024/05/06/taser-maker-axon-is-acquiring-air-defense-startup-dedrone.html</link>
       <description><![CDATA[公共安全公司 Axon（泰瑟枪和政策随身摄像机制造商）正在收购 Dedrone，该公司为执法部门、政府和其他机构提供空中安全服务。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/taser-maker-axon-is-acquiring-air-defense-startup-dedrone.html</guid>
@@ -83,7 +83,7 @@
       <pubDate>Mon, 06 May 2024 19:45:25 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普审判：色情明星封口费是根据与特朗普儿子的协议支付的</title>
+      <title>特朗普审判：色情明星封口费是根据与特朗普儿子的协议报销的</title>
       <link>https://www.cnbc.com/2024/05/06/trump-trial-resumes-after-week-of-tears-gag-order-threats.html</link>
       <description><![CDATA[唐纳德·特朗普 (Donald Trump) 的纽约刑事封口费审判在特朗普集团前控制官杰夫·麦康尼 (Jeff McConney) 的证人证词下重新开始。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/trump-trial-resumes-after-week-of-tears-gag-order-threats.html</guid>
