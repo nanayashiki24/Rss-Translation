@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数/@spectatorindex</title>
+    <title>观众指数 / @spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
     <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 03:16:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 04:50:53 GMT</lastBuildDate>
     <item>
-      <title>最新消息：澳大利亚总理表示政府“不支持对拉法赫的干预”</title>
+      <title>突发：以色列国旗在拉法边境升起</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787705250608267655#m</link>
+      <description><![CDATA[突发新闻：以色列国旗已在拉法边境升起]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787705250608267655#m</guid>
+      <pubDate>Tue, 07 May 2024 04:45:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>突发：以色列军队控制拉法与埃及边境</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787703428220923967#m</link>
+      <description><![CDATA[突发新闻：以色列军队控制了与埃及的拉法边境]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787703428220923967#m</guid>
+      <pubDate>Tue, 07 May 2024 04:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚：澳大利亚总理表示政府“不支持对拉法的干预”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787644946025214229#m</link>
       <description><![CDATA[刚刚：澳大利亚总理表示政府“不支持干预拉法”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787644946025214229#m</guid>
       <pubDate>Tue, 07 May 2024 00:45:42 GMT</pubDate>
     </item>
     <item>
-      <title>突发新闻：《华尔街日报》报道称，苹果正在为数据中心开发人工智能芯片</title>
+      <title>突发新闻：《华尔街日报》报道称苹果正在为数据中心开发人工智能芯片</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787625983295750178#m</link>
       <description><![CDATA[突发新闻：《华尔街日报》报道称，苹果正在为数据中心开发人工智能芯片]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787625983295750178#m</guid>
@@ -41,7 +55,7 @@
       <pubDate>Mon, 06 May 2024 22:02:34 GMT</pubDate>
     </item>
     <item>
-      <title>突发新闻：以色列再次对拉法东部发动空袭，有报道称 AH-64 阿帕奇攻击直升机参与其中。</title>
+      <title>突发消息：以色列再次对拉法东部发动空袭，据报道，以色列出动了 AH-64 阿帕奇攻击直升机。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787597945254363180#m</link>
       <description><![CDATA[突发新闻：以色列再次对拉法东部发动空袭，有报道称 AH-64 阿帕奇攻击直升机参与其中。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787597945254363180#m</guid>
@@ -55,9 +69,9 @@
       <pubDate>Mon, 06 May 2024 21:33:55 GMT</pubDate>
     </item>
     <item>
-      <title>突发事件：英国广播公司 (BBC) 报道称，“数量不明的现役英国军事人员的个人信息在一次重大数据泄露中被获取”</title>
+      <title>突发消息：BBC 报道称，“大量英国现役军人的个人信息在一次重大数据泄露事件中被窃取”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787589544050933844#m</link>
-      <description><![CDATA[突发事件：BBC 报道称“数量未知的英国现役军事人员的个人信息在一次重大数据泄露中被获取”]]></description>
+      <description><![CDATA[突发新闻：BBC 报道称，“未知数量的英国现役军人的个人信息在一次重大数据泄露事件中遭到泄露”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787589544050933844#m</guid>
       <pubDate>Mon, 06 May 2024 21:05:33 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Mon, 06 May 2024 20:46:51 GMT</pubDate>
     </item>
     <item>
-      <title>突发新闻：🇺🇸 美国联邦航空局正在调查波音是否完成了 787 梦想飞机检查以及“公司员工是否可能伪造飞机记录”</title>
+      <title>突发消息：🇺🇸 美国联邦航空管理局正在调查波音公司是否完成了 787 梦想飞机检查，以及“公司员工是否可能伪造了飞机记录”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787583847212990832#m</link>
       <description><![CDATA[突发新闻：🇺🇸 美国联邦航空局正在调查波音是否完成了 787 梦想飞机检查以及“公司员工是否可能伪造飞机记录”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787583847212990832#m</guid>
@@ -115,20 +129,6 @@
 - 以色列内阁表示将继续停火谈判]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787583323092734367#m</guid>
       <pubDate>Mon, 06 May 2024 20:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>上一篇：福克斯报道称，一组绰号为“FLiRT”的新的 COVID-19 变种是“目前该国的主要毒株”</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787580785626947763#m</link>
-      <description><![CDATA[最新消息：福克斯报道称，一组绰号为“FLiRT”的新的 COVID-19 变种是“目前该国的主要毒株”]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787580785626947763#m</guid>
-      <pubDate>Mon, 06 May 2024 20:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚：以色列南部部分地区火箭警报响起</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787573934910747128#m</link>
-      <description><![CDATA[刚刚：火箭警报在以色列南部部分地区响起]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787573934910747128#m</guid>
-      <pubDate>Mon, 06 May 2024 20:03:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
