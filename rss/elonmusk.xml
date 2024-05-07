@@ -4,7 +4,50 @@
     <title>埃隆·马斯克/@elonmusk</title>
     <link>http://nitter.esmailelbob.xyz/elonmusk</link>
     <description>Twitter 供稿：@elonmusk。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 17:51:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 18:18:52 GMT</lastBuildDate>
+    <item>
+      <title>为什么@xAI 的@Grok 成功如此重要。这比看上去要重要得多。</title>
+      <link>http://nitter.esmailelbob.xyz/elonmusk/status/1787908517724344648#m</link>
+      <description><![CDATA[为什么它对于 @xAI 的 @Grok 才能成功。这比看起来要重要得多。
+nitter.esmailelbob.xyz/cb_doge/status/1787856308470747496#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/elonmusk/status/1787908517724344648#m</guid>
+      <pubDate>Tue, 07 May 2024 18:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @elonmusk：根据媒体报道采取行动
+
+这是一座我将死在上面的 UI 设计山，令我沮丧的是，我必须为此付出如此多的努力和努力。
+
+几乎所有交互方法都有与之关联的“按下”和“释放”事件。只要有可能，您应该在收到新闻事件时“执行该操作”，而不是等待发布事件，因为它使交互感觉更加灵敏，并且通过不允许焦点滑出热点来减少用户错误按下和释放之间的框。
+
+即使是“弹道轻击”，即您的手指故意从按钮或触摸表面弹起，按下和释放之间也会有几十毫秒的延迟，并且大多数按钮按下都有超过一百毫秒的停留时间。界面令人愉悦，感觉它们会立即响应您的愿望，并且对每个用户的好处通常比额外的利基功能更重要。
+
+使用简单的 UI 工具包的游戏开发人员往往会更频繁地做到这一点，但“复杂”的应用程序设计人员通常会极力反对它，因为它大多与交互式触摸滚动视图、长按菜单和拖放等选项不兼容。
+
+能够拖动滚动网页或其中包含交互式控件的视图将继续存在，并且比使用单独的滚动条更好，但是仍然有大量的固定位置控件应该在按下时起作用，并且在可能的情况下，向他们倾斜是很好的 UI 设计。
+
+在移动 VR 的早期，系统键盘是一个专用的小型 OpenGL 应用程序，可以立即响应。随着全面的国际化，将其转变为传统的 Android 应用程序变得谨慎，但默认的“发布后操作”按钮行为让它感觉明显更糟糕。设计团队抵制了改变它的推动，并坚持委托进行用户研究，这是一种企业政治策略，目的是埋葬一些东西。我对他们试图使用引导性问题和任务的方式感到恼火，但它仍然是我在用户测试中见过的最清晰的灌篮之一——客观上减少了拼写错误，表达了偏好，并对新闻报道进行了采访评论版本感觉“更清晰”和“反应更灵敏”。
+
+所以，我赢得了这一奖项，但在剩下的时间里，我在其他界面上提出了这一点，但我没有，而且你仍然可以在整个 Meta VR 系统界面中看到“发布后行动”。</title>
+      <link>http://nitter.esmailelbob.xyz/ID_AA_Carmack/status/1787850053912064005#m</link>
+      <description><![CDATA[按新闻行事
+
+这是一座我将死在上面的 UI 设计山，它让我沮丧，我不得不为之奋斗如此频繁和努力。
+
+几乎所有交互方法都有与之关联的“按下”和“释放”事件。只要有可能，您应该在收到新闻事件时“执行该操作”，而不是等待发布事件，因为它使交互感觉更加灵敏，并且通过不允许焦点滑出热点来减少用户错误按下和释放之间的框。
+
+即使是“弹道轻击”，即您的手指故意从按钮或触摸表面弹起，按下和释放之间也会有几十毫秒的延迟，并且大多数按钮按下都有超过一百毫秒的停留时间。界面令人愉悦，感觉它们会立即响应您的愿望，并且对每个用户的好处往往比额外的利基功能更重要。
+
+使用简单的 UI 工具包的游戏开发人员往往会更频繁地做到这一点，但“复杂”的应用程序设计人员通常会极力反对它，因为它大多与交互式触摸滚动视图、长按菜单和拖放等选项不兼容。 
+
+能够拖动滚动网页或其中包含交互式控件的视图将继续存在，并且比使用单独的滚动条更好，但是仍然有大量的固定位置控件应该在按下时起作用，并且在可能的情况下向他们倾斜是很好的 UI 设计。
+
+在移动 VR 的早期，系统键盘是一个专用的小型 OpenGL 应用程序，可以立即响应。随着全面的国际化，将其转变为传统的 Android 应用程序变得谨慎，但默认的“发布后操作”按钮行为让它感觉明显更糟糕。设计团队抵制了改变它的推动，并坚持委托进行用户研究，这是一种企业政治策略，目的是埋葬一些东西。我对他们试图使用引导性问题和任务的方式感到恼火，但它仍然是我在用户测试中见过的最清晰的灌篮之一——客观上减少了拼写错误，表达了偏好，并对新闻报道进行了采访评论版本感觉“更清晰”和“反应更快”。
+
+所以，我赢得了这一奖项，但在剩下的时间里，我在其他界面上提出了这一点，但我没有，而且你仍然可以在整个 Meta VR 系统界面中看到“发布行动”。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/ID_AA_Carmack/status/1787850053912064005#m</guid>
+      <pubDate>Tue, 07 May 2024 14:20:44 GMT</pubDate>
+    </item>
     <item>
       <title>❤️</title>
       <link>http://nitter.esmailelbob.xyz/elonmusk/status/1787769025461961108#m</link>
@@ -120,35 +163,15 @@ nitter.net/i/events/1785175…
       <pubDate>Tue, 07 May 2024 02:12:59 GMT</pubDate>
     </item>
     <item>
-      <title>@elonmusk 的转发：“我赞成大大加快合法移民的速度。但是要有一个安全的南部边境，这样才能对进入美国的人进行一些审查。”</title>
-      <link>http://nitter.esmailelbob.xyz/cb_doge/status/1787655350147035334#m</link>
-      <description><![CDATA[“我赞成大大加快合法移民的进程。但是要有安全的南部边境，这样才能对进入美国的人进行一些审查。”
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/cb_doge/status/1787655350147035334#m</guid>
-      <pubDate>Tue, 07 May 2024 01:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @elonmusk：伊隆·马斯克在米尔肯研究所的完整对话（删除静音以节省您的时间）</title>
+      <title>RT @elonmusk：埃隆·马斯克在米尔肯研究所的完整对话（删除沉默以节省时间）</title>
       <link>http://nitter.esmailelbob.xyz/stevenmarkryan/status/1787651035848425590#m</link>
-      <description><![CDATA[埃隆·马斯克在米尔肯研究所的完整对话（消除沉默以节省时间）
+      <description><![CDATA[伊隆·马斯克在米尔肯研究所的完整对话（静音已删除以节省您的时间）
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/stevenmarkryan/status/1787651035848425590#m</guid>
       <pubDate>Tue, 07 May 2024 01:09:54 GMT</pubDate>
     </item>
     <item>
-      <title>RT @elonmusk：“SpaceX 拥有大约 6000 颗卫星，我们从来没有需要围绕 UFO 进行机动。
-
-文明是罕见的。我们应该尽一切可能来拯救它。”</title>
-      <link>http://nitter.esmailelbob.xyz/cb_doge/status/1787645925747220651#m</link>
-      <description><![CDATA[“SpaceX 拥有大约 6000 颗卫星，我们从来没有需要围绕 UFO 进行机动。
-
-文明是罕见的。我们应该尽一切可能来拯救它。”
-]]></description>
-      <guid>http://nitter.esmailelbob.xyz/cb_doge/status/1787645925747220651#m</guid>
-      <pubDate>Tue, 07 May 2024 00:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>RT by @elonmusk：观看现场直播：@MilkenInstitute 董事长 Mike Milken 与 @elonmusk 在 #MIGlobal 对话 https://twitter.com/i/broadcasts/1BRKjPvrBejJw</title>
+      <title>RT @elonmusk：观看直播：@MilkenInstitute 主席 Mike Milken 在 #MIGlobal 与 @elonmusk 对话 https://twitter.com/i/broadcasts/1BRKjPvrBejJw</title>
       <link>http://nitter.esmailelbob.xyz/MilkenInstitute/status/1787635180121084044#m</link>
       <description><![CDATA[观看直播：@MilkenInstitute 董事长迈克·米尔肯 (Mike Milken) 与 @elonmusk at #MIGlobal nitter.net/i/broadcasts/1BR…
 ]]></description>

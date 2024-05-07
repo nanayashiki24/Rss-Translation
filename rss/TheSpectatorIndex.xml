@@ -3,8 +3,26 @@
   <channel>
     <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 消息源：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 17:51:11 GMT</lastBuildDate>
+    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Tue, 07 May 2024 18:18:25 GMT</lastBuildDate>
+    <item>
+      <title>🇺🇸 美国总统选举民意调查
+
+拜登：46%
+特朗普：45%
+
+（美国广播公司新闻）</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787905242937651275#m</link>
+      <description><![CDATA[🇺🇸美国总统选举民意调查
+
+拜登：46%
+特朗普：45%
+
+（美国广播公司新闻）
+]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787905242937651275#m</guid>
+      <pubDate>Tue, 07 May 2024 18:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉汽车产量
 
@@ -268,7 +286,7 @@ nitter.esmailelbob.xyz/ShelleyGldschmt/status/1787731968643469373#m]]></descript
       <pubDate>Tue, 07 May 2024 07:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>突发消息：荷兰防暴警察清理了阿姆斯特丹大学校园内的亲巴勒斯坦抗议者和营地，逮捕了约 125 人。</title>
+      <title>突发新闻：荷兰防暴警察清理了阿姆斯特丹大学校园内的亲巴勒斯坦抗议者和营地，逮捕了约 125 人。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787739094275207217#m</link>
       <description><![CDATA[突发新闻：荷兰防暴警察清理了阿姆斯特丹大学校园内的亲巴勒斯坦抗议者和营地，逮捕了约 125 人。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787739094275207217#m</guid>
@@ -280,13 +298,6 @@ nitter.esmailelbob.xyz/ShelleyGldschmt/status/1787731968643469373#m]]></descript
       <description><![CDATA[突发新闻：以色列军方确认已对拉法过境点建立了“行动控制”，并称该地区被用于“恐怖主义目的”。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787738060983251378#m</guid>
       <pubDate>Tue, 07 May 2024 06:55:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发：以色列国旗在拉法边境升起</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1787705250608267655#m</link>
-      <description><![CDATA[突发新闻：以色列国旗已在拉法边境升起]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1787705250608267655#m</guid>
-      <pubDate>Tue, 07 May 2024 04:45:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
