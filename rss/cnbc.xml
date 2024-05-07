@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Tue, 07 May 2024 01:43:00 GMT</lastBuildDate>
     <item>
-      <title>亚洲市场因降息乐观情绪延续涨势；焦点为澳大利亚央行决议</title>
+      <title>微软与瑞典合作伙伴签署协议，清除 330 万吨二氧化碳</title>
+      <link>https://www.cnbc.com/2024/05/06/microsoft-signs-deal-to-remove-3point3-million-metric-tons-of-carbon-dioxide.html</link>
+      <description><![CDATA[斯德哥尔摩 Exergi 将微软合同描述为迄今为止最大的碳清除交易。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/microsoft-signs-deal-to-remove-3point3-million-metric-tons-of-carbon-dioxide.html</guid>
+      <pubDate>Tue, 07 May 2024 03:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚洲市场因降息乐观情绪扩大涨势；澳洲联储决策成为焦点</title>
       <link>https://www.cnbc.com/2024/05/07/asia-markets.html</link>
       <description><![CDATA[预计澳大利亚储备银行将基准贷款利率维持在 4.35%。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/asia-markets.html</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>波音公司被迫取消首次飞往空间站的载人星际客机发射</title>
       <link>https://www.cnbc.com/2024/05/06/in-a-high-stakes-test-boeing-will-launch-nasa-astronauts-to-space-for-the-first-time.html</link>
-      <description><![CDATA[这次发射尝试在计划发射前大约两个小时被取消。]]></description>
+      <description><![CDATA[发射尝试比计划发射时间提前约两小时被取消。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/in-a-high-stakes-test-boeing-will-launch-nasa-astronauts-to-space-for-the-first-time.html</guid>
       <pubDate>Tue, 07 May 2024 02:19:03 GMT</pubDate>
     </item>
@@ -34,30 +41,23 @@
       <pubDate>Mon, 06 May 2024 23:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>微软与瑞典合作伙伴签署协议，清除 330 万吨二氧化碳</title>
-      <link>https://www.cnbc.com/2024/05/06/microsoft-signs-deal-to-remove-3point3-million-metric-tons-of-carbon-dioxide.html</link>
-      <description><![CDATA[斯德哥尔摩 Exergi 将微软合同描述为迄今为止最大的碳清除交易。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/microsoft-signs-deal-to-remove-3point3-million-metric-tons-of-carbon-dioxide.html</guid>
-      <pubDate>Mon, 06 May 2024 23:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普检察官对证人时间表保密以避免前总统的攻击</title>
+      <title>特朗普检察官对证人日程保密，以避免受到前总统的攻击</title>
       <link>https://www.cnbc.com/2024/05/06/trump-trial-resumes-after-week-of-tears-gag-order-threats.html</link>
-      <description><![CDATA[检察官在作证前夕对证人时间表保密，以防止前总统唐纳德·特朗普针对那些计划作证的人。]]></description>
+      <description><![CDATA[检察官将证人时间表保密，直到作证前夕，以防止前总统唐纳德·特朗普针对那些计划作证的人。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/trump-trial-resumes-after-week-of-tears-gag-order-threats.html</guid>
       <pubDate>Mon, 06 May 2024 23:22:41 GMT</pubDate>
     </item>
     <item>
-      <title>全球奢侈品行业经历了一个艰难的季度后，巴克莱银行指定了 3 只股票来参与该行业</title>
+      <title>在全球奢侈品行业经历了艰难的一个季度之后，巴克莱银行列出了目前值得关注的 3 只股票</title>
       <link>https://www.cnbc.com/2024/05/07/barclays-reveals-its-top-3-stocks-to-play-the-sector-right-now.html</link>
-      <description><![CDATA[中国消费者可能正在削减奢侈品支出，但分析师指出，该行业的几家公司目前表现不错。]]></description>
+      <description><![CDATA[中国消费者可能正在削减奢侈品支出，但分析师指出，该行业的几家公司目前表现良好。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/barclays-reveals-its-top-3-stocks-to-play-the-sector-right-now.html</guid>
       <pubDate>Mon, 06 May 2024 23:20:47 GMT</pubDate>
     </item>
     <item>
       <title>中国股市的复苏能否持续？华尔街介入并分享股票精选</title>
       <link>https://www.cnbc.com/2024/05/07/can-the-rally-in-china-stocks-go-on-what-pros-say-and-stocks-to-buy.html</link>
-      <description><![CDATA[中国股市在经历了过去几年的长期低迷之后，出现了强劲反弹，今年迄今为止的涨幅甚至超过了标准普尔 500 指数。]]></description>
+      <description><![CDATA[中国股市在过去几年的长期低迷之后出现了如此强劲的反弹，以至于今年迄今为止甚至超过了标准普尔 500 指数。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/can-the-rally-in-china-stocks-go-on-what-pros-say-and-stocks-to-buy.html</guid>
       <pubDate>Mon, 06 May 2024 23:19:47 GMT</pubDate>
     </item>
@@ -71,19 +71,19 @@
     <item>
       <title>以色列对拉法发动袭击 将派代表团继续加沙停火谈判</title>
       <link>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</link>
-      <description><![CDATA[白宫发言人表示，在拉法采取的军事行动“可能使超过一百万无辜人民面临更大的风险”。]]></description>
+      <description><![CDATA[白宫发言人表示，在拉法采取的军事行动“可能会让超过一百万无辜人民面临更大的风险”。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/hamas-says-it-accepts-ceasefire-proposal-from-egyptian-qatari-mediators.html</guid>
       <pubDate>Mon, 06 May 2024 21:02:53 GMT</pubDate>
     </item>
     <item>
-      <title>律师称，EEOC 结案后，数十名前雇员计划起诉 Bowlero，指控其存在歧视</title>
+      <title>律师称，在平等就业机会委员会结案后，数十名前雇员计划起诉鲍莱罗，指控其存在歧视</title>
       <link>https://www.cnbc.com/2024/05/06/dozens-of-former-employees-plan-to-sue-bowlero-for-discrimination.html</link>
-      <description><![CDATA[在平等就业机会委员会拒绝对鲍莱罗提起诉讼后，数十名前员工计划以歧视和报复为由起诉该公司。]]></description>
+      <description><![CDATA[在平等就业机会委员会拒绝对该公司提起诉讼后，数十名前雇员计划起诉 Bowlero 歧视和报复。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/dozens-of-former-employees-plan-to-sue-bowlero-for-discrimination.html</guid>
       <pubDate>Mon, 06 May 2024 20:45:03 GMT</pubDate>
     </item>
     <item>
-      <title>花旗集团首席执行官简·弗雷泽表示，低收入消费者在支出方面变得更加谨慎</title>
+      <title>花旗集团首席执行官简·弗雷泽表示，低收入消费者的支出变得更加谨慎</title>
       <link>https://www.cnbc.com/2024/05/06/citigroup-ceo-jane-fraser-says-low-income-consumers-are-more-cautious.html</link>
       <description><![CDATA[花旗集团首席执行官简·弗雷泽 (Jane Fraser) 周一与 CNBC 的萨拉·艾森 (Sara Eisen) 一起接受了有关经济的采访。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/citigroup-ceo-jane-fraser-says-low-income-consumers-are-more-cautious.html</guid>
@@ -97,14 +97,14 @@
       <pubDate>Mon, 06 May 2024 19:23:14 GMT</pubDate>
     </item>
     <item>
-      <title>美国人无法停止“浪费”——以下是如何避免这种财务陷阱的方法</title>
+      <title>美国人无法停止“浪费”——以下是避免这种金融陷阱的方法</title>
       <link>https://www.cnbc.com/2024/05/06/americans-cant-stop-spaving-heres-how-to-avoid-this-financial-trap.html</link>
       <description><![CDATA[专家表示，如果不小心的话，“节省开支”，即多花钱多存钱，可能会导致过度支出和高息信用卡债务。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/americans-cant-stop-spaving-heres-how-to-avoid-this-financial-trap.html</guid>
       <pubDate>Mon, 06 May 2024 17:21:00 GMT</pubDate>
     </item>
     <item>
-      <title>前首席执行官霍华德·舒尔茨表示，星巴克在盈利大幅下滑后需要改造门店</title>
+      <title>前首席执行官霍华德·舒尔茨表示，星巴克在盈利大幅下滑后需要对其门店进行改造</title>
       <link>https://www.cnbc.com/2024/05/06/howard-schultz-weighs-in-on-starbucks-earnings-miss.html</link>
       <description><![CDATA[在最近一个季度，星巴克公布同店销售额意外下降，并大幅下调了全年预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/howard-schultz-weighs-in-on-starbucks-earnings-miss.html</guid>
