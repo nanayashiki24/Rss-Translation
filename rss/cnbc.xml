@@ -1,30 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Tue, 07 May 2024 13:19:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 13:34:00 GMT</lastBuildDate>
+    <item>
+      <title>CNBC/Generation Lab 青年调查发现，堕胎禁令导致多达一半的年轻人才流失</title>
+      <link>https://www.cnbc.com/2024/05/07/abortion-bans-drive-away-up-to-half-of-young-talent-new-cnbc/generation-lab-youth-survey-finds.html</link>
+      <description><![CDATA[NBC/世代实验室的一项新调查发现，近一半的年轻工人表示，如果工作机会意味着搬到禁止堕胎的州，他们会拒绝。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/abortion-bans-drive-away-up-to-half-of-young-talent-new-cnbc/generation-lab-youth-survey-finds.html</guid>
+      <pubDate>Tue, 07 May 2024 13:35:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街等​​待更多美联储线索，道琼斯指数连续第五天上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数周一第四次上涨，受到美联储降息的希望提振。]]></description>
+      <guid>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</guid>
+      <pubDate>Tue, 07 May 2024 13:34:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>私募股权公司围绕 Peloton 寻求潜在收购</title>
+      <link>https://www.cnbc.com/2024/05/07/private-equity-firms-circle-peloton-for-potential-buyout.html</link>
+      <description><![CDATA[由于 Peloton 正在努力应对销售放缓和亏损的问题，私募股权公司一直在考虑收购 Peloton。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/private-equity-firms-circle-peloton-for-potential-buyout.html</guid>
+      <pubDate>Tue, 07 May 2024 13:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动驾驶初创公司 Wayve 刚刚从 Nvidia、软银、微软等公司筹集了 10 亿美元资金</title>
+      <link>https://www.cnbc.com/2024/05/07/wayve-just-raised-over-1-billion-from-nvidia-softbank-microsoft-eclipse-ventures.html</link>
+      <description><![CDATA[英国自动驾驶汽车初创公司 Wayve 周二表示，已获得日本软银领投的 10.5 亿美元投资。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/wayve-just-raised-over-1-billion-from-nvidia-softbank-microsoft-eclipse-ventures.html</guid>
+      <pubDate>Tue, 07 May 2024 13:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如今的“痛苦交易”是一个让许多投资者措手不及的快速上涨市场</title>
+      <link>https://www.cnbc.com/2024/05/07/the-pain-trade-a-rapidly-rising-market-has-caught-many-investors-off-guard.html</link>
+      <description><![CDATA[一位策略师表示，如果我们获得更多有利于通胀的数据，我们将很快创下新高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/the-pain-trade-a-rapidly-rising-market-has-caught-many-investors-off-guard.html</guid>
+      <pubDate>Tue, 07 May 2024 13:19:26 GMT</pubDate>
+    </item>
     <item>
       <title>斯坦利·德鲁肯米勒给拜登的经济政策打“F”，指责美联储重燃通胀</title>
       <link>https://www.cnbc.com/2024/05/07/stanley-druckenmiller-gives-bidens-economic-policies-an-f-blames-the-fed-for-reigniting-inflation.html</link>
       <description><![CDATA[他称“拜登经济学”是失败的，并表示消费者正在为更高的通胀付出代价。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/stanley-druckenmiller-gives-bidens-economic-policies-an-f-blames-the-fed-for-reigniting-inflation.html</guid>
       <pubDate>Tue, 07 May 2024 13:17:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动驾驶初创公司 Wayve 刚刚从 Nvidia、软银、微软等公司筹集了 10 亿美元资金</title>
-      <link>https://www.cnbc.com/2024/05/07/wayve-just-raised-over-1-billion-from-nvidia-softbank-microsoft-eclipse-ventures.html</link>
-      <description><![CDATA[英国自动驾驶汽车技术初创公司 Wayve 周二表示，已获得日本软银牵头的 10.5 亿美元投资。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/wayve-just-raised-over-1-billion-from-nvidia-softbank-microsoft-eclipse-ventures.html</guid>
-      <pubDate>Tue, 07 May 2024 13:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>道指试图延续四天连胜，股票期货几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数周一第四次上涨，受到美联储降息希望的提振。]]></description>
-      <guid>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 07 May 2024 13:13:15 GMT</pubDate>
     </item>
     <item>
       <title>阿联酋航空董事长向波音公司传达了一条信息：“齐心协力”</title>
@@ -41,7 +62,7 @@
       <pubDate>Tue, 07 May 2024 13:10:27 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战争实时更新：乌克兰称挫败了泽伦斯基暗杀阴谋；俄罗斯总统普京宣誓就职第五个任期</title>
+      <title>乌克兰战争实时更新：乌克兰称挫败了泽伦斯基暗杀阴谋；俄罗斯总统普京宣誓就职，开启第五个任期</title>
       <link>https://www.cnbc.com/2024/05/07/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
       <description><![CDATA[弗拉基米尔·普京周二第五次宣誓就任俄罗斯总统，但西方国家因乌克兰战争持续而抵制就职典礼。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
@@ -62,30 +83,9 @@
       <pubDate>Tue, 07 May 2024 12:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>加沙战争进程仍不明朗，停火谈判悬而未决，油价下跌</title>
-      <link>https://www.cnbc.com/2024/05/07/crude-oil-prices-today.html</link>
-      <description><![CDATA[以色列拒绝了哈马斯接受的停火协议，但已派出代表团前往埃及继续谈判。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/crude-oil-prices-today.html</guid>
-      <pubDate>Tue, 07 May 2024 12:44:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃伦·巴菲特表示人工智能提出的一个问题困扰了经济学家一个世纪</title>
-      <link>https://www.cnbc.com/2024/05/07/warren-buffett-on-ai-issue-that-has-stumped-economists-for-a-century.html</link>
-      <description><![CDATA[在伯克希尔·哈撒韦公司年会上，沃伦·巴菲特表示，从瓶子里释放出来的人工智能“精灵”引发了人们对人类工作的黑暗未来的质疑。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/warren-buffett-on-ai-issue-that-has-stumped-economists-for-a-century.html</guid>
-      <pubDate>Tue, 07 May 2024 12:42:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>私募股权公司围绕 Peloton 寻求潜在收购</title>
-      <link>https://www.cnbc.com/2024/05/07/private-equity-firms-circle-peloton-for-potential-buyout.html</link>
-      <description><![CDATA[由于 Peloton 正努力应对销售放缓和亏损的问题，私募股权公司一直在考虑收购该公司。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/private-equity-firms-circle-peloton-for-potential-buyout.html</guid>
-      <pubDate>Tue, 07 May 2024 12:38:15 GMT</pubDate>
-    </item>
-    <item>
       <title>特斯拉董事长 Robyn Denholm 已于 2024 年出售了价值超过 5000 万美元的股票</title>
       <link>https://www.cnbc.com/2024/05/07/tesla-chair-robyn-denholm-sold-over-50-million-in-stock-this-year.html</link>
-      <description><![CDATA[一份文件显示，十年前加入特斯拉董事会的罗宾·丹霍姆 (Robyn Denholm) 出售了价值 1730 万美元的股票，使她今年的总销售额超过了 5000 万美元。]]></description>
+      <description><![CDATA[文件显示，十年前加入特斯拉董事会的罗宾·丹霍姆 (Robyn Denholm) 出售了价值 1,730 万美元的股票，使其今年的总销售额超过了 5,000 万美元。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/tesla-chair-robyn-denholm-sold-over-50-million-in-stock-this-year.html</guid>
       <pubDate>Tue, 07 May 2024 12:30:01 GMT</pubDate>
     </item>
@@ -97,18 +97,18 @@
       <pubDate>Tue, 07 May 2024 11:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>伊丽莎白·霍姆斯的刑满释放日期将缩短几个月</title>
+      <title>伊丽莎白·霍姆斯预计出狱日期将缩短几个月</title>
       <link>https://www.cnbc.com/2024/05/07/elizabeth-holmes-sees-more-months-trimmed-from-prison-release-date.html</link>
       <description><![CDATA[这位名誉扫地的 Theranos 创始人有望于 2032 年 8 月获释，比预期早了两年，此前她因欺诈罪被判处 11 年以上有期徒刑。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/elizabeth-holmes-sees-more-months-trimmed-from-prison-release-date.html</guid>
       <pubDate>Tue, 07 May 2024 11:00:40 GMT</pubDate>
     </item>
     <item>
-      <title>CNBC/Generation Lab 青年调查发现，堕胎禁令导致多达一半的年轻人才流失</title>
-      <link>https://www.cnbc.com/2024/05/07/abortion-bans-drive-away-up-to-half-of-young-talent-new-cnbc/generation-lab-youth-survey-finds.html</link>
-      <description><![CDATA[NBC/世代实验室的一项新调查发现，近一半的年轻工人表示，如果工作机会意味着搬到禁止堕胎的州，他们会拒绝。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/abortion-bans-drive-away-up-to-half-of-young-talent-new-cnbc/generation-lab-youth-survey-finds.html</guid>
-      <pubDate>Tue, 07 May 2024 04:34:25 GMT</pubDate>
+      <title>任天堂将于本财年发布新旗舰 Switch 游戏机</title>
+      <link>https://www.cnbc.com/2024/05/07/nintendo-ntdoy-earnings-report-q4-and-fy-2024.html</link>
+      <description><![CDATA[任天堂表示，截至 2024 年 3 月的一年中，其旗舰 Switch 游戏机的销量为 1570 万台，超出了自己的预测。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/nintendo-ntdoy-earnings-report-q4-and-fy-2024.html</guid>
+      <pubDate>Tue, 07 May 2024 09:03:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
