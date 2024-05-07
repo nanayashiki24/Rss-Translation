@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Tue, 07 May 2024 01:43:00 GMT</lastBuildDate>
+    <item>
+      <title>亚洲市场因降息乐观情绪延续涨势；焦点为澳大利亚央行决议</title>
+      <link>https://www.cnbc.com/2024/05/07/asia-markets.html</link>
+      <description><![CDATA[预计澳大利亚储备银行将基准贷款利率维持在 4.35%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/asia-markets.html</guid>
+      <pubDate>Tue, 07 May 2024 03:01:34 GMT</pubDate>
+    </item>
     <item>
       <title>波音公司被迫取消首次飞往空间站的载人星际客机发射</title>
       <link>https://www.cnbc.com/2024/05/06/in-a-high-stakes-test-boeing-will-launch-nasa-astronauts-to-space-for-the-first-time.html</link>
       <description><![CDATA[这次发射尝试在计划发射前大约两个小时被取消。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/in-a-high-stakes-test-boeing-will-launch-nasa-astronauts-to-space-for-the-first-time.html</guid>
       <pubDate>Tue, 07 May 2024 02:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲市场因降息乐观情绪延续涨势；焦点为澳大利亚央行决议</title>
-      <link>https://www.cnbc.com/2024/05/07/asia-markets.html</link>
-      <description><![CDATA[预计澳大利亚储备银行将基准贷款利率维持在 4.35%。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/asia-markets.html</guid>
-      <pubDate>Tue, 07 May 2024 01:46:18 GMT</pubDate>
     </item>
     <item>
       <title>FAA 对波音 787 检查展开新调查</title>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 07 May 2024 00:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>道琼斯指数连续四天上涨后，股指期货几乎没有变化：实时更新</title>
+      <title>道指连续四天上涨后，股票期货几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</link>
       <description><![CDATA[道琼斯工业平均指数周一第四次上涨，受到美联储降息希望的提振。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>中国股市的复苏能否持续？华尔街介入并分享股票精选</title>
       <link>https://www.cnbc.com/2024/05/07/can-the-rally-in-china-stocks-go-on-what-pros-say-and-stocks-to-buy.html</link>
-      <description><![CDATA[中国股市在过去几年的长期低迷之后出现了如此强劲的反弹，以至于今年迄今为止甚至超过了标准普尔 500 指数。]]></description>
+      <description><![CDATA[中国股市在经历了过去几年的长期低迷之后，出现了强劲反弹，今年迄今为止的涨幅甚至超过了标准普尔 500 指数。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/can-the-rally-in-china-stocks-go-on-what-pros-say-and-stocks-to-buy.html</guid>
       <pubDate>Mon, 06 May 2024 23:19:47 GMT</pubDate>
     </item>
@@ -76,14 +76,14 @@
       <pubDate>Mon, 06 May 2024 21:02:53 GMT</pubDate>
     </item>
     <item>
-      <title>律师称，在平等就业机会委员会结案后，数十名前雇员计划起诉鲍莱罗，指控其存在歧视行为</title>
+      <title>律师称，EEOC 结案后，数十名前雇员计划起诉 Bowlero，指控其存在歧视</title>
       <link>https://www.cnbc.com/2024/05/06/dozens-of-former-employees-plan-to-sue-bowlero-for-discrimination.html</link>
       <description><![CDATA[在平等就业机会委员会拒绝对鲍莱罗提起诉讼后，数十名前员工计划以歧视和报复为由起诉该公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/dozens-of-former-employees-plan-to-sue-bowlero-for-discrimination.html</guid>
       <pubDate>Mon, 06 May 2024 20:45:03 GMT</pubDate>
     </item>
     <item>
-      <title>花旗集团首席执行官简·弗雷泽表示，低收入消费者的支出变得更加谨慎</title>
+      <title>花旗集团首席执行官简·弗雷泽表示，低收入消费者在支出方面变得更加谨慎</title>
       <link>https://www.cnbc.com/2024/05/06/citigroup-ceo-jane-fraser-says-low-income-consumers-are-more-cautious.html</link>
       <description><![CDATA[花旗集团首席执行官简·弗雷泽 (Jane Fraser) 周一与 CNBC 的萨拉·艾森 (Sara Eisen) 一起接受了有关经济的采访。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/citigroup-ceo-jane-fraser-says-low-income-consumers-are-more-cautious.html</guid>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 06 May 2024 17:21:00 GMT</pubDate>
     </item>
     <item>
-      <title>前首席执行官霍华德·舒尔茨表示，星巴克在盈利大幅下滑后需要对其门店进行改造</title>
+      <title>前首席执行官霍华德·舒尔茨表示，星巴克在盈利大幅下滑后需要改造门店</title>
       <link>https://www.cnbc.com/2024/05/06/howard-schultz-weighs-in-on-starbucks-earnings-miss.html</link>
       <description><![CDATA[在最近一个季度，星巴克公布同店销售额意外下降，并大幅下调了全年预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/howard-schultz-weighs-in-on-starbucks-earnings-miss.html</guid>
