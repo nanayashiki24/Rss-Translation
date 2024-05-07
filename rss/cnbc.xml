@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Tue, 07 May 2024 14:07:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 14:24:00 GMT</lastBuildDate>
     <item>
-      <title>Apple 发布新款 iPad Air 和 iPad Pro 平板电脑</title>
+      <title>Apple 发布配备 M4 的新款 iPad Pro 和新款 iPad Air 平板电脑</title>
       <link>https://www.cnbc.com/2024/05/07/apple-ipad-pro-and-ipad-air-2024-announced.html</link>
       <description><![CDATA[这些是 Apple 自 2022 年 10 月以来发布的首批新 iPad 机型。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/apple-ipad-pro-and-ipad-air-2024-announced.html</guid>
-      <pubDate>Tue, 07 May 2024 14:14:07 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 14:25:04 GMT</pubDate>
     </item>
     <item>
-      <title>道琼斯指数连续第五天上涨，因美国国债收益率走低：实时更新</title>
+      <title>前英伟达招聘人员表示，在写简历之前不要忘记做这一件事</title>
+      <link>https://www.cnbc.com/2024/05/07/ex-nvidia-recruiters-best-resume-advice-create-a-rolodex-of-accomplishments.html</link>
+      <description><![CDATA[在您的整个职业生涯中，请在 Word 文档或冗长的简历中列出您的工作成就。定期更新。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/ex-nvidia-recruiters-best-resume-advice-create-a-rolodex-of-accomplishments.html</guid>
+      <pubDate>Tue, 07 May 2024 14:17:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战争实时更新：乌克兰称挫败了泽伦斯基暗杀阴谋；俄罗斯总统普京宣誓就职，开启第五个任期</title>
+      <link>https://www.cnbc.com/2024/05/07/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[弗拉基米尔·普京周二第五次宣誓就任俄罗斯总统，但西方国家因乌克兰战争持续而抵制就职典礼。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Tue, 07 May 2024 14:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着美国国债收益率走低，道指连续第五天上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数周一第四次上涨，受到美联储降息希望的提振。]]></description>
+      <description><![CDATA[道琼斯工业平均指数周一第四次上涨，受到美联储降息的希望提振。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</guid>
       <pubDate>Tue, 07 May 2024 14:13:57 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Tue, 07 May 2024 13:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>CNBC/Generation Lab 最新青年调查发现，堕胎禁令导致多达一半的年轻人才流失</title>
+      <title>CNBC/Generation Lab 青年调查发现，堕胎禁令导致多达一半的年轻人才流失</title>
       <link>https://www.cnbc.com/2024/05/07/abortion-bans-drive-away-up-to-half-of-young-talent-new-cnbc/generation-lab-youth-survey-finds.html</link>
       <description><![CDATA[NBC/世代实验室的一项新调查发现，近一半的年轻工人表示，如果工作机会意味着搬到禁止堕胎的州，他们会拒绝。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/abortion-bans-drive-away-up-to-half-of-young-talent-new-cnbc/generation-lab-youth-survey-finds.html</guid>
@@ -48,16 +62,9 @@
       <pubDate>Tue, 07 May 2024 13:33:29 GMT</pubDate>
     </item>
     <item>
-      <title>自动驾驶初创公司 Wayve 刚刚从 Nvidia、软银、微软等公司筹集了 10 亿美元资金</title>
-      <link>https://www.cnbc.com/2024/05/07/wayve-just-raised-over-1-billion-from-nvidia-softbank-microsoft-eclipse-ventures.html</link>
-      <description><![CDATA[英国自动驾驶汽车初创公司 Wayve 周二表示，已获得日本软银领投的 10.5 亿美元投资。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/wayve-just-raised-over-1-billion-from-nvidia-softbank-microsoft-eclipse-ventures.html</guid>
-      <pubDate>Tue, 07 May 2024 13:32:05 GMT</pubDate>
-    </item>
-    <item>
       <title>巨大的财富转移已经开始——但千禧一代、Z 世代可能不会继承到他们预期的那么多</title>
       <link>https://www.cnbc.com/2024/05/07/great-wealth-transfer-inheritance-expectations-may-not-match-reality.html</link>
-      <description><![CDATA[成年子女期望继承的财产数额与其年迈的父母计划留给他们的财产数额之间的差距越来越大。]]></description>
+      <description><![CDATA[成年子女期望继承多少遗产和年迈的父母计划留给他们多少遗产之间的差距越来越大。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/great-wealth-transfer-inheritance-expectations-may-not-match-reality.html</guid>
       <pubDate>Tue, 07 May 2024 13:30:06 GMT</pubDate>
     </item>
@@ -74,20 +81,6 @@
       <description><![CDATA[他称“拜登经济学”是失败的，并表示消费者正在为更高的通胀付出代价。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/stanley-druckenmiller-gives-bidens-economic-policies-an-f-blames-the-fed-for-reigniting-inflation.html</guid>
       <pubDate>Tue, 07 May 2024 13:17:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿联酋航空董事长向波音公司发出信息：“团结起来”</title>
-      <link>https://www.cnbc.com/2024/05/07/emirates-chairman-to-boeing-get-your-act-together-.html</link>
-      <description><![CDATA[阿联酋航空订购了 245 架客机和 5 架 778 货机，是波音公司最大的宽体喷气机客户。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/emirates-chairman-to-boeing-get-your-act-together-.html</guid>
-      <pubDate>Tue, 07 May 2024 13:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰战争实时更新：乌克兰称挫败了泽伦斯基暗杀阴谋；俄罗斯总统普京宣誓就职第五个任期</title>
-      <link>https://www.cnbc.com/2024/05/07/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[弗拉基米尔·普京周二第五次宣誓就任俄罗斯总统，但西方国家因乌克兰战争持续而抵制就职典礼。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Tue, 07 May 2024 13:06:33 GMT</pubDate>
     </item>
     <item>
       <title>以下是周二最大的分析师电话会议：Nvidia、Apple、Target、Gap、Nike、Palantir、Goldman Sachs 等</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[这位名誉扫地的 Theranos 创始人有望于 2032 年 8 月获释，比预期早了两年，此前她因欺诈罪被判处 11 年以上有期徒刑。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/elizabeth-holmes-sees-more-months-trimmed-from-prison-release-date.html</guid>
       <pubDate>Tue, 07 May 2024 11:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 5 月 7 日星期二：吉姆·克莱默 (Jim Cramer) 讨论他对投资俱乐部的下一步行动</title>
+      <link>https://www.cnbc.com/search/?query=Tuesday,%20May%207,%202024:%20Jim%20Cramer%20discusses%20his%20next%20moves%20for%20the%20Investing%20Club</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/search/?query=Tuesday,%20May%207,%202024:%20Jim%20Cramer%20discusses%20his%20next%20moves%20for%20the%20Investing%20Club</guid>
+      <pubDate>Mon, 06 May 2024 01:26:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
