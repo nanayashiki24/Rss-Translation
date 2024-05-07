@@ -3,28 +3,42 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Tue, 07 May 2024 19:21:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 07 May 2024 19:31:00 GMT</lastBuildDate>
     <item>
-      <title>股票分拆是今年最热门的交易之一。如何参加</title>
-      <link>https://www.cnbc.com/2024/05/07/stock-spinoffs-are-one-of-the-hottest-trades-going-this-year-how-to-participate.html</link>
-      <description><![CDATA[过去 12 个月里，脱离前公司所有者的股票表现优于股市的其他股票。这里有一些机会。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/stock-spinoffs-are-one-of-the-hottest-trades-going-this-year-how-to-participate.html</guid>
-      <pubDate>Tue, 07 May 2024 19:20:00 GMT</pubDate>
+      <title>美国证券交易委员会主席詹斯勒回避特朗普媒体竞选财务问题</title>
+      <link>https://www.cnbc.com/2024/05/07/sec-chair-gensler-dodges-trump-media-campaign-finance-questions.html</link>
+      <description><![CDATA[自 3 月份在纳斯达克上市以来，DJT 股价一直上下波动。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/sec-chair-gensler-dodges-trump-media-campaign-finance-questions.html</guid>
+      <pubDate>Tue, 07 May 2024 19:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界上“最多产的勒索软件组织”的领导人在 Lockbit 案件中被指控——悬赏 1000 万美元逮捕他</title>
+      <link>https://www.cnbc.com/2024/05/07/russian-charged-in-lockbit-ransomware-crimes-10-million-reward.html</link>
+      <description><![CDATA[德米特里·尤里耶维奇·霍罗舍夫 (Dmitry Yuryevich Khoroshev) 是第六位被指控犯有与 LockBit 勒索软件团伙相关的联邦罪行的人，该勒索软件团伙窃取了超过 5 亿美元的资金。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/russian-charged-in-lockbit-ransomware-crimes-10-million-reward.html</guid>
+      <pubDate>Tue, 07 May 2024 19:35:08 GMT</pubDate>
     </item>
     <item>
       <title>随着美国国债收益率走低，道指连续第五天上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</link>
-      <description><![CDATA[周二，道琼斯指数 30 种股票尝试再次上涨，因为交易员正在寻找有关美联储何时可能开始降息的更多线索。]]></description>
+      <description><![CDATA[由于交易员寻找美联储何时开始降息的更多线索，道琼斯指数 30 种股票周二再次尝试上涨。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 07 May 2024 19:19:47 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 19:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>全球“最大勒索软件集团”头目被控 Lockbit 案 — 悬赏 1000 万美元</title>
-      <link>https://www.cnbc.com/2024/05/07/russian-charged-in-lockbit-ransomware-crimes-10-million-reward.html</link>
-      <description><![CDATA[迪米特里·尤里耶维奇·霍罗舍夫 (Dimitry Yuryevich Khoroshev) 是第六位被指控犯有与 LockBit 勒索软件团伙相关的联邦罪行的人，该勒索软件团伙窃取了超过 5 亿美元的资金。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/russian-charged-in-lockbit-ransomware-crimes-10-million-reward.html</guid>
-      <pubDate>Tue, 07 May 2024 19:13:36 GMT</pubDate>
+      <title>由于德鲁肯米勒出售了一些英伟达，以下是其他容易受到获利回吐影响的人工智能股票</title>
+      <link>https://www.cnbc.com/2024/05/07/here-are-other-ai-stocks-vulnerable-to-profit-taking-as-druckenmiller-sells-some-nvidia.html</link>
+      <description><![CDATA[Nvidia 远非唯一一家跑得过快的人工智能股票。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/here-are-other-ai-stocks-vulnerable-to-profit-taking-as-druckenmiller-sells-some-nvidia.html</guid>
+      <pubDate>Tue, 07 May 2024 19:29:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>股票分拆是今年最热门的交易之一。如何参与</title>
+      <link>https://www.cnbc.com/2024/05/07/stock-spinoffs-are-one-of-the-hottest-trades-going-this-year-how-to-participate.html</link>
+      <description><![CDATA[过去 12 个月里，脱离前公司所有者的股票表现优于股市的其他股票。这里有一些机会。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/stock-spinoffs-are-one-of-the-hottest-trades-going-this-year-how-to-participate.html</guid>
+      <pubDate>Tue, 07 May 2024 19:23:59 GMT</pubDate>
     </item>
     <item>
       <title>SEC 主席 Gensler 表示投资者没有获得加密资产的“必要披露”：CNBC Crypto World</title>
@@ -39,20 +53,6 @@
       <description><![CDATA[斯托米·丹尼尔斯是这起历史性案件的核心人物，唐纳德·特朗普被指控伪造商业记录以隐瞒封口费。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/trump-trial-ex-president-posts-then-deletes-message-about-witnesses.html</guid>
       <pubDate>Tue, 07 May 2024 18:55:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国证券交易委员会主席詹斯勒回避特朗普媒体竞选财务问题</title>
-      <link>https://www.cnbc.com/2024/05/07/sec-chair-gensler-dodges-trump-media-campaign-finance-questions.html</link>
-      <description><![CDATA[自 3 月份在纳斯达克上市以来，道琼工业指数公司的股价一直波动。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/sec-chair-gensler-dodges-trump-media-campaign-finance-questions.html</guid>
-      <pubDate>Tue, 07 May 2024 18:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着德鲁肯米勒抛售部分英伟达股票，以下是其他容易受到获利回吐影响的人工智能股票</title>
-      <link>https://www.cnbc.com/2024/05/07/here-are-other-ai-stocks-vulnerable-to-profit-taking-as-druckenmiller-sells-some-nvidia.html</link>
-      <description><![CDATA[英伟达并不是唯一一只跑得太快太快的人工智能股票]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/here-are-other-ai-stocks-vulnerable-to-profit-taking-as-druckenmiller-sells-some-nvidia.html</guid>
-      <pubDate>Tue, 07 May 2024 18:25:32 GMT</pubDate>
     </item>
     <item>
       <title>TikTok起诉美国政府，称禁令违反第一修正案</title>
@@ -71,7 +71,7 @@
     <item>
       <title>Altimeter 的 Brad Gerstner 表示，在 2024 年科技股强劲表现后，他削减了整个投资组合的头寸</title>
       <link>https://www.cnbc.com/2024/05/07/altimeters-brad-gerstner-says-he-trimmed-positions-across-portfolio-after-2024s-strong-tech-run.html</link>
-      <description><![CDATA[Altimeter Capital 董事长兼首席执行官布拉德·格斯特纳 (Brad Gerstner) 表示，在今年科技股的强劲上涨之后，他已经放弃了一些筹码。]]></description>
+      <description><![CDATA[Altimeter Capital 董事长兼首席执行官 Brad Gerstner 表示，在今年科技股的强劲走势后，他已经撤回了一些筹码。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/altimeters-brad-gerstner-says-he-trimmed-positions-across-portfolio-after-2024s-strong-tech-run.html</guid>
       <pubDate>Tue, 07 May 2024 17:49:06 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Tue, 07 May 2024 17:05:38 GMT</pubDate>
     </item>
     <item>
-      <title>Apple 发布配备 M4 的新款 iPad Pro、iPad Air 平板电脑</title>
+      <title>苹果发布搭载 M4 的新款 iPad Pro 和 iPad Air 平板电脑</title>
       <link>https://www.cnbc.com/2024/05/07/apple-ipad-pro-and-ipad-air-2024-announced.html</link>
       <description><![CDATA[这是 Apple 自 2022 年 10 月以来发布的首批新 iPad 机型。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/apple-ipad-pro-and-ipad-air-2024-announced.html</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>私募股权公司围绕 Peloton 寻求潜在收购</title>
       <link>https://www.cnbc.com/2024/05/07/private-equity-firms-circle-peloton-for-potential-buyout.html</link>
-      <description><![CDATA[由于 Peloton 正努力应对销售放缓和亏损的问题，私募股权公司一直在考虑收购该公司。]]></description>
+      <description><![CDATA[由于 Peloton 正在努力应对销售放缓和亏损的问题，私募股权公司一直在考虑收购 Peloton。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/private-equity-firms-circle-peloton-for-potential-buyout.html</guid>
       <pubDate>Tue, 07 May 2024 13:33:29 GMT</pubDate>
     </item>
