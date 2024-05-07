@@ -3,17 +3,24 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 07 May 2024 11:37:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Tue, 07 May 2024 11:48:00 GMT</lastBuildDate>
+    <item>
+      <title>周二分析师呼吁：高盛上调英伟达目标股价，上调矿业股评级</title>
+      <link>https://www.cnbc.com/2024/05/07/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
+      <description><![CDATA[周二，英伟达和一家大型矿业股成为分析师最常谈论的名字。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</guid>
+      <pubDate>Tue, 07 May 2024 11:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>斯坦利·德鲁肯米勒 (Stanley Druckenmiller) 在 3 月底削减了 Nvidia 股份，称短期内人工智能可能有点被过度炒作</title>
       <link>https://www.cnbc.com/2024/05/07/stanley-druckenmiller-cut-his-nvidia-stake-in-late-march-says-ai-may-be-a-bit-overhyped-short-term.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[德鲁肯米勒表示，在“该股从 150 美元涨至 900 美元”后，他减少了对 Nvidia 的押注。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/stanley-druckenmiller-cut-his-nvidia-stake-in-late-march-says-ai-may-be-a-bit-overhyped-short-term.html</guid>
-      <pubDate>Tue, 07 May 2024 11:37:36 GMT</pubDate>
+      <pubDate>Tue, 07 May 2024 11:39:19 GMT</pubDate>
     </item>
     <item>
-      <title>迪士尼盈利超出分析师预期，流媒体服务本季度几乎实现收支平衡</title>
+      <title>迪士尼盈利超出分析师预期，流媒体本季度几乎收支平衡</title>
       <link>https://www.cnbc.com/2024/05/07/disney-dis-earnings-q2-2024.html</link>
       <description><![CDATA[迪士尼公布其直接面向消费者业务仅亏损 1800 万美元，盈利超出分析师预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/disney-dis-earnings-q2-2024.html</guid>
@@ -39,13 +46,6 @@
       <description><![CDATA[弗拉基米尔·普京周二第五次宣誓就任俄罗斯总统，但西方国家因乌克兰战争持续而抵制就职典礼。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Tue, 07 May 2024 11:16:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>周二分析师呼吁：高盛上调英伟达目标股价，上调矿业股评级</title>
-      <link>https://www.cnbc.com/2024/05/07/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
-      <description><![CDATA[英伟达和一只大型矿业股是周二分析师热议最多的股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</guid>
-      <pubDate>Tue, 07 May 2024 11:12:57 GMT</pubDate>
     </item>
     <item>
       <title>Evercore ISI 表示，请留意这些可能表现不佳的动力损失者</title>
@@ -90,9 +90,9 @@
       <pubDate>Tue, 07 May 2024 05:42:12 GMT</pubDate>
     </item>
     <item>
-      <title>CNBC/Generation Lab 最新青年调查发现，堕胎禁令导致多达一半的年轻人才流失</title>
+      <title>CNBC/Generation Lab 青年调查发现，堕胎禁令导致多达一半的年轻人才流失</title>
       <link>https://www.cnbc.com/2024/05/07/abortion-bans-drive-away-up-to-half-of-young-talent-new-cnbc/generation-lab-youth-survey-finds.html</link>
-      <description><![CDATA[NBC/世代实验室的一项新调查发现，近一半的年轻工人表示，如果工作机会意味着搬到禁止堕胎的州，他们会拒绝。]]></description>
+      <description><![CDATA[NBC/Generation Lab 的最新调查发现，近一半的年轻员工表示，如果工作机会意味着要搬到一个禁止堕胎的州，他们会拒绝。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/abortion-bans-drive-away-up-to-half-of-young-talent-new-cnbc/generation-lab-youth-survey-finds.html</guid>
       <pubDate>Tue, 07 May 2024 04:34:25 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>财政部表示，预计到 2035 年，社会保障将出现资金短缺，比之前的预测晚了一年</title>
       <link>https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html</link>
-      <description><![CDATA[更为光明的经济前景已帮助将社会保障信托基金的预计耗尽日期推迟了一年。但国会仍然迫切需要采取行动。]]></description>
+      <description><![CDATA[更光明的经济前景有助于将社会保障信托基金的预计耗尽日期推迟一年。但国会仍然迫切需要采取行动。]]></description>
       <guid>https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html</guid>
       <pubDate>Mon, 06 May 2024 21:36:28 GMT</pubDate>
     </item>
