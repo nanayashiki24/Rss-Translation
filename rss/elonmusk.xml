@@ -4,7 +4,7 @@
     <title>埃隆·马斯克/@elonmusk</title>
     <link>http://nitter.esmailelbob.xyz/elonmusk</link>
     <description>Twitter 供稿：@elonmusk。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 19:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 19:22:12 GMT</lastBuildDate>
     <item>
       <title>冒着听起来精英主义的风险，我更喜欢 IHOP</title>
       <link>http://nitter.esmailelbob.xyz/elonmusk/status/1787914668570550511#m</link>
@@ -26,7 +26,7 @@ nitter.esmailelbob.xyz/newstart_2024/status/1787852468828643457#m]]></descriptio
       <pubDate>Tue, 07 May 2024 18:21:01 GMT</pubDate>
     </item>
     <item>
-      <title>为什么@xAI 的@Grok 成功如此重要。这比看上去要重要得多。</title>
+      <title>为什么@xAI 的@Grok 的成功如此重要。这比看起来要重要得多。</title>
       <link>http://nitter.esmailelbob.xyz/elonmusk/status/1787908517724344648#m</link>
       <description><![CDATA[为什么它对于 @xAI 的 @Grok 才能成功。这比看起来要重要得多。
 nitter.esmailelbob.xyz/cb_doge/status/1787856308470747496#m]]></description>
@@ -34,27 +34,27 @@ nitter.esmailelbob.xyz/cb_doge/status/1787856308470747496#m]]></description>
       <pubDate>Tue, 07 May 2024 18:13:03 GMT</pubDate>
     </item>
     <item>
-      <title>RT @elonmusk：根据媒体报道采取行动
+      <title>RT by @elonmusk：按压即行动
 
-这是一座我将死在上面的 UI 设计山，令我沮丧的是，我必须为此付出如此多的努力和努力。
+这是我愿意为之付出生命的 UI 设计之山，我为此付出的艰辛和频繁让我感到沮丧。
 
-几乎所有交互方法都有与之关联的“按下”和“释放”事件。只要有可能，您应该在收到新闻事件时“执行该操作”，而不是等待发布事件，因为它使交互感觉更加灵敏，并且通过不允许焦点滑出热点来减少用户错误按下和释放之间的框。
+几乎所有交互方法都与“按下”和“释放”事件相关联。只要有可能，您就应该在获得按下事件时“执行操作”，而不是等待释放事件，因为这会使交互感觉响应更快，并且通过不允许焦点在按下和释放之间滑出热箱来减少用户错误。
 
-即使是“弹道轻击”，即您的手指故意从按钮或触摸表面弹起，按下和释放之间也会有几十毫秒的延迟，并且大多数按钮按下都有超过一百毫秒的停留时间。界面令人愉悦，感觉它们会立即响应您的愿望，并且对每个用户的好处通常比额外的利基功能更重要。
+即使是“弹道点击”，即您的手指故意从按钮或触摸表面弹起，按下和释放之间也会有几十毫秒的延迟，大多数按钮按下的停留时间都超过一百毫秒。界面感觉就像它们立即响应您的愿望一样令人愉悦，并且对每个用户的益处通常比额外的小众功能更重要。
 
-使用简单的 UI 工具包的游戏开发人员往往会更频繁地做到这一点，但“复杂”的应用程序设计人员通常会极力反对它，因为它大多与交互式触摸滚动视图、长按菜单和拖放等选项不兼容。
+使用简单 UI 工具包的游戏开发者往往能更准确地做到这一点，但“老练”的应用程序设计师往往会极力反对它，因为它与交互式触摸滚动视图、长按菜单和拖放等选项大多不兼容。
 
-能够拖动滚动网页或其中包含交互式控件的视图将继续存在，并且比使用单独的滚动条更好，但是仍然有大量的固定位置控件应该在按下时起作用，并且在可能的情况下，向他们倾斜是很好的 UI 设计。
+能够拖动滚动带有交互式控件的网页或视图将继续存在，并且比使用单独的滚动条效果更好，但仍有大量固定位置控件应该在按下时起作用，在可能的情况下，支持它们是一种很好的 UI 设计。
 
-在移动 VR 的早期，系统键盘是一个专用的小型 OpenGL 应用程序，可以立即响应。随着全面的国际化，将其转变为传统的 Android 应用程序变得谨慎，但默认的“发布后操作”按钮行为让它感觉明显更糟糕。设计团队抵制了改变它的推动，并坚持委托进行用户研究，这是一种企业政治策略，目的是埋葬一些东西。我对他们试图使用引导性问题和任务的方式感到恼火，但它仍然是我在用户测试中见过的最清晰的灌篮之一——客观上减少了拼写错误，表达了偏好，并对新闻报道进行了采访评论版本感觉“更清晰”和“反应更灵敏”。
+在移动 VR 的早期，系统键盘是一个专用的小型 OpenGL 应用程序，可以立即做出响应。随着完全国际化，将其变成传统的 Android 应用程序是明智之举，但默认的释放时按钮行为让它感觉明显更糟糕。设计团队抵制了改变它的压力，并坚持委托进行用户研究，这是一种掩盖某些事情的公司政治策略。我对他们试图使用引导性问题和任务的方式感到恼火，但它仍然是我见过的最明显的用户测试之一——客观上更少的拼写错误、表达的偏好，以及关于按下即动版本感觉“更清晰”和“响应更快”的采访评论。
 
-所以，我赢得了这一奖项，但在剩下的时间里，我在其他界面上提出了这一点，但我没有，而且你仍然可以在整个 Meta VR 系统界面中看到“发布后行动”。</title>
+所以，我赢了，但其余几次我把它带到其他界面时，我没有，你仍然可以看到整个 Meta VR 系统界面上都有释放即动版本。</title>
       <link>http://nitter.esmailelbob.xyz/ID_AA_Carmack/status/1787850053912064005#m</link>
       <description><![CDATA[按新闻行事
 
 这是一座我将死在上面的 UI 设计山，它让我沮丧，我不得不为之奋斗如此频繁和努力。
 
-几乎所有交互方法都有与之关联的“按下”和“释放”事件。只要有可能，您应该在收到新闻事件时“执行该操作”，而不是等待发布事件，因为它使交互感觉更加灵敏，并且通过不允许焦点滑出热点来减少用户错误按下和释放之间的框。
+几乎所有交互方法都有与之相关的“按下”和“释放”事件。只要有可能，您应该在收到新闻事件时“执行该操作”，而不是等待发布事件，因为它使交互感觉更加灵敏，并且通过不允许焦点滑出热点来减少用户错误按下和释放之间的框。
 
 即使是“弹道轻击”，即您的手指故意从按钮或触摸表面弹起，按下和释放之间也会有几十毫秒的延迟，并且大多数按钮按下都有超过一百毫秒的停留时间。界面令人愉悦，感觉它们会立即响应您的愿望，并且对每个用户的好处往往比额外的利基功能更重要。
 
@@ -62,7 +62,7 @@ nitter.esmailelbob.xyz/cb_doge/status/1787856308470747496#m]]></description>
 
 能够拖动滚动网页或其中包含交互式控件的视图将继续存在，并且比使用单独的滚动条更好，但是仍然有大量的固定位置控件应该在按下时起作用，并且在可能的情况下向他们倾斜是很好的 UI 设计。
 
-在移动 VR 的早期，系统键盘是一个专用的小型 OpenGL 应用程序，可以立即响应。随着全面的国际化，将其转变为传统的 Android 应用程序变得谨慎，但默认的“发布后操作”按钮行为让它感觉明显更糟糕。设计团队抵制了改变它的推动，并坚持委托进行用户研究，这是一种企业政治策略，目的是埋葬一些东西。我对他们试图使用引导性问题和任务的方式感到恼火，但它仍然是我在用户测试中见过的最清晰的灌篮之一——客观上减少了拼写错误，表达了偏好，并对新闻报道进行了采访评论版本感觉“更清晰”和“反应更快”。
+在移动 VR 的早期，系统键盘是一个专用的小型 OpenGL 应用程序，可以立即响应。随着全面的国际化，将其转变为传统的 Android 应用程序变得谨慎，但默认的“发布时操作”按钮行为让它感觉明显更糟糕。设计团队抵制了改变它的推动，并坚持委托进行用户研究，这是一种企业政治策略，目的是埋葬一些东西。我对他们试图使用引导性问题和任务的方式感到恼火，但它仍然是我在用户测试中见过的最清晰的灌篮之一——客观上减少了拼写错误，表达了偏好，并对新闻报道进行了采访评论版本感觉“更清晰”和“反应更快”。
 
 所以，我赢得了这一奖项，但在剩下的时间里，我在其他界面上提出了这一点，但我没有，而且你仍然可以在整个 Meta VR 系统界面中看到“发布行动”。]]></description>
       <guid>http://nitter.esmailelbob.xyz/ID_AA_Carmack/status/1787850053912064005#m</guid>
@@ -131,7 +131,7 @@ nitter.esmailelbob.xyz/transenv/status/1787739355907285039#m]]></description>
     <item>
       <title>RT @elonmusk：世界上每所学校都应该采用这种教学方法！</title>
       <link>http://nitter.esmailelbob.xyz/cb_doge/status/1787756308462030873#m</link>
-      <description><![CDATA[世界上每所学校都应该采用这种教学方法！
+      <description><![CDATA[世界上的每一所学校都应该采用这种教学方法！
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/cb_doge/status/1787756308462030873#m</guid>
       <pubDate>Tue, 07 May 2024 08:08:13 GMT</pubDate>
@@ -155,7 +155,7 @@ nitter.esmailelbob.xyz/RobertKennedyJr/status/1786816692611592223#m]]></descript
     <item>
       <title>没有人类就没有人性</title>
       <link>http://nitter.esmailelbob.xyz/elonmusk/status/1787740176695112185#m</link>
-      <description><![CDATA[没有人类就没有人性
+      <description><![CDATA[没有人类，就没有人性
 nitter.esmailelbob.xyz/cb_doge/status/1787737639077962215#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/elonmusk/status/1787740176695112185#m</guid>
       <pubDate>Tue, 07 May 2024 07:04:07 GMT</pubDate>
@@ -164,7 +164,7 @@ nitter.esmailelbob.xyz/cb_doge/status/1787737639077962215#m]]></description>
       <title>RT @elonmusk：X 上的 NBA Live 是 🔥
 https://twitter.com/i/events/1785175286989918208</title>
       <link>http://nitter.esmailelbob.xyz/natemcgrady/status/1787696125253648680#m</link>
-      <description><![CDATA[X 上的 NBA Live 是 🔥
+      <description><![CDATA[NBA Live on X 是🔥
 nitter.net/i/events/1785175…
 ]]></description>
       <guid>http://nitter.esmailelbob.xyz/natemcgrady/status/1787696125253648680#m</guid>
