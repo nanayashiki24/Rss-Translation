@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Tue, 07 May 2024 22:14:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 23:36:48 GMT</lastBuildDate>
+    <item>
+      <title>奥斯汀会见约旦国王阿卜杜拉讨论中东和加沙问题</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787985711347486957#m</link>
+      <description><![CDATA[奥斯汀会见约旦国王阿卜杜拉讨论中东和加沙问题]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787985711347486957#m</guid>
+      <pubDate>Tue, 07 May 2024 23:19:47 GMT</pubDate>
+    </item>
     <item>
       <title>中央情报局局长比尔·伯恩斯将于周三访问以色列，与内塔尼亚胡和官员举行会谈 - 消息来源</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787960651287326873#m</link>
@@ -29,12 +36,12 @@
     <item>
       <title>美国 API 馏分油库存实际变化 1.713M（预测 -，先前 -2.187M） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787945246401167500#m</link>
-      <description><![CDATA[美国 API 馏分油库存变化实际 1713 万 (预测 -，之前 -2187 万) $MACRO]]></description>
+      <description><![CDATA[美国 API 馏分油库存变化实际 1.713M（预测 -，之前 -2.187M）$MACRO&lt; /p&gt;]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787945246401167500#m</guid>
       <pubDate>Tue, 07 May 2024 20:38:59 GMT</pubDate>
     </item>
     <item>
-      <title>美国 API 原油库存实际变化 0.509M（预测 -1.43M，前值 4.906M） $宏观</title>
+      <title>美国 API 原油库存变化实际 0.509M（预测 -1.43M，之前 4.906M）$MACRO</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787945106642767991#m</link>
       <description><![CDATA[美国 API 原油库存实际变化 0.509M（预测 -1.43M，之前 4.906M）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787945106642767991#m</guid>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 07 May 2024 20:15:19 GMT</pubDate>
     </item>
     <item>
-      <title>MOC 失衡 33 亿买方</title>
+      <title>MOC 不平衡 3.3 亿买方</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787933114586567107#m</link>
       <description><![CDATA[MOC 失衡 33 亿买方]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787933114586567107#m</guid>
@@ -65,9 +72,9 @@ financialjuice.com/News/8121…
       <pubDate>Tue, 07 May 2024 19:22:49 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔、高通等公司均受到许可证撤销的影响 - FT.</title>
+      <title>英特尔、高通等公司受到许可证撤销的影响 - FT。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787924032634978386#m</link>
-      <description><![CDATA[英特尔、高通等公司均受到许可证撤销的影响 - 英国《金融时报》。]]></description>
+      <description><![CDATA[英特尔、高通等公司受到许可证撤销的影响 - FT.]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787924032634978386#m</guid>
       <pubDate>Tue, 07 May 2024 19:14:42 GMT</pubDate>
     </item>
@@ -108,13 +115,6 @@ financialjuice.com/News/8121…
       <description><![CDATA[布伦特原油期货结算价为 83.16 美元/桶，下跌 17 美分，跌幅 0.2%。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787918698713354456#m</guid>
       <pubDate>Tue, 07 May 2024 18:53:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>NYMEX 六月天然气期货结算价为 2.2070 美元/MMBTU。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1787913284374376796#m</link>
-      <description><![CDATA[NYMEX 六月天然气期货结算价为 2.2070 美元/MMBTU。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1787913284374376796#m</guid>
-      <pubDate>Tue, 07 May 2024 18:31:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
