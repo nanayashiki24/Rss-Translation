@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 08 May 2024 15:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 15:25:00 GMT</lastBuildDate>
+    <item>
+      <title>佐治亚州上诉法院将听取特朗普取消地方检察官资格的请求。法尼·威利斯 (Fani Willis) 参与选举案</title>
+      <link>https://www.cnbc.com/2024/05/08/georgia-appeals-court-will-hear-trump-bid-to-disqualify-da-fani-willis-in-election-case.html</link>
+      <description><![CDATA[佐治亚州上诉法院同意听取唐纳德·特朗普提出的取消富尔顿县地方检察官法尼·威利斯干预选举案件资格的请求。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/georgia-appeals-court-will-hear-trump-bid-to-disqualify-da-fani-willis-in-election-case.html</guid>
+      <pubDate>Wed, 08 May 2024 15:17:28 GMT</pubDate>
+    </item>
     <item>
       <title>Shopify 股价因指引疲软而暴跌 19%</title>
       <link>https://www.cnbc.com/2024/05/08/shopify-shares-plunge-18percent-on-weak-guidance.html</link>
@@ -13,9 +20,16 @@
       <pubDate>Wed, 08 May 2024 15:10:59 GMT</pubDate>
     </item>
     <item>
-      <title>摩根大通表示，已故的查理·芒格会喜欢这家以合理价格交易的优秀银行</title>
+      <title>库存意外下降后美国原油收复失地</title>
+      <link>https://www.cnbc.com/2024/05/08/oil-prices-fall-more-than-1percent-as-market-softens-on-rising-inventories.html</link>
+      <description><![CDATA[自 4 月份高点以来，油价已下跌 8%，但摩根士丹利预计，进入夏季驾车季节，市场将趋紧。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/oil-prices-fall-more-than-1percent-as-market-softens-on-rising-inventories.html</guid>
+      <pubDate>Wed, 08 May 2024 15:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通表示已故查理芒格会喜欢这家以公平价格进行精彩银行交易的银行</title>
       <link>https://www.cnbc.com/2024/05/08/jpmorgan-says-the-late-charlie-munger-would-love-this-wonderful-bank-trading-at-a-fair-price.html</link>
-      <description><![CDATA[摩根大通表示，这家地区性银行非常有吸引力，一定会引起已故查理·芒格的注意。]]></description>
+      <description><![CDATA[摩根大通表示，这家地区性银行极具吸引力，甚至会吸引已故查理·芒格的注意。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/jpmorgan-says-the-late-charlie-munger-would-love-this-wonderful-bank-trading-at-a-fair-price.html</guid>
       <pubDate>Wed, 08 May 2024 15:01:41 GMT</pubDate>
     </item>
@@ -27,16 +41,9 @@
       <pubDate>Wed, 08 May 2024 14:58:33 GMT</pubDate>
     </item>
     <item>
-      <title>佐治亚州上诉法院将听取特朗普取消地方检察官资格的请求。法尼·威利斯 (Fani Willis) 参与选举案</title>
-      <link>https://www.cnbc.com/2024/05/08/georgia-appeals-court-will-hear-trump-bid-to-disqualify-da-fani-willis-in-election-case.html</link>
-      <description><![CDATA[佐治亚州上诉法院同意受理唐纳德·特朗普的请求，取消富尔顿县地方检察官法尼·威利斯的选举干预案审理资格。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/georgia-appeals-court-will-hear-trump-bid-to-disqualify-da-fani-willis-in-election-case.html</guid>
-      <pubDate>Wed, 08 May 2024 14:56:16 GMT</pubDate>
-    </item>
-    <item>
       <title>一度科技宠儿的看跌期权交易可能会在新的人工智能世界中苦苦挣扎</title>
       <link>https://www.cnbc.com/2024/05/08/a-bearish-options-trade-on-a-one-time-tech-darling-that-could-struggle-in-the-new-ai-world.html</link>
-      <description><![CDATA[Tony 张认为 Salesforce 的股价有进一步下跌的风险，并进行了看跌期权交易以利用这一机会。]]></description>
+      <description><![CDATA[Tony 张认为 Salesforce 的股价有跌得更低的风险，并给出了看跌期权交易来利用它。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/a-bearish-options-trade-on-a-one-time-tech-darling-that-could-struggle-in-the-new-ai-world.html</guid>
       <pubDate>Wed, 08 May 2024 14:48:42 GMT</pubDate>
     </item>
@@ -83,9 +90,16 @@
       <pubDate>Wed, 08 May 2024 12:18:16 GMT</pubDate>
     </item>
     <item>
+      <title>Reddit 首次公布收益报告后，其股价飙升 11%</title>
+      <link>https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html</link>
+      <description><![CDATA[Reddit 报告第一季度销售额大幅增长，并表示第二季度收入将根据区间中点增长 30% 以上。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html</guid>
+      <pubDate>Wed, 08 May 2024 11:52:55 GMT</pubDate>
+    </item>
+    <item>
       <title>抵押贷款利率小幅下降后，每周抵押贷款再融资需求上升 5%</title>
       <link>https://www.cnbc.com/2024/05/08/weekly-mortgage-refinance-demand-rose-5percent-after-dip-in-mortgage-rates.html</link>
-      <description><![CDATA[抵押贷款利率明显高于 2024 年初的水平，上周略有回落，但已连续数周上涨。]]></description>
+      <description><![CDATA[抵押贷款利率明显高于 2024 年初的水平，上周略有回落，但连续几周连续上升。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/weekly-mortgage-refinance-demand-rose-5percent-after-dip-in-mortgage-rates.html</guid>
       <pubDate>Wed, 08 May 2024 11:00:01 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[该国最大的连锁便利店 CU 一直与韩国造币和安全印刷公司合作，为顾客提供迷你金条。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/gold-is-selling-like-hot-cakes-in-koreas-convenience-stores-vending-machines.html</guid>
       <pubDate>Wed, 08 May 2024 00:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>佛罗里达州特朗普机密文件审判无限期推迟</title>
-      <link>https://www.cnbc.com/2024/05/07/trump-classified-documents-trial-postponed-indefinitely.html</link>
-      <description><![CDATA[指控唐纳德·特朗普在离开白宫后故意保留机密国家安全记录的审判定于 5 月 20 日开始。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/trump-classified-documents-trial-postponed-indefinitely.html</guid>
-      <pubDate>Tue, 07 May 2024 21:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 发布配备 M4 的新款 iPad Pro、iPad Air 平板电脑</title>
-      <link>https://www.cnbc.com/2024/05/07/apple-ipad-pro-and-ipad-air-2024-announced.html</link>
-      <description><![CDATA[这些是 Apple 自 2022 年 10 月以来发布的首批新 iPad 机型。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/apple-ipad-pro-and-ipad-air-2024-announced.html</guid>
-      <pubDate>Tue, 07 May 2024 16:38:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
