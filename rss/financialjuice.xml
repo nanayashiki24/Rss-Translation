@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
-    <description>Twitter 消息源：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 08 May 2024 17:36:14 GMT</lastBuildDate>
+    <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Wed, 08 May 2024 18:18:31 GMT</lastBuildDate>
+    <item>
+      <title>美联储库克：美联储贴现窗口效率可以提高。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788270554858004964#m</link>
+      <description><![CDATA[美联储库克：美联储的贴现窗口效率可以提高。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788270554858004964#m</guid>
+      <pubDate>Wed, 08 May 2024 18:11:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储库克：国债市场仍然运转良好。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788268769040801817#m</link>
+      <description><![CDATA[美联储库克：国债市场仍然运转良好。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788268769040801817#m</guid>
+      <pubDate>Wed, 08 May 2024 18:04:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储库克：近期国债市场流动性水平较低。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788268714581958827#m</link>
+      <description><![CDATA[美联储库克：近期国债市场流动性水平较低。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788268714581958827#m</guid>
+      <pubDate>Wed, 08 May 2024 18:04:20 GMT</pubDate>
+    </item>
     <item>
       <title>美联储库克：在审查金融稳定性时，“家庭仍然保持弹性，但我看到拖欠率不断上升。”</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788261084979220516#m</link>
@@ -55,7 +76,7 @@
       <pubDate>Wed, 08 May 2024 17:30:46 GMT</pubDate>
     </item>
     <item>
-      <title>74 个交易对手在美联储逆回购操作中获得了 493.311B 美元。</title>
+      <title>74 个交易对手在美联储逆回购操作中投资 4933.11 亿美元。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788258629918814625#m</link>
       <description><![CDATA[74 个交易对手在美联储反向回购操作中获得了 493.311B 美元。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788258629918814625#m</guid>
@@ -64,7 +85,7 @@
     <item>
       <title>随着新的自愿减产生效，俄罗斯的石油产量高于目标。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788258253522026914#m</link>
-      <description><![CDATA[随着新的自愿减产生效，俄罗斯的石油产量高于目标。]]></description>
+      <description><![CDATA[随着新一轮自愿减产措施生效，俄罗斯石油产量超过目标。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788258253522026914#m</guid>
       <pubDate>Wed, 08 May 2024 17:22:46 GMT</pubDate>
     </item>
@@ -100,7 +121,7 @@
       <pubDate>Wed, 08 May 2024 17:04:25 GMT</pubDate>
     </item>
     <item>
-      <title>美国 10 年期国债买入/卖出比率实际为 2.49（预测为 -，之前为 2.34）$MACRO</title>
+      <title>美国 10 年期国债实际投标覆盖率 2.49（预测 -，前值 2.34） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788253095341818086#m</link>
       <description><![CDATA[美国 10 年期国债实际投标覆盖率 2.49（预测 -，之前 2.34）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788253095341818086#m</guid>
@@ -109,30 +130,9 @@
     <item>
       <title>美国 10 年期高收益债券实际 4.483%（预测 -，前值 4.56%） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788253081974481169#m</link>
-      <description><![CDATA[美国 10 年期国债高收益率实际 4.483%（预测 -，之前为 4.56%）$MACRO]]></description>
+      <description><![CDATA[美国 10 年期高收益债券实际 4.483%（预测 -，之前 4.56%）$MACRO ]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788253081974481169#m</guid>
       <pubDate>Wed, 08 May 2024 17:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在拍卖 420 亿美元之前，美国国债 10 年期国债收益率为 4.473%。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788252706508882103#m</link>
-      <description><![CDATA[在拍卖 420 亿美元之前，美国财政部 WI 10 年期国债收益率为 4.473%。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788252706508882103#m</guid>
-      <pubDate>Wed, 08 May 2024 17:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>AXIOS 援引以色列高级官员的话警告美国同行，暂停武器运输可能会危及人质谈判。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788249357705183429#m</link>
-      <description><![CDATA[AXIOS 援引以色列高级官员的话警告美国同行，暂停武器运输可能会危及人质谈判。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788249357705183429#m</guid>
-      <pubDate>Wed, 08 May 2024 16:47:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储对 10 年期国债的投标总额为 53 亿美元。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788248898152058900#m</link>
-      <description><![CDATA[美联储对 10 年期国债的投标总额为 53 亿美元。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788248898152058900#m</guid>
-      <pubDate>Wed, 08 May 2024 16:45:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
