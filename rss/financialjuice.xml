@@ -3,8 +3,15 @@
   <channel>
     <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
-    <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Wed, 08 May 2024 04:50:44 GMT</lastBuildDate>
+    <description>Twitter 消息源：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Wed, 08 May 2024 05:13:28 GMT</lastBuildDate>
+    <item>
+      <title>日本央行下午提供政府债务即时贷款</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788068979975598301#m</link>
+      <description><![CDATA[日本央行将于下午提供政府债务即时借贷]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788068979975598301#m</guid>
+      <pubDate>Wed, 08 May 2024 04:50:40 GMT</pubDate>
+    </item>
     <item>
       <title>荷兰3月份制造业生产环比下降1.5%</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788064372008288635#m</link>
@@ -15,7 +22,7 @@
     <item>
       <title>荷兰3月份制造业生产同比下降6%</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788064232631660888#m</link>
-      <description><![CDATA[荷兰 3 月份制造业生产同比下降 6%]]></description>
+      <description><![CDATA[荷兰 3 月份制造业产量同比下降 6％]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788064232631660888#m</guid>
       <pubDate>Wed, 08 May 2024 04:31:48 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 08 May 2024 04:08:25 GMT</pubDate>
     </item>
     <item>
-      <title>中国1天回购利率上调9个基点至1.8397%</title>
+      <title>中国1天回购利率上升9个基点至1.8397%</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788041239188635725#m</link>
       <description><![CDATA[中国一日回购利率上涨9个基点至1.8397%]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788041239188635725#m</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>铃木将适当实施财政政策以维持信任</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788029361523655162#m</link>
-      <description><![CDATA[铃木将采取适当的财政政策来维持信任]]></description>
+      <description><![CDATA[铃木将适当实施财政政策以维持信任]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788029361523655162#m</guid>
       <pubDate>Wed, 08 May 2024 02:13:14 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[铃木正在监测利率上升对经济的影响。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788028244186296696#m</guid>
       <pubDate>Wed, 08 May 2024 02:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>铃木：日本央行购买政府债券是其货币政策的一部分</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788027713321648224#m</link>
-      <description><![CDATA[铃木：日本央行购买政府债券是其货币政策的一部分]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788027713321648224#m</guid>
-      <pubDate>Wed, 08 May 2024 02:06:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
