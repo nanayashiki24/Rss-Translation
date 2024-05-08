@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Wed, 08 May 2024 17:04:00 GMT</lastBuildDate>
+    <item>
+      <title>道琼斯指数走高，试图将连胜延长至 6 天：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数周三走高，试图将其连续六天上涨。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 08 May 2024 17:30:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞典刚刚降息。为什么美国投资者应该注意</title>
+      <link>https://www.cnbc.com/2024/05/08/sweden-just-cut-interest-rates-why-us-investors-should-take-note.html</link>
+      <description><![CDATA[花旗集团表示，如果这种趋势持续下去，可能会促使美联储比市场预期更早采取行动。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/sweden-just-cut-interest-rates-why-us-investors-should-take-note.html</guid>
+      <pubDate>Wed, 08 May 2024 17:27:53 GMT</pubDate>
+    </item>
     <item>
       <title>贝莱德向这只活跃的 ETF 投入了数十亿美元。这就是为什么它对普通投资者很重要</title>
       <link>https://www.cnbc.com/2024/05/08/blackrock-shifted-billions-into-this-active-etf.html</link>
@@ -13,25 +27,11 @@
       <pubDate>Wed, 08 May 2024 17:24:34 GMT</pubDate>
     </item>
     <item>
-      <title>瑞典刚刚降息。为什么美国投资者应该注意</title>
-      <link>https://www.cnbc.com/2024/05/08/sweden-just-cut-interest-rates-why-us-investors-should-take-note.html</link>
-      <description><![CDATA[花旗集团表示，如果这种趋势持续下去，可能会促使美联储比市场预期更早采取行动。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/sweden-just-cut-interest-rates-why-us-investors-should-take-note.html</guid>
-      <pubDate>Wed, 08 May 2024 17:23:39 GMT</pubDate>
-    </item>
-    <item>
       <title>米高梅大赌场前总裁因未报告博彩公司的赌注而被判刑</title>
       <link>https://www.cnbc.com/2024/05/08/former-mgm-grand-casino-president-to-be-sentenced-over-illegal-bets.html</link>
       <description><![CDATA[斯科特·西贝拉的检察官和辩护律师建议法官在刑事案件中对这位前米高梅大赌场总裁实行缓刑。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/former-mgm-grand-casino-president-to-be-sentenced-over-illegal-bets.html</guid>
       <pubDate>Wed, 08 May 2024 17:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>道琼斯指数走高，试图将连胜延长至 6 天：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数周三走高，试图将其连续六天上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 08 May 2024 17:15:01 GMT</pubDate>
     </item>
     <item>
       <title>拜登的学生贷款减免计划获得了创纪录数量的公众评论。这就是人们所说的</title>
@@ -57,7 +57,7 @@
     <item>
       <title>乌克兰战争最新消息：克里姆林宫警告称，如果北约部队被派往乌克兰，将面临“巨大危险”，并正在密切关注西方</title>
       <link>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯外交部发言人玛丽亚·扎哈罗娃对记者表示，如果法国军队部署在乌克兰领土，他们将成为俄罗斯军队的攻击目标。]]></description>
+      <description><![CDATA[俄罗斯外交部发言人玛丽亚·扎哈罗娃告诉记者，如果法国军队部署在乌克兰领土上，他们将成为俄罗斯军队的目标。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Wed, 08 May 2024 15:59:09 GMT</pubDate>
     </item>
