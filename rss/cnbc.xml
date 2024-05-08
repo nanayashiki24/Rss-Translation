@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Wed, 08 May 2024 17:04:00 GMT</lastBuildDate>
+    <item>
+      <title>拜登的学生贷款减免计划获得了创纪录的公众评论数量。以下是人们的评论</title>
+      <link>https://www.cnbc.com/2024/05/08/bidens-student-loan-forgiveness-plan-gets-record-number-of-comments.html</link>
+      <description><![CDATA[已有超过34,000人对拜登政府新的学生贷款减免提案发表公开评论。以下是其中一些人的说法。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/bidens-student-loan-forgiveness-plan-gets-record-number-of-comments.html</guid>
+      <pubDate>Wed, 08 May 2024 17:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>贝莱德向这只活跃的 ETF 投入了数十亿美元。这就是为什么它对普通投资者很重要</title>
+      <link>https://www.cnbc.com/2024/05/08/blackrock-shifted-billions-into-this-active-etf.html</link>
+      <description><![CDATA[贝莱德 (BlackRock) 的美国股票因子轮换 ETF 在 3 月份改变投资组合模型后，其资产已飙升至超过 70 亿美元。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/blackrock-shifted-billions-into-this-active-etf.html</guid>
+      <pubDate>Wed, 08 May 2024 17:37:59 GMT</pubDate>
+    </item>
     <item>
       <title>道琼斯指数走高，试图将连胜延长至 6 天：实时更新</title>
       <link>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</link>
@@ -20,25 +34,11 @@
       <pubDate>Wed, 08 May 2024 17:27:53 GMT</pubDate>
     </item>
     <item>
-      <title>贝莱德向这只活跃的 ETF 投入了数十亿美元。这就是为什么它对普通投资者很重要</title>
-      <link>https://www.cnbc.com/2024/05/08/blackrock-shifted-billions-into-this-active-etf.html</link>
-      <description><![CDATA[贝莱德 (BlackRock) 的美国股票因子轮换 ETF 在 3 月份改变投资组合模型后，其资产已飙升至超过 70 亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/blackrock-shifted-billions-into-this-active-etf.html</guid>
-      <pubDate>Wed, 08 May 2024 17:24:34 GMT</pubDate>
-    </item>
-    <item>
       <title>米高梅大赌场前总裁因未报告博彩公司的赌注而被判刑</title>
       <link>https://www.cnbc.com/2024/05/08/former-mgm-grand-casino-president-to-be-sentenced-over-illegal-bets.html</link>
       <description><![CDATA[斯科特·西贝拉的检察官和辩护律师建议法官在刑事案件中对这位前米高梅大赌场总裁实行缓刑。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/former-mgm-grand-casino-president-to-be-sentenced-over-illegal-bets.html</guid>
       <pubDate>Wed, 08 May 2024 17:20:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登的学生贷款减免计划获得了创纪录数量的公众评论。这就是人们所说的</title>
-      <link>https://www.cnbc.com/2024/05/08/bidens-student-loan-forgiveness-plan-gets-record-number-of-comments.html</link>
-      <description><![CDATA[已有超过34,000人对拜登政府新的学生贷款减免提案发表公开评论。以下是其中一些人的说法。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/bidens-student-loan-forgiveness-plan-gets-record-number-of-comments.html</guid>
-      <pubDate>Wed, 08 May 2024 17:01:18 GMT</pubDate>
     </item>
     <item>
       <title>中午涨幅最大的股票：Uber、英特尔、Lyft、Shopify、Rivian 等</title>
