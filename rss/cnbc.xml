@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 08 May 2024 03:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 06:46:00 GMT</lastBuildDate>
+    <item>
+      <title>西门子能源公司改变了陷入困境的风力发电机组的领导地位</title>
+      <link>https://www.cnbc.com/2024/05/08/siemens-energy-changes-leadership-at-embattled-wind-turbine-unit-.html</link>
+      <description><![CDATA[德国可再生能源公司西门子能源周三宣布，其陷入困境的风力涡轮机部门的首席执行官将在“全面重组措施”中被更换。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/siemens-energy-changes-leadership-at-embattled-wind-turbine-unit-.html</guid>
+      <pubDate>Wed, 08 May 2024 06:48:47 GMT</pubDate>
+    </item>
     <item>
       <title>官员表示，美国暂停向以色列运送武器，以阻止拉法入侵</title>
       <link>https://www.cnbc.com/2024/05/08/us-paused-shipment-of-weapons-to-israel-to-head-off-rafah-invasion-says-official-.html</link>
@@ -27,14 +34,14 @@
       <pubDate>Wed, 08 May 2024 02:42:37 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能正在加速类人机器人的开发。这对就业意味着什么</title>
+      <title>生成式人工智能正在加速类人机器人的发展。这对工作意味着什么</title>
       <link>https://www.cnbc.com/2024/05/08/how-generative-chatgpt-like-ai-is-accelerating-humanoid-robots.html</link>
-      <description><![CDATA[类似 ChatGPT 的人工智能正在加速研究，并使人形机器人在中国（全球许多工厂的所在地）更接近现实。]]></description>
+      <description><![CDATA[类似 ChatGPT 的人工智能正在加速研究，使人形机器人更接近中国的现实，中国是世界上许多工厂的所在地。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/how-generative-chatgpt-like-ai-is-accelerating-humanoid-robots.html</guid>
       <pubDate>Wed, 08 May 2024 01:56:25 GMT</pubDate>
     </item>
     <item>
-      <title>专业人士建议现在购买黄金股票和 ETF</title>
+      <title>专业人士表示，现在应该购买黄金股票和ETF</title>
       <link>https://www.cnbc.com/2024/05/08/gold-stocks-and-etfs-to-buy-right-now-according-to-the-pros.html</link>
       <description><![CDATA[Wrise Group 的 Kevin Teng 表示，黄金“从多年的角度来看肯定仍处于早期阶段”。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/gold-stocks-and-etfs-to-buy-right-now-according-to-the-pros.html</guid>
@@ -55,18 +62,11 @@
       <pubDate>Wed, 08 May 2024 00:04:59 GMT</pubDate>
     </item>
     <item>
-      <title>这些全球科技股今年的表现超过了标准普尔 500 指数，分析师预计它们的上涨空间超过 20%</title>
+      <title>这些全球科技股今年跑赢了标准普尔 500 指数，分析师认为它们还有超过 20% 的上涨空间</title>
       <link>https://www.cnbc.com/2024/05/08/these-tech-stocks-beat-the-sp-500-but-analysts-still-give-them-upside.html</link>
       <description><![CDATA[CNBC Pro 筛选了来自四只交易所交易基金的股票的 FactSet。这是屏幕上出现的八个。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/these-tech-stocks-beat-the-sp-500-but-analysts-still-give-them-upside.html</guid>
       <pubDate>Tue, 07 May 2024 23:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉必须在 7 月之前向 NHTSA 提供 Autopilot 召回数据，否则将面临高达 1.35 亿美元的罚款</title>
-      <link>https://www.cnbc.com/2024/05/07/tesla-must-provide-nhtsa-with-autopilot-recall-data-or-face-fines.html</link>
-      <description><![CDATA[美国国家公路交通安全管理局正在向特斯拉施压，要求其回答有关该公司自动驾驶仪驾驶员辅助系统更新的问题。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/tesla-must-provide-nhtsa-with-autopilot-recall-data-or-face-fines.html</guid>
-      <pubDate>Tue, 07 May 2024 23:04:36 GMT</pubDate>
     </item>
     <item>
       <title>特朗普机密文件审判在佛罗里达州无限期推迟</title>
