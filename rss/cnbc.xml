@@ -3,14 +3,21 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 08 May 2024 10:22:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 08 May 2024 10:47:00 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰战争实时更新：克里姆林宫警告称，如果北约部队被派往乌克兰，将面临“巨大危险”，并正在密切关注西方</title>
+      <link>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[俄罗斯外交部发言人玛丽亚·扎哈罗娃告诉记者，如果法国军队部署在乌克兰领土上，他们将成为俄罗斯军队的目标。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Wed, 08 May 2024 10:39:09 GMT</pubDate>
+    </item>
     <item>
       <title>周三分析师呼吁：Rivian 盈利反应，云计算股价将上涨 20% 以上</title>
       <link>https://www.cnbc.com/2024/05/08/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</link>
       <description><![CDATA[周二，分析师们谈论的股票包括一家备受关注的电动汽车制造商和一家云软件公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</guid>
-      <pubDate>Wed, 08 May 2024 10:19:10 GMT</pubDate>
+      <pubDate>Wed, 08 May 2024 10:37:14 GMT</pubDate>
     </item>
     <item>
       <title>FTX 表示破产加密货币交易所的大多数客户将收回所有资金</title>
@@ -27,13 +34,6 @@
       <pubDate>Wed, 08 May 2024 10:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战争实时更新：莫斯科警告称，如果法国军队在乌克兰部署，他们将成为俄罗斯军队的目标</title>
-      <link>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯外交部发言人玛丽亚·扎哈罗娃告诉记者，如果法国军队部署在乌克兰领土上，他们将成为俄罗斯军队的目标。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Wed, 08 May 2024 09:41:14 GMT</pubDate>
-    </item>
-    <item>
       <title>啤酒巨头百威英博利润超出预期，百威淡啤抵制活动一年后将有所缓解</title>
       <link>https://www.cnbc.com/2024/05/08/ab-inbev-grows-revenue-with-bud-light-boycott-impact-set-to-ease-.html</link>
       <description><![CDATA[巴克莱银行的分析师表示，该公司已经度过了最艰难的季度，“几乎没有受到任何伤害”。]]></description>
@@ -43,7 +43,7 @@
     <item>
       <title>官员表示，美国暂停向以色列运送武器，以阻止拉法入侵</title>
       <link>https://www.cnbc.com/2024/05/08/us-paused-shipment-of-weapons-to-israel-to-head-off-rafah-invasion-says-official-.html</link>
-      <description><![CDATA[一位高级政府官员表示，拜登政府上周暂停向以色列运送武器，以反对以色列入侵拉法赫的举动。]]></description>
+      <description><![CDATA[一名高级政府官员表示，拜登政府上周暂停了向以色列运送武器，以反对以色列入侵拉法的举动。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/us-paused-shipment-of-weapons-to-israel-to-head-off-rafah-invasion-says-official-.html</guid>
       <pubDate>Wed, 08 May 2024 03:37:19 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 08 May 2024 02:42:37 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能正在加速类人机器人的开发。这对就业意味着什么</title>
+      <title>生成式人工智能正在加速类人机器人的发展。这对工作意味着什么</title>
       <link>https://www.cnbc.com/2024/05/08/how-generative-chatgpt-like-ai-is-accelerating-humanoid-robots.html</link>
       <description><![CDATA[类似 ChatGPT 的人工智能正在加速研究，使人形机器人更接近中国的现实，中国是世界上许多工厂的所在地。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/how-generative-chatgpt-like-ai-is-accelerating-humanoid-robots.html</guid>
@@ -71,14 +71,14 @@
     <item>
       <title>Reddit 首次公布收益报告后，其股价飙升 14%</title>
       <link>https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html</link>
-      <description><![CDATA[Reddit 报告第一季度销售额大幅增长，并表示第二季度收入将以区间中值计算增长 30% 以上。]]></description>
+      <description><![CDATA[Reddit 报告第一季度销售额大幅增长，并表示第二季度收入将根据区间中点增长 30% 以上。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html</guid>
       <pubDate>Wed, 08 May 2024 00:04:59 GMT</pubDate>
     </item>
     <item>
       <title>美国调查发现 FDIC 普遍存在不当性行为</title>
       <link>https://www.cnbc.com/2024/05/07/us-probe-finds-widespread-sexual-misconduct-at-fdic.html</link>
-      <description><![CDATA[联邦存款保险公司必须做出彻底的改变，以解决广泛存在的性骚扰和其他不当行为。]]></description>
+      <description><![CDATA[联邦存款保险公司必须做出彻底改变，以解决广泛存在的性骚扰和其他不当行为。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/us-probe-finds-widespread-sexual-misconduct-at-fdic.html</guid>
       <pubDate>Tue, 07 May 2024 23:56:34 GMT</pubDate>
     </item>
@@ -90,14 +90,14 @@
       <pubDate>Tue, 07 May 2024 21:58:37 GMT</pubDate>
     </item>
     <item>
-      <title>股票分拆是今年最热门的交易之一。如何参与</title>
+      <title>股票分拆是今年最热门的交易之一。如何参加</title>
       <link>https://www.cnbc.com/2024/05/07/stock-spinoffs-are-one-of-the-hottest-trades-going-this-year-how-to-participate.html</link>
       <description><![CDATA[过去 12 个月里，脱离前公司所有者的股票表现优于股市的其他股票。这里有一些机会。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/stock-spinoffs-are-one-of-the-hottest-trades-going-this-year-how-to-participate.html</guid>
       <pubDate>Tue, 07 May 2024 21:44:59 GMT</pubDate>
     </item>
     <item>
-      <title>Altimeter 的 Brad Gerstner 表示，在 2024 年科技股强劲上涨后，他削减了投资组合的仓位</title>
+      <title>Altimeter 的 Brad Gerstner 表示，在 2024 年科技股强劲表现后，他削减了整个投资组合的头寸</title>
       <link>https://www.cnbc.com/2024/05/07/altimeters-brad-gerstner-says-he-trimmed-positions-across-portfolio-after-2024s-strong-tech-run.html</link>
       <description><![CDATA[Altimeter Capital 董事长兼首席执行官布拉德·格斯特纳 (Brad Gerstner) 表示，在今年科技股的强劲上涨之后，他已经放弃了一些筹码。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/altimeters-brad-gerstner-says-he-trimmed-positions-across-portfolio-after-2024s-strong-tech-run.html</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>Apple 发布配备 M4 的新款 iPad Pro、iPad Air 平板电脑</title>
       <link>https://www.cnbc.com/2024/05/07/apple-ipad-pro-and-ipad-air-2024-announced.html</link>
-      <description><![CDATA[这些是 Apple 自 2022 年 10 月以来发布的首批新 iPad 机型。]]></description>
+      <description><![CDATA[这是 Apple 自 2022 年 10 月以来发布的首批新 iPad 机型。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/apple-ipad-pro-and-ipad-air-2024-announced.html</guid>
       <pubDate>Tue, 07 May 2024 16:38:35 GMT</pubDate>
     </item>
