@@ -3,8 +3,29 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 08 May 2024 10:47:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Wed, 08 May 2024 11:07:00 GMT</lastBuildDate>
+    <item>
+      <title>啤酒巨头百威英博利润超出预期，百威淡啤抵制活动一年后将有所缓解</title>
+      <link>https://www.cnbc.com/2024/05/08/ab-inbev-grows-revenue-with-bud-light-boycott-impact-set-to-ease-.html</link>
+      <description><![CDATA[巴克莱银行的分析师表示，该公司已经度过了最艰难的季度，“几乎没有受到任何伤害”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/ab-inbev-grows-revenue-with-bud-light-boycott-impact-set-to-ease-.html</guid>
+      <pubDate>Wed, 08 May 2024 11:09:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>抵押贷款利率小幅下降后，每周抵押贷款再融资需求上升 5%</title>
+      <link>https://www.cnbc.com/2024/05/08/weekly-mortgage-refinance-demand-rose-5percent-after-dip-in-mortgage-rates.html</link>
+      <description><![CDATA[抵押贷款利率明显高于 2024 年初的水平，上周略有回落，但连续几周连续上升。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/weekly-mortgage-refinance-demand-rose-5percent-after-dip-in-mortgage-rates.html</guid>
+      <pubDate>Wed, 08 May 2024 11:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国银行表示五月份不要出售并走开</title>
+      <link>https://www.cnbc.com/2024/05/08/bank-of-america-says-do-not-sell-in-may-and-go-away.html</link>
+      <description><![CDATA[该公司表示，大选前的夏季反弹可能即将到来。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/bank-of-america-says-do-not-sell-in-may-and-go-away.html</guid>
+      <pubDate>Wed, 08 May 2024 10:57:28 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰战争实时更新：克里姆林宫警告称，如果北约部队被派往乌克兰，将面临“巨大危险”，并正在密切关注西方</title>
       <link>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
@@ -29,16 +50,16 @@
     <item>
       <title>拜登将公布微软在人工智能战场威斯康星州投资 33 亿美元</title>
       <link>https://www.cnbc.com/2024/05/08/biden-to-unveil-3point3-billion-microsoft-ai-investment-in-battleground-wisconsin.html</link>
-      <description><![CDATA[微软位于拉辛县的工厂将建在台湾电子产品制造商富士康计划建造一座价值 100 亿美元的工厂的同一片土地上。]]></description>
+      <description><![CDATA[微软位于拉辛县的工厂将建在台湾电子制造商富士康计划建造的价值 100 亿美元的工厂的同一块土地上。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/biden-to-unveil-3point3-billion-microsoft-ai-investment-in-battleground-wisconsin.html</guid>
       <pubDate>Wed, 08 May 2024 10:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>啤酒巨头百威英博利润超出预期，百威淡啤抵制活动一年后将有所缓解</title>
-      <link>https://www.cnbc.com/2024/05/08/ab-inbev-grows-revenue-with-bud-light-boycott-impact-set-to-ease-.html</link>
-      <description><![CDATA[巴克莱银行的分析师表示，该公司已经度过了最艰难的季度，“几乎没有受到任何伤害”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/ab-inbev-grows-revenue-with-bud-light-boycott-impact-set-to-ease-.html</guid>
-      <pubDate>Wed, 08 May 2024 08:19:00 GMT</pubDate>
+      <title>道指创下 12 月以来最长连涨纪录后，股票期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯指数在过去五个交易日中上涨，这是自 2024 年开始以来最长的上涨趋势。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 08 May 2024 10:03:38 GMT</pubDate>
     </item>
     <item>
       <title>官员表示，美国暂停向以色列运送武器，以阻止拉法入侵</title>
@@ -55,14 +76,7 @@
       <pubDate>Wed, 08 May 2024 02:42:37 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能正在加速类人机器人的发展。这对工作意味着什么</title>
-      <link>https://www.cnbc.com/2024/05/08/how-generative-chatgpt-like-ai-is-accelerating-humanoid-robots.html</link>
-      <description><![CDATA[类似 ChatGPT 的人工智能正在加速研究，使人形机器人更接近中国的现实，中国是世界上许多工厂的所在地。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/how-generative-chatgpt-like-ai-is-accelerating-humanoid-robots.html</guid>
-      <pubDate>Wed, 08 May 2024 01:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>金条在韩国的便利店和自动售货机热销</title>
+      <title>金条在韩国便利店和自动售货机上热销</title>
       <link>https://www.cnbc.com/2024/05/08/gold-is-selling-like-hot-cakes-in-koreas-convenience-stores-vending-machines.html</link>
       <description><![CDATA[该国最大的连锁便利店 CU 一直与韩国造币和安全印刷公司合作，为顾客提供迷你金条。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/gold-is-selling-like-hot-cakes-in-koreas-convenience-stores-vending-machines.html</guid>
@@ -76,25 +90,11 @@
       <pubDate>Wed, 08 May 2024 00:04:59 GMT</pubDate>
     </item>
     <item>
-      <title>美国调查发现 FDIC 普遍存在不当性行为</title>
-      <link>https://www.cnbc.com/2024/05/07/us-probe-finds-widespread-sexual-misconduct-at-fdic.html</link>
-      <description><![CDATA[联邦存款保险公司必须做出彻底改变，以解决广泛存在的性骚扰和其他不当行为。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/us-probe-finds-widespread-sexual-misconduct-at-fdic.html</guid>
-      <pubDate>Tue, 07 May 2024 23:56:34 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普机密文件审判在佛罗里达州无限期推迟</title>
       <link>https://www.cnbc.com/2024/05/07/trump-classified-documents-trial-postponed-indefinitely.html</link>
       <description><![CDATA[指控唐纳德·特朗普在离开白宫后故意保留机密国家安全记录的审判定于 5 月 20 日开始。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/trump-classified-documents-trial-postponed-indefinitely.html</guid>
       <pubDate>Tue, 07 May 2024 21:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>股票分拆是今年最热门的交易之一。如何参加</title>
-      <link>https://www.cnbc.com/2024/05/07/stock-spinoffs-are-one-of-the-hottest-trades-going-this-year-how-to-participate.html</link>
-      <description><![CDATA[过去 12 个月里，脱离前公司所有者的股票表现优于股市的其他股票。这里有一些机会。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/stock-spinoffs-are-one-of-the-hottest-trades-going-this-year-how-to-participate.html</guid>
-      <pubDate>Tue, 07 May 2024 21:44:59 GMT</pubDate>
     </item>
     <item>
       <title>Altimeter 的 Brad Gerstner 表示，在 2024 年科技股强劲表现后，他削减了整个投资组合的头寸</title>
