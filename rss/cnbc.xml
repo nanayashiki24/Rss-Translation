@@ -1,30 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 08 May 2024 11:33:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 08 May 2024 12:24:00 GMT</lastBuildDate>
     <item>
-      <title>道琼斯指数创下 12 月以来最长连涨纪录后，股指期货下跌：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯指数在过去五个交易日中上涨，这是自 2024 年开始以来最长的上涨趋势。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 08 May 2024 11:51:20 GMT</pubDate>
+      <title>由于库存增加导致市场疲软，油价下跌逾 1%</title>
+      <link>https://www.cnbc.com/2024/05/08/oil-prices-fall-more-than-1percent-as-market-softens-on-rising-inventories.html</link>
+      <description><![CDATA[自 4 月份高点以来，油价已下跌 8%，但摩根士丹利预计，进入夏季驾车季节，市场将趋紧。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/oil-prices-fall-more-than-1percent-as-market-softens-on-rising-inventories.html</guid>
+      <pubDate>Wed, 08 May 2024 12:22:32 GMT</pubDate>
     </item>
     <item>
-      <title>周三分析师呼吁：Rivian 盈利反应，云计算股价将上涨 20% 以上</title>
+      <title>周三分析师电话会议：Rivian 盈利反应，云计算股价将上涨逾 20%</title>
       <link>https://www.cnbc.com/2024/05/08/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</link>
       <description><![CDATA[周二，分析师们谈论的股票包括一家备受关注的电动汽车制造商和一家云软件公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</guid>
-      <pubDate>Wed, 08 May 2024 11:47:17 GMT</pubDate>
+      <pubDate>Wed, 08 May 2024 12:20:14 GMT</pubDate>
     </item>
     <item>
-      <title>官员表示，美国暂停向以色列运送武器，以阻止拉法入侵</title>
-      <link>https://www.cnbc.com/2024/05/08/us-paused-shipment-of-weapons-to-israel-to-head-off-rafah-invasion-says-official-.html</link>
-      <description><![CDATA[一名高级政府官员表示，拜登政府上周暂停了向以色列运送武器，以反对以色列入侵拉法的举动。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/us-paused-shipment-of-weapons-to-israel-to-head-off-rafah-invasion-says-official-.html</guid>
-      <pubDate>Wed, 08 May 2024 11:43:50 GMT</pubDate>
+      <title>据路透社报道，在特斯拉自动驾驶仪调查中，美国检察官重点关注证券和电汇欺诈</title>
+      <link>https://www.cnbc.com/2024/05/08/in-tesla-autopilot-probe-us-prosecutors-focus-on-securities-wire-fraud-.html</link>
+      <description><![CDATA[司法部正在审查特斯拉和首席执行官埃隆·马斯克暗示其汽车可以自动驾驶的声明。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/in-tesla-autopilot-probe-us-prosecutors-focus-on-securities-wire-fraud-.html</guid>
+      <pubDate>Wed, 08 May 2024 12:18:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>暑期档票房惨淡？本季的电影票房可能会创几十年来最低</title>
+      <link>https://www.cnbc.com/2024/05/08/summer-box-office-preview-movie-slate-lacks-franchise-hits.html</link>
+      <description><![CDATA[受到好莱坞两次罢工的影响，今年夏天的电影票房可能会创下 2000 年以来的最低水平。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/summer-box-office-preview-movie-slate-lacks-franchise-hits.html</guid>
+      <pubDate>Wed, 08 May 2024 12:16:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 首次公布收益报告后，其股价飙升 11%</title>
+      <link>https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html</link>
+      <description><![CDATA[Reddit 报告第一季度销售额大幅增长，并表示第二季度收入将根据区间中点增长 30% 以上。]]></description>
+      <guid>https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html</guid>
+      <pubDate>Wed, 08 May 2024 11:52:55 GMT</pubDate>
     </item>
     <item>
       <title>优步公布第一季度业绩超出收入预期，但出现净亏损</title>
@@ -36,7 +50,7 @@
     <item>
       <title>乌克兰战争实时更新：克里姆林宫警告称，如果北约部队被派往乌克兰，将面临“巨大危险”，并正在密切关注西方</title>
       <link>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯外交部发言人玛丽亚·扎哈罗娃告诉记者，如果法国军队部署在乌克兰领土上，他们将成为俄罗斯军队的目标。]]></description>
+      <description><![CDATA[俄罗斯外交部发言人玛丽亚·扎哈罗娃对记者表示，如果法国军队部署在乌克兰领土，他们将成为俄罗斯军队的攻击目标。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Wed, 08 May 2024 11:39:14 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Wed, 08 May 2024 10:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>美国吊销部分向华为出售芯片的出口许可证，以遏制中国科技实力</title>
+      <title>美国撤销向华为出售芯片的部分出口许可证，以遏制中国科技实力</title>
       <link>https://www.cnbc.com/2024/05/08/us-revokes-some-export-licenses-to-sell-chips-to-chinas-huawei.html</link>
       <description><![CDATA[自 8 月份推出 Mate 60 Pro 智能手机以来，华为的消费者业务正在复苏。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/us-revokes-some-export-licenses-to-sell-chips-to-chinas-huawei.html</guid>
@@ -83,25 +97,11 @@
       <pubDate>Wed, 08 May 2024 00:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 首次公布收益报告后，其股价飙升 14%</title>
-      <link>https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html</link>
-      <description><![CDATA[Reddit 报告第一季度销售额大幅增长，并表示第二季度收入将根据区间中点增长 30% 以上。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/reddit-rddt-q1-2024-earnings.html</guid>
-      <pubDate>Wed, 08 May 2024 00:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普机密文件审判在佛罗里达州无限期推迟</title>
+      <title>佛罗里达州特朗普机密文件审判无限期推迟</title>
       <link>https://www.cnbc.com/2024/05/07/trump-classified-documents-trial-postponed-indefinitely.html</link>
       <description><![CDATA[指控唐纳德·特朗普在离开白宫后故意保留机密国家安全记录的审判定于 5 月 20 日开始。]]></description>
       <guid>https://www.cnbc.com/2024/05/07/trump-classified-documents-trial-postponed-indefinitely.html</guid>
       <pubDate>Tue, 07 May 2024 21:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altimeter 的 Brad Gerstner 表示，在 2024 年科技股强劲表现后，他削减了整个投资组合的头寸</title>
-      <link>https://www.cnbc.com/2024/05/07/altimeters-brad-gerstner-says-he-trimmed-positions-across-portfolio-after-2024s-strong-tech-run.html</link>
-      <description><![CDATA[Altimeter Capital 董事长兼首席执行官布拉德·格斯特纳 (Brad Gerstner) 表示，在今年科技股的强劲上涨之后，他已经放弃了一些筹码。]]></description>
-      <guid>https://www.cnbc.com/2024/05/07/altimeters-brad-gerstner-says-he-trimmed-positions-across-portfolio-after-2024s-strong-tech-run.html</guid>
-      <pubDate>Tue, 07 May 2024 17:49:06 GMT</pubDate>
     </item>
     <item>
       <title>Apple 发布配备 M4 的新款 iPad Pro、iPad Air 平板电脑</title>
