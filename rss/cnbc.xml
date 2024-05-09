@@ -1,23 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 09 May 2024 09:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:51:00 GMT</lastBuildDate>
     <item>
-      <title>营收指引不佳后，芯片设计商 Arm 股价暴跌近 9%</title>
-      <link>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</link>
-      <description><![CDATA[由于该公司收入预期不佳，给受人工智能需求推动的积极销售季度蒙上阴影，Arm 股价周四在盘前交易中下跌近 9%。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</guid>
-      <pubDate>Thu, 09 May 2024 09:33:10 GMT</pubDate>
+      <title>迪士尼和华纳兄弟探索频道捆绑流媒体服务</title>
+      <link>https://www.cnbc.com/2024/05/08/disney-warner-bros-discovery-bundle-streaming-services.html</link>
+      <description><![CDATA[迪士尼和华纳兄弟探索频道计划捆绑其流媒体服务 Disney+、Hulu 和 Max。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/disney-warner-bros-discovery-bundle-streaming-services.html</guid>
+      <pubDate>Thu, 09 May 2024 09:50:50 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战争实时更新：普京表示俄罗斯“不会允许任何人威胁我们”，因为莫斯科陶醉于军事力量</title>
+      <title>战争仍在继续，俄罗斯在盛大的宣传中举行胜利日阅兵</title>
+      <link>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</link>
+      <description><![CDATA[随着与乌克兰的战争进入第三个年头，俄罗斯于周四拉开了第79届“胜利日”阅兵式。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</guid>
+      <pubDate>Thu, 09 May 2024 09:46:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>营收指引不佳后，芯片设计公司 Arm 股价暴跌近 9%</title>
+      <link>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</link>
+      <description><![CDATA[周四，Arm 股价在盘前交易中下跌近 9%，该公司营收指引黯淡，给人工智能需求推动的积极销售季度蒙上了阴影。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</guid>
+      <pubDate>Thu, 09 May 2024 09:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战争实况：普京称​​俄罗斯“不会允许任何人威胁我们”，莫斯科沉迷于军事实力</title>
       <link>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯将于周四举行一年一度的“胜利日”阅兵，总司令兼总统弗拉基米尔·普京将观看阅兵。]]></description>
+      <description><![CDATA[俄罗斯将于周四举行一年一度的“胜利日”阅兵，总司令兼总统弗拉基米尔·普京将出席阅兵式。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Thu, 09 May 2024 09:32:31 GMT</pubDate>
+      <pubDate>Thu, 09 May 2024 09:40:14 GMT</pubDate>
     </item>
     <item>
       <title>由于欧洲央行与美联储意见分歧，英国央行将维持利率不变</title>
@@ -27,13 +41,6 @@
       <pubDate>Thu, 09 May 2024 09:18:23 GMT</pubDate>
     </item>
     <item>
-      <title>随着战争的进行，俄罗斯在盛况和宣传中举行胜利日阅兵</title>
-      <link>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</link>
-      <description><![CDATA[随着与乌克兰的战争进入第三个年头，俄罗斯于周四拉开了第79届“胜利日”阅兵式。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</guid>
-      <pubDate>Thu, 09 May 2024 07:39:49 GMT</pubDate>
-    </item>
-    <item>
       <title>随着从美国的采购增长，中国4月份进口增长8.4%，超出预期</title>
       <link>https://www.cnbc.com/2024/05/09/china-trade-data-april-exports-imports.html</link>
       <description><![CDATA[中国海关周四公布的数据显示，4月份出口增长符合预期，而进口大幅增长超出预期。]]></description>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 09 May 2024 03:52:23 GMT</pubDate>
     </item>
     <item>
-      <title>公司表示，Neuralink 的首个人类大脑植入物遇到了问题</title>
+      <title>Neuralink 公司称其首个人脑植入物出现问题</title>
       <link>https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html</link>
       <description><![CDATA[Neuralink 周三表示，其大脑植入物的一部分在人类患者体内出现故障。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html</guid>
@@ -62,14 +69,7 @@
       <pubDate>Thu, 09 May 2024 00:16:49 GMT</pubDate>
     </item>
     <item>
-      <title>迪士尼和华纳兄弟探索频道捆绑流媒体服务</title>
-      <link>https://www.cnbc.com/2024/05/08/disney-warner-bros-discovery-bundle-streaming-services.html</link>
-      <description><![CDATA[迪士尼和华纳兄弟探索频道计划捆绑其流媒体服务 Disney+、Hulu 和 Max。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/disney-warner-bros-discovery-bundle-streaming-services.html</guid>
-      <pubDate>Wed, 08 May 2024 23:48:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据最近的历史记录，当英伟达股价上涨时，这 4 只全球股票也往往会上涨</title>
+      <title>根据近期历史，当 Nvidia 股价上涨时，这 4 只全球股票也趋于上涨</title>
       <link>https://www.cnbc.com/2024/05/09/when-nvidia-rises-these-global-stocks-tend-to-rise-too-history-says.html</link>
       <description><![CDATA[CNBC Pro 筛选了过去一年中与 Nvidia 相关的欧洲股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/when-nvidia-rises-these-global-stocks-tend-to-rise-too-history-says.html</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>“最大的投资机会”：投资经理指定股票以参与铜市场</title>
       <link>https://www.cnbc.com/2024/05/09/investment-manager-names-stocks-to-play-the-copper-market.html</link>
-      <description><![CDATA[Corestone Capital 首席执行官威尔·麦克唐纳 (Will McDonough) 表示：“铜价正在经历一些严重的上涨，未来价格可能会更高。”]]></description>
+      <description><![CDATA[Corestone Capital 首席执行官威尔麦克多诺 (Will McDonough) 表示：“铜价正在经历大幅上涨，未来价格还可能进一步上涨。”]]></description>
       <guid>https://www.cnbc.com/2024/05/09/investment-manager-names-stocks-to-play-the-copper-market.html</guid>
       <pubDate>Wed, 08 May 2024 23:19:29 GMT</pubDate>
     </item>
