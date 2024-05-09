@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Thu, 09 May 2024 07:14:00 GMT</lastBuildDate>
+    <item>
+      <title>道指期货在指数连续第六个上涨日后下滑：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道指包含 30 种股票，是周三唯一收高的主要指数。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</guid>
+      <pubDate>Thu, 09 May 2024 07:23:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着战争的进行，俄罗斯在盛况和宣传中举行胜利日阅兵</title>
+      <link>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</link>
+      <description><![CDATA[随着与乌克兰的战争进入第三个年头，俄罗斯于周四拉开了第79届“胜利日”阅兵式。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</guid>
+      <pubDate>Thu, 09 May 2024 07:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰战争实时更新：在乌克兰取得进展的同时，莫斯科陶醉于军事盛况；俄罗斯别尔哥罗德地区遭袭 造成8人受伤</title>
       <link>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</link>
@@ -13,28 +27,14 @@
       <pubDate>Thu, 09 May 2024 07:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>由于欧洲央行与美联储立场分歧，英国央行将维持利率不变</title>
+      <title>由于欧洲央行与美联储意见分歧，英国央行将维持利率不变</title>
       <link>https://www.cnbc.com/2024/05/09/bank-of-england-set-to-hold-rates-as-europe-heads-for-fed-divergence.html</link>
-      <description><![CDATA[投资者将关注货币政策委员会的投票分歧、通胀前景以及央行行长安德鲁贝利周四的评论。]]></description>
+      <description><![CDATA[投资者将关注货币政策委员会的投票分歧、通胀前景以及行长安德鲁·贝利周四的评论。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/bank-of-england-set-to-hold-rates-as-europe-heads-for-fed-divergence.html</guid>
       <pubDate>Thu, 09 May 2024 07:03:31 GMT</pubDate>
     </item>
     <item>
-      <title>随着战争的进行，俄罗斯在盛况和宣传中举行胜利日阅兵</title>
-      <link>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</link>
-      <description><![CDATA[随着与乌克兰的战争进入第三个年头，俄罗斯于周四拉开了第79届“胜利日”阅兵式。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</guid>
-      <pubDate>Thu, 09 May 2024 06:32:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>道琼斯指数连续第六天上涨后期货下跌：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道指包含 30 种股票，是周三唯一收高的主要指数。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 09 May 2024 06:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级网络专家称，生成式人工智能的虚假信息威胁被“夸大了”</title>
+      <title>顶级网络专家表示，生成式人工智能的虚假信息威胁“被夸大了”</title>
       <link>https://www.cnbc.com/2024/05/09/generative-ais-disinformation-threat-overblown-cyber-expert-says.html</link>
       <description><![CDATA[思科 Talos 安全情报小组的技术负责人 Martin Lee 表示，人工智能生成的错误信息对民主的威胁可能“被夸大了”。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/generative-ais-disinformation-threat-overblown-cyber-expert-says.html</guid>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 09 May 2024 03:52:23 GMT</pubDate>
     </item>
     <item>
-      <title>Neuralink 公司称其首个人脑植入物出现问题</title>
+      <title>公司表示，Neuralink 的首个人类大脑植入物遇到了问题</title>
       <link>https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html</link>
       <description><![CDATA[Neuralink 周三表示，其大脑植入物的一部分在人类患者体内出现故障。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html</guid>
@@ -78,14 +78,14 @@
     <item>
       <title>根据最近的历史记录，当英伟达股价上涨时，这 4 只全球股票也往往上涨</title>
       <link>https://www.cnbc.com/2024/05/09/when-nvidia-rises-these-global-stocks-tend-to-rise-too-history-says.html</link>
-      <description><![CDATA[CNBC Pro 筛选了过去一年中与 Nvidia 相关的欧洲股票。]]></description>
+      <description><![CDATA[CNBC Pro 筛选了过去一年与 Nvidia 相关的欧洲股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/when-nvidia-rises-these-global-stocks-tend-to-rise-too-history-says.html</guid>
       <pubDate>Wed, 08 May 2024 23:20:26 GMT</pubDate>
     </item>
     <item>
       <title>“最大的投资机会”：投资经理指定股票以参与铜市场</title>
       <link>https://www.cnbc.com/2024/05/09/investment-manager-names-stocks-to-play-the-copper-market.html</link>
-      <description><![CDATA[Corestone Capital 首席执行官威尔麦克多诺 (Will McDonough) 表示：“铜价正在经历大幅上涨，未来价格还可能进一步上涨。”]]></description>
+      <description><![CDATA[Corestone Capital 首席执行官威尔·麦克唐纳 (Will McDonough) 表示：“铜价正在经历一些严重的上涨，未来价格可能会更高。”]]></description>
       <guid>https://www.cnbc.com/2024/05/09/investment-manager-names-stocks-to-play-the-copper-market.html</guid>
       <pubDate>Wed, 08 May 2024 23:19:29 GMT</pubDate>
     </item>
