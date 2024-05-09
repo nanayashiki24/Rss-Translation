@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 09 May 2024 19:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 19:38:00 GMT</lastBuildDate>
     <item>
-      <title>盈利手册：下周股票将超过分析师的预期</title>
+      <title>弗吉尼亚港 4.5 亿美元计划引领超大型远洋集装箱船时代</title>
+      <link>https://www.cnbc.com/2024/05/09/port-of-virginia-has-a-big-plan-to-be-no-1-for-super-size-ocean-ships.html</link>
+      <description><![CDATA[弗吉尼亚港耗资 4.5 亿美元的疏浚工程即将结束，该工程将使其成为超大型远洋集装箱船最宽、最深的水道。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/port-of-virginia-has-a-big-plan-to-be-no-1-for-super-size-ocean-ships.html</guid>
+      <pubDate>Thu, 09 May 2024 19:44:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>IRS提醒：2020年起申请10亿美元退税的时间将于5月17日到期</title>
+      <link>https://www.cnbc.com/2024/05/09/there-is-still-1-billion-in-unclaimed-tax-refunds.html</link>
+      <description><![CDATA[2020 年至今仍有 10 亿美元的退税无人认领，但收款截止日期即将到来。以下是迟到申报者需要了解的信息。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/there-is-still-1-billion-in-unclaimed-tax-refunds.html</guid>
+      <pubDate>Thu, 09 May 2024 19:37:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>盈利策略：下周有望超出分析师预期的股票</title>
       <link>https://www.cnbc.com/2024/05/09/earnings-playbook-stocks-that-are-set-to-beat-analysts-estimates-next-week.html</link>
       <description><![CDATA[这些股票都有超出盈利预期并随后反弹的历史。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/earnings-playbook-stocks-that-are-set-to-beat-analysts-estimates-next-week.html</guid>
       <pubDate>Thu, 09 May 2024 19:34:44 GMT</pubDate>
     </item>
     <item>
-      <title>道琼斯指数上涨 300 点，有望连续七天上涨：实时更新</title>
+      <title>道琼斯指数上涨 300 点，有望连续 7 天上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</link>
-      <description><![CDATA[由于交易员权衡了令人失望的收益与新数据，这些数据给美联储今年晚些时候采取更宽松的政策带来了希望，股市走高。]]></description>
+      <description><![CDATA[由于交易员将令人失望的盈利与新数据进行比较，认为美联储将在今年晚些时候放松政策，因此股市上涨。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</guid>
       <pubDate>Thu, 09 May 2024 19:33:31 GMT</pubDate>
     </item>
     <item>
-      <title>收益率超过 5% 的货币市场基金不会持续太久。闲置现金该配置在哪里</title>
+      <title>货币市场基金收益率超过 5% 不会持续。闲置现金该投向何处</title>
       <link>https://www.cnbc.com/2024/05/09/money-market-funds-yielding-more-than-5percent-wont-last-where-to-put-idle-cash.html</link>
       <description><![CDATA[一旦美联储降低利率，现金收益率就会下降。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/money-market-funds-yielding-more-than-5percent-wont-last-where-to-put-idle-cash.html</guid>
@@ -46,13 +60,6 @@
       <description><![CDATA[唐纳德·特朗普 (Donald Trump) 为大股东的特朗普媒体 (Trump Media) 在交易宣布两年多后完成了与 DWAC 的合并。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/trump-media-investor-convicted-of-insider-trading-ahead-of-merger.html</guid>
       <pubDate>Thu, 09 May 2024 18:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>弗吉尼亚港正在进行重大变革，引领超大型远洋集装箱船时代</title>
-      <link>https://www.cnbc.com/2024/05/09/port-of-virginia-has-a-big-plan-to-be-no-1-for-super-size-ocean-ships.html</link>
-      <description><![CDATA[弗吉尼亚港耗资 4.5 亿美元的疏浚工程即将结束，该工程将使其成为超大型远洋集装箱船最宽、最深的水道。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/port-of-virginia-has-a-big-plan-to-be-no-1-for-super-size-ocean-ships.html</guid>
-      <pubDate>Thu, 09 May 2024 18:17:35 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，辛克莱正在考虑出售大约 30% 的广播电台</title>
@@ -83,13 +90,6 @@
       <pubDate>Thu, 09 May 2024 16:20:08 GMT</pubDate>
     </item>
     <item>
-      <title>Roblox 因玩家支出减少而下调年度预订预测，股价下跌超过 20%</title>
-      <link>https://www.cnbc.com/2024/05/09/roblox-shares-drop-nearly-30percent-as-company-cuts-annual-bookings-forecast-on-muted-player-spending.html</link>
-      <description><![CDATA[Roblox 周四下调了年度预订预测，这表明人们正在减少在其视频游戏平台上的支出。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/roblox-shares-drop-nearly-30percent-as-company-cuts-annual-bookings-forecast-on-muted-player-spending.html</guid>
-      <pubDate>Thu, 09 May 2024 16:10:40 GMT</pubDate>
-    </item>
-    <item>
       <title>尽管流媒体业务增长，华纳兄弟探索频道第一季度业绩未达预期</title>
       <link>https://www.cnbc.com/2024/05/09/warner-bros-discovery-wbd-earnings-q1-2024.html</link>
       <description><![CDATA[华纳兄弟探索公司在周四盘前公布了第一季度收益。]]></description>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 09 May 2024 14:53:26 GMT</pubDate>
     </item>
     <item>
-      <title>调查发现，只有 4% 的当前退休人员表示他们正在“实现梦想”。这就是为什么</title>
+      <title>调查发现，目前只有 4% 的退休人员表示他们“过着梦想中的生活”。原因如下</title>
       <link>https://www.cnbc.com/2024/05/09/4percent-of-current-retirees-say-they-are-living-the-dream-survey-finds.html</link>
       <description><![CDATA[许多美国人发现退休生活没有达到他们的期望。然而，专家们对于退休储蓄危机是否正在酝酿存在分歧。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/4percent-of-current-retirees-say-they-are-living-the-dream-survey-finds.html</guid>
