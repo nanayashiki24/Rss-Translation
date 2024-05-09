@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Thu, 09 May 2024 11:34:00 GMT</lastBuildDate>
+    <item>
+      <title>营收指引不佳后，芯片设计公司 Arm 股价暴跌 8% 以上</title>
+      <link>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</link>
+      <description><![CDATA[周四，Arm 股价在盘前交易中下跌超过 8%，原因是该公司营收指引不佳，给人工智能需求推动的积极销售季度蒙上了阴影。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</guid>
+      <pubDate>Thu, 09 May 2024 11:45:04 GMT</pubDate>
+    </item>
     <item>
       <title>尽管流媒体业务增长，华纳兄弟探索频道第一季度业绩未达预期</title>
       <link>https://www.cnbc.com/2024/05/09/warner-bros-discovery-wbd-earnings-q1-2024.html</link>
@@ -15,7 +22,7 @@
     <item>
       <title>乌克兰战争实时更新：普京表示俄罗斯“不会允许任何人威胁我们”，因为莫斯科陶醉于军事力量</title>
       <link>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯将于周四举行一年一度的“胜利日”军事阅兵，总司令兼总统弗拉基米尔·普京出席了阅兵仪式。]]></description>
+      <description><![CDATA[俄罗斯将于周四举行一年一度的“胜利日”阅兵，总司令兼总统弗拉基米尔·普京将出席阅兵式。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Thu, 09 May 2024 11:32:52 GMT</pubDate>
     </item>
@@ -32,13 +39,6 @@
       <description><![CDATA[周四分析师谈论的知名企业包括一家短期房屋租赁巨头和一家电子商务平台。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</guid>
       <pubDate>Thu, 09 May 2024 11:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>营收指引不佳后，芯片设计公司 Arm 股价暴跌 8% 以上</title>
-      <link>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</link>
-      <description><![CDATA[周四，Arm 股价在盘前交易中下跌超过 8%，该公司营收指引不佳，给人工智能需求推动的积极销售季度蒙上了阴影。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</guid>
-      <pubDate>Thu, 09 May 2024 11:20:21 GMT</pubDate>
     </item>
     <item>
       <title>欧洲银行业罕见的敌意收购震惊市场</title>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 09 May 2024 00:16:49 GMT</pubDate>
     </item>
     <item>
-      <title>企业领袖和富有的捐赠者希望对特朗普的副总统人选有发言权</title>
+      <title>企业领袖和富有的捐助者希望在特朗普的副总统人选中拥有发言权</title>
       <link>https://www.cnbc.com/2024/05/08/donald-trump-vp-corporate-leaders-and-wealthy-donors-want-a-say-.html</link>
       <description><![CDATA[唐纳德·特朗普希望在临近七月的时候挑选他的竞选伙伴。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/donald-trump-vp-corporate-leaders-and-wealthy-donors-want-a-say-.html</guid>
