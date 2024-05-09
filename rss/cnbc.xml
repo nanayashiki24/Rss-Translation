@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 09 May 2024 19:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 19:22:00 GMT</lastBuildDate>
+    <item>
+      <title>盈利手册：下周股票将超过分析师的预期</title>
+      <link>https://www.cnbc.com/2024/05/09/earnings-playbook-stocks-that-are-set-to-beat-analysts-estimates-next-week.html</link>
+      <description><![CDATA[这些股票都有超出盈利预期并随后反弹的历史。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/earnings-playbook-stocks-that-are-set-to-beat-analysts-estimates-next-week.html</guid>
+      <pubDate>Thu, 09 May 2024 19:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>道琼斯指数上涨 300 点，有望连续七天上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</link>
+      <description><![CDATA[由于交易员权衡了令人失望的收益与新数据，这些数据给美联储今年晚些时候采取更宽松的政策带来了希望，股市走高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</guid>
+      <pubDate>Thu, 09 May 2024 19:33:31 GMT</pubDate>
+    </item>
     <item>
       <title>收益率超过 5% 的货币市场基金不会持续太久。闲置现金该配置在哪里</title>
       <link>https://www.cnbc.com/2024/05/09/money-market-funds-yielding-more-than-5percent-wont-last-where-to-put-idle-cash.html</link>
       <description><![CDATA[一旦美联储降低利率，现金收益率就会下降。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/money-market-funds-yielding-more-than-5percent-wont-last-where-to-put-idle-cash.html</guid>
       <pubDate>Thu, 09 May 2024 19:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>道琼斯指数上涨 300 点，有望连续七天上涨：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</link>
-      <description><![CDATA[由于交易员权衡了令人失望的收益和新数据，这些数据给美联储今年晚些时候采取更宽松的政策带来了希望，股市走高。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 09 May 2024 19:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>花旗表示，这只鲜为人知的水务股预计将上涨 40%</title>
-      <link>https://www.cnbc.com/2024/05/09/this-little-known-water-stock-is-set-to-rally-40percent-citi-says.html</link>
-      <description><![CDATA[花旗表示，最近的业务重心为该公司的上涨做好了准备。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/this-little-known-water-stock-is-set-to-rally-40percent-citi-says.html</guid>
-      <pubDate>Thu, 09 May 2024 19:04:03 GMT</pubDate>
     </item>
     <item>
       <title>Robinhood 的加密货币交易收入较一年前飙升 232%：CNBC Crypto World</title>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 09 May 2024 18:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普媒体投资者因合并前内幕交易被判有罪</title>
+      <title>特朗普媒体投资者被判合并前内幕交易罪</title>
       <link>https://www.cnbc.com/2024/05/09/trump-media-investor-convicted-of-insider-trading-ahead-of-merger.html</link>
       <description><![CDATA[唐纳德·特朗普 (Donald Trump) 为大股东的特朗普媒体 (Trump Media) 在交易宣布两年多后完成了与 DWAC 的合并。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/trump-media-investor-convicted-of-insider-trading-ahead-of-merger.html</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>消息人士称，辛克莱正在考虑出售大约 30% 的广播电台</title>
       <link>https://www.cnbc.com/2024/05/09/sinclair-explores-selling-30percent-of-broadcast-stations.html</link>
-      <description><![CDATA[据知情人士透露，辛克莱正在考虑出售其 185 个广播电台中的一部分。]]></description>
+      <description><![CDATA[据知情人士透露，辛克莱正在考虑出售其 185 个广播电台中的大部分。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/sinclair-explores-selling-30percent-of-broadcast-stations.html</guid>
       <pubDate>Thu, 09 May 2024 18:00:44 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>Roblox 因玩家支出减少而下调年度预订预测，股价下跌超过 20%</title>
       <link>https://www.cnbc.com/2024/05/09/roblox-shares-drop-nearly-30percent-as-company-cuts-annual-bookings-forecast-on-muted-player-spending.html</link>
-      <description><![CDATA[Roblox 周四下调了年度预订量预测，表明人们正在减少在其视频游戏平台上的支出。]]></description>
+      <description><![CDATA[Roblox 周四下调了年度预订预测，这表明人们正在减少在其视频游戏平台上的支出。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/roblox-shares-drop-nearly-30percent-as-company-cuts-annual-bookings-forecast-on-muted-player-spending.html</guid>
       <pubDate>Thu, 09 May 2024 16:10:40 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 09 May 2024 14:53:26 GMT</pubDate>
     </item>
     <item>
-      <title>调查发现，目前只有 4% 的退休人员表示他们“过着梦想中的生活”。原因如下</title>
+      <title>调查发现，只有 4% 的当前退休人员表示他们正在“实现梦想”。这就是为什么</title>
       <link>https://www.cnbc.com/2024/05/09/4percent-of-current-retirees-say-they-are-living-the-dream-survey-finds.html</link>
       <description><![CDATA[许多美国人发现退休生活没有达到他们的期望。然而，专家们对于退休储蓄危机是否正在酝酿存在分歧。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/4percent-of-current-retirees-say-they-are-living-the-dream-survey-finds.html</guid>
