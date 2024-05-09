@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 09 May 2024 11:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:14:00 GMT</lastBuildDate>
+    <item>
+      <title>高管表示，通用汽车在中国的市场份额跌至20年来的最低点后，可以重新夺回市场份额</title>
+      <link>https://www.cnbc.com/2024/05/09/gm-can-regain-market-share-in-china-after-20-year-low-exec-says.html</link>
+      <description><![CDATA[通用汽车在中国的市场份额已从 2015 年的约 15% 骤降至去年的 8.6%，这是自 2003 年以来首次跌破 9%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/gm-can-regain-market-share-in-china-after-20-year-low-exec-says.html</guid>
+      <pubDate>Thu, 09 May 2024 12:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>周四分析师呼吁：电商股大跌后升级，芝士蛋糕工厂很便宜</title>
+      <link>https://www.cnbc.com/2024/05/09/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</link>
+      <description><![CDATA[周四分析师谈论的知名企业包括一家短期房屋租赁巨头和一家电子商务平台。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</guid>
+      <pubDate>Thu, 09 May 2024 12:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是周四最重要的分析师电话会议：Apple、Sunrun、Costco、Arm、Fox、Robinhood、Airbnb 等</title>
+      <link>https://www.cnbc.com/2024/05/09/thursdays-stocks-to-buy-like-aapl-cost.html</link>
+      <description><![CDATA[以下是周四华尔街最重要的呼吁。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/thursdays-stocks-to-buy-like-aapl-cost.html</guid>
+      <pubDate>Thu, 09 May 2024 12:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管流媒体业务增长，华纳兄弟探索频道第一季度业绩未达预期</title>
+      <link>https://www.cnbc.com/2024/05/09/warner-bros-discovery-wbd-earnings-q1-2024.html</link>
+      <description><![CDATA[华纳兄弟探索公司在周四盘前公布了第一季度收益。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/warner-bros-discovery-wbd-earnings-q1-2024.html</guid>
+      <pubDate>Thu, 09 May 2024 11:57:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国央行维持利率不变，强调 6 月降息取决于即将公布的数据</title>
+      <link>https://www.cnbc.com/2024/05/09/bank-of-england-holds-interest-rates-steady-but-signals-that-a-cut-is-coming.html</link>
+      <description><![CDATA[英国央行在周四的五月会议后确认了人们普遍预期的维持利率不变的决定。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/bank-of-england-holds-interest-rates-steady-but-signals-that-a-cut-is-coming.html</guid>
+      <pubDate>Thu, 09 May 2024 11:52:34 GMT</pubDate>
+    </item>
     <item>
       <title>营收指引不佳后，芯片设计公司 Arm 股价暴跌 8% 以上</title>
       <link>https://www.cnbc.com/2024/05/09/arm-stock-down-8percent-after-disappointing-sales-guidance.html</link>
@@ -13,46 +48,18 @@
       <pubDate>Thu, 09 May 2024 11:45:04 GMT</pubDate>
     </item>
     <item>
-      <title>尽管流媒体业务增长，华纳兄弟探索频道第一季度业绩未达预期</title>
-      <link>https://www.cnbc.com/2024/05/09/warner-bros-discovery-wbd-earnings-q1-2024.html</link>
-      <description><![CDATA[华纳兄弟探索公司在周四盘前公布了第一季度收益。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/warner-bros-discovery-wbd-earnings-q1-2024.html</guid>
-      <pubDate>Thu, 09 May 2024 11:36:13 GMT</pubDate>
-    </item>
-    <item>
       <title>乌克兰战争实时更新：普京表示俄罗斯“不会允许任何人威胁我们”，因为莫斯科陶醉于军事力量</title>
       <link>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯将于周四举行一年一度的“胜利日”阅兵，总司令兼总统弗拉基米尔·普京将出席阅兵式。]]></description>
+      <description><![CDATA[俄罗斯将于周四举行一年一度的“胜利日”军事阅兵，总司令兼总统弗拉基米尔·普京出席了阅兵仪式。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Thu, 09 May 2024 11:32:52 GMT</pubDate>
     </item>
     <item>
-      <title>英国央行维持利率稳定但暗示即将降息</title>
-      <link>https://www.cnbc.com/2024/05/09/bank-of-england-holds-interest-rates-steady-but-signals-that-a-cut-is-coming.html</link>
-      <description><![CDATA[英国央行在周四的五月会议后确认了人们普遍预期的维持利率不变。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/bank-of-england-holds-interest-rates-steady-but-signals-that-a-cut-is-coming.html</guid>
-      <pubDate>Thu, 09 May 2024 11:29:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>周四分析师呼吁：电商股大跌后升级，芝士蛋糕工厂很便宜</title>
-      <link>https://www.cnbc.com/2024/05/09/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</link>
-      <description><![CDATA[周四分析师谈论的知名企业包括一家短期房屋租赁巨头和一家电子商务平台。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</guid>
-      <pubDate>Thu, 09 May 2024 11:29:06 GMT</pubDate>
-    </item>
-    <item>
       <title>欧洲银行业罕见的敌意收购震惊市场</title>
       <link>https://www.cnbc.com/2024/05/09/spains-bbva-launches-rare-hostile-takeover-bid-for-rival-sabadell.html</link>
-      <description><![CDATA[西班牙银行 BBVA 宣布对国内竞争对手萨瓦德尔银行 (Banco Sabadell) 发起罕见的敌意收购，令市场大吃一惊。]]></description>
+      <description><![CDATA[西班牙对外银行 (BBVA) 宣布对国内竞争对手萨瓦德尔银行 (Banco Sabadell) 发起罕见的敌意收购，令市场大吃一惊。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/spains-bbva-launches-rare-hostile-takeover-bid-for-rival-sabadell.html</guid>
       <pubDate>Thu, 09 May 2024 11:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音货机在没有前起落架的情况下降落在伊斯坦布尔；调查已启动</title>
-      <link>https://www.cnbc.com/2024/05/09/boeing-cargo-plane-lands-without-front-nose-gear-in-istanbul-investigation-launched-.html</link>
-      <description><![CDATA[1 月初，波音公司一架 737 Max 9 飞机的门塞在空中爆炸后，陷入了最新的安全和公共关系危机。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/boeing-cargo-plane-lands-without-front-nose-gear-in-istanbul-investigation-launched-.html</guid>
-      <pubDate>Thu, 09 May 2024 10:57:49 GMT</pubDate>
     </item>
     <item>
       <title>从历史上看，美联储行动之间的长时间停顿对股市有利</title>
@@ -69,14 +76,7 @@
       <pubDate>Thu, 09 May 2024 09:58:26 GMT</pubDate>
     </item>
     <item>
-      <title>随着从美国的采购增长，中国4月份进口增长8.4%，超出预期</title>
-      <link>https://www.cnbc.com/2024/05/09/china-trade-data-april-exports-imports.html</link>
-      <description><![CDATA[中国海关周四公布的数据显示，4月份出口增长符合预期，而进口大幅增长超出预期。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/china-trade-data-april-exports-imports.html</guid>
-      <pubDate>Thu, 09 May 2024 03:52:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司表示，Neuralink 的首个人类大脑植入物遇到了问题</title>
+      <title>Neuralink 公司称其首个人脑植入物出现问题</title>
       <link>https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html</link>
       <description><![CDATA[Neuralink 周三表示，其大脑植入物的一部分在人类患者体内出现故障。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html</guid>
