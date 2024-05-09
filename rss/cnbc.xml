@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 09 May 2024 06:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 07:14:00 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰战争实时更新：在乌克兰取得进展的同时，莫斯科陶醉于军事盛况；俄罗斯别尔哥罗德地区遭袭 造成8人受伤</title>
+      <link>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[俄罗斯将于周四举行一年一度的“胜利日”阅兵，总司令兼总统弗拉基米尔·普京将出席阅兵式。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/ukraine-war-live-updates-latest-news-in-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Thu, 09 May 2024 07:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于欧洲央行与美联储立场分歧，英国央行将维持利率不变</title>
+      <link>https://www.cnbc.com/2024/05/09/bank-of-england-set-to-hold-rates-as-europe-heads-for-fed-divergence.html</link>
+      <description><![CDATA[投资者将关注货币政策委员会的投票分歧、通胀前景以及央行行长安德鲁贝利周四的评论。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/bank-of-england-set-to-hold-rates-as-europe-heads-for-fed-divergence.html</guid>
+      <pubDate>Thu, 09 May 2024 07:03:31 GMT</pubDate>
+    </item>
     <item>
       <title>随着战争的进行，俄罗斯在盛况和宣传中举行胜利日阅兵</title>
       <link>https://www.cnbc.com/2024/05/09/russia-victory-day-military-parade-held-as-ukraine-war-rumbles-on.html</link>
@@ -13,35 +27,28 @@
       <pubDate>Thu, 09 May 2024 06:32:26 GMT</pubDate>
     </item>
     <item>
-      <title>道指期货在指数连续第六个上涨日后下滑：实时更新</title>
+      <title>道琼斯指数连续第六天上涨后期货下跌：实时更新</title>
       <link>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯指数 30 种成分股是周三唯一收盘上涨的主要指数。]]></description>
+      <description><![CDATA[道指包含 30 种股票，是周三唯一收高的主要指数。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</guid>
       <pubDate>Thu, 09 May 2024 06:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>顶级网络专家表示，生成式人工智能的虚假信息威胁“被夸大了”</title>
+      <title>顶级网络专家称，生成式人工智能的虚假信息威胁被“夸大了”</title>
       <link>https://www.cnbc.com/2024/05/09/generative-ais-disinformation-threat-overblown-cyber-expert-says.html</link>
       <description><![CDATA[思科 Talos 安全情报小组的技术负责人 Martin Lee 表示，人工智能生成的错误信息对民主的威胁可能“被夸大了”。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/generative-ais-disinformation-threat-overblown-cyber-expert-says.html</guid>
       <pubDate>Thu, 09 May 2024 05:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>中国 4 月份进口增长 8.4%，超出预期，因从美国购买量增长</title>
+      <title>随着从美国的采购增长，中国4月份进口增长8.4%，超出预期</title>
       <link>https://www.cnbc.com/2024/05/09/china-trade-data-april-exports-imports.html</link>
-      <description><![CDATA[中国海关总署周四发布的数据显示，四月份出口增长符合预期，而进口增长超出预期。]]></description>
+      <description><![CDATA[中国海关周四公布的数据显示，4月份出口增长符合预期，而进口大幅增长超出预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/china-trade-data-april-exports-imports.html</guid>
       <pubDate>Thu, 09 May 2024 03:52:23 GMT</pubDate>
     </item>
     <item>
-      <title>中国电动汽车制造商蔚来将于 5 月 15 日推出其低价品牌 Onvo</title>
-      <link>https://www.cnbc.com/2024/05/09/chinese-ev-maker-nio-to-launch-its-lower-priced-brand-onvo-on-may-15.html</link>
-      <description><![CDATA[中国电动汽车公司 Nio 周四表示，将于 5 月 15 日推出其低价品牌 Onvo。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/chinese-ev-maker-nio-to-launch-its-lower-priced-brand-onvo-on-may-15.html</guid>
-      <pubDate>Thu, 09 May 2024 02:51:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司表示，Neuralink 的首个人类大脑植入物遇到了问题</title>
+      <title>Neuralink 公司称其首个人脑植入物出现问题</title>
       <link>https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html</link>
       <description><![CDATA[Neuralink 周三表示，其大脑植入物的一部分在人类患者体内出现故障。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html</guid>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 09 May 2024 00:16:49 GMT</pubDate>
     </item>
     <item>
-      <title>每周 22,000 美元？全包式度假村加大力度赢得豪华旅行者的青睐</title>
+      <title>每周 22,000 美元？全包式度假村大手笔吸引高端游客</title>
       <link>https://www.cnbc.com/2024/05/09/all-inclusive-resorts-add-services-to-attract-more-luxury-travelers.html</link>
       <description><![CDATA[全包式度假村正在通过在酒店设施清单中添加管家服务和私人空间的使用权来吸引豪华旅行者。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/all-inclusive-resorts-add-services-to-attract-more-luxury-travelers.html</guid>
@@ -78,7 +85,7 @@
     <item>
       <title>“最大的投资机会”：投资经理指定股票以参与铜市场</title>
       <link>https://www.cnbc.com/2024/05/09/investment-manager-names-stocks-to-play-the-copper-market.html</link>
-      <description><![CDATA[Corestone Capital 首席执行官威尔·麦克唐纳 (Will McDonough) 表示：“铜价正在经历一些严重的上涨，未来价格可能会更高。”]]></description>
+      <description><![CDATA[Corestone Capital 首席执行官威尔麦克多诺 (Will McDonough) 表示：“铜价正在经历大幅上涨，未来价格还可能进一步上涨。”]]></description>
       <guid>https://www.cnbc.com/2024/05/09/investment-manager-names-stocks-to-play-the-copper-market.html</guid>
       <pubDate>Wed, 08 May 2024 23:19:29 GMT</pubDate>
     </item>
@@ -88,13 +95,6 @@
       <description><![CDATA[在上周的一次全体会议上，谷歌高管回答了员工关于尽管财务业绩有所改善但士气下降的问题。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/google-staffers-question-execs-over-decline-in-morale-after-earnings.html</guid>
       <pubDate>Wed, 08 May 2024 21:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 起诉美国政府以阻止禁令。这是现在发生的事情</title>
-      <link>https://www.cnbc.com/2024/05/08/tiktok-sued-the-us-government-to-block-a-ban-heres-what-happens-now.html</link>
-      <description><![CDATA[TikTok 周二起诉美国政府一项法律，该法律将迫使中国母公司字节跳动出售该应用程序，否则将面临全国禁令。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/tiktok-sued-the-us-government-to-block-a-ban-heres-what-happens-now.html</guid>
-      <pubDate>Wed, 08 May 2024 20:52:58 GMT</pubDate>
     </item>
     <item>
       <title>美国着眼于限制中国使用 ChatGPT 等应用程序背后的人工智能软件</title>
