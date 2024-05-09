@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 09 May 2024 01:54:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Thu, 09 May 2024 03:11:00 GMT</lastBuildDate>
+    <item>
+      <title>4月份中国进口增长8.4%，超预期</title>
+      <link>https://www.cnbc.com/2024/05/09/china-trade-data-april-exports-imports.html</link>
+      <description><![CDATA[中国海关周四公布的数据显示，4月份出口增长符合预期，而进口大幅增长超出预期。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/china-trade-data-april-exports-imports.html</guid>
+      <pubDate>Thu, 09 May 2024 03:10:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国电动汽车制造商蔚来汽车将于 5 月 15 日推出低价品牌 Onvo</title>
+      <link>https://www.cnbc.com/2024/05/09/chinese-ev-maker-nio-to-launch-its-lower-priced-brand-onvo-on-may-15.html</link>
+      <description><![CDATA[中国电动汽车公司蔚来汽车周四表示，将于 5 月 15 日推出名为 Onvo 的低价品牌。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/chinese-ev-maker-nio-to-launch-its-lower-priced-brand-onvo-on-may-15.html</guid>
+      <pubDate>Thu, 09 May 2024 02:51:49 GMT</pubDate>
+    </item>
     <item>
       <title>巴伦·特朗普将作为共和党全国代表大会佛罗里达州代表踏入政治舞台</title>
       <link>https://www.cnbc.com/2024/05/09/barron-trump-to-step-into-the-political-arena-as-a-florida-delegate-at-the-republican-convention.html</link>
@@ -20,7 +34,7 @@
       <pubDate>Thu, 09 May 2024 01:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>前米高梅大赌场总裁因未报告赌徒投注而被判缓刑</title>
+      <title>米高梅大赌场前总裁因未报告博彩公司赌注而被判缓刑</title>
       <link>https://www.cnbc.com/2024/05/08/former-mgm-grand-casino-president-to-be-sentenced-over-illegal-bets.html</link>
       <description><![CDATA[斯科特·西贝拉的检察官和辩护律师建议法官在刑事案件中对这位前米高梅大赌场总裁实行缓刑。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/former-mgm-grand-casino-president-to-be-sentenced-over-illegal-bets.html</guid>
@@ -50,14 +64,14 @@
     <item>
       <title>道指期货在指数连续第六个上涨日后几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道指包含 30 种股票，是周三唯一收高的主要指数。]]></description>
+      <description><![CDATA[道指 30 种股票是周三唯一收高的主要指数。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</guid>
       <pubDate>Wed, 08 May 2024 23:42:02 GMT</pubDate>
     </item>
     <item>
-      <title>根据近期历史，当 Nvidia 股价上涨时，这 4 只全球股票也趋于上涨</title>
+      <title>根据最近的历史记录，当英伟达股价上涨时，这 4 只全球股票也往往会上涨</title>
       <link>https://www.cnbc.com/2024/05/09/when-nvidia-rises-these-global-stocks-tend-to-rise-too-history-says.html</link>
-      <description><![CDATA[CNBC Pro 筛选了过去一年中与 Nvidia 相关的欧洲股票。]]></description>
+      <description><![CDATA[CNBC Pro 筛选了过去一年与 Nvidia 相关的欧洲股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/when-nvidia-rises-these-global-stocks-tend-to-rise-too-history-says.html</guid>
       <pubDate>Wed, 08 May 2024 23:20:26 GMT</pubDate>
     </item>
@@ -69,20 +83,6 @@
       <pubDate>Wed, 08 May 2024 23:19:29 GMT</pubDate>
     </item>
     <item>
-      <title>企业领袖和富有的捐赠者希望对特朗普的副总统人选有发言权</title>
-      <link>https://www.cnbc.com/2024/05/08/donald-trump-vp-corporate-leaders-and-wealthy-donors-want-a-say-.html</link>
-      <description><![CDATA[唐纳德·特朗普希望在临近七月的时候挑选他的竞选伙伴。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/donald-trump-vp-corporate-leaders-and-wealthy-donors-want-a-say-.html</guid>
-      <pubDate>Wed, 08 May 2024 23:19:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airbnb 第一季度盈利超出预期，但指引弱于预期</title>
-      <link>https://www.cnbc.com/2024/05/08/airbnb-beats-earnings-expectations-for-first-quarter-but-offers-weaker-than-expected-guidance.html</link>
-      <description><![CDATA[Airbnb 周三公布的第一季度业绩超出了分析师的预期。]]></description>
-      <guid>https://www.cnbc.com/2024/05/08/airbnb-beats-earnings-expectations-for-first-quarter-but-offers-weaker-than-expected-guidance.html</guid>
-      <pubDate>Wed, 08 May 2024 21:38:21 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌员工质疑高管在业绩井喷后“士气下降”</title>
       <link>https://www.cnbc.com/2024/05/08/google-staffers-question-execs-over-decline-in-morale-after-earnings.html</link>
       <description><![CDATA[在上周的一次全体会议上，谷歌高管回答了员工关于尽管财务业绩有所改善但士气下降的问题。]]></description>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 08 May 2024 21:32:09 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 起诉美国政府以阻止禁令。这是现在发生的事情</title>
+      <title>TikTok 起诉美国政府以阻止禁令。以下是目前发生的事情</title>
       <link>https://www.cnbc.com/2024/05/08/tiktok-sued-the-us-government-to-block-a-ban-heres-what-happens-now.html</link>
       <description><![CDATA[TikTok 周二起诉美国政府一项法律，该法律将迫使中国母公司字节跳动出售该应用程序，否则将面临全国禁令。]]></description>
       <guid>https://www.cnbc.com/2024/05/08/tiktok-sued-the-us-government-to-block-a-ban-heres-what-happens-now.html</guid>
