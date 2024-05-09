@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 09 May 2024 18:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 18:49:00 GMT</lastBuildDate>
+    <item>
+      <title>斯托米·丹尼尔斯表示谈论特朗普对她的生活不利</title>
+      <link>https://www.cnbc.com/2024/05/09/trump-trial-stormy-daniels-testimony-hush-money-case.html</link>
+      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 被指控伪造商业记录，以掩盖 2016 年总统大选前向斯托米·丹尼尔斯 (Stormy Daniels) 支付的封口费。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/trump-trial-stormy-daniels-testimony-hush-money-case.html</guid>
+      <pubDate>Thu, 09 May 2024 18:51:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>道琼斯指数上涨超过 250 点，有望连续第七次上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</link>
+      <description><![CDATA[由于交易员权衡了令人失望的收益和新数据，这些数据给美联储今年晚些时候采取更宽松的政策带来了希望，股市走高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/08/stock-market-today-live-updates.html</guid>
+      <pubDate>Thu, 09 May 2024 18:47:49 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普媒体投资者被判合并前内幕交易罪</title>
       <link>https://www.cnbc.com/2024/05/09/trump-media-investor-convicted-of-insider-trading-ahead-of-merger.html</link>
@@ -15,16 +29,9 @@
     <item>
       <title>弗吉尼亚港正在进行重大变革，引领超大型远洋集装箱船时代</title>
       <link>https://www.cnbc.com/2024/05/09/port-of-virginia-has-a-big-plan-to-be-no-1-for-super-size-ocean-ships.html</link>
-      <description><![CDATA[弗吉尼亚港耗资 4.5 亿美元的疏浚工程即将结束，该工程将使其成为超大型远洋集装箱船最宽、最深的水道。]]></description>
+      <description><![CDATA[弗吉尼亚港耗资 4.5 亿美元的疏浚工程即将完工，该工程将使其成为超大型远洋集装箱船最宽、最深的航道。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/port-of-virginia-has-a-big-plan-to-be-no-1-for-super-size-ocean-ships.html</guid>
       <pubDate>Thu, 09 May 2024 18:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>马西莫寻求避免与波利坦的代理权之争，提出和解提议</title>
-      <link>https://www.cnbc.com/2024/05/09/masimo-seeks-to-stave-off-proxy-fight-with-politan-makes-settlement-offer.html</link>
-      <description><![CDATA[马西莫提出与一位持不同政见的董事达成和解，该董事正计划进行第二次代理权之争。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/masimo-seeks-to-stave-off-proxy-fight-with-politan-makes-settlement-offer.html</guid>
-      <pubDate>Thu, 09 May 2024 18:10:47 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，辛克莱正在考虑出售大约 30% 的广播电台</title>
@@ -32,13 +39,6 @@
       <description><![CDATA[据知情人士透露，辛克莱正在考虑出售其 185 个广播电台中的大部分。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/sinclair-explores-selling-30percent-of-broadcast-stations.html</guid>
       <pubDate>Thu, 09 May 2024 18:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯托米·丹尼尔斯表示谈论特朗普对她的生活不利</title>
-      <link>https://www.cnbc.com/2024/05/09/trump-trial-stormy-daniels-testimony-hush-money-case.html</link>
-      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 被指控伪造商业记录，以掩盖 2016 年总统大选前向斯托米·丹尼尔斯 (Stormy Daniels) 支付的封口费。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/trump-trial-stormy-daniels-testimony-hush-money-case.html</guid>
-      <pubDate>Thu, 09 May 2024 17:58:20 GMT</pubDate>
     </item>
     <item>
       <title>CFPB 每年为美国人节省 100 亿美元滞纳金的规定可能会在最后一刻被冻结</title>
@@ -78,12 +78,12 @@
     <item>
       <title>Roblox 因玩家支出减少而下调年度预订预测，股价下跌超过 20%</title>
       <link>https://www.cnbc.com/2024/05/09/roblox-shares-drop-nearly-30percent-as-company-cuts-annual-bookings-forecast-on-muted-player-spending.html</link>
-      <description><![CDATA[Roblox 周四下调了年度预订量预测，表明人们正在减少在其视频游戏平台上的支出。]]></description>
+      <description><![CDATA[Roblox 周四下调了年度预订预测，这表明人们正在减少在其视频游戏平台上的支出。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/roblox-shares-drop-nearly-30percent-as-company-cuts-annual-bookings-forecast-on-muted-player-spending.html</guid>
       <pubDate>Thu, 09 May 2024 16:10:40 GMT</pubDate>
     </item>
     <item>
-      <title>华纳兄弟探索频道第一季度流媒体业务增长但业绩不及预期</title>
+      <title>尽管流媒体业务增长，华纳兄弟探索频道第一季度业绩未达预期</title>
       <link>https://www.cnbc.com/2024/05/09/warner-bros-discovery-wbd-earnings-q1-2024.html</link>
       <description><![CDATA[华纳兄弟探索公司在周四盘前公布了第一季度收益。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/warner-bros-discovery-wbd-earnings-q1-2024.html</guid>
