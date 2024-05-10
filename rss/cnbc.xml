@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 10 May 2024 14:31:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Fri, 10 May 2024 14:46:00 GMT</lastBuildDate>
+    <item>
+      <title>密切关注的调查显示，随着通胀担忧加剧，消费者信心下降</title>
+      <link>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</link>
+      <description><![CDATA[密歇根大学消费者调查显示 5 月份的读数为 67.4，低于 4 月份的 77.2。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</guid>
+      <pubDate>Fri, 10 May 2024 14:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您认为五月的反弹是一个假象，那么交易者可以进行市场对冲</title>
+      <link>https://www.cnbc.com/2024/05/10/a-market-hedge-for-traders-if-you-believe-this-may-comeback-is-a-head-fake.html</link>
+      <description><![CDATA[杰夫·基尔伯格 (Jeff Kilburg) 认为，最近美联储引发的反弹将会停滞，并提供了利用这一机会的期权头寸。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/a-market-hedge-for-traders-if-you-believe-this-may-comeback-is-a-head-fake.html</guid>
+      <pubDate>Fri, 10 May 2024 14:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman 让核能公司 Oklo 上市，以帮助实现他的人工智能野心</title>
+      <link>https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html</link>
+      <description><![CDATA[Sam Altman 是 OpenAI 的首席执行官，也是一家名为 Oklo 的核电公司的董事长，该公司刚刚通过 SPAC 上市。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html</guid>
+      <pubDate>Fri, 10 May 2024 14:41:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街出现了一位新的大牛，他预计标普 500 指数到年底将升至 5,400 点以上</title>
+      <link>https://www.cnbc.com/2024/05/10/theres-a-new-big-bull-on-wall-street-and-he-sees-the-sp-500-rising-above-5400-by-year-end.html</link>
+      <description><![CDATA[CFRA 首席投资策略师将年底股市基准目标从 4,940 点上调至 5,415 点。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/theres-a-new-big-bull-on-wall-street-and-he-sees-the-sp-500-rising-above-5400-by-year-end.html</guid>
+      <pubDate>Fri, 10 May 2024 14:37:48 GMT</pubDate>
+    </item>
     <item>
       <title>苹果为 iPad Pro 广告道歉，广告中液压机毁坏了吉他、钢琴</title>
       <link>https://www.cnbc.com/2024/05/09/apple-apologizes-for-ipad-pro-ad-showing-hydraulic-press-destroying-guitars-piano.html</link>
@@ -20,13 +48,6 @@
       <pubDate>Fri, 10 May 2024 14:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>密切关注的调查显示，随着通胀担忧加剧，消费者信心下降</title>
-      <link>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</link>
-      <description><![CDATA[密歇根大学消费者调查显示 5 月份的读数为 67.4，低于 4 月份的 77.2。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</guid>
-      <pubDate>Fri, 10 May 2024 14:21:53 GMT</pubDate>
-    </item>
-    <item>
       <title>气候抗议者试图闯入特斯拉德国工厂，多人被捕</title>
       <link>https://www.cnbc.com/2024/05/10/climate-protesters-try-to-break-into-tesla-germany-factory-police.html</link>
       <description><![CDATA[勃兰登堡警方告诉 CNBC，抗议者试图进入特斯拉柏林勃兰登堡工厂的场地，但被警方阻止。]]></description>
@@ -34,14 +55,7 @@
       <pubDate>Fri, 10 May 2024 14:14:09 GMT</pubDate>
     </item>
     <item>
-      <title>Sam Altman 让核能公司 Oklo 上市，以帮助实现他的人工智能野心</title>
-      <link>https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html</link>
-      <description><![CDATA[Sam Altman 是 OpenAI 的首席执行官，也是一家名为 Oklo 的核电公司的董事长，该公司刚刚通过 SPAC 上市。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html</guid>
-      <pubDate>Fri, 10 May 2024 14:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约 3,500 美元，洛杉矶 8,000 美元——租房者透露他们的租金：“这里的房价太贵了”</title>
+      <title>纽约 3,500 美元，洛杉矶 8,000 美元——租房者透露他们支付的价格：“这里的房价太贵了”</title>
       <link>https://www.cnbc.com/2024/05/10/how-much-rent-is-in-nyc-and-la-what-people-pay-and-is-it-worth-it.html</link>
       <description><![CDATA[纽约人和洛杉矶人分享了他们在这些大城市的租金花费，以及他们是否认为这笔巨额费用值得。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/how-much-rent-is-in-nyc-and-la-what-people-pay-and-is-it-worth-it.html</guid>
@@ -62,32 +76,18 @@
       <pubDate>Fri, 10 May 2024 13:55:32 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普白宫高级助理继续就刑事封口费案作证</title>
+      <title>特朗普白宫高级助手恢复在刑事封口费案中作证</title>
       <link>https://www.cnbc.com/2024/05/10/trump-trial-hush-money-testimony-white-house-aide.html</link>
       <description><![CDATA[在色情明星斯托米·丹尼尔斯完成证词、法官胡安·默尚驳回了误审和禁言令的申请后，唐纳德·特朗普的封口费审判重新开始。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/trump-trial-hush-money-testimony-white-house-aide.html</guid>
       <pubDate>Fri, 10 May 2024 13:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>比特币价格可能在接下来的五个月内不会重新测试今年的高点</title>
-      <link>https://www.cnbc.com/2024/05/10/bitcoin-price-may-not-retest-this-years-highs-for-another-five-months-.html</link>
-      <description><![CDATA[在今年早些时候大幅上涨之后，比特币的夏季低迷可能已经提前到来。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/bitcoin-price-may-not-retest-this-years-highs-for-another-five-months-.html</guid>
-      <pubDate>Fri, 10 May 2024 13:44:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>迈克·泰森与杰克·保罗 Netflix 拳击赛的发起人提供价值 200 万美元的 VIP 套餐</title>
+      <title>迈克·泰森-杰克·保罗 Netflix 拳击赛的发起人提供价值 200 万美元的 VIP 套餐</title>
       <link>https://www.cnbc.com/2024/05/09/mike-tyson-jake-paul-netflix-fight-promoters-offer-2-million-vip-package-.html</link>
-      <description><![CDATA[迈克·泰森和杰克·保罗之间的拳击比赛已经引发了高票价和投注者的极大兴趣。]]></description>
+      <description><![CDATA[迈克泰森和杰克保罗之间的拳击比赛已经引发了高昂的票价和大量赌徒的兴趣。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/mike-tyson-jake-paul-netflix-fight-promoters-offer-2-million-vip-package-.html</guid>
       <pubDate>Fri, 10 May 2024 13:15:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是周五当天最大的分析师电话会议：Nvidia、Tesla、Apple、3M、Bumble、Nike、Walmart、Palantir 等</title>
-      <link>https://www.cnbc.com/2024/05/10/buy-rated-stocks-on-friday-include-nvidia.html</link>
-      <description><![CDATA[以下是周五华尔街最大的呼吁。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/buy-rated-stocks-on-friday-include-nvidia.html</guid>
-      <pubDate>Fri, 10 May 2024 13:04:54 GMT</pubDate>
     </item>
     <item>
       <title>社会保障管理局将通过几项即将发生的变化扩大获得某些福利的机会</title>
@@ -99,7 +99,7 @@
     <item>
       <title>Moderna 称 FDA 将 RSV 疫苗批准推迟至 5 月底</title>
       <link>https://www.cnbc.com/2024/05/10/moderna-says-rsv-vaccine-fda-approval-delayed-to-end-of-may.html</link>
-      <description><![CDATA[该生物技术公司表示，FDA 尚未向 Moderna 通报任何与该疫苗的安全性、有效性或质量相关的问题，这些问题会妨碍其获得批准。]]></description>
+      <description><![CDATA[这家生物科技公司表示，FDA 尚未告知 Moderna 任何与疫苗安全性、有效性或质量有关的问题，这些问题可能会阻碍该疫苗的批准。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/moderna-says-rsv-vaccine-fda-approval-delayed-to-end-of-may.html</guid>
       <pubDate>Fri, 10 May 2024 11:00:01 GMT</pubDate>
     </item>
