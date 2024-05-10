@@ -1,37 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 10 May 2024 04:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 05:04:00 GMT</lastBuildDate>
     <item>
-      <title>据报道，Target 因遭到强烈反对而下架部分门店的 LGBTQ 骄傲月产品</title>
-      <link>https://www.cnbc.com/2024/05/10/target-to-reportedly-cut-lgbtq-pride-month-products-from-some-stores-after-backlash.html</link>
-      <description><![CDATA[Target 计划在线提供全系列商品，但正在检查商店级别的数据，以确定哪些实体店将销售这些产品。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/target-to-reportedly-cut-lgbtq-pride-month-products-from-some-stores-after-backlash.html</guid>
-      <pubDate>Fri, 10 May 2024 04:48:42 GMT</pubDate>
+      <title>美国取代中国成为德国最大贸易伙伴</title>
+      <link>https://www.cnbc.com/2024/05/10/the-us-is-now-germanys-biggest-trading-partner-ahead-of-china.html</link>
+      <description><![CDATA[数据计算显示，中国多年来一直是德国的主要贸易伙伴，美国在今年第一季度悄然取代了这一位置。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/the-us-is-now-germanys-biggest-trading-partner-ahead-of-china.html</guid>
+      <pubDate>Fri, 10 May 2024 05:01:38 GMT</pubDate>
     </item>
     <item>
-      <title>众议院委员会要求微软的布拉德·史密斯参加有关安全漏洞的听证会</title>
-      <link>https://www.cnbc.com/2024/05/10/house-committee-seeks-microsofts-brad-smith-for-cybersecurity-hearing.html</link>
-      <description><![CDATA[在中国黑客入侵商务部长吉娜·雷蒙多的电子邮件帐户后，微软一直面临压力。国会希望参与其中。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/house-committee-seeks-microsofts-brad-smith-for-cybersecurity-hearing.html</guid>
-      <pubDate>Fri, 10 May 2024 04:46:48 GMT</pubDate>
+      <title>两名政治人员在众议员亨利·奎利亚尔的贿赂案中达成认罪协议</title>
+      <link>https://www.cnbc.com/2024/05/10/two-political-operatives-struck-plea-deals-in-rep-henry-cuellars-bribery-case.html</link>
+      <description><![CDATA[根据未密封的文件，米娜·科林·斯特罗瑟和弗洛伦西奥·“伦乔”·伦登已同意在司法部针对德克萨斯州民主党人的案件中进行合作。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/two-political-operatives-struck-plea-deals-in-rep-henry-cuellars-bribery-case.html</guid>
+      <pubDate>Fri, 10 May 2024 04:55:47 GMT</pubDate>
     </item>
     <item>
       <title>中国最大芯片制造商中芯国际警告称，由于季度利润未达预期，竞争将“激烈”</title>
       <link>https://www.cnbc.com/2024/05/10/chinas-smic-warns-of-fierce-chip-competition-as-it-misses-profit-estimates.html</link>
       <description><![CDATA[第一季度净利润同比下降68.9%至7179万美元。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/chinas-smic-warns-of-fierce-chip-competition-as-it-misses-profit-estimates.html</guid>
-      <pubDate>Fri, 10 May 2024 04:10:17 GMT</pubDate>
+      <pubDate>Fri, 10 May 2024 04:55:08 GMT</pubDate>
     </item>
     <item>
-      <title>在华欧洲企业面临增长放缓、产能过剩的压力</title>
-      <link>https://www.cnbc.com/2024/05/10/european-companies-in-china-are-under-pressure-from-slower-growth-overcapacity.html</link>
-      <description><![CDATA[一项年度商业调查显示，随着经济增长放缓和产能过剩压力加大，欧洲企业发现在中国赚钱变得更加困难。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/european-companies-in-china-are-under-pressure-from-slower-growth-overcapacity.html</guid>
-      <pubDate>Fri, 10 May 2024 00:30:54 GMT</pubDate>
+      <title>据报道，Target 在遭到强烈反对后，将在部分商店削减 LGBTQ 骄傲月产品</title>
+      <link>https://www.cnbc.com/2024/05/10/target-to-reportedly-cut-lgbtq-pride-month-products-from-some-stores-after-backlash.html</link>
+      <description><![CDATA[Target 计划在线提供全系列商品，但正在检查商店级别的数据，以确定哪些实体店将销售这些产品。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/target-to-reportedly-cut-lgbtq-pride-month-products-from-some-stores-after-backlash.html</guid>
+      <pubDate>Fri, 10 May 2024 04:48:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>众议院委员会要求微软的布拉德·史密斯出席有关安全漏洞的听证会</title>
+      <link>https://www.cnbc.com/2024/05/10/house-committee-seeks-microsofts-brad-smith-for-cybersecurity-hearing.html</link>
+      <description><![CDATA[在中国黑客入侵商务部长吉娜·雷蒙多的电子邮件帐户后，微软一直面临压力。国会希望参与其中。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/house-committee-seeks-microsofts-brad-smith-for-cybersecurity-hearing.html</guid>
+      <pubDate>Fri, 10 May 2024 04:46:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道 OpenAI 计划周一宣布谷歌搜索竞争对手</title>
+      <link>https://www.cnbc.com/2024/05/10/openai-reportedly-plans-to-announce-google-search-competitor-on-monday.html</link>
+      <description><![CDATA[据两位消息人士透露，OpenAI 计划于周一宣布其人工智能驱动的搜索产品，这将加大其与搜索之王谷歌的竞争风险。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/openai-reportedly-plans-to-announce-google-search-competitor-on-monday.html</guid>
+      <pubDate>Fri, 10 May 2024 02:12:00 GMT</pubDate>
     </item>
     <item>
       <title>道琼斯指数连续七天上涨后，股票期货几乎没有变化：实时更新</title>
@@ -41,7 +55,7 @@
       <pubDate>Thu, 09 May 2024 23:57:50 GMT</pubDate>
     </item>
     <item>
-      <title>投资组合经理点名立即买入 3 只不为人知的成长型股票</title>
+      <title>投资组合经理列出了 3 只值得立即购买的低调成长股</title>
       <link>https://www.cnbc.com/2024/05/10/growth-stocks-to-buy-right-now-winthrop-capitals-adam-coons.html</link>
       <description><![CDATA[Winthrop Capital 的亚当库恩斯 (Adam Coons) 预计成长型股票的表现将继续优于价值型股票：“我们正在寻找更高质量的股票。”]]></description>
       <guid>https://www.cnbc.com/2024/05/10/growth-stocks-to-buy-right-now-winthrop-capitals-adam-coons.html</guid>
@@ -55,7 +69,7 @@
       <pubDate>Thu, 09 May 2024 23:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉被 NLRB 指控制定政策来冷却布法罗工人的工会努力</title>
+      <title>NLRB 指控特斯拉制定政策来冷却布法罗工人的工会努力</title>
       <link>https://www.cnbc.com/2024/05/09/tesla-accused-by-nlrb-of-chilling-worker-unionizing-efforts-in-buffalo.html</link>
       <description><![CDATA[根据周三晚间提交的一份投诉书，国家劳工关系委员会指责特斯拉采取措施阻止纽约州布法罗的员工加入工会。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/tesla-accused-by-nlrb-of-chilling-worker-unionizing-efforts-in-buffalo.html</guid>
@@ -78,30 +92,16 @@
     <item>
       <title>股东敦促赌场重新评估室内吸烟</title>
       <link>https://www.cnbc.com/2024/05/09/casinos-face-shareholder-votes-over-indoor-smoking.html</link>
-      <description><![CDATA[禁烟倡导者指出，C3 Gaming 的研究得出结论，无烟赌场可以创造更多收入，并且比允许吸烟的竞争对手表现更好。]]></description>
+      <description><![CDATA[禁烟令的倡导者指出，C3 Gaming 的研究得出的结论是，无烟赌场可以产生更多收入，并且比允许吸烟的竞争对手表现更好。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/casinos-face-shareholder-votes-over-indoor-smoking.html</guid>
       <pubDate>Thu, 09 May 2024 20:40:46 GMT</pubDate>
     </item>
     <item>
-      <title>两位提名人补充说，如果公司扩大董事会，Masimo 活动家同意结束代理权之争</title>
-      <link>https://www.cnbc.com/2024/05/09/masimo-seeks-to-stave-off-proxy-fight-with-politan-makes-settlement-offer.html</link>
-      <description><![CDATA[活动人士波利坦回应了马西莫的和解提议，要求将马西莫的董事会扩大到七名董事，并增加波利坦的两名提名人。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/masimo-seeks-to-stave-off-proxy-fight-with-politan-makes-settlement-offer.html</guid>
-      <pubDate>Thu, 09 May 2024 20:04:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>据消息人士称，辛克莱考虑出售其约 30% 的广播电台</title>
+      <title>消息人士称，辛克莱正在考虑出售大约 30% 的广播电台</title>
       <link>https://www.cnbc.com/2024/05/09/sinclair-explores-selling-30percent-of-broadcast-stations.html</link>
       <description><![CDATA[据知情人士透露，辛克莱正在考虑出售其 185 个广播电台中的大部分。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/sinclair-explores-selling-30percent-of-broadcast-stations.html</guid>
       <pubDate>Thu, 09 May 2024 18:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着锻炼趋势的转变，Peloton 曾经试图收购的健身初创公司正在成长</title>
-      <link>https://www.cnbc.com/2024/05/09/hydrow-acquires-speede-fitness-grows-as-peloton-shrinks.html</link>
-      <description><![CDATA[随着健身爱好者从有氧运动转向举重，互联赛艇公司 Hydrow 正在发展壮大，而 Peloton 正在萎缩。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/hydrow-acquires-speede-fitness-grows-as-peloton-shrinks.html</guid>
-      <pubDate>Thu, 09 May 2024 16:54:43 GMT</pubDate>
     </item>
     <item>
       <title>调查发现，只有 4% 的当前退休人员表示他们正在“实现梦想”。这就是为什么</title>
