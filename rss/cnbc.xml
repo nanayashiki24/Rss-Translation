@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Fri, 10 May 2024 07:20:00 GMT</lastBuildDate>
+    <item>
+      <title>道琼斯指数连续七天上涨后，股指期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/09/stock-market-today-live-updates.html</link>
+      <description><![CDATA[受到强劲的盈利季节和美联储降息希望的推动，投资者最近对股市前景更加有信心。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 10 May 2024 07:34:20 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰无人机袭击俄罗斯炼油厂起火；哈尔科夫市房屋被烧毁，两人受伤</title>
       <link>https://www.cnbc.com/2024/05/10/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
@@ -27,13 +34,6 @@
       <pubDate>Fri, 10 May 2024 05:43:26 GMT</pubDate>
     </item>
     <item>
-      <title>道琼斯指数连续七天上涨后，股票期货几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/09/stock-market-today-live-updates.html</link>
-      <description><![CDATA[受到强劲的盈利季节和美联储降息希望的推动，投资者最近对股市前景更加有信心。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 10 May 2024 05:30:33 GMT</pubDate>
-    </item>
-    <item>
       <title>美国取代中国成为德国最大贸易伙伴</title>
       <link>https://www.cnbc.com/2024/05/10/the-us-is-now-germanys-biggest-trading-partner-ahead-of-china.html</link>
       <description><![CDATA[数据计算显示，中国多年来一直是德国的主要贸易伙伴，美国在今年第一季度悄然取代了这一位置。]]></description>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 10 May 2024 04:55:47 GMT</pubDate>
     </item>
     <item>
-      <title>据报道，Target 因遭到强烈反对而下架部分门店的 LGBTQ 骄傲月产品</title>
+      <title>据报道，Target 在遭到强烈反对后，将在部分商店削减 LGBTQ 骄傲月产品</title>
       <link>https://www.cnbc.com/2024/05/10/target-to-reportedly-cut-lgbtq-pride-month-products-from-some-stores-after-backlash.html</link>
       <description><![CDATA[Target 计划在线提供全系列商品，但正在检查商店级别的数据，以确定哪些实体店将销售这些产品。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/target-to-reportedly-cut-lgbtq-pride-month-products-from-some-stores-after-backlash.html</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>据报道 OpenAI 计划周一宣布谷歌搜索竞争对手</title>
       <link>https://www.cnbc.com/2024/05/10/openai-reportedly-plans-to-announce-google-search-competitor-on-monday.html</link>
-      <description><![CDATA[据两位消息人士透露，OpenAI 计划于周一宣布其人工智能驱动的搜索产品，这将加大其与搜索之王谷歌的竞争风险。]]></description>
+      <description><![CDATA[据两位消息人士称，OpenAI 计划于周一发布其人工智能搜索产品，这将加大其与搜索之王谷歌的竞争风险。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/openai-reportedly-plans-to-announce-google-search-competitor-on-monday.html</guid>
       <pubDate>Fri, 10 May 2024 02:12:00 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>特斯拉被 NLRB 指控制定政策来冷却布法罗工人的工会努力</title>
       <link>https://www.cnbc.com/2024/05/09/tesla-accused-by-nlrb-of-chilling-worker-unionizing-efforts-in-buffalo.html</link>
-      <description><![CDATA[根据周三晚些时候提交的投诉，美国国家劳工关系委员会指控特斯拉采取措施阻止纽约州布法罗的员工成立工会。]]></description>
+      <description><![CDATA[根据周三晚间提交的一份投诉书，国家劳工关系委员会指责特斯拉采取措施阻止纽约州布法罗的员工加入工会。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/tesla-accused-by-nlrb-of-chilling-worker-unionizing-efforts-in-buffalo.html</guid>
       <pubDate>Thu, 09 May 2024 21:33:18 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>调查发现，只有 4% 的当前退休人员表示他们正在“实现梦想”。这就是为什么</title>
       <link>https://www.cnbc.com/2024/05/09/4percent-of-current-retirees-say-they-are-living-the-dream-survey-finds.html</link>
-      <description><![CDATA[许多美国人发现退休生活并没有达到他们的期望。然而，专家们对退休储蓄危机是否正在酝酿存在分歧。]]></description>
+      <description><![CDATA[许多美国人发现退休生活没有达到他们的期望。然而，专家们对于退休储蓄危机是否正在酝酿存在分歧。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/4percent-of-current-retirees-say-they-are-living-the-dream-survey-finds.html</guid>
       <pubDate>Thu, 09 May 2024 13:00:02 GMT</pubDate>
     </item>
