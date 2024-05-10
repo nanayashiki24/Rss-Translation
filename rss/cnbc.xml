@@ -1,30 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 10 May 2024 15:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 16:03:00 GMT</lastBuildDate>
+    <item>
+      <title>Sam Altman 让核能公司 Oklo 上市，以帮助进一步实现他的人工智能雄心</title>
+      <link>https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html</link>
+      <description><![CDATA[Sam Altman 是 OpenAI 的首席执行官，也是一家名为 Oklo 的核电公司的董事长，该公司刚刚通过 SPAC 上市。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html</guid>
+      <pubDate>Fri, 10 May 2024 16:17:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fat Brands 主席 Andy Wiederhorn 因 4700 万美元“虚假”贷款计划被起诉</title>
+      <link>https://www.cnbc.com/2024/05/10/fat-brands-chair-andy-wiederhorn-indicted-in-47-million-loan-scheme.html</link>
+      <description><![CDATA[Fat Brands 的产品组合包括 Fatburger、Johnny Rockets 和 Twin Peaks。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/fat-brands-chair-andy-wiederhorn-indicted-in-47-million-loan-scheme.html</guid>
+      <pubDate>Fri, 10 May 2024 16:09:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>通胀忧虑加剧消费者信心大跌</title>
+      <link>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</link>
+      <description><![CDATA[密歇根大学消费者调查显示 5 月份的读数为 67.4，低于 4 月份的 77.2。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</guid>
+      <pubDate>Fri, 10 May 2024 16:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根士丹利表示，这些股票可能会效仿 Meta 和 Alphabet 宣布股息</title>
+      <link>https://www.cnbc.com/2024/05/10/morgan-stanley-says-these-stocks-could-follow-meta-and-alphabet-in-announcing-a-dividend.html</link>
+      <description><![CDATA[Alphabet 和 Meta Platforms 是最近推出派息回馈股东的知名公司之一。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/morgan-stanley-says-these-stocks-could-follow-meta-and-alphabet-in-announcing-a-dividend.html</guid>
+      <pubDate>Fri, 10 May 2024 15:58:52 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯在乌克兰第二大城市附近发起大规模地面攻击，开辟新战线</title>
       <link>https://www.cnbc.com/2024/05/10/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
       <description><![CDATA[乌克兰向哈尔科夫地区东北部边境地区派遣预备部队，寻求加强防御，抵御俄罗斯愈演愈烈的袭击。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Fri, 10 May 2024 15:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman 让核能公司 Oklo 上市，以帮助进一步实现他的人工智能雄心</title>
-      <link>https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html</link>
-      <description><![CDATA[Sam Altman 是 OpenAI 的首席执行官，也是一家名为 Oklo 的核电公司的董事长，该公司刚刚通过 SPAC 上市。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html</guid>
-      <pubDate>Fri, 10 May 2024 15:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fat Brands 董事长 Andy Wiederhorn 因 4700 万美元“虚假”贷款计划被起诉</title>
-      <link>https://www.cnbc.com/2024/05/10/fat-brands-chair-andy-wiederhorn-indicted-in-47-million-loan-scheme.html</link>
-      <description><![CDATA[Fat Brands 的产品组合包括 Fatburger、Johnny Rockets 和 Twin Peaks。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/fat-brands-chair-andy-wiederhorn-indicted-in-47-million-loan-scheme.html</guid>
-      <pubDate>Fri, 10 May 2024 15:40:26 GMT</pubDate>
     </item>
     <item>
       <title>人工智能清洗：微软风险投资家对可疑且不断上升的企业人工智能声明发出警告</title>
@@ -48,23 +62,9 @@
       <pubDate>Fri, 10 May 2024 15:20:41 GMT</pubDate>
     </item>
     <item>
-      <title>密切关注的调查显示，随着通胀担忧加剧，消费者信心下降</title>
-      <link>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</link>
-      <description><![CDATA[密歇根大学消费者调查显示 5 月份的读数为 67.4，低于 4 月份的 77.2。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</guid>
-      <pubDate>Fri, 10 May 2024 15:20:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴克莱银行升级了一只鲜为人知的生物科技股票，称其股价可上涨一倍以上</title>
-      <link>https://www.cnbc.com/2024/05/10/barclays-upgrades-little-known-biotech-stock-it-says-can-more-than-double-.html</link>
-      <description><![CDATA[该药物发现​​股票可以受益于乳腺癌治疗的扩展。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/barclays-upgrades-little-known-biotech-stock-it-says-can-more-than-double-.html</guid>
-      <pubDate>Fri, 10 May 2024 15:15:29 GMT</pubDate>
-    </item>
-    <item>
       <title>气候抗议者试图闯入特斯拉德国工厂，多人被捕</title>
       <link>https://www.cnbc.com/2024/05/10/climate-protesters-try-to-break-into-tesla-germany-factory-police.html</link>
-      <description><![CDATA[勃兰登堡警方向 CNBC 表示，警方阻止了试图进入特斯拉柏林-勃兰登堡工厂的抗议者。]]></description>
+      <description><![CDATA[勃兰登堡警方告诉 CNBC，警方阻止了试图进入特斯拉柏林勃兰登堡工厂场地的抗议者。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/climate-protesters-try-to-break-into-tesla-germany-factory-police.html</guid>
       <pubDate>Fri, 10 May 2024 14:55:24 GMT</pubDate>
     </item>
@@ -83,14 +83,14 @@
       <pubDate>Fri, 10 May 2024 14:35:55 GMT</pubDate>
     </item>
     <item>
-      <title>纽约 3,500 美元，洛杉矶 8,000 美元——租房者透露他们要付多少钱：“这里的租金太贵了”</title>
+      <title>纽约 3,500 美元，洛杉矶 8,000 美元——租房者透露他们的租金：“这里的房价太贵了”</title>
       <link>https://www.cnbc.com/2024/05/10/how-much-rent-is-in-nyc-and-la-what-people-pay-and-is-it-worth-it.html</link>
       <description><![CDATA[纽约人和洛杉矶人分享了他们在这些大城市的租金花费，以及他们是否认为这笔巨额费用值得。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/how-much-rent-is-in-nyc-and-la-what-people-pay-and-is-it-worth-it.html</guid>
       <pubDate>Fri, 10 May 2024 14:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>赛诺菲 (Sanofi) 与 Covid 疫苗商业化、开发组合疫苗达成交易，Novavax 股价飙升超过 100%</title>
+      <title>Novavax 股价飙升逾 100%，因赛诺菲 (Sanofi) 达成协议将新冠疫苗商业化并开发联合疫苗</title>
       <link>https://www.cnbc.com/2024/05/10/novavax-and-sanofi-to-commercialize-covid-vaccine-develop-combo-shots.html</link>
       <description><![CDATA[这笔交易将使 Novavax 解除其“持续经营”警告，该警告是该公司于 2023 年首次发布的，原因是对其生存能力存在“严重怀疑”。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/novavax-and-sanofi-to-commercialize-covid-vaccine-develop-combo-shots.html</guid>
