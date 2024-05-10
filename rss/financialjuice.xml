@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 10 May 2024 17:50:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 18:18:27 GMT</lastBuildDate>
+    <item>
+      <title>美联储卡什卡里：我对货币政策的限制性持谨慎态度。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788996884578676744#m</link>
+      <description><![CDATA[美联储卡什卡里：我对货币政策的限制性持谨慎态度。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788996884578676744#m</guid>
+      <pubDate>Fri, 10 May 2024 18:17:49 GMT</pubDate>
+    </item>
     <item>
       <title>美联储古尔比：供应链已基本痊愈，但劳动力供应增加带来的好处可能会持续到 2024 年。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788987758792339734#m</link>
@@ -22,7 +29,7 @@
     <item>
       <title>美联储古尔比：如果住房通胀下降，通胀将出现“乐观通道”，达到 2%。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788986473829527968#m</link>
-      <description><![CDATA[美联储古尔比：如果住房通胀下降，通胀将出现“乐观通道”，达到 2%。]]></description>
+      <description><![CDATA[美联储官员：如果住房通胀率下降，通胀率将“乐观”地迈向 2%。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788986473829527968#m</guid>
       <pubDate>Fri, 10 May 2024 17:36:27 GMT</pubDate>
     </item>
@@ -71,14 +78,14 @@
     <item>
       <title>美联储古尔比：我们的政策相对限制。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788981367356727770#m</link>
-      <description><![CDATA[美联储官员：我们的政策相对严格。]]></description>
+      <description><![CDATA[美联储古尔比：我们的政策相对限制。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788981367356727770#m</guid>
       <pubDate>Fri, 10 May 2024 17:16:10 GMT</pubDate>
     </item>
     <item>
-      <title>美联储古尔比：今年我们遭遇了通货膨胀，现在我们在等待。</title>
+      <title>美联储古尔比：今年我们遭遇了通胀冲击，现在我们等待。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788980693017464858#m</link>
-      <description><![CDATA[美联储古尔比：今年通胀大幅上涨，现在我们等待。]]></description>
+      <description><![CDATA[美联储古尔比：今年我们遭遇了通货膨胀，现在我们等待。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788980693017464858#m</guid>
       <pubDate>Fri, 10 May 2024 17:13:29 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 10 May 2024 17:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>美联储的目标：美联储2%的通胀目标作为预期的支柱。</title>
+      <title>美联储古尔比：美联储 2% 的通胀目标是预期的锚。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788979932934086801#m</link>
       <description><![CDATA[美联储古尔比：美联储 2% 的通胀目标是预期的锚。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788979932934086801#m</guid>
       <pubDate>Fri, 10 May 2024 17:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国贝克休斯石油钻井平台实际数量 496（预测 -，之前 499） $宏观</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788977755696042197#m</link>
-      <description><![CDATA[美国贝克休斯石油钻井平台实际数量为 496（预测 -，之前为 499）$MACRO]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788977755696042197#m</guid>
-      <pubDate>Fri, 10 May 2024 17:01:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
