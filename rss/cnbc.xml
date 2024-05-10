@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 10 May 2024 04:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 04:49:00 GMT</lastBuildDate>
+    <item>
+      <title>据报道，Target 因遭到强烈反对而下架部分门店的 LGBTQ 骄傲月产品</title>
+      <link>https://www.cnbc.com/2024/05/10/target-to-reportedly-cut-lgbtq-pride-month-products-from-some-stores-after-backlash.html</link>
+      <description><![CDATA[Target 计划在线提供全系列商品，但正在检查商店级别的数据，以确定哪些实体店将销售这些产品。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/target-to-reportedly-cut-lgbtq-pride-month-products-from-some-stores-after-backlash.html</guid>
+      <pubDate>Fri, 10 May 2024 04:48:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>众议院委员会要求微软的布拉德·史密斯参加有关安全漏洞的听证会</title>
+      <link>https://www.cnbc.com/2024/05/10/house-committee-seeks-microsofts-brad-smith-for-cybersecurity-hearing.html</link>
+      <description><![CDATA[在中国黑客入侵商务部长吉娜·雷蒙多的电子邮件帐户后，微软一直面临压力。国会希望参与其中。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/house-committee-seeks-microsofts-brad-smith-for-cybersecurity-hearing.html</guid>
+      <pubDate>Fri, 10 May 2024 04:46:48 GMT</pubDate>
+    </item>
     <item>
       <title>中国最大芯片制造商中芯国际警告称，由于季度利润未达预期，竞争将“激烈”</title>
       <link>https://www.cnbc.com/2024/05/10/chinas-smic-warns-of-fierce-chip-competition-as-it-misses-profit-estimates.html</link>
       <description><![CDATA[第一季度净利润同比下降68.9%至7179万美元。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/chinas-smic-warns-of-fierce-chip-competition-as-it-misses-profit-estimates.html</guid>
       <pubDate>Fri, 10 May 2024 04:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>参议院通过全面的航空安全和消费者法案</title>
-      <link>https://www.cnbc.com/2024/05/09/senate-passes-sweeping-aviation-safety-consumer-bill.html</link>
-      <description><![CDATA[美国参议院周四晚些时候以压倒性多数通过了一项广泛的航空法案，以增加空中交通管制员的人员配备，增加资金以避免跑道险情事件，并加快取消航班的退款。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/senate-passes-sweeping-aviation-safety-consumer-bill.html</guid>
-      <pubDate>Fri, 10 May 2024 00:43:51 GMT</pubDate>
     </item>
     <item>
       <title>在华欧洲企业面临增长放缓、产能过剩的压力</title>
@@ -48,18 +55,11 @@
       <pubDate>Thu, 09 May 2024 23:19:57 GMT</pubDate>
     </item>
     <item>
-      <title>NLRB 指控特斯拉制定政策来冷却布法罗工人的工会努力</title>
+      <title>特斯拉被 NLRB 指控制定政策来冷却布法罗工人的工会努力</title>
       <link>https://www.cnbc.com/2024/05/09/tesla-accused-by-nlrb-of-chilling-worker-unionizing-efforts-in-buffalo.html</link>
       <description><![CDATA[根据周三晚间提交的一份投诉书，国家劳工关系委员会指责特斯拉采取措施阻止纽约州布法罗的员工加入工会。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/tesla-accused-by-nlrb-of-chilling-worker-unionizing-efforts-in-buffalo.html</guid>
       <pubDate>Thu, 09 May 2024 21:33:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普在封口费案中第二次误审失败</title>
-      <link>https://www.cnbc.com/2024/05/09/trump-trial-stormy-daniels-testimony-hush-money-case.html</link>
-      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 被指控伪造商业记录，以掩盖 2016 年总统大选前向斯托米·丹尼尔斯 (Stormy Daniels) 支付的封口费。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/trump-trial-stormy-daniels-testimony-hush-money-case.html</guid>
-      <pubDate>Thu, 09 May 2024 21:26:44 GMT</pubDate>
     </item>
     <item>
       <title>据报道，中国电动汽车制造商 Zeekr IPO 定价为 21 美元，处于区间上限</title>
@@ -78,19 +78,19 @@
     <item>
       <title>股东敦促赌场重新评估室内吸烟</title>
       <link>https://www.cnbc.com/2024/05/09/casinos-face-shareholder-votes-over-indoor-smoking.html</link>
-      <description><![CDATA[禁烟令的倡导者指出，C3 Gaming 的研究得出的结论是，无烟赌场可以产生更多收入，并且比允许吸烟的竞争对手表现更好。]]></description>
+      <description><![CDATA[禁烟倡导者指出，C3 Gaming 的研究得出结论，无烟赌场可以创造更多收入，并且比允许吸烟的竞争对手表现更好。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/casinos-face-shareholder-votes-over-indoor-smoking.html</guid>
       <pubDate>Thu, 09 May 2024 20:40:46 GMT</pubDate>
     </item>
     <item>
       <title>两位提名人补充说，如果公司扩大董事会，Masimo 活动家同意结束代理权之争</title>
       <link>https://www.cnbc.com/2024/05/09/masimo-seeks-to-stave-off-proxy-fight-with-politan-makes-settlement-offer.html</link>
-      <description><![CDATA[活动家波利坦回应了马西莫的和解提议，要求将马西莫的董事会扩大到七名董事，并增加波利坦的两名提名人。]]></description>
+      <description><![CDATA[活动人士波利坦回应了马西莫的和解提议，要求将马西莫的董事会扩大到七名董事，并增加波利坦的两名提名人。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/masimo-seeks-to-stave-off-proxy-fight-with-politan-makes-settlement-offer.html</guid>
       <pubDate>Thu, 09 May 2024 20:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，辛克莱正在考虑出售大约 30% 的广播电台</title>
+      <title>据消息人士称，辛克莱考虑出售其约 30% 的广播电台</title>
       <link>https://www.cnbc.com/2024/05/09/sinclair-explores-selling-30percent-of-broadcast-stations.html</link>
       <description><![CDATA[据知情人士透露，辛克莱正在考虑出售其 185 个广播电台中的大部分。]]></description>
       <guid>https://www.cnbc.com/2024/05/09/sinclair-explores-selling-30percent-of-broadcast-stations.html</guid>
