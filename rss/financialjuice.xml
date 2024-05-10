@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice/@financialjuice</title>
+    <title>FinancialJuice / @financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
     <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 10 May 2024 09:26:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 09:50:39 GMT</lastBuildDate>
+    <item>
+      <title>日本首相岸田：政府将与日本央行密切合作。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788866524305936865#m</link>
+      <description><![CDATA[日本首相岸田：政府将与日本央行密切合作。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788866524305936865#m</guid>
+      <pubDate>Fri, 10 May 2024 09:39:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本首相岸田：密切关注日元疲软。</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788866362665730091#m</link>
+      <description><![CDATA[日本首相岸田文雄：密切关注日元疲软情况。]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788866362665730091#m</guid>
+      <pubDate>Fri, 10 May 2024 09:39:11 GMT</pubDate>
+    </item>
     <item>
       <title>意大利 7 年期 2.95% BTP 拍卖
 
@@ -23,14 +37,14 @@
     <item>
       <title>意大利 7 年 BTP 实际投标覆盖率 1.37（预测 -，前值 1.35） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788861322194550997#m</link>
-      <description><![CDATA[意大利 7 年 BTP 实际投标覆盖率 1.37（预测 -，之前 1.35）$MACRO ]]></description>
+      <description><![CDATA[意大利 7 年期 BTP 投标覆盖率实际 1.37（预测 -，之前为 1.35）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788861322194550997#m</guid>
       <pubDate>Fri, 10 May 2024 09:19:09 GMT</pubDate>
     </item>
     <item>
       <title>意大利 7 年期 BTP 实际收益率 3.52%（预测 -，前值 3.53%） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788861265630187807#m</link>
-      <description><![CDATA[意大利 7 年期 BTP 实际收益率 3.52%（预测 -，之前 3.53%）$MACRO]]></description>
+      <description><![CDATA[意大利 7 年期 BTP 收益率实际为 3.52%（预测 -，之前为 3.53%）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788861265630187807#m</guid>
       <pubDate>Fri, 10 May 2024 09:18:55 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
       <pubDate>Fri, 10 May 2024 09:17:31 GMT</pubDate>
     </item>
     <item>
-      <title>意大利 3 年期 BTP 收益率实际 3.32%（预测 -，之前 3.32%）$MACRO</title>
+      <title>意大利 3 年期 BTP 实际收益率 3.32%（预测 -，前值 3.32%） $宏观</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788860902378250324#m</link>
       <description><![CDATA[意大利 3 年期 BTP 收益率实际为 3.32%（预测 -，之前为 3.32%）$MACRO]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788860902378250324#m</guid>
@@ -87,7 +101,7 @@
     <item>
       <title>BOFA 引用 EPFR 数据：现金流入 678 亿美元，加密货币流入 1 亿美元，黄金流出 7 亿美元。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788834422352986158#m</link>
-      <description><![CDATA[BOFA 援引 EPFR 数据称：现金流入 678 亿美元，加密货币流入 1 亿美元，黄金流出 7 亿美元。]]></description>
+      <description><![CDATA[BOFA 引用 EPFR 数据：现金流入 678 亿美元，加密货币流入 1 亿美元，黄金流出 7 亿美元。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788834422352986158#m</guid>
       <pubDate>Fri, 10 May 2024 07:32:15 GMT</pubDate>
     </item>
@@ -99,7 +113,7 @@
       <pubDate>Fri, 10 May 2024 07:32:13 GMT</pubDate>
     </item>
     <item>
-      <title>BOFA 牛市和熊市指标从 5.2 升至 5.4。</title>
+      <title>BOFA牛熊指标从5.2升至5.4。</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788834207122305280#m</link>
       <description><![CDATA[博法牛&amp;熊市指标从 5.2 升至 5.4。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788834207122305280#m</guid>
@@ -111,20 +125,6 @@
       <description><![CDATA[BOFA：新兴市场股票资金流出 6 亿美元新兴市场债务流出达 7 亿美元。]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788834025311805794#m</guid>
       <pubDate>Fri, 10 May 2024 07:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>BOFA 援引 EPFR 数据：股市流入 148 亿美元，为 6 周以来最大流入量。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788833992524833194#m</link>
-      <description><![CDATA[BOFA 援引 EPFR 数据：股市流入 148 亿美元，为 6 周以来最大流入量。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788833992524833194#m</guid>
-      <pubDate>Fri, 10 May 2024 07:30:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>BOFA 引用 EPFR 数据：债券基金最近一周流入 178 亿美元，为 2021 年 7 月以来最大单周流入量。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1788833850879086801#m</link>
-      <description><![CDATA[BOFA 引用 EPFR 数据：债券基金最近一周流入 178 亿美元，为 2021 年 7 月以来最大单周流入量。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1788833850879086801#m</guid>
-      <pubDate>Fri, 10 May 2024 07:29:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
