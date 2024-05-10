@@ -1,30 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 10 May 2024 18:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 19:11:00 GMT</lastBuildDate>
+    <item>
+      <title>道指上涨，指数有望连续 8 天上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/09/stock-market-today-live-updates.html</link>
+      <description><![CDATA[受强劲的财报季和美联储降息希望的提振，投资者最近对股市前景更有信心。]]></description>
+      <guid>https://www.cnbc.com/2024/05/09/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 10 May 2024 19:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>BMO正在逢低买入房地产。这些产生股息的股票在其买入名单上</title>
+      <link>https://www.cnbc.com/2024/05/10/bmo-is-buying-the-real-estate-dip-these-dividend-yielding-stocks-on-are-its-buy-list.html</link>
+      <description><![CDATA[BMO 表示，房地产投资信托已经超卖，这为投资者提供了机会。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/bmo-is-buying-the-real-estate-dip-these-dividend-yielding-stocks-on-are-its-buy-list.html</guid>
+      <pubDate>Fri, 10 May 2024 19:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>错过了最后的学生贷款减免期限？可能还有其他缓解选择</title>
+      <link>https://www.cnbc.com/2024/05/10/missed-the-student-loan-forgiveness-deadline-there-are-other-options.html</link>
+      <description><![CDATA[一些错过了 4 月 30 日最后期限以有资格获得更快债务减免的学生贷款借款人可能仍有资格获得其他减免选项。]]></description>
+      <guid>https://www.cnbc.com/2024/05/10/missed-the-student-loan-forgiveness-deadline-there-are-other-options.html</guid>
+      <pubDate>Fri, 10 May 2024 19:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密矿商 CleanSpark 通过收购怀俄明州的两个地点进行扩张：CNBC Crypto World</title>
+      <link>https://www.cnbc.com/video/2024/05/10/crypto-miner-cleanspark-acquisition-two-wyoming-locations-crypto-world.html</link>
+      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过备受瞩目的采访、解释和来自不断变化的加密行业的独特故事，让观众了解未来的发展趋势。在今天的节目中，CleanSpark 首席执行官扎卡里·布拉德福德 (Zachary Bradford) 讨论了该公司的盈利情况以及在怀俄明州的扩张计划。]]></description>
+      <guid>https://www.cnbc.com/video/2024/05/10/crypto-miner-cleanspark-acquisition-two-wyoming-locations-crypto-world.html</guid>
+      <pubDate>Fri, 10 May 2024 19:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>亿万富翁量化投资先驱吉姆·西蒙斯 (Jim Simons) 去世，享年 86 岁，创造了令人瞠目结舌的回报</title>
       <link>https://www.cnbc.com/2024/05/10/jim-simons-billionaire-quantitative-investing-pioneer-who-generated-eye-popping-returns-dies-at-86.html</link>
       <description><![CDATA[创立量化对冲基金文艺复兴科技公司的传奇数学家吉姆·西蒙斯于周五去世。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/jim-simons-billionaire-quantitative-investing-pioneer-who-generated-eye-popping-returns-dies-at-86.html</guid>
       <pubDate>Fri, 10 May 2024 18:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>BMO正在逢低买入房地产。这些产生股息的股票是其买入名单</title>
-      <link>https://www.cnbc.com/2024/05/10/bmo-is-buying-the-real-estate-dip-these-dividend-yielding-stocks-on-are-its-buy-list.html</link>
-      <description><![CDATA[BMO 表示，房地产投资信托已经超卖，这为投资者提供了机会。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/bmo-is-buying-the-real-estate-dip-these-dividend-yielding-stocks-on-are-its-buy-list.html</guid>
-      <pubDate>Fri, 10 May 2024 18:22:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普检察官表示他们可以在下周休庭审理，迈克尔·科恩在场</title>
-      <link>https://www.cnbc.com/2024/05/10/trump-trial-hush-money-testimony-white-house-aide.html</link>
-      <description><![CDATA[唐纳德·特朗普封口费审判结束了一周，色情明星斯托米·丹尼尔斯和两名前白宫助手的证词。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/trump-trial-hush-money-testimony-white-house-aide.html</guid>
-      <pubDate>Fri, 10 May 2024 18:21:35 GMT</pubDate>
     </item>
     <item>
       <title>麦当劳正在努力推出 5 美元超值餐</title>
@@ -36,14 +50,14 @@
     <item>
       <title>Fat Brands 股价暴跌，原因是公司及其董事长 Andy Wiederhorn 被指控涉嫌 4700 万美元“虚假”贷款计划</title>
       <link>https://www.cnbc.com/2024/05/10/fat-brands-chair-andy-wiederhorn-indicted-in-47-million-loan-scheme.html</link>
-      <description><![CDATA[Fat Brands 旗下品牌包括 Fatburger、Johnny Rockets 和 Twin Peaks。]]></description>
+      <description><![CDATA[Fat Brands 的产品组合包括 Fatburger、Johnny Rockets 和 Twin Peaks。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/fat-brands-chair-andy-wiederhorn-indicted-in-47-million-loan-scheme.html</guid>
       <pubDate>Fri, 10 May 2024 17:56:16 GMT</pubDate>
     </item>
     <item>
       <title>通胀忧虑加剧消费者信心大跌</title>
       <link>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</link>
-      <description><![CDATA[密歇根大学消费者调查显示 5 月份的读数为 67.4，低于 4 月份的 77.2。]]></description>
+      <description><![CDATA[密歇根大学消费者调查显示，五月份消费者信心指数为 67.4，低于四月份的 77.2。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/consumer-sentiment-tumbles-as-inflation-fears-surge-closely-watched-survey-shows.html</guid>
       <pubDate>Fri, 10 May 2024 17:31:58 GMT</pubDate>
     </item>
@@ -62,16 +76,9 @@
       <pubDate>Fri, 10 May 2024 17:20:19 GMT</pubDate>
     </item>
     <item>
-      <title>中午涨幅最大的股票：Novavax、台积电、Sweetgreen 等</title>
-      <link>https://www.cnbc.com/2024/05/10/stocks-making-the-biggest-moves-midday-nvax-tsm-sg.html</link>
-      <description><![CDATA[这些是午盘交易中涨幅最大的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/05/10/stocks-making-the-biggest-moves-midday-nvax-tsm-sg.html</guid>
-      <pubDate>Fri, 10 May 2024 16:49:02 GMT</pubDate>
-    </item>
-    <item>
       <title>美国经济分裂的背后：豪华旅游的蓬勃发展和“救济”贷款的激增</title>
       <link>https://www.cnbc.com/2024/05/10/behind-americas-divided-economy-booming-luxury-travel-and-a-jump-in-relief-loans.html</link>
-      <description><![CDATA[消费者的行为因收入水平而异。]]></description>
+      <description><![CDATA[根据收入水平的不同，消费者的行为也大不相同。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/behind-americas-divided-economy-booming-luxury-travel-and-a-jump-in-relief-loans.html</guid>
       <pubDate>Fri, 10 May 2024 16:46:33 GMT</pubDate>
     </item>
@@ -90,21 +97,14 @@
       <pubDate>Fri, 10 May 2024 15:58:52 GMT</pubDate>
     </item>
     <item>
-      <title>苹果为 iPad Pro 广告道歉，广告中液压机毁坏了吉他、钢琴</title>
-      <link>https://www.cnbc.com/2024/05/09/apple-apologizes-for-ipad-pro-ad-showing-hydraulic-press-destroying-guitars-piano.html</link>
-      <description><![CDATA[苹果公司周四采取不同寻常的举措，为该公司新款 iPad Pro 平板电脑的短广告视频道歉。]]></description>
-      <guid>https://www.cnbc.com/2024/05/09/apple-apologizes-for-ipad-pro-ad-showing-hydraulic-press-destroying-guitars-piano.html</guid>
-      <pubDate>Fri, 10 May 2024 14:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约 3,500 美元，洛杉矶 8,000 美元——租房者透露他们的租金：“这里的房价太贵了”</title>
+      <title>纽约 3,500 美元，洛杉矶 8,000 美元——租房者透露他们支付的价格：“这里的房价太贵了”</title>
       <link>https://www.cnbc.com/2024/05/10/how-much-rent-is-in-nyc-and-la-what-people-pay-and-is-it-worth-it.html</link>
       <description><![CDATA[纽约人和洛杉矶人分享了他们在这些大城市的租金花费，以及他们是否认为这笔巨额费用值得。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/how-much-rent-is-in-nyc-and-la-what-people-pay-and-is-it-worth-it.html</guid>
       <pubDate>Fri, 10 May 2024 14:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>赛诺菲 (Sanofi) 与 Covid 疫苗商业化、开发组合疫苗达成交易，Novavax 股价飙升超过 100%</title>
+      <title>Novavax 股价飙升逾 100%，因赛诺菲 (Sanofi) 达成协议将新冠疫苗商业化并开发联合疫苗</title>
       <link>https://www.cnbc.com/2024/05/10/novavax-and-sanofi-to-commercialize-covid-vaccine-develop-combo-shots.html</link>
       <description><![CDATA[这笔交易将使 Novavax 解除其“持续经营”警告，该警告是该公司于 2023 年首次发布的，原因是对其生存能力存在“严重怀疑”。]]></description>
       <guid>https://www.cnbc.com/2024/05/10/novavax-and-sanofi-to-commercialize-covid-vaccine-develop-combo-shots.html</guid>
