@@ -3,8 +3,15 @@
   <channel>
     <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 提要：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sat, 11 May 2024 21:13:07 GMT</lastBuildDate>
+    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Sat, 11 May 2024 21:23:50 GMT</lastBuildDate>
+    <item>
+      <title>您认为谁会赢得欧洲歌唱大赛？</title>
+      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1789403221577847066#m</link>
+      <description><![CDATA[您认为谁会赢得欧洲歌唱大赛？]]></description>
+      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1789403221577847066#m</guid>
+      <pubDate>Sat, 11 May 2024 21:12:28 GMT</pubDate>
+    </item>
     <item>
       <title>突发新闻：埃及官方媒体称，由于拉法的“不可接受的升级”，该国拒绝与以色列协调援助进入</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1789401046432759896#m</link>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 11 May 2024 20:25:40 GMT</pubDate>
     </item>
     <item>
-      <title>突发新闻：《华盛顿邮报》报道称，美国正在向以色列提供“敏感情报，帮助以色列军方查明哈马斯领导人的位置”，以避免拉法的入侵</title>
+      <title>突发新闻：《华盛顿邮报》报道称，美国正在向以色列提供“敏感情报，以帮助以色列军方查明哈马斯领导人的位置”，以避免对拉法的入侵</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1789390333236711485#m</link>
       <description><![CDATA[突发新闻：《华盛顿邮报》报道称，美国正在向以色列提供“敏感情报，帮助以色列军方查明哈马斯领导人的位置”，以避免对拉法的入侵]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1789390333236711485#m</guid>
@@ -146,7 +153,7 @@
       <pubDate>Sat, 11 May 2024 14:00:02 GMT</pubDate>
     </item>
     <item>
-      <title>科技：彭博社报道称，苹果即将与 OpenAI 达成协议，在 iPhone 上使用其技术，作为“更广泛推动将人工智能功能引入其设备的一部分”</title>
+      <title>科技：据彭博社报道，苹果即将与 OpenAI 达成协议，在 iPhone 上使用其技术，作为“更广泛推动将人工智能功能引入其设备的一部分”</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1789279291517317372#m</link>
       <description><![CDATA[技术：彭博社报道称，苹果即将与 OpenAI 达成协议，在 iPhone 上使用其技术，作为“更广泛推动将人工智能功能引入其设备的一部分”]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1789279291517317372#m</guid>
@@ -205,7 +212,7 @@
 🇧🇳文莱：4.5%
 🇵🇭菲律宾：3.9%
 🇹🇼台湾：3.4%
-🇲🇾马来西亚：3.3%
+🇲🇾 马来西亚：3.3%
 🇲🇲缅甸：3%
 🇰🇷韩国：2.8%
 🇯🇵日本：2.6%
@@ -229,13 +236,6 @@
       <description><![CDATA[突发新闻：以色列军方表示，现已有 30 万人从拉法撤离]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1789223515344019879#m</guid>
       <pubDate>Sat, 11 May 2024 09:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>上一篇：马来西亚前总理纳吉布·拉扎克 (Najib Razak) 的妻子罗斯玛·曼索尔 (Rosmah Mansor) 提起诉讼，要求索取通过盗窃资金获得的价值 3.46 亿美元的奢侈品。</title>
-      <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1789221935441977643#m</link>
-      <description><![CDATA[最新消息：马来西亚前总理纳吉布·拉扎克 (Najib Razak) 的妻子罗斯玛·曼索尔 (Rosmah Mansor) 提起诉讼，要求通过盗窃资金获得价值 3.46 亿美元的奢侈品。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1789221935441977643#m</guid>
-      <pubDate>Sat, 11 May 2024 09:12:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
