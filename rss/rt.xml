@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>RT 世界新闻</title>
+    <title>RT世界新闻</title>
     <link>https://www.rt.com/news/</link>
     <description>RT 世界新闻</description>
-    <lastBuildDate>Wed, 15 May 2024 17:51:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 18:18:16 GMT</lastBuildDate>
+    <item>
+      <title>拜登和特朗普同意互相辩论</title>
+      <link>https://www.rt.com/news/597661-trump-biden-agree-to-debates/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 美国总统乔·拜登和共和党挑战者唐纳德·特朗普已接受 CNN 6 月和 ABC 9 月辩论的邀请 在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/597661-trump-biden-agree-to-debates/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Wed, 15 May 2024 18:02:20 GMT</pubDate>
+    </item>
     <item>
       <title>欧盟向以色列发出警告</title>
       <link>https://www.rt.com/news/597651-eu-israel-offensive-rafah-warning/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 法国政府在新喀里多尼亚连续两天骚乱后实施宵禁在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/597607-french-territory-curfew-riots/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Wed, 15 May 2024 03:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列称平民伤亡率创历史最低</title>
-      <link>https://www.rt.com/news/597605-israel-gaza-civilian-death-estimate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 以色列将加沙平民死亡人数确定为 16,000 人，称哈马斯大大高估了伤亡人数 在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/597605-israel-gaza-civilian-death-estimate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Tue, 14 May 2024 23:03:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
