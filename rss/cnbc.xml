@@ -3,8 +3,36 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 15 May 2024 12:53:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Wed, 15 May 2024 13:09:00 GMT</lastBuildDate>
+    <item>
+      <title>4月份通胀放缓，居民消费价格同比上涨3.4%</title>
+      <link>https://www.cnbc.com/2024/05/15/cpi-inflation-april-2024-consumer-prices-rose-0point3percent-in-april.html</link>
+      <description><![CDATA[根据道琼斯共识估计，消费者价格指数预计将比去年同期上涨 3.4%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/cpi-inflation-april-2024-consumer-prices-rose-0point3percent-in-april.html</guid>
+      <pubDate>Wed, 15 May 2024 13:10:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战争实时更新：在俄罗斯的猛烈炮火下，乌克兰从被围困的哈尔科夫地区部分地区撤军</title>
+      <link>https://www.cnbc.com/2024/05/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[乌克兰军方表示，已从哈尔科夫的几个战斗热点地区撤军以避免损失，而俄罗斯军队仍在继续取得进展。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Wed, 15 May 2024 13:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根士丹利表示，随着中美贸易紧张局势重新浮现，这些股票可能会获胜</title>
+      <link>https://www.cnbc.com/2024/05/15/morgan-stanley-says-these-stocks-could-win-as-us-china-trade-tensions-resurface.html</link>
+      <description><![CDATA[一些股票有望受益于拜登政府对中国的新一轮关税。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/morgan-stanley-says-these-stocks-could-win-as-us-china-trade-tensions-resurface.html</guid>
+      <pubDate>Wed, 15 May 2024 13:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>格鲁吉亚总统就“如何拯救”国家举行会谈，美国、欧盟和北约谴责“俄罗斯法律”</title>
+      <link>https://www.cnbc.com/2024/05/15/us-eu-and-nato-decry-georgias-decision-to-adopt-russian-law.html</link>
+      <description><![CDATA[美国、欧盟、北约和联合国均发表声明，对格鲁吉亚分裂性立法表示担忧。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/us-eu-and-nato-decry-georgias-decision-to-adopt-russian-law.html</guid>
+      <pubDate>Wed, 15 May 2024 12:55:30 GMT</pubDate>
+    </item>
     <item>
       <title>GameStop、AMC 股价下跌，因 Meme 股票涨势仅两天后便告失败</title>
       <link>https://www.cnbc.com/2024/05/15/gamestop-amc-extend-gains-but-broader-meme-stock-rally-fizzles.html</link>
@@ -25,20 +53,6 @@
       <description><![CDATA[新泽西州民主党参议员罗伯特·梅南德斯 (Robert Menendez) 和他的妻子被指控收受现金、金条和其他物品贿赂，以换取官方行为。]]></description>
       <guid>https://www.cnbc.com/2024/05/15/bob-menendez-bribery-trial-opening-statements-corruption-jury.html</guid>
       <pubDate>Wed, 15 May 2024 12:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>4月份居民消费价格上涨0.3%，不及预期</title>
-      <link>https://www.cnbc.com/2024/05/15/cpi-inflation-april-2024-consumer-prices-rose-0point3percent-in-april.html</link>
-      <description><![CDATA[根据道琼斯共识估计，消费者价格指数预计将比去年同期上涨 3.4%。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/cpi-inflation-april-2024-consumer-prices-rose-0point3percent-in-april.html</guid>
-      <pubDate>Wed, 15 May 2024 12:45:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰战争实时更新：在俄罗斯的猛烈炮火下，乌克兰从被围困的哈尔科夫地区部分地区撤军</title>
-      <link>https://www.cnbc.com/2024/05/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[乌克兰军方表示，已从哈尔科夫的几个战斗热点地区撤军以避免损失，而俄罗斯军队仍在继续取得进展。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Wed, 15 May 2024 12:31:59 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊在 Upfronts 上的亮相凸显了其超越数字广告并进军传统媒体的趋势</title>
@@ -62,13 +76,6 @@
       <pubDate>Wed, 15 May 2024 12:20:19 GMT</pubDate>
     </item>
     <item>
-      <title>盘前涨幅最大的股票：AMC、GameStop、波音、戴尔等</title>
-      <link>https://www.cnbc.com/2024/05/15/stocks-making-the-biggest-moves-premarket-amc-ba-dell-.html</link>
-      <description><![CDATA[这些是盘前交易中涨幅最大的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/stocks-making-the-biggest-moves-premarket-amc-ba-dell-.html</guid>
-      <pubDate>Wed, 15 May 2024 12:14:13 GMT</pubDate>
-    </item>
-    <item>
       <title>索尼支持的计算初创公司将在伦敦股市进行罕见的首次公开募股</title>
       <link>https://www.cnbc.com/2024/05/15/sony-backed-raspberry-pi-heads-for-rare-london-ipo.html</link>
       <description><![CDATA[制造微型单板计算机的 Raspberry Pi 在一份文件中表示，正在考虑在伦敦证券交易所进行首次公开​​募股。]]></description>
@@ -90,18 +97,11 @@
       <pubDate>Wed, 15 May 2024 11:45:45 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利表示，随着中美贸易紧张局势重新浮现，这些股票可能会获胜</title>
-      <link>https://www.cnbc.com/2024/05/15/morgan-stanley-says-these-stocks-could-win-as-us-china-trade-tensions-resurface.html</link>
-      <description><![CDATA[一些股票有望受益于拜登政府对中国的新一轮关税。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/morgan-stanley-says-these-stocks-could-win-as-us-china-trade-tensions-resurface.html</guid>
-      <pubDate>Wed, 15 May 2024 11:21:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>司法部称波音违反了 2021 年协议，该协议使其免受 737 Max 坠机事件的刑事指控</title>
-      <link>https://www.cnbc.com/2024/05/14/justice-department-says-boeing-breached-2021-agreement-that-shielded-it-from-criminal-charges-over-737-max-crashes.html</link>
-      <description><![CDATA[美国司法部表示，波音公司违反了 2021 年暂缓起诉协议，该协议保护该公司免于因两起致命 737 Max 空难而受到刑事指控。]]></description>
-      <guid>https://www.cnbc.com/2024/05/14/justice-department-says-boeing-breached-2021-agreement-that-shielded-it-from-criminal-charges-over-737-max-crashes.html</guid>
-      <pubDate>Tue, 14 May 2024 23:43:03 GMT</pubDate>
+      <title>帕洛阿尔托即将面临一项关键考验，可能会使其摆脱华尔街的禁区</title>
+      <link>https://www.cnbc.com/2024/05/15/palo-alto-nears-test-that-could-break-the-stock-out-of-the-penalty-box.html</link>
+      <description><![CDATA[在单独的研究报告中，巴克莱银行和摩根士丹利分享了帕洛阿尔托正在反弹的三个原因。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/palo-alto-nears-test-that-could-break-the-stock-out-of-the-penalty-box.html</guid>
+      <pubDate>Wed, 15 May 2024 10:00:01 GMT</pubDate>
     </item>
     <item>
       <title>沃尔玛正在全国范围内裁员、重新安置数百名企业员工。阅读备忘录</title>
