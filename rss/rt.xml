@@ -3,8 +3,15 @@
   <channel>
     <title>RT 世界新闻</title>
     <link>https://www.rt.com/news/</link>
-    <description>RT 世界新闻</description>
-    <lastBuildDate>Wed, 15 May 2024 13:16:44 GMT</lastBuildDate>
+    <description>RT世界新闻</description>
+    <lastBuildDate>Wed, 15 May 2024 13:36:26 GMT</lastBuildDate>
+    <item>
+      <title>斯洛伐克总理菲科被枪杀——媒体</title>
+      <link>https://www.rt.com/news/597636-slovakia-minister-fico-wounded/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
+      <description><![CDATA[ 斯洛伐克媒体报道，罗伯特·菲科在连发多枪后受伤 在 RT.com 上阅读全文]]></description>
+      <guid>https://www.rt.com/news/597636-slovakia-minister-fico-wounded/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
+      <pubDate>Wed, 15 May 2024 13:20:09 GMT</pubDate>
+    </item>
     <item>
       <title>布林肯告诉乌克兰人接受征兵</title>
       <link>https://www.rt.com/news/597633-blinken-ukraine-military-mobilization/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
@@ -92,7 +99,7 @@
     <item>
       <title>克里姆林宫透露普京访华细节</title>
       <link>https://www.rt.com/news/597589-putin-china-visit-agenda-ushakov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 弗拉基米尔·普京就职后首次出访将与习近平一起庆祝俄中伙伴关系在 RT.com 上阅读全文]]></description>
+      <description><![CDATA[ 弗拉基米尔·普京就职后首次出访将与习近平庆祝俄中伙伴关系在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/597589-putin-china-visit-agenda-ushakov/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Tue, 14 May 2024 19:12:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 报道称，戴维·卡梅伦与唐纳德·特朗普会面，讨论与俄罗斯谈判乌克兰和平协议的策略在 RT.com 上阅读全文]]></description>
       <guid>https://www.rt.com/news/597593-uk-cameron-discusses-ukraine-peace-talks-with-trump/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
       <pubDate>Tue, 14 May 2024 17:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国监狱货车伏击两名警卫身亡</title>
-      <link>https://www.rt.com/news/597592-france-prison-van-attack/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</link>
-      <description><![CDATA[ 武装团伙光天化日之下袭击监狱车队，释放了一名法国毒枭，目前正在进行搜捕在 RT.com 上阅读全文]]></description>
-      <guid>https://www.rt.com/news/597592-france-prison-van-attack/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS</guid>
-      <pubDate>Tue, 14 May 2024 17:10:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
