@@ -1,21 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 15 May 2024 16:32:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 16:50:00 GMT</lastBuildDate>
+    <item>
+      <title>联邦调查局指控兄弟在 12 秒内盗窃了 2500 万美元的加密货币</title>
+      <link>https://www.cnbc.com/2024/05/15/feds-charge-brothers-in-25-million-cryptocurrency-heist-that-took-12-seconds.html</link>
+      <description><![CDATA[美国司法部周二以电信欺诈和洗钱罪名逮捕了这两兄弟。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/feds-charge-brothers-in-25-million-cryptocurrency-heist-that-took-12-seconds.html</guid>
+      <pubDate>Wed, 15 May 2024 16:50:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登和特朗普同意于6月27日和9月10日举行辩论</title>
+      <link>https://www.cnbc.com/2024/05/15/biden-challenges-trump-to-two-debates-before-election.html</link>
+      <description><![CDATA[总统乔·拜登此前表示，他愿意与他的共和党挑战者、前总统唐纳德·特朗普进行辩论。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/biden-challenges-trump-to-two-debates-before-election.html</guid>
+      <pubDate>Wed, 15 May 2024 16:49:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着标准普尔 500 指数创下新的历史新高，这些表现强劲的股票仍然很便宜</title>
+      <link>https://www.cnbc.com/2024/05/15/the-strong-performers-are-still-cheap-as-the-sp-500-hits-a-fresh-all-time-high.html</link>
+      <description><![CDATA[尽管大盘达到历史新高，但从美国主要航空公司到受欢迎的玩具制造商等几只股票的挑选时机仍然成熟。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/the-strong-performers-are-still-cheap-as-the-sp-500-hits-a-fresh-all-time-high.html</guid>
+      <pubDate>Wed, 15 May 2024 16:47:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>TD Cowen 表示，牛仔布股可以受益于西方风格的流行</title>
+      <link>https://www.cnbc.com/2024/05/15/denim-stocks-can-benefit-with-western-style-in-vogue-td-cowen-says.html</link>
+      <description><![CDATA[该公司给出了驾驭狂野西部潮流的顶级创意。]]></description>
+      <guid>https://www.cnbc.com/2024/05/15/denim-stocks-can-benefit-with-western-style-in-vogue-td-cowen-says.html</guid>
+      <pubDate>Wed, 15 May 2024 16:44:26 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix 将在三年内直播圣诞节 NFL 比赛</title>
       <link>https://www.cnbc.com/2024/05/15/netflix-to-stream-holiday-nfl-games-for-three-years.html</link>
-      <description><![CDATA[Netflix 与体育赛事直播达成了在圣诞节直播 NFL 比赛的协议，迈出了迄今为止最重要的一步。]]></description>
+      <description><![CDATA[Netflix 与体育直播达成了在圣诞节直播 NFL 比赛的协议，迈出了迄今为止最重要的一步。]]></description>
       <guid>https://www.cnbc.com/2024/05/15/netflix-to-stream-holiday-nfl-games-for-three-years.html</guid>
       <pubDate>Wed, 15 May 2024 16:36:29 GMT</pubDate>
     </item>
     <item>
       <title>“我们必须做我们必须做的事”：尽管美国关系紧张，以色列内塔尼亚胡仍坚定支持拉法攻势</title>
       <link>https://www.cnbc.com/2024/05/15/we-have-to-do-what-we-have-to-do-israels-netanyahu-stands-firm-on-rafah-offensive-despite-us-tensions.html</link>
-      <description><![CDATA[以色列总理本雅明内塔尼亚胡承认，以色列与历史盟友美国在加沙地带拉法赫的军事行动上存在紧张关系。]]></description>
+      <description><![CDATA[以色列总理本杰明·内塔尼亚胡承认，由于加沙地带拉法的军事行动，以色列与历史盟友美国关系紧张。]]></description>
       <guid>https://www.cnbc.com/2024/05/15/we-have-to-do-what-we-have-to-do-israels-netanyahu-stands-firm-on-rafah-offensive-despite-us-tensions.html</guid>
       <pubDate>Wed, 15 May 2024 16:31:27 GMT</pubDate>
     </item>
@@ -41,20 +69,6 @@
       <pubDate>Wed, 15 May 2024 16:25:28 GMT</pubDate>
     </item>
     <item>
-      <title>拜登和特朗普同意在“让我开心，朋友”挑战后于 6 月 27 日和 9 月 10 日进行辩论</title>
-      <link>https://www.cnbc.com/2024/05/15/biden-challenges-trump-to-two-debates-before-election.html</link>
-      <description><![CDATA[总统乔·拜登此前表示，他愿意与他的共和党挑战者、前总统唐纳德·特朗普进行辩论。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/biden-challenges-trump-to-two-debates-before-election.html</guid>
-      <pubDate>Wed, 15 May 2024 16:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着标准普尔 500 指数创下新的历史新高，表现强劲的股票仍然便宜</title>
-      <link>https://www.cnbc.com/2024/05/15/the-strong-performers-are-still-cheap-as-the-sp-500-hits-a-fresh-all-time-high.html</link>
-      <description><![CDATA[尽管大盘达到历史新高，但从美国主要航空公司到受欢迎的玩具制造商等几只股票的挑选时机仍然成熟。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/the-strong-performers-are-still-cheap-as-the-sp-500-hits-a-fresh-all-time-high.html</guid>
-      <pubDate>Wed, 15 May 2024 16:16:34 GMT</pubDate>
-    </item>
-    <item>
       <title>特斯拉的中国竞争对手蔚来推出新品牌和汽车，售价比 Model Y 低 4,000 美元</title>
       <link>https://www.cnbc.com/2024/05/15/china-ev-price-wars-nios-onvo-brand-undercuts-tesla-model-y.html</link>
       <description><![CDATA[中国电动汽车公司 Nio 周三透露，其新的低价品牌 Onvo 的首款汽车将比特斯拉的 Model Y 便宜约 4,000 美元。]]></description>
@@ -69,16 +83,9 @@
       <pubDate>Wed, 15 May 2024 15:38:54 GMT</pubDate>
     </item>
     <item>
-      <title>Instagram 联合创始人 Mike Krieger 加入亚马逊支持的 Anthropic</title>
-      <link>https://www.cnbc.com/2024/05/15/instagram-co-founder-mike-krieger-joins-amazon-backed-anthropic.html</link>
-      <description><![CDATA[Instagram 联合创始人 Mike Krieger 将加入 Anthropic 担任首席产品官。 Anthropic 是最热门的人工智能初创公司之一。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/instagram-co-founder-mike-krieger-joins-amazon-backed-anthropic.html</guid>
-      <pubDate>Wed, 15 May 2024 15:00:21 GMT</pubDate>
-    </item>
-    <item>
       <title>Uber 推出班车服务、护理人员功能和 Costco 福利</title>
       <link>https://www.cnbc.com/2024/05/15/uber-go-get-uber-announces-uber-shuttle-uber-caregiver-costco-perks.html</link>
-      <description><![CDATA[Uber 周三宣布了几项新产品更新，例如 Uber Shuttle、Costco 福利以及允许护理人员为人们预订乘车的功能。]]></description>
+      <description><![CDATA[Uber 周三宣布了几项新产品更新，例如 Uber Shuttle、Costco 福利以及允许护理人员为人们预订乘车服务的功能。]]></description>
       <guid>https://www.cnbc.com/2024/05/15/uber-go-get-uber-announces-uber-shuttle-uber-caregiver-costco-perks.html</guid>
       <pubDate>Wed, 15 May 2024 15:00:01 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Wed, 15 May 2024 14:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>GameStop、AMC 暴跌逾 20%，Meme 股价涨势仅两天后便宣告失败</title>
+      <title>GameStop、AMC 暴跌超过 20%，Meme 股票涨势仅两天后便告失败</title>
       <link>https://www.cnbc.com/2024/05/15/gamestop-amc-extend-gains-but-broader-meme-stock-rally-fizzles.html</link>
       <description><![CDATA[GameStop 和 AMC 股价下跌，因为迷因股票交易狂潮在第三天早些时候显示出消退的迹象。]]></description>
       <guid>https://www.cnbc.com/2024/05/15/gamestop-amc-extend-gains-but-broader-meme-stock-rally-fizzles.html</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[亚马逊首次向广告商推销 Upfronts，与主要媒体网络一起登上舞台。]]></description>
       <guid>https://www.cnbc.com/2024/05/15/amazon-goes-head-to-head-with-media-giants-in-upfronts-ads-debut-.html</guid>
       <pubDate>Wed, 15 May 2024 12:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰米戴蒙敦促美国尽快解决赤字问题</title>
-      <link>https://www.cnbc.com/2024/05/15/jpmorgan-ceo-jamie-dimon-urges-us-to-deal-with-its-fiscal-deficit.html</link>
-      <description><![CDATA[摩根大通首席执行官杰米·戴蒙周三敦促美国政府尽早削减财政赤字。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/jpmorgan-ceo-jamie-dimon-urges-us-to-deal-with-its-fiscal-deficit.html</guid>
-      <pubDate>Wed, 15 May 2024 12:26:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
