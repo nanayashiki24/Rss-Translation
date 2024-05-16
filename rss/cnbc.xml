@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 16 May 2024 21:12:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 22:02:00 GMT</lastBuildDate>
+    <item>
+      <title>蓝筹股平均指数首次触及 40,000 点后，道指期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道指周四首次短暂突破 40,000 点。]]></description>
+      <guid>https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html</guid>
+      <pubDate>Thu, 16 May 2024 22:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>NBA 正在挑选下一个电视合作伙伴 - 交易取决于华纳兄弟探索频道的下一步行动</title>
+      <link>https://www.cnbc.com/2024/05/16/nba-tv-rights-deal-hinges-on-warner-bros-discovery.html</link>
+      <description><![CDATA[消息人士称，如果联盟决定与 NBCUniversal 签署协议，华纳兄弟探索频道与 NBA 的最新谈判可能会演变成一场法律战。]]></description>
+      <guid>https://www.cnbc.com/2024/05/16/nba-tv-rights-deal-hinges-on-warner-bros-discovery.html</guid>
+      <pubDate>Thu, 16 May 2024 21:56:48 GMT</pubDate>
+    </item>
     <item>
       <title>FDA 批准安进治疗最致命肺癌的疗法</title>
       <link>https://www.cnbc.com/2024/05/16/fda-approves-amgen-small-cell-lung-cancer-treatment.html</link>
@@ -15,7 +29,7 @@
     <item>
       <title>Reddit 宣布与 OpenAI 达成交易后股价飙升，允许使用其数据来训练人工智能模型</title>
       <link>https://www.cnbc.com/2024/05/16/reddit-soars-after-announcing-openai-deal-on-ai-training-models.html</link>
-      <description><![CDATA[OpenAI 和 Reddit 宣布建立合作伙伴关系，这将允许 ChatGPT 制造商在 Reddit 内容上训练其人工智能模型。]]></description>
+      <description><![CDATA[OpenAI 和 Reddit 宣布建立合作伙伴关系，ChatGPT 制造商将能够根据 Reddit 内容训练其人工智能模型。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/reddit-soars-after-announcing-openai-deal-on-ai-training-models.html</guid>
       <pubDate>Thu, 16 May 2024 21:44:21 GMT</pubDate>
     </item>
@@ -25,13 +39,6 @@
       <description><![CDATA[在将备受期待的《侠盗猎车手 VI》定于 2025 年秋季发布后，Take-Two Interactive 周四下调了对 2025 财年预订量的预期。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/take-two-expects-grand-theft-auto-vi-launch-in-fall-2025-cuts-bookings-forecast.html</guid>
       <pubDate>Thu, 16 May 2024 21:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>道指周四收盘走低，此前首次短暂突破 40,000 点：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/15/stock-market-today-live-updates.html</link>
-      <description><![CDATA[随着华尔街继续辉煌的一年，道琼斯工业平均指数首次短暂升至 40,000 点以上。]]></description>
-      <guid>https://www.cnbc.com/2024/05/15/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 16 May 2024 20:49:43 GMT</pubDate>
     </item>
     <item>
       <title>沃尔玛股价飙升至历史新高，因收入超过高收入购物者和电子商务的增长</title>
@@ -50,16 +57,9 @@
     <item>
       <title>前 Facebook 和 Nike 多元化经理因诈骗 500 万美元被判入狱 5 年</title>
       <link>https://www.cnbc.com/2024/05/16/facebook-nike-furlow-smile-prison-fraud.html</link>
-      <description><![CDATA[佐治亚州居民芭芭拉·弗洛·斯迈尔斯 (Barbara Furlow-Smiles) 曾担任 Facebook 和 Nike 的多元化经理，被勒令为其盗窃计划支付赔偿金。]]></description>
+      <description><![CDATA[佐治亚州居民芭芭拉·福洛·斯迈尔斯 (Barbara Furlow-Smiles) 曾担任 Facebook 和 Nike 的多元化经理，被勒令为其盗窃计划支付赔偿金。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/facebook-nike-furlow-smile-prison-fraud.html</guid>
       <pubDate>Thu, 16 May 2024 19:54:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>NBA 正在挑选下一个电视合作伙伴 - 交易取决于华纳兄弟探索频道的下一步行动</title>
-      <link>https://www.cnbc.com/2024/05/16/nba-tv-rights-deal-hinges-on-warner-bros-discovery.html</link>
-      <description><![CDATA[消息人士称，如果联盟决定与 NBCUniversal 签署协议，华纳兄弟探索频道与 NBA 的最新谈判可能会演变成一场法律战。]]></description>
-      <guid>https://www.cnbc.com/2024/05/16/nba-tv-rights-deal-hinges-on-warner-bros-discovery.html</guid>
-      <pubDate>Thu, 16 May 2024 19:37:11 GMT</pubDate>
     </item>
     <item>
       <title>丹·勒布 (Dan Loeb) 的第三点增加了第一季度大型科技股的持有量，但有一个值得注意的例外</title>
@@ -106,7 +106,7 @@
     <item>
       <title>美国在战争上花了多少钱</title>
       <link>https://www.cnbc.com/2024/05/16/how-much-money-the-us-spends-on-war.html</link>
-      <description><![CDATA[2023年美国军费开支达到9160亿美元，占世界军费总额的三分之一以上。]]></description>
+      <description><![CDATA[2023年美国军费开支将达到9160亿美元，占世界总军费开支的三分之一以上。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/how-much-money-the-us-spends-on-war.html</guid>
       <pubDate>Thu, 16 May 2024 10:02:01 GMT</pubDate>
     </item>
