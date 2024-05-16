@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 16 May 2024 22:45:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 23:38:00 GMT</lastBuildDate>
     <item>
       <title>NBA 正在挑选电视合作伙伴——交易能否达成取决于华纳兄弟探索频道的下一步行动</title>
       <link>https://www.cnbc.com/2024/05/16/nba-tv-rights-deal-hinges-on-warner-bros-discovery.html</link>
       <description><![CDATA[消息人士称，如果联盟决定与 NBCUniversal 签署协议，华纳兄弟探索频道与 NBA 的最新谈判可能会演变成一场法律战。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/nba-tv-rights-deal-hinges-on-warner-bros-discovery.html</guid>
       <pubDate>Thu, 16 May 2024 23:14:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>莫迪寻求第三个任期，其强人统治引发了印度“民主衰落”的质疑</title>
+      <link>https://www.cnbc.com/2024/05/17/modi-strongman-rule-raises-questions-on-indias-democratic-decline.html</link>
+      <description><![CDATA[观察家和批评人士称，印度出现了民主倒退的迹象，这种迹象在莫迪时代就变得更加明显。]]></description>
+      <guid>https://www.cnbc.com/2024/05/17/modi-strongman-rule-raises-questions-on-indias-democratic-decline.html</guid>
+      <pubDate>Thu, 16 May 2024 23:13:28 GMT</pubDate>
     </item>
     <item>
       <title>蓝筹股平均指数首次触及 40,000 点后，道指期货几乎没有变化：实时更新</title>
@@ -22,7 +29,7 @@
     <item>
       <title>克莱默在“噩梦”的运动服装市场中挑选了两只“获胜”的鞋类股票</title>
       <link>https://www.cnbc.com/2024/05/16/cramer-picks-two-winning-footwear-stocks-in-a-tough-market.html</link>
-      <description><![CDATA[CNBC 的吉姆·克莱默 (Jim Cramer) 周四挑选了两只他认为将取得成功的鞋类股票：On Holding 和 Deckers Outdoor。]]></description>
+      <description><![CDATA[CNBC 的 Jim Cramer 周四挑选了两只他认为将取得成功的鞋类股票：On Holding 和 Deckers Outdoor。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/cramer-picks-two-winning-footwear-stocks-in-a-tough-market.html</guid>
       <pubDate>Thu, 16 May 2024 22:45:08 GMT</pubDate>
     </item>
@@ -41,9 +48,9 @@
       <pubDate>Thu, 16 May 2024 21:44:21 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔玛股价飙升至历史新高，因收入超过高收入购物者和电子商务的增长</title>
+      <title>由于收入超过高收入购物者和电子商务的增长，沃尔玛飙升至历史新高</title>
       <link>https://www.cnbc.com/2024/05/16/walmart-wmt-q1-2025-earnings-.html</link>
-      <description><![CDATA[沃尔玛是美国最大的零售商和私营雇主，经常被视为美国经济的风向标，其本季度销售额增长了 6%。]]></description>
+      <description><![CDATA[沃尔玛是美国最大的零售商和私人雇主，通常被视为美国经济的风向标，本季度销售额增长了 6%。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/walmart-wmt-q1-2025-earnings-.html</guid>
       <pubDate>Thu, 16 May 2024 20:04:51 GMT</pubDate>
     </item>
@@ -55,28 +62,21 @@
       <pubDate>Thu, 16 May 2024 19:57:50 GMT</pubDate>
     </item>
     <item>
-      <title>前 Facebook 和 Nike 多元化经理因诈骗 500 万美元被判入狱 5 年</title>
-      <link>https://www.cnbc.com/2024/05/16/facebook-nike-furlow-smile-prison-fraud.html</link>
-      <description><![CDATA[佐治亚州居民芭芭拉·福洛·斯迈尔斯 (Barbara Furlow-Smiles) 曾担任 Facebook 和 Nike 的多元化经理，被勒令为其盗窃计划支付赔偿金。]]></description>
-      <guid>https://www.cnbc.com/2024/05/16/facebook-nike-furlow-smile-prison-fraud.html</guid>
-      <pubDate>Thu, 16 May 2024 19:54:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>丹·勒布的 Third Point 在第一季度增持了大型科技股 — — 但有一个明显的例外</title>
+      <title>丹·勒布 (Dan Loeb) 的第三点增加了第一季度大型科技股的持有量，但有一个值得注意的例外</title>
       <link>https://www.cnbc.com/2024/05/16/dan-loebs-third-point-adds-to-megacap-tech-holdings-in-q1-with-one-exception.html</link>
       <description><![CDATA[该对冲基金将资金投入科技股，同时撤回了一大笔头寸。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/dan-loebs-third-point-adds-to-megacap-tech-holdings-in-q1-with-one-exception.html</guid>
       <pubDate>Thu, 16 May 2024 19:36:10 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔玛表示，随着快餐价格上涨，越来越多的食客开始购买其食品杂货</title>
+      <title>沃尔玛称，随着快餐价格上涨，越来越多的食客开始购买其食品杂货</title>
       <link>https://www.cnbc.com/2024/05/16/walmart-earnings-grocery-sales-rise-as-fast-food-prices-increases.html</link>
       <description><![CDATA[沃尔玛首席财务官表示，各种收入的顾客都在寻找更便宜的餐食。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/walmart-earnings-grocery-sales-rise-as-fast-food-prices-increases.html</guid>
       <pubDate>Thu, 16 May 2024 17:51:10 GMT</pubDate>
     </item>
     <item>
-      <title>斯坦利·德鲁肯米勒（Stanley Druckenmiller）上个季度在小盘股中建立了巨大的看涨头寸</title>
+      <title>斯坦利·德鲁肯米勒（Stanley Druckenmiller）上季度在小盘股中建立了巨大的看涨头寸</title>
       <link>https://www.cnbc.com/2024/05/16/stanley-druckenmiller-built-big-bullish-position-in-small-cap-stocks.html</link>
       <description><![CDATA[这位现任杜肯家族办公室 (Duquesne Family Office) 运营商的著名投资者购买了 3,157,900 股 iShares Russell 2000 ETF (IWM) 的看涨期权。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/stanley-druckenmiller-built-big-bullish-position-in-small-cap-stocks.html</guid>
