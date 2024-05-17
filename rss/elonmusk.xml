@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>埃隆·马斯克/@elonmusk</title>
+    <title>伊隆·马斯克/@elonmusk</title>
     <link>http://nitter.esmailelbob.xyz/elonmusk</link>
     <description>Twitter 消息源：@elonmusk。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Fri, 17 May 2024 14:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 14:51:31 GMT</lastBuildDate>
     <item>
-      <title>所有核心系统现在均在 http://X.com 上</title>
+      <title>起诉/福奇</title>
+      <link>http://nitter.esmailelbob.xyz/elonmusk/status/1791480027416060350#m</link>
+      <description><![CDATA[起诉/福奇
+nitter.esmailelbob.xyz/thackerpd/status/1791452017900032436#m]]></description>
+      <guid>http://nitter.esmailelbob.xyz/elonmusk/status/1791480027416060350#m</guid>
+      <pubDate>Fri, 17 May 2024 14:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有核心系统现已位于 http://X.com</title>
       <link>http://nitter.esmailelbob.xyz/elonmusk/status/1791351500217754008#m</link>
       <description><![CDATA[所有核心系统现已位于X.com
 ]]></description>
@@ -16,9 +24,9 @@
     <item>
       <title>Neuralink 正在接受第二位参与者的申请。
 
-这是我们的心灵感应控制论大脑植入物，让您只需通过思考即可控制手机和计算机。
+这是我们的 Telepathy 控制论大脑植入物，它允许您仅通过思考来控制您的手机和电脑。
 
-没有人比诺兰（@ModdedQuad）本人更能告诉你第一个！</title>
+没有人比 Noland (@ModdedQuad) 本人更能向您介绍第一位参与者！</title>
       <link>http://nitter.esmailelbob.xyz/elonmusk/status/1791332539220521079#m</link>
       <description><![CDATA[Neuralink 正在接受第二位参与者的申请。 
 
@@ -30,9 +38,9 @@ nitter.esmailelbob.xyz/neuralink/status/1791208277327438004#m]]></description>
       <pubDate>Fri, 17 May 2024 04:58:53 GMT</pubDate>
     </item>
     <item>
-      <title>@elonmusk 的转发：今天为您带来重大改进！请在接下来的几天内告诉我们您的反馈，它是变好了还是变坏了？
+      <title>RT @elonmusk：今天对 For you 进行了重大改进！让我们知道您在接下来几天的反馈，情况是变得更好还是更糟？
 
-对于那些感兴趣的人：我们正在消除几种主要的启发式方法，因为我们正朝着基于实时端到端神经网络的建议迈进。</title>
+对于那些感兴趣的人：当我们转向基于实时端到端神经网络的推荐时，我们正在消除几个主要的启发式方法。</title>
       <link>http://nitter.esmailelbob.xyz/wanghaofei/status/1791332244877136031#m</link>
       <description><![CDATA[今天为您提供的重大改进！让我们知道您在接下来几天的反馈，情况是变得更好还是更糟？
 
@@ -81,7 +89,7 @@ nitter.esmailelbob.xyz/X/status/1790917272355172401#m]]></description>
       <pubDate>Thu, 16 May 2024 09:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 的早期</title>
+      <title>SpaceX 的早期发展</title>
       <link>http://nitter.esmailelbob.xyz/elonmusk/status/1791029436651102240#m</link>
       <description><![CDATA[SpaceX 的早期发展
 ]]></description>
@@ -126,18 +134,6 @@ nitter.esmailelbob.xyz/lexfridman/status/1790814358353650085#m]]></description>
 nitter.esmailelbob.xyz/MinimalDuck/status/1787128965930405953#m]]></description>
       <guid>http://nitter.esmailelbob.xyz/Tesla/status/1790735552716652787#m</guid>
       <pubDate>Wed, 15 May 2024 13:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>祝贺 @SpaceX Falcon 团队今年已成功完成 50 次任务！
-
-有史以来最高的火箭飞行速度。</title>
-      <link>http://nitter.esmailelbob.xyz/elonmusk/status/1790735431505682675#m</link>
-      <description><![CDATA[恭喜 @SpaceX 猎鹰团队今年已成功完成 50 次任务！
-
-有史以来最高的火箭飞行速度。
-nitter.esmailelbob.xyz/SpaceX/status/1790454207176405011#m]]></description>
-      <guid>http://nitter.esmailelbob.xyz/elonmusk/status/1790735431505682675#m</guid>
-      <pubDate>Wed, 15 May 2024 13:26:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
