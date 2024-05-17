@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 17 May 2024 19:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 19:18:00 GMT</lastBuildDate>
     <item>
       <title>道琼斯指数上涨，再次接近 40,000 点，并有望连续五周上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html</link>
       <description><![CDATA[道指周四首次短暂突破 40,000 点。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 17 May 2024 19:11:14 GMT</pubDate>
+      <pubDate>Fri, 17 May 2024 19:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院法官阿利托因美国国旗争议退出特朗普选举案</title>
+      <link>https://www.cnbc.com/2024/05/17/supreme-court-alito-trump-stop-the-steal-flag.html</link>
+      <description><![CDATA[最高法院法官塞缪尔·阿利托和其他法官正在考虑唐纳德·特朗普是否可以免受 2020 年大选后果的起诉]]></description>
+      <guid>https://www.cnbc.com/2024/05/17/supreme-court-alito-trump-stop-the-steal-flag.html</guid>
+      <pubDate>Fri, 17 May 2024 19:15:39 GMT</pubDate>
     </item>
     <item>
       <title>随着股价试图维持创纪录水平，英伟达的盈利将成为下周的焦点</title>
@@ -22,7 +29,7 @@
     <item>
       <title>OpenAI 宣布解散专注于长期人工智能风险的团队不到一年</title>
       <link>https://www.cnbc.com/2024/05/17/openai-superalignment-sutskever-leike.html</link>
-      <description><![CDATA[由于团队负责人 Ilya Sutskever 和 Jan Leike 的高调离职，OpenAI 解散了 Superalignment 团队。]]></description>
+      <description><![CDATA[在团队负责人 Ilya Sutskever 和 Jan Leike 相继离职后，OpenAI 解散了其 Superalignment 团队。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/openai-superalignment-sutskever-leike.html</guid>
       <pubDate>Fri, 17 May 2024 19:05:41 GMT</pubDate>
     </item>
@@ -43,12 +50,12 @@
     <item>
       <title>世界顶级高尔夫球手斯科蒂·舍夫勒因在 PGA 锦标赛赛事中袭击官员而被捕</title>
       <link>https://www.cnbc.com/2024/05/17/worlds-top-golfer-scottie-scheffler-arrested-for-assaulting-officer-at-pga-championship-event.html</link>
-      <description><![CDATA[路易斯维尔警方在 PGA 锦标赛前逮捕了斯科蒂·舍夫勒 (Scottie Scheffler)。这名高尔夫球手被指控犯有袭击警察和鲁莽驾驶的重罪。]]></description>
+      <description><![CDATA[路易斯维尔警方在 PGA 锦标赛前逮捕了斯科蒂·舍夫勒。这位高尔夫球手被指控袭击警察和鲁莽驾驶的重罪。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/worlds-top-golfer-scottie-scheffler-arrested-for-assaulting-officer-at-pga-championship-event.html</guid>
       <pubDate>Fri, 17 May 2024 18:18:06 GMT</pubDate>
     </item>
     <item>
-      <title>活动人士博阿兹·韦恩斯坦 (Boaz Weinstein) 表示，贝莱德基金正在“践踏股东权利”</title>
+      <title>维权人士博阿兹·温斯坦 (Boaz Weinstein) 表示，贝莱德基金正在“践踏股东权利”</title>
       <link>https://www.cnbc.com/2024/05/17/blackrock-boaz-weinstein-closed-end-funds.html</link>
       <description><![CDATA[博阿兹·韦恩斯坦 (Boaz Weinstein) 正在为 10 只贝莱德封闭式基金争取控制权或进行改革，这些基金的交易价格远低于其资产净值。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/blackrock-boaz-weinstein-closed-end-funds.html</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>GameStop 称第一季度销售额下降，申请出售额外股票后股价下跌 20%</title>
       <link>https://www.cnbc.com/2024/05/17/gamestop-shares-fall-after-it-files-to-sell-securities-says-first-quarter-sales-declined.html</link>
-      <description><![CDATA[GameStop 表示计划出售证券，并公布初步业绩显示第一季度销售额下降。]]></description>
+      <description><![CDATA[GameStop 表示计划出售证券，并公布了初步结果，显示第一季度销售额下降。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/gamestop-shares-fall-after-it-files-to-sell-securities-says-first-quarter-sales-declined.html</guid>
       <pubDate>Fri, 17 May 2024 17:20:10 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>波音股东重新选举即将离任的首席执行官卡尔霍恩加入董事会</title>
       <link>https://www.cnbc.com/2024/05/17/boeing-calhoun-reelected-shareholder-vote.html</link>
-      <description><![CDATA[新任董事会主席史蒂夫·莫伦科普夫表示，他已向投资者和波音客户征求有关卡尔霍恩继任者的反馈意见。]]></description>
+      <description><![CDATA[新任董事会主席史蒂夫·莫伦科普夫表示，他已向投资者和波音客户寻求有关卡尔霍恩继任者的反馈。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/boeing-calhoun-reelected-shareholder-vote.html</guid>
       <pubDate>Fri, 17 May 2024 16:46:44 GMT</pubDate>
     </item>
@@ -90,13 +97,6 @@
       <pubDate>Fri, 17 May 2024 16:09:12 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院法官阿利托敦促撤回因美国国旗争议而导致的特朗普选举案</title>
-      <link>https://www.cnbc.com/2024/05/17/supreme-court-alito-trump-stop-the-steal-flag.html</link>
-      <description><![CDATA[最高法院法官塞缪尔·阿利托和其他法官正在考虑唐纳德·特朗普是否可以免受 2020 年大选后果的起诉]]></description>
-      <guid>https://www.cnbc.com/2024/05/17/supreme-court-alito-trump-stop-the-steal-flag.html</guid>
-      <pubDate>Fri, 17 May 2024 15:57:22 GMT</pubDate>
-    </item>
-    <item>
       <title>摩根大通表示，比特币面临“几个”阻力，短期内将给矿商带来挑战</title>
       <link>https://www.cnbc.com/2024/05/17/bitcoin-faces-headwinds-challenging-miners-in-near-term-says-jpmorgan.html</link>
       <description><![CDATA[正如预期的那样，在减半后，无法盈利的比特币矿工开始退出网络。剩下的人面临一些近期挑战。]]></description>
@@ -104,9 +104,9 @@
       <pubDate>Fri, 17 May 2024 15:41:33 GMT</pubDate>
     </item>
     <item>
-      <title>“安静的财富”通过豪宅、艺术品和老爷车的超私人交易获得新的含义</title>
+      <title>豪宅、艺术品和经典汽车的超级私人交易让“静默财富”有了新的含义</title>
       <link>https://www.cnbc.com/2024/05/17/private-deals-mansions-art-cars.html</link>
-      <description><![CDATA[去年，虽然苏富比、佳士得和菲利普斯的公开拍卖总额下降了 19%，但私人拍卖却有所增长。]]></description>
+      <description><![CDATA[去年，虽然苏富比、佳士得和富艺斯的公开拍卖销售额合计下降了 19%，但私人拍卖却有所上升。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/private-deals-mansions-art-cars.html</guid>
       <pubDate>Fri, 17 May 2024 14:27:55 GMT</pubDate>
     </item>
