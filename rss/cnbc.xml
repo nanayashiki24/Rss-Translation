@@ -3,21 +3,21 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Fri, 17 May 2024 05:45:00 GMT</lastBuildDate>
+    <item>
+      <title>史蒂夫·乔布斯的前实习生回忆为这位科技大亨工作的经历：“我每天在离他 20 码的地方工作”</title>
+      <link>https://www.cnbc.com/2024/05/17/steve-jobs-old-intern-chet-kapoor-said-working-for-the-tech-mogul-was-phenomenal.html</link>
+      <description><![CDATA[史蒂夫·乔布斯的前实习生现在是一名科技首席执行官，他将自己的公司卖给了谷歌。他将自己的成功很大程度上归功于在 NeXT 的工作时间。]]></description>
+      <guid>https://www.cnbc.com/2024/05/17/steve-jobs-old-intern-chet-kapoor-said-working-for-the-tech-mogul-was-phenomenal.html</guid>
+      <pubDate>Fri, 17 May 2024 05:52:22 GMT</pubDate>
+    </item>
     <item>
       <title>蓝筹股平均指数首次触及 40,000 点后，道指期货几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html</link>
       <description><![CDATA[道指周四首次短暂突破 40,000 点。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html</guid>
       <pubDate>Fri, 17 May 2024 05:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>史蒂夫·乔布斯的前实习生回忆为这位科技大亨工作的经历：“我每天在离他 20 码的地方工作”</title>
-      <link>https://www.cnbc.com/2024/05/17/steve-jobs-old-intern-chet-kapoor-said-working-for-the-tech-mogul-was-phenomenal.html</link>
-      <description><![CDATA[史蒂夫·乔布斯的前实习生现在是一名科技首席执行官，他将自己的公司卖给了谷歌。他将自己的成功很大程度上归功于在 NeXT 的工作时间。]]></description>
-      <guid>https://www.cnbc.com/2024/05/17/steve-jobs-old-intern-chet-kapoor-said-working-for-the-tech-mogul-was-phenomenal.html</guid>
-      <pubDate>Fri, 17 May 2024 05:10:26 GMT</pubDate>
     </item>
     <item>
       <title>国际货币基金组织表示美国应保持开放贸易并与中国合作解决争端</title>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 17 May 2024 04:59:24 GMT</pubDate>
     </item>
     <item>
-      <title>由于零售和投资数据令人失望，中国消费放缓</title>
+      <title>由于零售销售和投资数据令人失望，中国消费放缓</title>
       <link>https://www.cnbc.com/2024/05/17/china-economy-april-retail-sales-industrial-production-investment-data.html</link>
       <description><![CDATA[中国周五公布的数据显示，消费方面的增长放缓，而工业活动仍然强劲。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/china-economy-april-retail-sales-industrial-production-investment-data.html</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>美国银行评选“亚洲最重要的股票”——分析师给出超过 40% 的上涨空间</title>
       <link>https://www.cnbc.com/2024/05/17/most-important-stocks-bofa-names-its-top-global-stocks-right-now.html</link>
-      <description><![CDATA[美银证券从 MSCI 亚太指数成分股中筛选出了 20 只亚洲“最重要的股票”。以下是其中的 10 只。]]></description>
+      <description><![CDATA[美银证券从 MSCI 亚太指数成分股中筛选出了 20 只亚洲“最重要的股票”。这里有 10 个。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/most-important-stocks-bofa-names-its-top-global-stocks-right-now.html</guid>
       <pubDate>Thu, 16 May 2024 23:23:17 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>克莱默在“噩梦”的运动服装市场中挑选了两只“获胜”的鞋类股票</title>
       <link>https://www.cnbc.com/2024/05/16/cramer-picks-two-winning-footwear-stocks-in-a-tough-market.html</link>
-      <description><![CDATA[CNBC 的吉姆克莱默 (Jim Cramer) 周四挑选了两只他认为将会成功的鞋类股票：On Holding 和 Deckers Outdoor。]]></description>
+      <description><![CDATA[CNBC 的 Jim Cramer 周四挑选了两只他认为将取得成功的鞋类股票：On Holding 和 Deckers Outdoor。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/cramer-picks-two-winning-footwear-stocks-in-a-tough-market.html</guid>
       <pubDate>Thu, 16 May 2024 22:45:08 GMT</pubDate>
     </item>
@@ -90,14 +90,14 @@
       <pubDate>Thu, 16 May 2024 21:47:17 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 宣布与 OpenAI 达成交易后股价飙升，允许使用其数据来训练人工智能模型</title>
+      <title>Reddit 宣布与 OpenAI 达成协议，允许其使用数据训练 AI 模型，股价飙升</title>
       <link>https://www.cnbc.com/2024/05/16/reddit-soars-after-announcing-openai-deal-on-ai-training-models.html</link>
       <description><![CDATA[OpenAI 和 Reddit 宣布建立合作伙伴关系，ChatGPT 制造商将能够根据 Reddit 内容训练其人工智能模型。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/reddit-soars-after-announcing-openai-deal-on-ai-training-models.html</guid>
       <pubDate>Thu, 16 May 2024 21:44:21 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe 倒闭后，Figma 交易允许员工以 125 亿美元估值出售股票</title>
+      <title>Adobe 倒闭后，Figma 交易允许员工以 125 亿美元的估值出售股票</title>
       <link>https://www.cnbc.com/2024/05/16/figma-tender-offer-values-company-at-12point5-billion.html</link>
       <description><![CDATA[Figma 周四宣布了一项要约收购，允许现任和前任员工以 125 亿美元的估值出售股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/16/figma-tender-offer-values-company-at-12point5-billion.html</guid>
