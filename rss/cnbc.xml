@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Sat, 18 May 2024 19:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 20:31:00 GMT</lastBuildDate>
+    <item>
+      <title>阿富汗异常强降雨引发山洪，造成至少 68 人死亡</title>
+      <link>https://www.cnbc.com/2024/05/18/flash-floods-from-heavy-seasonal-rains-kill-at-least-68-in-afghanistan.html</link>
+      <description><![CDATA[塔利班官员周六表示，阿富汗遭遇严重洪水，造成至少 68 人死亡。]]></description>
+      <guid>https://www.cnbc.com/2024/05/18/flash-floods-from-heavy-seasonal-rains-kill-at-least-68-in-afghanistan.html</guid>
+      <pubDate>Sat, 18 May 2024 20:29:42 GMT</pubDate>
+    </item>
     <item>
       <title>鲁迪·朱利安尼在自己的生日聚会上嘲笑亚利桑那州总检察长后收到起诉书</title>
       <link>https://www.cnbc.com/2024/05/18/rudy-giuliani-is-served-indictment-papers-at-his-own-birthday-party-after-mocking-arizona-attorney-general.html</link>
@@ -22,12 +29,12 @@
     <item>
       <title>OpenAI 宣布解散专注于长期人工智能风险的团队不到一年</title>
       <link>https://www.cnbc.com/2024/05/17/openai-superalignment-sutskever-leike.html</link>
-      <description><![CDATA[在团队负责人 Ilya Sutskever 和 Jan Leike 相继离职后，OpenAI 解散了其 Superalignment 团队。]]></description>
+      <description><![CDATA[由于团队负责人 Ilya Sutskever 和 Jan Leike 的高调离职，OpenAI 解散了 Superalignment 团队。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/openai-superalignment-sutskever-leike.html</guid>
       <pubDate>Sat, 18 May 2024 17:49:09 GMT</pubDate>
     </item>
     <item>
-      <title>一些消费者正在推迟购买游泳池和床垫等大件物品</title>
+      <title>一些消费者正在大举购买游泳池和床垫等</title>
       <link>https://www.cnbc.com/2024/05/18/some-consumers-are-punting-big-purchases-like-pools-and-mattresses.html</link>
       <description><![CDATA[有一些迹象表明，购物者正在推迟大额购买，这是经济因货币政策收紧而收缩的最新信号。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/some-consumers-are-punting-big-purchases-like-pools-and-mattresses.html</guid>
@@ -55,9 +62,9 @@
       <pubDate>Sat, 18 May 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普时代的减税政策将于 2025 年后到期——以下是你需要了解的内容</title>
+      <title>特朗普时代的减税政策将于 2025 年之后到期——以下是您需要了解的内容</title>
       <link>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</link>
-      <description><![CDATA[前总统唐纳德·特朗普颁布的多项减税措施将于 2025 年之后到期，国会无需做出修改。以下是它如何影响您的钱包。]]></description>
+      <description><![CDATA[前总统唐纳德·特朗普颁布的几项减税措施将在 2025 年后到期，除非国会做出修改。以下是这可能会对您的钱包产生的影响。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</guid>
       <pubDate>Sat, 18 May 2024 13:00:01 GMT</pubDate>
     </item>
@@ -76,9 +83,9 @@
       <pubDate>Sat, 18 May 2024 12:58:23 GMT</pubDate>
     </item>
     <item>
-      <title>丰田塔科马如何成为美国中型卡车市场之王</title>
+      <title>丰田 Tacoma 如何成为美国中型卡车市场的王者</title>
       <link>https://www.cnbc.com/2024/05/18/how-toyota-tacoma-took-on-ford-f-150-and-us-truck-market.html</link>
-      <description><![CDATA[中型丰田 Tacoma 卡车的销量超过包括美国品牌在内的竞争对手。但市场上越来越多来自福特、通用和 EV 品牌的卡车。]]></description>
+      <description><![CDATA[中型丰田塔科马卡车的销量超过了包括美国品牌在内的竞争对手。但市场上越来越挤满了福特、通用汽车和电动汽车品牌的卡车。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/how-toyota-tacoma-took-on-ford-f-150-and-us-truck-market.html</guid>
       <pubDate>Sat, 18 May 2024 12:00:01 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Sat, 18 May 2024 12:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>一位 28 岁离开美国前往芬兰的年轻人讲述世界上最幸福的国家的生活</title>
+      <title>一位离开美国前往芬兰的 28 岁年轻人讲述世界上最幸福国家的生活是什么样的</title>
       <link>https://www.cnbc.com/2024/05/18/i-left-the-us-for-finland-my-life-in-the-worlds-happiest-country.html</link>
       <description><![CDATA[企业家、内容创作者和美国侨民 Jade Ventoniemi 分享了她为何喜欢生活在世界上最幸福的国家芬兰。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/i-left-the-us-for-finland-my-life-in-the-worlds-happiest-country.html</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[道琼斯工业平均指数突破 40,000 点大关成为了一个不错的头条新闻，但市场专家并没有从这一举动中获得太多其他信息。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/heres-what-has-driven-the-dow-rally-to-40000-and-why-it-could-keep-going.html</guid>
       <pubDate>Fri, 17 May 2024 16:12:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>多伦多的房子买不起，所以我花了 25 万美元买了一艘船屋——这是“我做过的最好的决定”</title>
-      <link>https://www.cnbc.com/2024/05/14/i-pay-1450-a-month-to-live-on-my-toronto-houseboat-take-a-look-inside.html</link>
-      <description><![CDATA[凯特·芬查姆 (Kate Fincham) 买不起多伦多的房地产，直到她找到了一艘船屋：现在“我夏天都会去海滩划皮划艇和野餐，享受日出”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/14/i-pay-1450-a-month-to-live-on-my-toronto-houseboat-take-a-look-inside.html</guid>
-      <pubDate>Fri, 17 May 2024 14:00:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
