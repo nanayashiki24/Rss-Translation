@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Sat, 18 May 2024 15:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 16:45:00 GMT</lastBuildDate>
+    <item>
+      <title>菲尼克斯在通货膨胀方面击败了全国其他地区——至少在纸面上</title>
+      <link>https://www.cnbc.com/2024/05/18/phoenix-is-beating-the-rest-of-the-country-on-inflation-on-paper-anyway.html</link>
+      <description><![CDATA[亚利桑那州最大城市的消费者价格上涨距离美联储 2% 的目标仅几步之遥。这很大程度上要归功于租金降温。]]></description>
+      <guid>https://www.cnbc.com/2024/05/18/phoenix-is-beating-the-rest-of-the-country-on-inflation-on-paper-anyway.html</guid>
+      <pubDate>Sat, 18 May 2024 16:39:48 GMT</pubDate>
+    </item>
     <item>
       <title>一些消费者正在大举购买游泳池和床垫等</title>
       <link>https://www.cnbc.com/2024/05/18/some-consumers-are-punting-big-purchases-like-pools-and-mattresses.html</link>
@@ -20,30 +27,23 @@
       <pubDate>Sat, 18 May 2024 15:00:29 GMT</pubDate>
     </item>
     <item>
-      <title>休斯顿地区在致命风暴后面临供暖和停电问题</title>
-      <link>https://www.cnbc.com/2024/05/18/houston-area-grapples-with-heat-power-cuts-after-deadly-storms.html</link>
-      <description><![CDATA[由于当局在周四的暴风雨后继续进行清理工作，许多休斯顿居民在高温期间断电。]]></description>
-      <guid>https://www.cnbc.com/2024/05/18/houston-area-grapples-with-heat-power-cuts-after-deadly-storms.html</guid>
-      <pubDate>Sat, 18 May 2024 14:54:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究将滑石粉的使用与卵巢癌联系起来——这对成千上万起诉强生的人来说是一个潜在的福音</title>
-      <link>https://www.cnbc.com/2024/05/18/study-links-talc-to-ovarian-cancer-with-implications-for-jj-.html</link>
-      <description><![CDATA[周三在《临床肿瘤学杂志》上发表的分析发现，在生殖器上涂抹滑石粉与卵巢癌有关。]]></description>
-      <guid>https://www.cnbc.com/2024/05/18/study-links-talc-to-ovarian-cancer-with-implications-for-jj-.html</guid>
-      <pubDate>Sat, 18 May 2024 14:29:15 GMT</pubDate>
+      <title>没有“警察”：为什么 SEC 可能会在本月拒绝新的以太坊 ETF</title>
+      <link>https://www.cnbc.com/2024/05/18/crypto-fraud-and-poor-regulation-may-jeopardize-ether-etf-approval.html</link>
+      <description><![CDATA[美国证券交易委员会预计将就批准以太币 ETF 做出重要决定。]]></description>
+      <guid>https://www.cnbc.com/2024/05/18/crypto-fraud-and-poor-regulation-may-jeopardize-ether-etf-approval.html</guid>
+      <pubDate>Sat, 18 May 2024 15:00:01 GMT</pubDate>
     </item>
     <item>
       <title>今年你的季节性过敏症状更严重吗？原因如下——以及缓解症状的技巧</title>
       <link>https://www.cnbc.com/2024/05/18/why-your-seasonal-allergy-symptoms-are-worse-this-year.html</link>
-      <description><![CDATA[有些人的季节性过敏今年更加严重。这就是原因，以及缓解过敏症状并仍然享受春天的有效方法。]]></description>
+      <description><![CDATA[有些人的季节性过敏今年更加严重。这就是原因，以及减轻过敏症状并仍然享受春天的有效方法。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/why-your-seasonal-allergy-symptoms-are-worse-this-year.html</guid>
       <pubDate>Sat, 18 May 2024 14:00:01 GMT</pubDate>
     </item>
     <item>
       <title>削减字母表，购买微软：主要对冲基金第一季度如何投资科技</title>
       <link>https://www.cnbc.com/2024/05/18/trim-googl-buy-msft-how-major-hedge-funds-invested-in-tech-during-the-first-quarter.html</link>
-      <description><![CDATA[随着该行业自 2024 年以来的反弹，对冲基金在第一季度采取了多元化的技术投资方式。]]></description>
+      <description><![CDATA[随着技术行业在 2024 年开始的上涨势头的基础上继续发展，对冲基金在第一季度对技术投资采取了多元化方式。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/trim-googl-buy-msft-how-major-hedge-funds-invested-in-tech-during-the-first-quarter.html</guid>
       <pubDate>Sat, 18 May 2024 13:02:43 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Sat, 18 May 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普时代的减税政策将于 2025 年之后到期——以下是您需要了解的内容</title>
+      <title>特朗普时代的减税政策将于 2025 年后到期——以下是你需要了解的内容</title>
       <link>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</link>
       <description><![CDATA[前总统唐纳德·特朗普颁布的多项减税措施将于 2025 年之后到期，国会无需做出修改。以下是它如何影响您的钱包。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>名人堂成员德怀恩·韦德希望“最大化”退役后职业生涯的每一天</title>
       <link>https://www.cnbc.com/2024/05/18/nba-star-dwyane-wade-wants-to-maximize-each-day-of-his-retirement.html</link>
-      <description><![CDATA[这位 42 岁的人的项目包括拥有运动队、电视评论和写书。]]></description>
+      <description><![CDATA[这位 42 岁高管的项目包​​括拥有运动队、担任电视评论员和写书。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/nba-star-dwyane-wade-wants-to-maximize-each-day-of-his-retirement.html</guid>
       <pubDate>Sat, 18 May 2024 13:00:01 GMT</pubDate>
     </item>
@@ -76,17 +76,17 @@
       <pubDate>Sat, 18 May 2024 12:58:23 GMT</pubDate>
     </item>
     <item>
+      <title>丰田塔科马如何成为美国中型卡车市场之王</title>
+      <link>https://www.cnbc.com/2024/05/18/how-toyota-tacoma-took-on-ford-f-150-and-us-truck-market.html</link>
+      <description><![CDATA[中型丰田塔科马卡车的销量超过了包括美国品牌在内的竞争对手。但市场上越来越挤满了福特、通用汽车和电动汽车品牌的卡车。]]></description>
+      <guid>https://www.cnbc.com/2024/05/18/how-toyota-tacoma-took-on-ford-f-150-and-us-truck-market.html</guid>
+      <pubDate>Sat, 18 May 2024 12:00:01 GMT</pubDate>
+    </item>
+    <item>
       <title>好莱坞罢工仍笼罩在内容清单上，媒体巨头依赖体育</title>
       <link>https://www.cnbc.com/2024/05/18/media-upfronts-sports-hollywood-strikes.html</link>
       <description><![CDATA[媒体公司在前期会议期间吸引广告商，让体育成为焦点，因为内容板块仍然受到去年好莱坞罢工的影响。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/media-upfronts-sports-hollywood-strikes.html</guid>
-      <pubDate>Sat, 18 May 2024 12:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>丰田 Tacoma 如何成为美国中型卡车市场的王者</title>
-      <link>https://www.cnbc.com/2024/05/18/how-toyota-tacoma-took-on-ford-f-150-and-us-truck-market.html</link>
-      <description><![CDATA[中型丰田塔科马卡车的销量超过了包括美国品牌在内的竞争对手。但市场上越来越挤满了福特、通用汽车和电动汽车品牌的卡车。]]></description>
-      <guid>https://www.cnbc.com/2024/05/18/how-toyota-tacoma-took-on-ford-f-150-and-us-truck-market.html</guid>
       <pubDate>Sat, 18 May 2024 12:00:01 GMT</pubDate>
     </item>
     <item>
@@ -97,7 +97,7 @@
       <pubDate>Sat, 18 May 2024 12:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>维权人士博阿兹·韦恩斯坦 (Boaz Weinstein) 表示，贝莱德基金正在“践踏股东权利”</title>
+      <title>活动人士博阿兹·韦恩斯坦 (Boaz Weinstein) 表示，贝莱德基金正在“践踏股东权利”</title>
       <link>https://www.cnbc.com/2024/05/17/blackrock-boaz-weinstein-closed-end-funds.html</link>
       <description><![CDATA[博阿兹·韦恩斯坦 (Boaz Weinstein) 正在为 10 只贝莱德封闭式基金争取控制权或进行改革，这些基金的交易价格远低于其资产净值。]]></description>
       <guid>https://www.cnbc.com/2024/05/17/blackrock-boaz-weinstein-closed-end-funds.html</guid>
