@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FinancialJuice / @financialjuice</title>
+    <title>FinancialJuice/@financialjuice</title>
     <link>http://nitter.esmailelbob.xyz/financialjuice</link>
-    <description>Twitter 供稿：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Sun, 19 May 2024 19:50:58 GMT</lastBuildDate>
+    <description>Twitter 消息源：@financialjuice。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Sun, 19 May 2024 20:50:47 GMT</lastBuildDate>
+    <item>
+      <title>白宫关于沙利文在以色列会面的声明</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1792295962888610011#m</link>
+      <description><![CDATA[白宫关于沙利文在以色列会面的声明]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1792295962888610011#m</guid>
+      <pubDate>Sun, 19 May 2024 20:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫：沙利文建议采取措施增加对加沙的援助</title>
+      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1792295734802301329#m</link>
+      <description><![CDATA[白宫：沙利文建议采取措施增加对加沙的援助]]></description>
+      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1792295734802301329#m</guid>
+      <pubDate>Sun, 19 May 2024 20:46:17 GMT</pubDate>
+    </item>
     <item>
       <title>沙特国王将在宫殿水疗中心接受肺部炎症治疗</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1792280427454955882#m</link>
@@ -48,7 +62,7 @@
       <pubDate>Sun, 19 May 2024 15:59:32 GMT</pubDate>
     </item>
     <item>
-      <title>救援队在 30 分钟内到达莱西总统直升机坠毁的可能坐标：官方媒体</title>
+      <title>国家媒体称，救援队将在 30 分钟内到达总统莱西直升机坠毁地点的可能坐标</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1792222324139126947#m</link>
       <description><![CDATA[救援队在 30 分钟内到达莱西总统直升机坠毁的可能坐标：官方媒体]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1792222324139126947#m</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>伊朗官员：来自航班坠机现场的信息令人担忧</title>
       <link>http://nitter.esmailelbob.xyz/financialjuice/status/1792208598858399768#m</link>
-      <description><![CDATA[伊朗官员：来自航班坠机地点的信息令人担忧]]></description>
+      <description><![CDATA[伊朗官员：航班坠毁现场的信息令人担忧]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1792208598858399768#m</guid>
       <pubDate>Sun, 19 May 2024 15:00:02 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[载有莱西总统及其随行人员的直升机在 UZI 村和 BIR DAOUD-AL JAZEERA 村之间的 DIZMAR 森林地区发生事故]]></description>
       <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1792197467720892638#m</guid>
       <pubDate>Sun, 19 May 2024 14:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>RAISI 直升机因恶劣天气紧急迫降 - 伊朗电视台。</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1792195374360273104#m</link>
-      <description><![CDATA[RAISI 直升机在恶劣天气下紧急降落 - 伊朗电视台。]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1792195374360273104#m</guid>
-      <pubDate>Sun, 19 May 2024 14:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>莱西的直升机紧急降落在森林地区 - 电视</title>
-      <link>http://nitter.esmailelbob.xyz/financialjuice/status/1792195007086293347#m</link>
-      <description><![CDATA[莱西的直升机紧急降落在森林地区 - 电视]]></description>
-      <guid>http://nitter.esmailelbob.xyz/financialjuice/status/1792195007086293347#m</guid>
-      <pubDate>Sun, 19 May 2024 14:06:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
