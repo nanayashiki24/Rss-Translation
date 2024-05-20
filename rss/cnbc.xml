@@ -1,28 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Mon, 20 May 2024 05:35:00 GMT</lastBuildDate>
+    <item>
+      <title>亚洲市场追随华尔街的涨幅；中国维持贷款优惠利率</title>
+      <link>https://www.cnbc.com/2024/05/20/asia-markets.html</link>
+      <description><![CDATA[在周五制定提振房地产市场的措施后，中国将一年期和五年期贷款优惠利率分别维持在 3.45% 和 3.95% 不变。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/asia-markets.html</guid>
+      <pubDate>Mon, 20 May 2024 06:14:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>道琼斯指数首次收于 40,000 点上方，股指期货小幅走高：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四触及历史新高，周五收于 40,000 点上方。]]></description>
+      <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
+      <pubDate>Mon, 20 May 2024 06:05:57 GMT</pubDate>
+    </item>
     <item>
       <title>伊朗官方媒体称，伊朗总统莱西和外交部长阿米拉卜杜拉希安在直升机失事中丧生</title>
       <link>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</link>
       <description><![CDATA[据官方媒体周一报道，伊朗总统易卜拉欣·莱西和外交部长侯赛因·阿米拉卜杜拉希安在直升机失事中丧生。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</guid>
-      <pubDate>Mon, 20 May 2024 05:31:56 GMT</pubDate>
+      <pubDate>Mon, 20 May 2024 05:54:47 GMT</pubDate>
     </item>
     <item>
       <title>马斯克在印度尼西亚推出 SpaceX 的 Starlink 互联网服务，称可能会带来更多投资</title>
       <link>https://www.cnbc.com/2024/05/20/musk-launches-spacexs-starlink-internet-services-in-indonesia.html</link>
-      <description><![CDATA[马斯克表示，他“非常高兴”能够将互联网服务带到互联网连接有限或没有互联网连接的地区。]]></description>
+      <description><![CDATA[马斯克表示，他“非常兴奋”能够将互联网服务带到连接有限或没有连接的地区。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/musk-launches-spacexs-starlink-internet-services-in-indonesia.html</guid>
       <pubDate>Mon, 20 May 2024 05:30:59 GMT</pubDate>
     </item>
     <item>
       <title>杰夫·贝索斯 (Jeff Bezos) 的蓝色起源 (Blue Origin) 自 2022 年停飞以来首次将宇航员送入太空边缘</title>
       <link>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</link>
-      <description><![CDATA[杰夫·贝佐斯的太空公司蓝色起源于周日将六人机组人员从德克萨斯州西部发射到太空边缘，恢复其太空旅游业务。]]></description>
+      <description><![CDATA[杰夫·贝佐斯的太空公司蓝色起源周日将一支由六名宇航员组成的团队从德克萨斯州西部发射到太空边缘，重启其太空旅游业务。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</guid>
       <pubDate>Mon, 20 May 2024 05:01:32 GMT</pubDate>
     </item>
@@ -41,20 +55,6 @@
       <pubDate>Mon, 20 May 2024 04:13:22 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲市场追随华尔街的涨幅；中国维持贷款优惠利率</title>
-      <link>https://www.cnbc.com/2024/05/20/asia-markets.html</link>
-      <description><![CDATA[在周五制定提振房地产市场的措施后，中国将一年期和五年期贷款优惠利率分别维持在 3.45% 和 3.95% 不变。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/asia-markets.html</guid>
-      <pubDate>Mon, 20 May 2024 04:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四触及历史新高，周五收于 40,000 点上方。]]></description>
-      <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
-      <pubDate>Mon, 20 May 2024 01:34:12 GMT</pubDate>
-    </item>
-    <item>
       <title>以并购选择而闻名的对冲基金经理透露了新的收购目标</title>
       <link>https://www.cnbc.com/2024/05/20/atlantic-investments-alexander-roepers-names-new-ma-target.html</link>
       <description><![CDATA[该基金经理的股票选择在过去六个月内已经上涨了 100%，预计在未来 12 至 18 个月内将再飙升 50%。]]></description>
@@ -71,7 +71,7 @@
     <item>
       <title>从 35,000 美元到 446,000 美元：在意大利翻新一套 1 美元的房屋需要花多少钱</title>
       <link>https://www.cnbc.com/2024/05/19/what-it-really-costs-to-renovate-a-1-home-in-italy.html</link>
-      <description><![CDATA[在意大利乡村以便宜的价格买一套房子是有代价的——在一个例子中，代价高达近五十万美元。]]></description>
+      <description><![CDATA[在意大利乡村购买一套廉价房屋是有条件的——有一个例子，价格高达近 50 万美元。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/what-it-really-costs-to-renovate-a-1-home-in-italy.html</guid>
       <pubDate>Sun, 19 May 2024 13:10:01 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Sun, 19 May 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>微软将在 Build 开发者大会上公布其人工智能 PC 愿景</title>
+      <title>微软将在 Build 开发者大会上公布其对 AI PC 的愿景</title>
       <link>https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html</link>
       <description><![CDATA[Microsoft Build 2024 将于周二开始，预计该公司将讨论 Windows 将如何为新的“AI PC”提供动力。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html</guid>
