@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 20 May 2024 10:35:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Mon, 20 May 2024 10:47:00 GMT</lastBuildDate>
     <item>
-      <title>英国将人工智能安全研究所扩展到旧金山，以应对监管缺陷的审查</title>
-      <link>https://www.cnbc.com/2024/05/20/britain-expands-ai-safety-institute-to-san-francisco-home-of-openai.html</link>
-      <description><![CDATA[英国周一表示，将于今年夏天在旧金山举办与美国对应的人工智能安全峰会，这是一个由国家支持的机构，测试先进的人工智能系统。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/britain-expands-ai-safety-institute-to-san-francisco-home-of-openai.html</guid>
-      <pubDate>Mon, 20 May 2024 10:30:03 GMT</pubDate>
+      <title>英国股市表现优于美国，一位首席信息官表示，英国股市看起来“非常便宜”</title>
+      <link>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</link>
+      <description><![CDATA[英国富时 100 指数在过去三个月上涨了约 11%，而更广泛的富时 250 指数则上涨了 9% 以上。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</guid>
+      <pubDate>Mon, 20 May 2024 10:48:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>据伊朗国家媒体报道，伊朗总统莱西和外交部长阿米拉卜杜拉希安在直升机坠毁事件中丧生</title>
+      <link>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</link>
+      <description><![CDATA[据官方媒体周一报道，伊朗总统易卜拉欣·莱西和外交部长侯赛因·阿米拉卜杜拉希安在直升机失事中丧生。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</guid>
+      <pubDate>Mon, 20 May 2024 10:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>周一分析师呼吁：美光获得评级，医院股票上涨超过 25%</title>
+      <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
+      <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
+      <pubDate>Mon, 20 May 2024 10:39:36 GMT</pubDate>
     </item>
     <item>
       <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
@@ -27,23 +41,9 @@
       <pubDate>Mon, 20 May 2024 10:19:42 GMT</pubDate>
     </item>
     <item>
-      <title>周一分析师呼吁：美光获得评级，医院股票上涨超过 25%</title>
-      <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
-      <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
-      <pubDate>Mon, 20 May 2024 10:13:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国股市表现优于美国，一位首席信息官表示英国股市看起来“非常便宜”</title>
-      <link>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</link>
-      <description><![CDATA[英国富时 100 指数在过去三个月上涨了约 11%，而更广泛的富时 250 指数则上涨了 9% 以上。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</guid>
-      <pubDate>Mon, 20 May 2024 10:13:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>价值投资者比尔·尼格伦 (Bill Nygren) 认为金融股很便宜。这些是他的主要持股</title>
+      <title>价值投资者 Bil​​l Nygren 认为金融股很便宜。以下是他持有的头号股票</title>
       <link>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</link>
-      <description><![CDATA[Oakmark Funds 的著名价值投资者认为，即使金融股在 2024 年表现出色，但仍被低估。]]></description>
+      <description><![CDATA[Oakmark Funds 的著名价值投资者认为，即使 2024 年表现出色，金融股仍被低估。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</guid>
       <pubDate>Mon, 20 May 2024 10:02:50 GMT</pubDate>
     </item>
@@ -57,16 +57,9 @@
     <item>
       <title>台湾新总统敦促中国停止“恐吓”并“选择对话而不是对抗”</title>
       <link>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</link>
-      <description><![CDATA[台湾新任总统赖清德周一敦促中国停止对台湾的敌对政治和军事威胁，并致力于实现地区和平。]]></description>
+      <description><![CDATA[台湾新任总统赖清德周一敦促中国停止对台湾的敌对政治和军事威胁，并努力实现地区和平。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</guid>
       <pubDate>Mon, 20 May 2024 08:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗官方媒体称，伊朗总统莱西和外交部长阿米拉卜杜拉希安在直升机失事中丧生</title>
-      <link>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</link>
-      <description><![CDATA[据官方媒体周一报道，伊朗总统易卜拉欣·莱西和外交部长侯赛因·阿米拉卜杜拉希安在直升机失事中丧生。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</guid>
-      <pubDate>Mon, 20 May 2024 07:14:03 GMT</pubDate>
     </item>
     <item>
       <title>市值 90 亿美元的旅游科技公司 Navan 首席执行官表示，今年有望实现盈利，距离 IPO“不远”</title>
@@ -76,7 +69,14 @@
       <pubDate>Mon, 20 May 2024 06:51:19 GMT</pubDate>
     </item>
     <item>
-      <title>拜登在莫尔豪斯毕业典礼上与年轻黑人选民面对 2024 年的弱点</title>
+      <title>杰夫·贝索斯 (Jeff Bezos) 的蓝色起源 (Blue Origin) 自 2022 年停飞以来首次将宇航员送入太空边缘</title>
+      <link>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</link>
+      <description><![CDATA[杰夫·贝佐斯的太空公司蓝色起源于周日将六人机组人员从德克萨斯州西部发射到太空边缘，恢复其太空旅游业务。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</guid>
+      <pubDate>Mon, 20 May 2024 05:01:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登在莫尔豪斯大学毕业典礼上直面 2024 年年轻黑人选民的弱点</title>
       <link>https://www.cnbc.com/2024/05/19/biden-morehouse-graduation-speech-young-black-voters.html</link>
       <description><![CDATA[根据最近的民意调查，自 2020 年大选以来，总统乔·拜登的黑人选民支持率有所下降，而前总统唐纳德·特朗普的支持率则有所上升。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/biden-morehouse-graduation-speech-young-black-voters.html</guid>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 18 May 2024 15:46:06 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普时代的减税政策将于 2025 年后到期——以下是你需要了解的内容</title>
+      <title>特朗普时代的减税政策将于 2025 年之后到期——以下是您需要了解的内容</title>
       <link>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</link>
       <description><![CDATA[前总统唐纳德·特朗普颁布的多项减税措施将于 2025 年之后到期，国会无需做出修改。以下是它如何影响您的钱包。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</guid>
