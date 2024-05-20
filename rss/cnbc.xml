@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 20 May 2024 10:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 11:11:00 GMT</lastBuildDate>
+    <item>
+      <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四触及历史新高，周五收于 40,000 点上方。]]></description>
+      <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
+      <pubDate>Mon, 20 May 2024 11:12:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗总统拉西去世。领导力真空对国家和世界意味着什么？</title>
+      <link>https://www.cnbc.com/2024/05/20/irans-president-raisi-is-dead-what-does-it-mean-for-the-country-and-the-world-.html</link>
+      <description><![CDATA[现在，所有人都在关注这个拥有近 9000 万人口并支持多个地区代理人组织的中东强国的下一步发展。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/irans-president-raisi-is-dead-what-does-it-mean-for-the-country-and-the-world-.html</guid>
+      <pubDate>Mon, 20 May 2024 11:10:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>市值 90 亿美元的旅游科技公司 Navan 首席执行官表示，今年有望实现盈利，距离 IPO“不远”</title>
+      <link>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</link>
+      <description><![CDATA[旅行和费用管理平台 Navan 的老板告诉 CNBC，他正在准备公司，使其业务在今年进行首次公开​​募股 (IPO)。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</guid>
+      <pubDate>Mon, 20 May 2024 11:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战事实时更新：乌克兰和俄罗斯对边境地区针锋相对，造成平民死伤</title>
+      <link>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[周一，哈尔科夫东北部地区宣布哀悼一天，此前一个受欢迎的休闲胜地和几个村庄遭到俄罗斯军队的袭击。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Mon, 20 May 2024 11:01:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗官方媒体称，伊朗总统莱西和外交部长阿米拉卜杜拉希安在直升机失事中丧生</title>
+      <link>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</link>
+      <description><![CDATA[据官方媒体周一报道，伊朗总统易卜拉欣·莱西和外交部长侯赛因·阿米拉卜杜拉希安在直升机失事中丧生。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</guid>
+      <pubDate>Mon, 20 May 2024 10:56:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>周一分析师呼吁：美光获得评级，医院股票上涨超过 25%</title>
+      <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
+      <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
+      <pubDate>Mon, 20 May 2024 10:54:43 GMT</pubDate>
+    </item>
     <item>
       <title>英国股市表现优于美国，一位首席信息官表示，英国股市看起来“非常便宜”</title>
       <link>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</link>
@@ -13,60 +55,18 @@
       <pubDate>Mon, 20 May 2024 10:48:22 GMT</pubDate>
     </item>
     <item>
-      <title>据伊朗国家媒体报道，伊朗总统莱西和外交部长阿米拉卜杜拉希安在直升机坠毁事件中丧生</title>
-      <link>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</link>
-      <description><![CDATA[据官方媒体周一报道，伊朗总统易卜拉欣·莱西和外交部长侯赛因·阿米拉卜杜拉希安在直升机失事中丧生。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</guid>
-      <pubDate>Mon, 20 May 2024 10:46:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>周一分析师呼吁：美光获得评级，医院股票上涨超过 25%</title>
-      <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
-      <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
-      <pubDate>Mon, 20 May 2024 10:39:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四触及历史新高，周五收于 40,000 点上方。]]></description>
-      <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
-      <pubDate>Mon, 20 May 2024 10:21:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗总统拉西去世。领导力真空对国家和世界意味着什么？</title>
-      <link>https://www.cnbc.com/2024/05/20/irans-president-raisi-is-dead-what-does-it-mean-for-the-country-and-the-world-.html</link>
-      <description><![CDATA[现在，所有人都在关注这个拥有近 9000 万人口并支持多个地区代理人组织的中东强国的下一步发展。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/irans-president-raisi-is-dead-what-does-it-mean-for-the-country-and-the-world-.html</guid>
-      <pubDate>Mon, 20 May 2024 10:19:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>价值投资者 Bil​​l Nygren 认为金融股很便宜。以下是他持有的头号股票</title>
+      <title>价值投资者比尔·尼格伦 (Bill Nygren) 认为金融股很便宜。这些是他的主要持股</title>
       <link>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</link>
-      <description><![CDATA[Oakmark Funds 的著名价值投资者认为，即使 2024 年表现出色，金融股仍被低估。]]></description>
+      <description><![CDATA[Oakmark Funds 的著名价值投资者认为，即使金融股在 2024 年表现出色，但仍被低估。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</guid>
       <pubDate>Mon, 20 May 2024 10:02:50 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战事实时更新：乌克兰和俄罗斯对边境地区针锋相对，造成平民死伤</title>
-      <link>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[周一，哈尔科夫东北部地区宣布哀悼一天，此前一个受欢迎的休闲胜地和几个村庄遭到俄罗斯军队的袭击。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Mon, 20 May 2024 09:59:03 GMT</pubDate>
-    </item>
-    <item>
       <title>台湾新总统敦促中国停止“恐吓”并“选择对话而不是对抗”</title>
       <link>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</link>
-      <description><![CDATA[台湾新任总统赖清德周一敦促中国停止对台湾的敌对政治和军事威胁，并努力实现地区和平。]]></description>
+      <description><![CDATA[台湾新任总统赖清德周一敦促中国停止对台湾的敌对政治和军事威胁，并致力于实现地区和平。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</guid>
       <pubDate>Mon, 20 May 2024 08:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>市值 90 亿美元的旅游科技公司 Navan 首席执行官表示，今年有望实现盈利，距离 IPO“不远”</title>
-      <link>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</link>
-      <description><![CDATA[旅行和费用管理平台 Navan 的老板告诉 CNBC，他正在准备公司，使其业务在今年进行首次公开​​募股 (IPO)。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</guid>
-      <pubDate>Mon, 20 May 2024 06:51:19 GMT</pubDate>
     </item>
     <item>
       <title>杰夫·贝索斯 (Jeff Bezos) 的蓝色起源 (Blue Origin) 自 2022 年停飞以来首次将宇航员送入太空边缘</title>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 20 May 2024 05:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>拜登在莫尔豪斯大学毕业典礼上直面 2024 年年轻黑人选民的弱点</title>
+      <title>拜登在莫尔豪斯毕业典礼上与年轻黑人选民面对 2024 年的弱点</title>
       <link>https://www.cnbc.com/2024/05/19/biden-morehouse-graduation-speech-young-black-voters.html</link>
       <description><![CDATA[根据最近的民意调查，自 2020 年大选以来，总统乔·拜登的黑人选民支持率有所下降，而前总统唐纳德·特朗普的支持率则有所上升。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/biden-morehouse-graduation-speech-young-black-voters.html</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>专家表示，社会保障的“最大神话”导致人们提前领取福利。即使是轻微的延迟也可以增加退休收入</title>
       <link>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</link>
-      <description><![CDATA[专家表示，对社会保障未来的担忧不应成为 62 岁领取退休金的主要原因。]]></description>
+      <description><![CDATA[专家表示，对社会保障未来的担忧不应成为 62 岁申请退休福利的主要原因。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</guid>
       <pubDate>Sun, 19 May 2024 13:00:01 GMT</pubDate>
     </item>
