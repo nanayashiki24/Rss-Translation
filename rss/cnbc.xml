@@ -1,30 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 20 May 2024 09:49:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 10:12:00 GMT</lastBuildDate>
     <item>
       <title>周一分析师呼吁：美光获得评级，医院股票上涨超过 25%</title>
       <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
       <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
-      <pubDate>Mon, 20 May 2024 09:45:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰战事实时更新：乌克兰和俄罗斯对边境地区针锋相对，造成平民死伤</title>
-      <link>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[周一，哈尔科夫东北部地区宣布哀悼一天，此前一个受欢迎的休闲胜地和几个村庄遭到俄罗斯军队的袭击。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Mon, 20 May 2024 09:40:40 GMT</pubDate>
+      <pubDate>Mon, 20 May 2024 10:13:54 GMT</pubDate>
     </item>
     <item>
       <title>英国股市表现优于美国，一位首席信息官表示英国股市看起来“非常便宜”</title>
       <link>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</link>
       <description><![CDATA[英国富时 100 指数在过去三个月上涨了约 11%，而更广泛的富时 250 指数则上涨了 9% 以上。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</guid>
-      <pubDate>Mon, 20 May 2024 09:39:11 GMT</pubDate>
+      <pubDate>Mon, 20 May 2024 10:13:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四触及历史新高，周五收于 40,000 点上方。]]></description>
+      <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
+      <pubDate>Mon, 20 May 2024 10:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>价值投资者比尔·尼格伦 (Bill Nygren) 认为金融股很便宜。这些是他的主要持股</title>
+      <link>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</link>
+      <description><![CDATA[Oakmark Funds 的著名价值投资者认为，即使 2024 年表现出色，金融股仍被低估。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</guid>
+      <pubDate>Mon, 20 May 2024 10:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战事实时更新：乌克兰和俄罗斯对边境地区针锋相对，造成平民死伤</title>
+      <link>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[周一，哈尔科夫东北部地区宣布哀悼一天，此前一个受欢迎的休闲胜地和几个村庄遭到俄罗斯军队的袭击。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Mon, 20 May 2024 09:59:03 GMT</pubDate>
     </item>
     <item>
       <title>台湾新总统敦促中国停止“恐吓”并“选择对话而不是对抗”</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[台湾新任总统赖清德周一敦促中国停止对台湾的敌对政治和军事威胁，并致力于实现地区和平。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</guid>
       <pubDate>Mon, 20 May 2024 08:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四触及历史新高，周五收于 40,000 点上方。]]></description>
-      <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
-      <pubDate>Mon, 20 May 2024 08:07:33 GMT</pubDate>
     </item>
     <item>
       <title>伊朗官方媒体称，伊朗总统莱西和外交部长阿米拉卜杜拉希安在直升机失事中丧生</title>
@@ -62,25 +69,18 @@
       <pubDate>Mon, 20 May 2024 05:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>拜登在莫尔豪斯大学毕业典礼上直面 2024 年年轻黑人选民的弱点</title>
+      <title>拜登在莫尔豪斯毕业典礼上与年轻黑人选民面对 2024 年的弱点</title>
       <link>https://www.cnbc.com/2024/05/19/biden-morehouse-graduation-speech-young-black-voters.html</link>
       <description><![CDATA[根据最近的民意调查，自 2020 年大选以来，总统乔·拜登的黑人选民支持率有所下降，而前总统唐纳德·特朗普的支持率则有所上升。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/biden-morehouse-graduation-speech-young-black-voters.html</guid>
       <pubDate>Sun, 19 May 2024 18:05:24 GMT</pubDate>
     </item>
     <item>
-      <title>专家称，社会保障的“最大误区”导致人们提前领取。即使稍微延迟也能增加退休收入</title>
+      <title>专家表示，社会保障的“最大神话”导致人们提前领取福利。即使是轻微的延迟也可以增加退休收入</title>
       <link>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</link>
       <description><![CDATA[专家表示，对社会保障未来的担忧不应成为 62 岁领取退休金的主要原因。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</guid>
       <pubDate>Sun, 19 May 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软将在 Build 开发者大会上公布其人工智能 PC 愿景</title>
-      <link>https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html</link>
-      <description><![CDATA[Microsoft Build 2024 将于周二开始，预计该公司将讨论 Windows 将如何为新的“AI PC”提供动力。]]></description>
-      <guid>https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html</guid>
-      <pubDate>Sun, 19 May 2024 12:00:01 GMT</pubDate>
     </item>
     <item>
       <title>债务和赤字飙升引发对经济和市场威胁的担忧</title>
