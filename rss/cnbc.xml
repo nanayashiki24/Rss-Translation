@@ -1,75 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 20 May 2024 11:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 12:29:00 GMT</lastBuildDate>
     <item>
-      <title>周一分析师呼吁：英伟达目标价上调，医院股票上涨逾 25%</title>
-      <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
-      <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
-      <pubDate>Mon, 20 May 2024 11:49:44 GMT</pubDate>
+      <title>乌克兰战争实况更新：普京称伊朗总统莱西是“俄罗斯真正的朋友”，乌克兰和俄罗斯针锋相对</title>
+      <link>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[周一，哈尔科夫东北部地区宣布哀悼一天，此前一个受欢迎的休闲胜地和几个村庄遭到俄罗斯军队的袭击。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Mon, 20 May 2024 12:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>维基解密创始人朱利安·阿桑奇可以向美国、英国法院规则提出引渡上诉</title>
-      <link>https://www.cnbc.com/2024/05/20/wikileaks-julian-assange-can-appeal-extradition-to-us-uk-court.html</link>
-      <description><![CDATA[伦敦高等法院周一裁定，维基解密创始人朱利安·阿桑奇有权就其被引渡到美国提出上诉。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/wikileaks-julian-assange-can-appeal-extradition-to-us-uk-court.html</guid>
-      <pubDate>Mon, 20 May 2024 11:49:10 GMT</pubDate>
+      <title>以下是周一最重要的分析师电话会议：英伟达、亚马逊、苹果、特斯拉、戴尔、美光等</title>
+      <link>https://www.cnbc.com/2024/05/20/monday-top-analyst-calls-with-stocks-like-nvidia.html</link>
+      <description><![CDATA[以下是周一华尔街最大的电话会议。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/monday-top-analyst-calls-with-stocks-like-nvidia.html</guid>
+      <pubDate>Mon, 20 May 2024 12:27:55 GMT</pubDate>
     </item>
     <item>
-      <title>红龙虾申请破产</title>
-      <link>https://www.cnbc.com/2024/05/20/red-lobster-bankruptcy.html</link>
-      <description><![CDATA[海鲜连锁店红龙虾因巨额债务和长期租约而陷入困境。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/red-lobster-bankruptcy.html</guid>
-      <pubDate>Mon, 20 May 2024 11:47:17 GMT</pubDate>
+      <title>2024 年乘飞机出行会更便宜。但某些目的地的情况并非如此</title>
+      <link>https://www.cnbc.com/2024/05/20/flying-is-cheaper-in-2024-but-not-for-some-destinations.html</link>
+      <description><![CDATA[平均机票价格比一年前便宜。飞往某些地区，特别是国外的航班仍然很高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/flying-is-cheaper-in-2024-but-not-for-some-destinations.html</guid>
+      <pubDate>Mon, 20 May 2024 12:27:35 GMT</pubDate>
     </item>
     <item>
-      <title>伊朗总统莱西去世。领导层空缺对伊朗和世界意味着什么？</title>
-      <link>https://www.cnbc.com/2024/05/20/irans-president-raisi-is-dead-what-does-it-mean-for-the-country-and-the-world-.html</link>
-      <description><![CDATA[现在，所有人的目光都集中在这个拥有近 9000 万人口并支持多个地区代理人组织的中东强国的下一步发展上。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/irans-president-raisi-is-dead-what-does-it-mean-for-the-country-and-the-world-.html</guid>
-      <pubDate>Mon, 20 May 2024 11:43:23 GMT</pubDate>
+      <title>消费者是否正在缩减开支？这取决于你问的是哪位首席执行官</title>
+      <link>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</link>
+      <description><![CDATA[百事可乐等公司已对低收入消费者的疲软发出警告，而达美航空和 Chipotle 则受益于其高收入客户群。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</guid>
+      <pubDate>Mon, 20 May 2024 12:27:14 GMT</pubDate>
     </item>
     <item>
       <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
       <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
       <description><![CDATA[道琼斯工业平均指数刚刚度过了重要的一周，周四创下历史新高，周五收于 40,000 点以上。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
-      <pubDate>Mon, 20 May 2024 11:39:41 GMT</pubDate>
+      <pubDate>Mon, 20 May 2024 12:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗总统拉西去世。领导力真空对国家和世界意味着什么？</title>
+      <link>https://www.cnbc.com/2024/05/20/irans-president-raisi-is-dead-what-does-it-mean-for-the-country-and-the-world-.html</link>
+      <description><![CDATA[现在，所有人的目光都集中在这个拥有近 9000 万人口并支持多个地区代理人组织的中东强国的下一步发展上。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/irans-president-raisi-is-dead-what-does-it-mean-for-the-country-and-the-world-.html</guid>
+      <pubDate>Mon, 20 May 2024 12:24:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>维基解密创始人朱利安·阿桑奇可以向美国、英国法院规则提出引渡上诉</title>
+      <link>https://www.cnbc.com/2024/05/20/wikileaks-julian-assange-can-appeal-extradition-to-us-uk-court.html</link>
+      <description><![CDATA[伦敦高等法院周一裁定，维基解密创始人朱利安·阿桑奇有权对被引渡到美国提出上诉。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/wikileaks-julian-assange-can-appeal-extradition-to-us-uk-court.html</guid>
+      <pubDate>Mon, 20 May 2024 12:14:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>迈克尔·科恩返回作封口费作证，特朗普审判进入冲刺阶段</title>
+      <link>https://www.cnbc.com/2024/05/20/trump-trial-end-looms-in-hush-money-case.html</link>
+      <description><![CDATA[前总统唐纳德·特朗普封口费审判面临的一个大问题是这位共和党人是否会在纽约出庭作证。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/trump-trial-end-looms-in-hush-money-case.html</guid>
+      <pubDate>Mon, 20 May 2024 12:14:21 GMT</pubDate>
     </item>
     <item>
       <title>国际刑事法院寻求对以色列总理内塔尼亚胡和三名哈马斯领导人发出逮捕令</title>
       <link>https://www.cnbc.com/2024/05/20/international-criminal-court-seeks-arrest-warrants-for-israeli-pm-netanyahu-three-hamas-leaders.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[一个小组将审查该申请，以确认国际刑事法院对以色列和哈马斯领导人涉嫌战争罪的指控。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/international-criminal-court-seeks-arrest-warrants-for-israeli-pm-netanyahu-three-hamas-leaders.html</guid>
-      <pubDate>Mon, 20 May 2024 11:33:38 GMT</pubDate>
+      <pubDate>Mon, 20 May 2024 12:05:22 GMT</pubDate>
     </item>
     <item>
-      <title>消费者是否正在缩减开支？这取决于你问的是哪位首席执行官</title>
-      <link>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</link>
-      <description><![CDATA[百事可乐等公司就低收入消费者疲软发出警告，而达美航空和Chipotle则受益于其高收入客户群。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</guid>
-      <pubDate>Mon, 20 May 2024 11:30:01 GMT</pubDate>
+      <title>布鲁斯·诺德斯特龙 (Bruce Nordstrom) 曾帮助发展家族经营的百货连锁店，去世，享年 90 岁</title>
+      <link>https://www.cnbc.com/2024/05/20/bruce-nordstrom-who-helped-grow-department-store-chain-dies-at-90.html</link>
+      <description><![CDATA[零售业高管布鲁斯·诺德斯特龙 (Bruce Nordstrom) 去世，他帮助家族太平洋西北百货连锁店发展成为高档全国品牌。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/bruce-nordstrom-who-helped-grow-department-store-chain-dies-at-90.html</guid>
+      <pubDate>Mon, 20 May 2024 12:03:09 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战争实时更新：普京称伊朗拉伊西是“俄罗斯真正的朋友”，乌克兰和俄罗斯针锋相对</title>
-      <link>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[周一，哈尔科夫东北部地区宣布哀悼一天，此前一个受欢迎的休闲胜地和几个村庄遭到俄罗斯军队的袭击。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Mon, 20 May 2024 11:16:07 GMT</pubDate>
+      <title>红龙虾申请破产</title>
+      <link>https://www.cnbc.com/2024/05/20/red-lobster-bankruptcy.html</link>
+      <description><![CDATA[海鲜连锁店红龙虾受到巨额债务和长期租赁的拖累。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/red-lobster-bankruptcy.html</guid>
+      <pubDate>Mon, 20 May 2024 11:47:17 GMT</pubDate>
     </item>
     <item>
       <title>市值 90 亿美元的旅游科技公司 Navan 首席执行官表示，今年有望实现盈利，距离 IPO“不远”</title>
       <link>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</link>
-      <description><![CDATA[旅行和费用管理平台 Navan 的老板告诉 CNBC，他正在准备公司，使其业务在今年进行首次公开​​募股 (IPO)。]]></description>
+      <description><![CDATA[旅行和费用管理平台 Navan 的老板告诉 CNBC，他正在为公司今年的 IPO 做准备。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</guid>
       <pubDate>Mon, 20 May 2024 11:10:52 GMT</pubDate>
     </item>
     <item>
-      <title>价值投资者 Bil​​l Nygren 认为金融股很便宜。以下是他持有的头号股票</title>
+      <title>价值投资者比尔·尼格伦 (Bill Nygren) 认为金融股很便宜。这些是他的主要持股</title>
       <link>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</link>
       <description><![CDATA[Oakmark Funds 的著名价值投资者认为，即使金融股在 2024 年表现出色，其价值仍被低估。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</guid>
@@ -83,32 +104,11 @@
       <pubDate>Mon, 20 May 2024 08:16:05 GMT</pubDate>
     </item>
     <item>
-      <title>杰夫·贝索斯 (Jeff Bezos) 的蓝色起源 (Blue Origin) 自 2022 年停飞以来首次将宇航员送入太空边缘</title>
-      <link>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</link>
-      <description><![CDATA[杰夫·贝佐斯的太空公司蓝色起源于周日将六人机组人员从德克萨斯州西部发射到太空边缘，恢复其太空旅游业务。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</guid>
-      <pubDate>Mon, 20 May 2024 05:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家表示，社会保障的“最大神话”导致人们提前领取福利。即使是轻微的延迟也可以增加退休收入</title>
-      <link>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</link>
-      <description><![CDATA[专家表示，对社会保障未来的担忧不应成为 62 岁领取退休金的主要原因。]]></description>
-      <guid>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</guid>
-      <pubDate>Sun, 19 May 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>债务和赤字飙升引发对经济和市场威胁的担忧</title>
       <link>https://www.cnbc.com/2024/05/19/soaring-debt-and-deficits-causing-worry-about-threats-to-the-economy-and-markets.html</link>
-      <description><![CDATA[政府债务膨胀了近 50%，这引起了华尔街和华盛顿越来越多的担忧。]]></description>
+      <description><![CDATA[政府债务已增长近 50%，这引起华尔街和华盛顿的日益担忧。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/soaring-debt-and-deficits-causing-worry-about-threats-to-the-economy-and-markets.html</guid>
       <pubDate>Sun, 19 May 2024 10:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普时代的减税政策将于 2025 年后到期——以下是你需要了解的内容</title>
-      <link>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</link>
-      <description><![CDATA[前总统唐纳德·特朗普颁布的多项减税措施将于 2025 年之后到期，国会无需做出修改。以下是它如何影响您的钱包。]]></description>
-      <guid>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</guid>
-      <pubDate>Sat, 18 May 2024 13:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
