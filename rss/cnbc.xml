@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 20 May 2024 11:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 11:37:00 GMT</lastBuildDate>
+    <item>
+      <title>周一分析师呼吁：美光获得评级，医院股票上涨超过 25%</title>
+      <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
+      <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
+      <pubDate>Mon, 20 May 2024 11:37:55 GMT</pubDate>
+    </item>
     <item>
       <title>国际刑事法院寻求对以色列总理内塔尼亚胡和三名哈马斯领导人发出逮捕令</title>
       <link>https://www.cnbc.com/2024/05/20/international-criminal-court-seeks-arrest-warrants-for-israeli-pm-netanyahu-three-hamas-leaders.html</link>
       <description><![CDATA[]]></description>
       <guid>https://www.cnbc.com/2024/05/20/international-criminal-court-seeks-arrest-warrants-for-israeli-pm-netanyahu-three-hamas-leaders.html</guid>
-      <pubDate>Mon, 20 May 2024 11:16:37 GMT</pubDate>
+      <pubDate>Mon, 20 May 2024 11:33:38 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战争实时更新：普京称伊朗拉伊西是“俄罗斯真正的朋友”，乌克兰和俄罗斯针锋相对</title>
+      <title>消费者是否正在缩减开支？这取决于你问的是哪位首席执行官</title>
+      <link>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</link>
+      <description><![CDATA[百事可乐等公司就低收入消费者疲软发出警告，而达美航空和Chipotle则受益于其高收入客户群。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</guid>
+      <pubDate>Mon, 20 May 2024 11:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战争实况更新：普京称伊朗总统莱西是“俄罗斯真正的朋友”，乌克兰和俄罗斯针锋相对</title>
       <link>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
       <description><![CDATA[周一，哈尔科夫东北部地区宣布哀悼一天，此前一个受欢迎的休闲胜地和几个村庄遭到俄罗斯军队的袭击。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>市值 90 亿美元的旅游科技公司 Navan 首席执行官表示，今年有望实现盈利，距离 IPO“不远”</title>
       <link>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</link>
-      <description><![CDATA[旅行和费用管理平台 Navan 的老板告诉 CNBC，他正在为公司今年的 IPO 做准备。]]></description>
+      <description><![CDATA[旅行和费用管理平台 Navan 的老板告诉 CNBC，他正在准备公司，使其业务在今年进行首次公开​​募股 (IPO)。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</guid>
       <pubDate>Mon, 20 May 2024 11:10:52 GMT</pubDate>
     </item>
@@ -48,28 +62,21 @@
       <pubDate>Mon, 20 May 2024 10:56:02 GMT</pubDate>
     </item>
     <item>
-      <title>周一分析师电话会议：美光评级上调，医院股价上涨逾 25%</title>
-      <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
-      <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
-      <pubDate>Mon, 20 May 2024 10:54:43 GMT</pubDate>
-    </item>
-    <item>
       <title>价值投资者比尔·尼格伦 (Bill Nygren) 认为金融股很便宜。这些是他的主要持股</title>
       <link>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</link>
-      <description><![CDATA[Oakmark Funds 的著名价值投资者认为，即使金融股在 2024 年表现出色，但仍被低估。]]></description>
+      <description><![CDATA[Oakmark Funds 的著名价值投资者认为，即使 2024 年表现出色，金融股仍被低估。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/investor-bill-nygren-likes-financials-here-are-his-largest-positions.html</guid>
       <pubDate>Mon, 20 May 2024 10:02:50 GMT</pubDate>
     </item>
     <item>
-      <title>台湾新总统敦促中国停止“恐吓”并“选择对话而非对抗”</title>
+      <title>台湾新总统敦促中国停止“恐吓”并“选择对话而不是对抗”</title>
       <link>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</link>
       <description><![CDATA[台湾新任总统赖清德周一敦促中国停止对台湾的敌对政治和军事威胁，并致力于实现地区和平。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</guid>
       <pubDate>Mon, 20 May 2024 08:16:05 GMT</pubDate>
     </item>
     <item>
-      <title>杰夫·贝索斯 (Jeff Bezos) 的蓝色起源 (Blue Origin) 自 2022 年停飞以来首次将宇航员送入太空边缘</title>
+      <title>杰夫·贝佐斯的蓝色起源自 2022 年停飞以来首次将宇航员送往太空边缘</title>
       <link>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</link>
       <description><![CDATA[杰夫·贝佐斯的太空公司蓝色起源于周日将六人机组人员从德克萨斯州西部发射到太空边缘，恢复其太空旅游业务。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>专家表示，社会保障的“最大神话”导致人们提前领取福利。即使是轻微的延迟也可以增加退休收入</title>
       <link>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</link>
-      <description><![CDATA[专家表示，对社会保障未来的担忧不应成为 62 岁领取退休金的主要原因。]]></description>
+      <description><![CDATA[专家表示，对社会保障未来的担忧不应成为 62 岁申请退休福利的主要原因。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</guid>
       <pubDate>Sun, 19 May 2024 13:00:01 GMT</pubDate>
     </item>
@@ -97,14 +104,7 @@
       <pubDate>Sun, 19 May 2024 10:50:25 GMT</pubDate>
     </item>
     <item>
-      <title>一些消费者正在大举购买游泳池和床垫等</title>
-      <link>https://www.cnbc.com/2024/05/18/some-consumers-are-punting-big-purchases-like-pools-and-mattresses.html</link>
-      <description><![CDATA[有一些迹象表明，购物者正在推迟大额购买，这是经济因货币政策收紧而收缩的最新信号。]]></description>
-      <guid>https://www.cnbc.com/2024/05/18/some-consumers-are-punting-big-purchases-like-pools-and-mattresses.html</guid>
-      <pubDate>Sat, 18 May 2024 15:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普时代的减税政策将于 2025 年后到期——以下是你需要了解的内容</title>
+      <title>特朗普时代的减税政策将于 2025 年之后到期——以下是您需要了解的内容</title>
       <link>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</link>
       <description><![CDATA[前总统唐纳德·特朗普颁布的多项减税措施将于 2025 年之后到期，国会无需做出修改。以下是它如何影响您的钱包。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</guid>
