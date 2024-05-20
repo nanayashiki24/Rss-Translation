@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>观众指数 / @spectatorindex</title>
+    <title>观众指数/@spectatorindex</title>
     <link>http://nitter.esmailelbob.xyz/spectatorindex</link>
-    <description>Twitter 提要：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
-    <lastBuildDate>Mon, 20 May 2024 12:29:08 GMT</lastBuildDate>
+    <description>Twitter 供稿：@spectatorindex。由 nitter.esmailelbob.xyz 生成</description>
+    <lastBuildDate>Mon, 20 May 2024 13:17:26 GMT</lastBuildDate>
     <item>
       <title>突发：国际刑事法院检察官要求对以色列领导人本杰明·内塔尼亚胡和约阿夫·加兰特发出逮捕令</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1792515721983037579#m</link>
@@ -36,7 +36,7 @@
     <item>
       <title>突发新闻：欧洲理事会主席查尔斯·米歇尔表示，“欧盟对[伊朗]总统莱西和外交部长阿卜杜拉希安的去世表示诚挚的哀悼”。</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1792479642169070036#m</link>
-      <description><![CDATA[突发新闻：🇪🇺欧洲理事会主席查尔斯·米歇尔表示，“欧盟对[伊朗]总统莱西和外交部长阿卜杜拉希安的去世表示诚挚的哀悼”。]]></description>
+      <description><![CDATA[突发新闻：🇪🇺欧洲理事会主席查尔斯·米歇尔表示，“欧盟对伊朗总统莱西和外交部长阿卜杜拉希安的去世表示诚挚的哀悼”。]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1792479642169070036#m</guid>
       <pubDate>Mon, 20 May 2024 08:57:04 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>突发：伊朗最高领袖宣布为伊朗总统直升机坠毁事件哀悼五天</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1792470589539762574#m</link>
-      <description><![CDATA[突发新闻：伊朗最高领袖宣布为伊朗总统直升机坠毁事件哀悼五天]]></description>
+      <description><![CDATA[突发新闻：伊朗总统在直升机坠毁事件中丧生，伊朗最高领袖宣布全国哀悼五天]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1792470589539762574#m</guid>
       <pubDate>Mon, 20 May 2024 08:21:05 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>突发：伊朗正式宣布总统在直升机失事中丧生</title>
       <link>http://nitter.esmailelbob.xyz/spectatorindex/status/1792412398047125894#m</link>
-      <description><![CDATA[突发新闻：伊朗正式宣布其总统在直升机失事中丧生]]></description>
+      <description><![CDATA[突发消息：伊朗官方宣布其总统在直升机坠毁事件中丧生]]></description>
       <guid>http://nitter.esmailelbob.xyz/spectatorindex/status/1792412398047125894#m</guid>
       <pubDate>Mon, 20 May 2024 04:29:51 GMT</pubDate>
     </item>
