@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 20 May 2024 09:35:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 09:49:00 GMT</lastBuildDate>
+    <item>
+      <title>周一分析师呼吁：美光获得评级，医院股票上涨超过 25%</title>
+      <link>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
+      <description><![CDATA[一家芯片制造商和一家医院股票是周一分析师关注最多的股票之一。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
+      <pubDate>Mon, 20 May 2024 09:45:32 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰战事实时更新：乌克兰和俄罗斯对边境地区针锋相对，造成平民死伤</title>
       <link>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
       <description><![CDATA[周一，哈尔科夫东北部地区宣布哀悼一天，此前一个受欢迎的休闲胜地和几个村庄遭到俄罗斯军队的袭击。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Mon, 20 May 2024 08:56:13 GMT</pubDate>
+      <pubDate>Mon, 20 May 2024 09:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国股市表现优于美国，一位首席信息官表示英国股市看起来“非常便宜”</title>
+      <link>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</link>
+      <description><![CDATA[英国富时 100 指数在过去三个月上涨了约 11%，而更广泛的富时 250 指数则上涨了 9% 以上。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/uk-stocks-are-outperforming-the-us-and-one-cio-says-they-look-very-cheap.html</guid>
+      <pubDate>Mon, 20 May 2024 09:39:11 GMT</pubDate>
     </item>
     <item>
       <title>台湾新总统敦促中国停止“恐吓”并“选择对话而不是对抗”</title>
@@ -22,7 +36,7 @@
     <item>
       <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
       <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四创下历史新高，周五收于 40,000 点上方。]]></description>
+      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四触及历史新高，周五收于 40,000 点上方。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
       <pubDate>Mon, 20 May 2024 08:07:33 GMT</pubDate>
     </item>
@@ -34,42 +48,35 @@
       <pubDate>Mon, 20 May 2024 07:14:03 GMT</pubDate>
     </item>
     <item>
-      <title>市值 90 亿美元的旅游科技公司 Navan 首席执行官表示，该公司今年有望实现盈利，距离 IPO“不远”</title>
+      <title>市值 90 亿美元的旅游科技公司 Navan 首席执行官表示，今年有望实现盈利，距离 IPO“不远”</title>
       <link>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</link>
       <description><![CDATA[旅行和费用管理平台 Navan 的老板告诉 CNBC，他正在准备公司，使其业务在今年进行首次公开​​募股 (IPO)。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/navan-is-not-far-from-ipo-on-track-for-2024-profitability-ceo-says.html</guid>
       <pubDate>Mon, 20 May 2024 06:51:19 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克在印度尼西亚推出 SpaceX 的 Starlink 互联网服务，称可能会带来更多投资</title>
-      <link>https://www.cnbc.com/2024/05/20/musk-launches-spacexs-starlink-internet-services-in-indonesia.html</link>
-      <description><![CDATA[马斯克表示，他“非常兴奋”能够将互联网服务带到连接有限或没有连接的地区。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/musk-launches-spacexs-starlink-internet-services-in-indonesia.html</guid>
-      <pubDate>Mon, 20 May 2024 05:30:59 GMT</pubDate>
+      <title>杰夫·贝索斯 (Jeff Bezos) 的蓝色起源 (Blue Origin) 自 2022 年停飞以来首次将宇航员送入太空边缘</title>
+      <link>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</link>
+      <description><![CDATA[杰夫·贝佐斯的太空公司蓝色起源于周日将六人机组人员从德克萨斯州西部发射到太空边缘，恢复其太空旅游业务。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/bezos-blue-origin-launches-first-crew-to-edge-of-space-since-2022-.html</guid>
+      <pubDate>Mon, 20 May 2024 05:01:32 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利选择全球股票来推动 1000 亿美元的人工智能热潮，给予其中 40% 的上涨空间</title>
-      <link>https://www.cnbc.com/2024/05/20/morgan-stanley-names-its-global-picks-to-play-a-100-billion-ai-boom.html</link>
-      <description><![CDATA[摩根士丹利表示，对人工智能“推动者”的需求正在激增，许多亚洲公司将受益匪浅。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/morgan-stanley-names-its-global-picks-to-play-a-100-billion-ai-boom.html</guid>
-      <pubDate>Sun, 19 May 2024 23:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登在莫尔豪斯毕业典礼上与年轻黑人选民面对 2024 年的弱点</title>
+      <title>拜登在莫尔豪斯大学毕业典礼上直面 2024 年年轻黑人选民的弱点</title>
       <link>https://www.cnbc.com/2024/05/19/biden-morehouse-graduation-speech-young-black-voters.html</link>
       <description><![CDATA[根据最近的民意调查，自 2020 年大选以来，总统乔·拜登的黑人选民支持率有所下降，而前总统唐纳德·特朗普的支持率则有所上升。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/biden-morehouse-graduation-speech-young-black-voters.html</guid>
       <pubDate>Sun, 19 May 2024 18:05:24 GMT</pubDate>
     </item>
     <item>
-      <title>专家表示，社会保障的“最大神话”导致人们提前领取福利。即使是轻微的延迟也可以增加退休收入</title>
+      <title>专家称，社会保障的“最大误区”导致人们提前领取。即使稍微延迟也能增加退休收入</title>
       <link>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</link>
       <description><![CDATA[专家表示，对社会保障未来的担忧不应成为 62 岁领取退休金的主要原因。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/delaying-social-security-even-by-months-can-boost-retirement-security.html</guid>
       <pubDate>Sun, 19 May 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>微软将在 Build 开发者大会上公布其对 AI PC 的愿景</title>
+      <title>微软将在 Build 开发者大会上公布其人工智能 PC 愿景</title>
       <link>https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html</link>
       <description><![CDATA[Microsoft Build 2024 将于周二开始，预计该公司将讨论 Windows 将如何为新的“AI PC”提供动力。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[前总统唐纳德·特朗普颁布的多项减税措施将于 2025 年之后到期，国会无需做出修改。以下是它如何影响您的钱包。]]></description>
       <guid>https://www.cnbc.com/2024/05/18/trump-tcja-tax-cuts-are-slated-to-expire-after-next-year.html</guid>
       <pubDate>Sat, 18 May 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>好莱坞罢工仍笼罩在内容清单上，媒体巨头依赖体育</title>
-      <link>https://www.cnbc.com/2024/05/18/media-upfronts-sports-hollywood-strikes.html</link>
-      <description><![CDATA[由于去年好莱坞罢工事件的影响，内容安排仍不顺利，媒体公司在 Upfront 会议上吸引广告商，让体育节目成为焦点。]]></description>
-      <guid>https://www.cnbc.com/2024/05/18/media-upfronts-sports-hollywood-strikes.html</guid>
-      <pubDate>Sat, 18 May 2024 12:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
