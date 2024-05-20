@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Mon, 20 May 2024 23:14:00 GMT</lastBuildDate>
+    <item>
+      <title>DJT：特朗普媒体报告第一季度营收 770,500 美元，净亏损 3.276 亿美元</title>
+      <link>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</link>
+      <description><![CDATA[唐纳德·特朗普的“真相社交”的母公司特朗普媒体于三月份在纳斯达克证券交易所上市。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</guid>
+      <pubDate>Mon, 20 May 2024 23:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳斯达克综合指数创历史新高后，股票期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/20/stock-market-today-live-updates.html</link>
+      <description><![CDATA[纳斯达克综合指数周一收盘创下历史新高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/stock-market-today-live-updates.html</guid>
+      <pubDate>Mon, 20 May 2024 23:23:51 GMT</pubDate>
+    </item>
     <item>
       <title>摩根大通首席执行官杰米戴蒙表示退休比以往任何时候都更近</title>
       <link>https://www.cnbc.com/2024/05/20/jpmorgan-ceo-jamie-dimon-retirement-approaching.html</link>
@@ -15,30 +29,16 @@
     <item>
       <title>斯嘉丽·约翰逊 (Scarlett Johansson) 表示，在她告诉公司不能使用她的语音软件后，OpenAI 窃取了她的声音</title>
       <link>https://www.cnbc.com/2024/05/20/scarlett-johansson-says-openai-ripped-off-her-voice-.html</link>
-      <description><![CDATA[斯嘉丽·约翰逊 (Scarlett Johansson) 是在 OpenAI 暂停其新的人工智能语音“Sky”之后发表此番言论的。]]></description>
+      <description><![CDATA[斯嘉丽约翰逊的评论是在 OpenAI 暂停其新的 AI 语音“Sky”之后发表的。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/scarlett-johansson-says-openai-ripped-off-her-voice-.html</guid>
       <pubDate>Mon, 20 May 2024 23:12:48 GMT</pubDate>
     </item>
     <item>
-      <title>纳斯达克综合指数创历史新高后，股票期货几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/20/stock-market-today-live-updates.html</link>
-      <description><![CDATA[纳斯达克综合指数周一收盘创下历史新高。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/stock-market-today-live-updates.html</guid>
-      <pubDate>Mon, 20 May 2024 23:00:07 GMT</pubDate>
-    </item>
-    <item>
       <title>克莱默解释了为何承认道指 40,000 点里程碑如此重要</title>
       <link>https://www.cnbc.com/2024/05/20/cramer-reflects-on-the-dow-40000-milestone-for-wall-street.html</link>
-      <description><![CDATA[克莱默强调了道指的创纪录是如何受到科技以外的各种行业股票推动的，包括工业、制药和银行。]]></description>
+      <description><![CDATA[克莱默强调，道琼斯指数的上涨受到科技以外多个行业的股票推动，其中包括工业、制药和银行。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/cramer-reflects-on-the-dow-40000-milestone-for-wall-street.html</guid>
       <pubDate>Mon, 20 May 2024 22:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>DJT：特朗普媒体公布第一季度营收 77.05 万美元，净亏损 3.276 亿美元</title>
-      <link>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</link>
-      <description><![CDATA[特朗普媒体 (Trump Media) 是唐纳德·特朗普 (Donald Trump) 的 Truth Social 的母公司，于 3 月份在纳斯达克证券交易所上市。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</guid>
-      <pubDate>Mon, 20 May 2024 22:45:02 GMT</pubDate>
     </item>
     <item>
       <title>联邦存款保险公司 (FDIC) 主席马丁·格伦伯格 (Martin Gruenberg) 在工作场所骚扰调查后辞职</title>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 20 May 2024 19:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>这些企业内部人士在五月份买卖了数百万股自己的股票</title>
+      <title>这些公司内部人士在五月份买卖了数百万股自己的股票</title>
       <link>https://www.cnbc.com/2024/05/20/these-are-big-insider-stock-buys-and-sells-in-may.html</link>
       <description><![CDATA[根据证券备案文件和 VerityData，首席执行官和其他企业内部人士本月进行了大笔交易。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/these-are-big-insider-stock-buys-and-sells-in-may.html</guid>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 20 May 2024 18:21:44 GMT</pubDate>
     </item>
     <item>
-      <title>消费者是否在减少支出？这取决于你问的是哪位首席执行官</title>
+      <title>消费者是否正在缩减开支？这取决于你问的是哪位首席执行官</title>
       <link>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</link>
       <description><![CDATA[百事可乐等公司就低收入消费者疲软发出警告，而达美航空和Chipotle则受益于其高收入客户群。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</guid>
