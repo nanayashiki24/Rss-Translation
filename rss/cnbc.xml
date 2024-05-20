@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Mon, 20 May 2024 06:56:00 GMT</lastBuildDate>
     <item>
-      <title>伊朗官方媒体称，伊朗总统莱西和外交部长阿米拉卜杜拉希安在直升机失事中丧生</title>
+      <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数刚刚度过了引人注目的一周，周四创下历史新高，周五收于 40,000 点上方。]]></description>
+      <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
+      <pubDate>Mon, 20 May 2024 07:32:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>据伊朗国家媒体报道，伊朗总统莱西和外交部长阿米拉卜杜拉希安在直升机坠毁事件中丧生</title>
       <link>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</link>
       <description><![CDATA[据官方媒体周一报道，伊朗总统易卜拉欣·莱西和外交部长侯赛因·阿米拉卜杜拉希安在直升机失事中丧生。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/iranian-president-ebrahim-raisi-is-feared-dead-following-a-helicopter-crash-state-media-.html</guid>
@@ -34,13 +41,6 @@
       <pubDate>Mon, 20 May 2024 06:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>道指首次收于 40,000 点上方后，股指期货走高：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数刚刚度过了重要的一周，周四创下历史新高，周五收于 40,000 点以上。]]></description>
-      <guid>https://www.cnbc.com/2024/05/19/stock-market-today-live-updates.html</guid>
-      <pubDate>Mon, 20 May 2024 06:05:57 GMT</pubDate>
-    </item>
-    <item>
       <title>这位 35 岁的年轻人将印度尼西亚当地的一家咖啡摊变成了一家独角兽初创公司——如今，它每年带来 1 亿美元的收入</title>
       <link>https://www.cnbc.com/2024/05/20/kopi-kenangan-from-indonesian-coffee-stall-to-making-100-million/year.html</link>
       <description><![CDATA[35 岁的爱德华·蒂塔纳塔 (Edward Tirtanata) 是印度尼西亚咖啡连锁店 Kopi Kenangan 的联合创始人。如今，该公司在东南亚拥有 800 多个分支机构。]]></description>
@@ -48,16 +48,16 @@
       <pubDate>Mon, 20 May 2024 04:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>台湾新总统赖清德在与大陆关系紧张之际就职</title>
+      <title>台湾新总统赖清德在与中国的紧张局势中就任</title>
       <link>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</link>
-      <description><![CDATA[台湾新总统赖清德周一宣誓就职，因与大陆的紧张关系日益加剧]]></description>
+      <description><![CDATA[台湾新总统赖清德周一宣誓就职，因与中国大陆的紧张关系日益加剧]]></description>
       <guid>https://www.cnbc.com/2024/05/20/taiwan-new-president-lai-ching-te-takes-office-amid-tensions-with-china.html</guid>
       <pubDate>Mon, 20 May 2024 04:13:22 GMT</pubDate>
     </item>
     <item>
-      <title>以并购选择闻名的对冲基金经理透露了新的收购目标</title>
+      <title>以并购选择而闻名的对冲基金经理透露了新的收购目标</title>
       <link>https://www.cnbc.com/2024/05/20/atlantic-investments-alexander-roepers-names-new-ma-target.html</link>
-      <description><![CDATA[该基金经理的股票选择在过去六个月内已经上涨了 100%，预计在未来 12 至 18 个月内将再飙升 50%。]]></description>
+      <description><![CDATA[该基金经理所选的股票在过去六个月中已经上涨了 100%，预计未来 12 至 18 个月内还将上涨 50%。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/atlantic-investments-alexander-roepers-names-new-ma-target.html</guid>
       <pubDate>Sun, 19 May 2024 23:33:03 GMT</pubDate>
     </item>
@@ -69,14 +69,14 @@
       <pubDate>Sun, 19 May 2024 23:26:34 GMT</pubDate>
     </item>
     <item>
-      <title>从 35,000 美元到 446,000 美元：在意大利翻修一栋 1 美元的房子要花多少钱</title>
+      <title>从 35,000 美元到 446,000 美元：在意大利翻新一套 1 美元的房屋需要花多少钱</title>
       <link>https://www.cnbc.com/2024/05/19/what-it-really-costs-to-renovate-a-1-home-in-italy.html</link>
       <description><![CDATA[在意大利乡村以便宜的价格买一套房子是有代价的——在一个例子中，代价高达近五十万美元。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/what-it-really-costs-to-renovate-a-1-home-in-italy.html</guid>
       <pubDate>Sun, 19 May 2024 13:10:01 GMT</pubDate>
     </item>
     <item>
-      <title>侍酒师表示，如何购买一瓶好酒，以及哪些酒“完全远离”</title>
+      <title>一位侍酒师表示，如何购买一瓶好酒，以及哪些是“完全远离”的</title>
       <link>https://www.cnbc.com/2024/05/19/wine-buying-tips-from-a-sommelier.html</link>
       <description><![CDATA[要找到一瓶好酒，最好的选择是在当地商店寻求帮助。知道要在标签上寻找什么也没什么坏处。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/wine-buying-tips-from-a-sommelier.html</guid>
@@ -92,14 +92,14 @@
     <item>
       <title>债务和赤字飙升引发对经济和市场威胁的担忧</title>
       <link>https://www.cnbc.com/2024/05/19/soaring-debt-and-deficits-causing-worry-about-threats-to-the-economy-and-markets.html</link>
-      <description><![CDATA[政府债务已增长近 50%，这引起华尔街和华盛顿的日益担忧。]]></description>
+      <description><![CDATA[政府债务膨胀了近 50%，这引起了华尔街和华盛顿越来越多的担忧。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/soaring-debt-and-deficits-causing-worry-about-threats-to-the-economy-and-markets.html</guid>
       <pubDate>Sun, 19 May 2024 10:50:25 GMT</pubDate>
     </item>
     <item>
       <title>中国热门的电动汽车市场不再仅仅关注较低的标价。哪些股票值得关注</title>
       <link>https://www.cnbc.com/2024/05/19/chinas-hot-ev-market-no-longer-focused-on-lower-prices-stocks-to-watch.html</link>
-      <description><![CDATA[尽管美国出台了新关税，但中国电动汽车已经进入了不再仅仅以售价为中心的竞争新阶段。]]></description>
+      <description><![CDATA[尽管美国征收新关税，中国电动汽车已经进入新的竞争阶段，不再仅以销售价格为中心。]]></description>
       <guid>https://www.cnbc.com/2024/05/19/chinas-hot-ev-market-no-longer-focused-on-lower-prices-stocks-to-watch.html</guid>
       <pubDate>Sun, 19 May 2024 10:48:11 GMT</pubDate>
     </item>
