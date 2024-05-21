@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Tue, 21 May 2024 05:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 06:23:00 GMT</lastBuildDate>
+    <item>
+      <title>史蒂夫·乔布斯的前实习生谈为什么大学毕业生应该支付 50,000 美元与最优秀的人一起工作</title>
+      <link>https://www.cnbc.com/2024/05/21/steve-jobs-old-intern-tells-grads-to-pay-to-work-with-the-best-people.html</link>
+      <description><![CDATA[史蒂夫·乔布斯（Steve Jobs）前实习生建议大学毕业生找到最适合为之工作的人，“然后付给他们 5 万美元”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/steve-jobs-old-intern-tells-grads-to-pay-to-work-with-the-best-people.html</guid>
+      <pubDate>Tue, 21 May 2024 06:11:14 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉弗里蒙特工厂再次发生火灾，调查正在进行中</title>
       <link>https://www.cnbc.com/2024/05/21/tesla-fremont-factory-suffers-another-fire-investigation-underway.html</link>
@@ -22,26 +29,26 @@
     <item>
       <title>以太坊 ETF 乐观情绪重燃，以太坊飙升 20% 后，以太坊延续涨势</title>
       <link>https://www.cnbc.com/2024/05/21/crypto-market-today.html</link>
-      <description><![CDATA[由于美国证券交易委员会 (SEC) 对以太坊 ETF 现货申请的决定（第一个申请将于本周到期）的乐观情绪后期飙升，加密货币周一晚间上涨。]]></description>
+      <description><![CDATA[受美国证券交易委员会 (SEC) 对现货以太币 ETF 申请作出决定的乐观情绪高涨推动，加密货币在周一晚间出现上涨，首批 ETF 申请将于本周公布。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/crypto-market-today.html</guid>
       <pubDate>Tue, 21 May 2024 04:03:49 GMT</pubDate>
     </item>
     <item>
       <title>中国全面提振房地产业的措施需要时间才能显现成效</title>
       <link>https://www.cnbc.com/2024/05/21/chinas-sweeping-measures-to-prop-up-the-property-sector-will-need-time.html</link>
-      <description><![CDATA[分析师表示，中国周五采取的全面加大对房地产支持力度的举措需要一段时间才能显现效果。]]></description>
+      <description><![CDATA[分析师表示，中国周五出台的加大房地产支持力度的举措将需要一些时间才能见效。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/chinas-sweeping-measures-to-prop-up-the-property-sector-will-need-time.html</guid>
       <pubDate>Tue, 21 May 2024 03:14:48 GMT</pubDate>
     </item>
     <item>
       <title>斯嘉丽·约翰逊 (Scarlett Johansson) 表示，在她告诉公司不要在软件中使用 OpenAI 的声音后，OpenAI 抄袭了她的声音</title>
       <link>https://www.cnbc.com/2024/05/20/scarlett-johansson-says-openai-ripped-off-her-voice-.html</link>
-      <description><![CDATA[斯嘉丽·约翰逊发表此番言论之前，OpenAI 暂停了新的 ChatGPT AI 语音“Sky”。]]></description>
+      <description><![CDATA[在 OpenAI 暂停新的 ChatGPT AI 语音“Sky”之后，斯嘉丽·约翰逊发表了上述言论。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/scarlett-johansson-says-openai-ripped-off-her-voice-.html</guid>
       <pubDate>Tue, 21 May 2024 03:12:50 GMT</pubDate>
     </item>
     <item>
-      <title>顶级价值投资者将“非常便宜”的全球博彩股视为反向投资</title>
+      <title>顶级价值投资者将“非常便宜”的全球游戏股票称为逆势押注</title>
       <link>https://www.cnbc.com/2024/05/21/outperforming-investor-names-very-cheap-global-gaming-stock-as-a-contrarian-bet.html</link>
       <description><![CDATA[尽管该公司报告净现金余额为“健康”的 11 亿美元，但该价值股的股价自 2021 年峰值以来已下跌近 80%。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/outperforming-investor-names-very-cheap-global-gaming-stock-as-a-contrarian-bet.html</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>摩根大通首席执行官杰米戴蒙表示退休比以往任何时候都更近</title>
       <link>https://www.cnbc.com/2024/05/20/jpmorgan-ceo-jamie-dimon-retirement-approaching.html</link>
-      <description><![CDATA[戴蒙计划的模糊性使得摩根大通的继任时间成为该行投资者和分析师长期面临的问题之一。]]></description>
+      <description><![CDATA[戴蒙计划的模糊性使得摩根大通的继任时间成为该银行投资者和分析师持续关注的问题之一。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/jpmorgan-ceo-jamie-dimon-retirement-approaching.html</guid>
       <pubDate>Mon, 20 May 2024 23:12:50 GMT</pubDate>
     </item>
@@ -76,30 +83,23 @@
       <pubDate>Mon, 20 May 2024 21:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>杰米·戴蒙称摩根大通股票太贵：“我们不会回购大量股票”</title>
-      <link>https://www.cnbc.com/2024/05/20/jamie-dimon-jpmorgan-stock-too-expensive.html</link>
-      <description><![CDATA[摩根大通 (JPMorgan Chase) 的股价在过去一年中飙升了 40%，周一在戴蒙的言论对该股造成影响之前达到了 52 周新高。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/jamie-dimon-jpmorgan-stock-too-expensive.html</guid>
-      <pubDate>Mon, 20 May 2024 20:44:19 GMT</pubDate>
-    </item>
-    <item>
       <title>梅西百货 (Macy’s)、科尔百货 (Kohl’s) 和诺德斯特龙 (Nordstrom) 如何追逐千禧一代、Z 世代购物者</title>
       <link>https://www.cnbc.com/2024/05/20/macys-kohls-nordstrom-earnings-department-stores-younger-shoppers.html</link>
-      <description><![CDATA[婴儿潮一代在零售商购物者中占很大一部分，但投资者并不相信 Z 世代和千禧一代会在年龄增长时到商店购物。]]></description>
+      <description><![CDATA[婴儿潮一代在零售商购物者中占很大一部分，但投资者并不相信 Z 世代和千禧一代会逐渐进入商店购物。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/macys-kohls-nordstrom-earnings-department-stores-younger-shoppers.html</guid>
       <pubDate>Mon, 20 May 2024 20:17:50 GMT</pubDate>
     </item>
     <item>
       <title>微软宣布推出搭载高通 AI 芯片的新 PC</title>
       <link>https://www.cnbc.com/2024/05/20/microsoft-qualcomm-ai-pcs-snapdragon-arm-processors.html</link>
-      <description><![CDATA[微软希望推出在人工智能性能和强劲电池续航时间方面能够与苹果 MacBook 相媲美的 Windows PC。]]></description>
+      <description><![CDATA[微软希望推出在人工智能性能和强大电池寿命方面能够与苹果 MacBook 相媲美的 Windows PC。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/microsoft-qualcomm-ai-pcs-snapdragon-arm-processors.html</guid>
       <pubDate>Mon, 20 May 2024 20:03:41 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院法官阿利托出售百威淡啤股票，然后在抵制期间购买了库尔斯</title>
+      <title>最高法院法官阿利托出售了百威淡啤股票，然后在抵制期间购买了库尔斯股票</title>
       <link>https://www.cnbc.com/2024/05/20/supreme-court-alito-sold-bud-light-stock-bought-coors-boycott.html</link>
-      <description><![CDATA[根据最高法院法官的一份金融交易报告，塞缪尔·阿利托 (Samuel Alito) 在同一天出售了百威英博 (AB InBev) 股票并购买了莫尔森康胜 (Molson Coors)。]]></description>
+      <description><![CDATA[根据最高法院法官的一份金融交易报告，塞缪尔·阿利托 (Samuel Alito) 在同一天出售了百威英博 (AB InBev) 股票，并购买了莫尔森康胜 (Molson Coors)。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/supreme-court-alito-sold-bud-light-stock-bought-coors-boycott.html</guid>
       <pubDate>Mon, 20 May 2024 18:21:44 GMT</pubDate>
     </item>
