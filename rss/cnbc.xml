@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Tue, 21 May 2024 13:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 14:08:00 GMT</lastBuildDate>
+    <item>
+      <title>梅西百货超出盈利预期，扭亏为盈计划显示出早期进展</title>
+      <link>https://www.cnbc.com/2024/05/21/macys-m-q1-2024-earnings.html</link>
+      <description><![CDATA[梅西百货 (Macy&#39;s) 的盈利超出预期，这家百货商店运营商关闭了约 150 个同名门店，并开设了新的 Bloomingdale&#39;s 和 Bluemercury 商店。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/macys-m-q1-2024-earnings.html</guid>
+      <pubDate>Tue, 21 May 2024 14:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普因不尊重行为被法官斥责后，辩护证人罗伯特·科斯特洛的审判继续进行</title>
+      <link>https://www.cnbc.com/2024/05/21/trump-trial-resumes-in-porn-star-hush-money-case.html</link>
+      <description><![CDATA[前总统唐纳德·特朗普的封口费刑事审判可能会在纽约法庭出现最后证人。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/trump-trial-resumes-in-porn-star-hush-money-case.html</guid>
+      <pubDate>Tue, 21 May 2024 14:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>高盛科技分析师在评估第一季度盈利结果后给出了他的首选</title>
+      <link>https://www.cnbc.com/2024/05/21/goldmans-tech-analyst-gives-his-top-picks-from-here-after-evaluating-first-quarter-earnings-results.html</link>
+      <description><![CDATA[随着第一季度财报季的结束，高盛的顶级科技分析师正在列出他的首选股票。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/goldmans-tech-analyst-gives-his-top-picks-from-here-after-evaluating-first-quarter-earnings-results.html</guid>
+      <pubDate>Tue, 21 May 2024 13:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>千禧一代正在“安静地度假”，而不是向老板索要 PTO：“这里有一种巨大的解决方法文化”</title>
+      <link>https://www.cnbc.com/2024/05/21/millennials-would-rather-take-secret-pto-than-ask-their-boss.html</link>
+      <description><![CDATA[年轻员工更有可能表示，他们在请假时会感到紧张，因此他们将 PTO 留在桌面上。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/millennials-would-rather-take-secret-pto-than-ask-their-boss.html</guid>
+      <pubDate>Tue, 21 May 2024 13:50:51 GMT</pubDate>
+    </item>
     <item>
       <title>卖空者指控 Oddity Tech 误导投资者</title>
       <link>https://www.cnbc.com/2024/05/21/oddity-tech-short-seller-allegations.html</link>
-      <description><![CDATA[Oddity Tech 告诉投资者，其业务仅限于线上，但做空者 Ningi Research 表示，该公司在以色列经营着一系列商店。]]></description>
+      <description><![CDATA[Oddity Tech 告诉投资者，其业务仅在网上进行，但卖空者 Ningi Research 表示，该公司在以色列经营着一系列商店。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/oddity-tech-short-seller-allegations.html</guid>
       <pubDate>Tue, 21 May 2024 13:49:12 GMT</pubDate>
     </item>
     <item>
-      <title>美联储理事沃勒希望在降息前获得“几个月”良好的通胀数据</title>
+      <title>美联储理事沃勒希望在降息之前有“几个月”的良好通胀数据</title>
       <link>https://www.cnbc.com/2024/05/21/fed-governor-waller-wants-several-months-of-good-inflation-data-before-lowering-rates.html</link>
       <description><![CDATA[美联储理事克里斯托弗·沃勒周二表示，他认为没有必要进一步加息。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/fed-governor-waller-wants-several-months-of-good-inflation-data-before-lowering-rates.html</guid>
@@ -27,18 +55,11 @@
       <pubDate>Tue, 21 May 2024 13:39:27 GMT</pubDate>
     </item>
     <item>
-      <title>尽管消费者在 DIY 项目上的支出减少，但 Lowe's 的盈利和收入仍表现出色</title>
+      <title>尽管消费者在 DIY 项目上的支出减少，但劳氏的盈利和收入仍超出预期</title>
       <link>https://www.cnbc.com/2024/05/21/lowes-low-q1-2024-earnings.html</link>
-      <description><![CDATA[家居装修零售商劳氏 (Lowe&#39;s) 表示，销售额同比再次下降，并重申了全年盈利预测。]]></description>
+      <description><![CDATA[家居装饰零售商劳氏表示销售额同比再次下滑，并重申全年盈利预测。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/lowes-low-q1-2024-earnings.html</guid>
       <pubDate>Tue, 21 May 2024 13:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅西百货超出盈利预期，扭亏为盈计划显示出早期进展</title>
-      <link>https://www.cnbc.com/2024/05/21/macys-m-q1-2024-earnings.html</link>
-      <description><![CDATA[梅西百货 (Macy&#39;s) 的盈利超出预期，这家百货商店运营商关闭了约 150 个同名门店，并开设了新的 Bloomingdale&#39;s 和 Bluemercury 商店。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/macys-m-q1-2024-earnings.html</guid>
-      <pubDate>Tue, 21 May 2024 13:30:20 GMT</pubDate>
     </item>
     <item>
       <title>雀巢将针对 GLP-1 用户推出 Vital Pursuit 冷冻食品品牌</title>
@@ -48,32 +69,11 @@
       <pubDate>Tue, 21 May 2024 13:23:12 GMT</pubDate>
     </item>
     <item>
-      <title>全球首部人工智能重要法律获欧盟最终批准</title>
+      <title>全球首部人工智能主要法律获得欧盟最终批准</title>
       <link>https://www.cnbc.com/2024/05/21/worlds-first-major-law-for-artificial-intelligence-gets-final-eu-green-light.html</link>
       <description><![CDATA[欧盟成员国周二同意世界上第一部监管人工智能的主要法律。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/worlds-first-major-law-for-artificial-intelligence-gets-final-eu-green-light.html</guid>
       <pubDate>Tue, 21 May 2024 13:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是周二最重要的分析师电话会议：英伟达、苹果、戴尔、特斯拉、迪士尼、Gap、惠普等</title>
-      <link>https://www.cnbc.com/2024/05/21/tuesdays-analyst-calls-on-wall-street-include-nvidia.html</link>
-      <description><![CDATA[以下是周二华尔街最大的呼吁。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/tuesdays-analyst-calls-on-wall-street-include-nvidia.html</guid>
-      <pubDate>Tue, 21 May 2024 13:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊和 Meta 以 10 亿美元融资支持 Scale AI，该公司估值达 140 亿美元</title>
-      <link>https://www.cnbc.com/2024/05/21/amazon-meta-back-scale-ai-in-1-billion-funding-deal.html</link>
-      <description><![CDATA[Scale AI 在 F 轮融资中筹集了 10 亿美元，这家企业科技公司的估值达到 138 亿美元，几乎是上次报告估值的两倍。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/amazon-meta-back-scale-ai-in-1-billion-funding-deal.html</guid>
-      <pubDate>Tue, 21 May 2024 12:49:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普因不尊重行为被法官斥责后，辩护证人罗伯特·科斯特洛的审判继续进行</title>
-      <link>https://www.cnbc.com/2024/05/21/trump-trial-resumes-in-porn-star-hush-money-case.html</link>
-      <description><![CDATA[前总统唐纳德·特朗普的刑事封口费审判可能会在纽约法庭上迎来最后一名证人。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/trump-trial-resumes-in-porn-star-hush-money-case.html</guid>
-      <pubDate>Tue, 21 May 2024 12:39:53 GMT</pubDate>
     </item>
     <item>
       <title>英伟达在本周公布财报的人工智能活动中成为热门话题</title>
