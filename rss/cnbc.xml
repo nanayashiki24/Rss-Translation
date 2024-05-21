@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 21 May 2024 01:46:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Tue, 21 May 2024 03:18:00 GMT</lastBuildDate>
+    <item>
+      <title>中国全面提振房地产业的措施需要时间才能显现成效</title>
+      <link>https://www.cnbc.com/2024/05/21/chinas-sweeping-measures-to-prop-up-the-property-sector-will-need-time.html</link>
+      <description><![CDATA[分析师表示，中国周五采取的全面加大对房地产支持力度的举措需要一段时间才能显现效果。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/chinas-sweeping-measures-to-prop-up-the-property-sector-will-need-time.html</guid>
+      <pubDate>Tue, 21 May 2024 03:14:48 GMT</pubDate>
+    </item>
     <item>
       <title>斯嘉丽·约翰逊 (Scarlett Johansson) 表示，在她告诉公司不要在软件中使用 OpenAI 的声音后，OpenAI 抄袭了她的声音</title>
       <link>https://www.cnbc.com/2024/05/20/scarlett-johansson-says-openai-ripped-off-her-voice-.html</link>
@@ -15,7 +22,7 @@
     <item>
       <title>顶级价值投资者将“非常便宜”的全球游戏股票称为逆势押注</title>
       <link>https://www.cnbc.com/2024/05/21/outperforming-investor-names-very-cheap-global-gaming-stock-as-a-contrarian-bet.html</link>
-      <description><![CDATA[尽管该公司报告称其净现金余额“健康”，达到 11 亿美元，但该价值股的股价自 2021 年高峰以来已下跌近 80%。]]></description>
+      <description><![CDATA[尽管该公司报告净现金余额为“健康”的 11 亿美元，但该价值股的股价自 2021 年峰值以来已下跌近 80%。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/outperforming-investor-names-very-cheap-global-gaming-stock-as-a-contrarian-bet.html</guid>
       <pubDate>Tue, 21 May 2024 01:14:54 GMT</pubDate>
     </item>
@@ -36,16 +43,9 @@
     <item>
       <title>DJT：特朗普媒体报告第一季度营收 770,500 美元，净亏损 3.276 亿美元</title>
       <link>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</link>
-      <description><![CDATA[特朗普媒体 (Trump Media) 是唐纳德·特朗普 (Donald Trump) 的 Truth Social 的母公司，于 3 月在纳斯达克证券交易所上市。]]></description>
+      <description><![CDATA[特朗普媒体 (Trump Media) 是唐纳德·特朗普 (Donald Trump) 的 Truth Social 的母公司，于 3 月份在纳斯达克证券交易所上市。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</guid>
       <pubDate>Mon, 20 May 2024 23:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>纳斯达克综合指数创历史新高后，股票期货几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/20/stock-market-today-live-updates.html</link>
-      <description><![CDATA[纳斯达克综合指数周一收盘创下历史新高。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/stock-market-today-live-updates.html</guid>
-      <pubDate>Mon, 20 May 2024 23:23:51 GMT</pubDate>
     </item>
     <item>
       <title>摩根大通首席执行官杰米戴蒙表示退休比以往任何时候都更近</title>
@@ -55,28 +55,28 @@
       <pubDate>Mon, 20 May 2024 23:12:50 GMT</pubDate>
     </item>
     <item>
-      <title>联邦存款保险公司 (FDIC) 主席马丁·格伦伯格 (Martin Gruenberg) 在工作场所骚扰调查后辞职</title>
+      <title>联邦存款保险公司 (FDIC) 主席马丁·格伦伯格 (Martin Gruenberg) 将在职场骚扰调查中辞职</title>
       <link>https://www.cnbc.com/2024/05/20/top-democrat-asks-biden-to-replace-fdic-chairman.html</link>
       <description><![CDATA[最近的一份报告详细描述了 FDIC 的有毒文化，称主席马丁·格伦伯格“脾气暴躁”且“易怒”。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/top-democrat-asks-biden-to-replace-fdic-chairman.html</guid>
       <pubDate>Mon, 20 May 2024 22:44:05 GMT</pubDate>
     </item>
     <item>
-      <title>帕洛阿尔托的季度营业额预测未能打动投资者，股价下跌</title>
-      <link>https://www.cnbc.com/2024/05/20/palo-alto-networks-forecasts-quarterly-billings-above-estimates.html</link>
-      <description><![CDATA[Palo Alto Networks 周一预测第四季度的营收将高于华尔街的预期，这表明客户正在转向这家网络安全公司寻求其集成软件安全工具。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/palo-alto-networks-forecasts-quarterly-billings-above-estimates.html</guid>
-      <pubDate>Mon, 20 May 2024 22:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Peloton 宣布再融资以避免现金短缺，股价下跌</title>
+      <title>Peloton 宣布再融资以避免现金紧缩，股价下跌</title>
       <link>https://www.cnbc.com/2024/05/20/peloton-shares-plunge-after-refinancing.html</link>
-      <description><![CDATA[Peloton 正在进行大规模重组，希望使其业务规模与放缓的销售保持一致，并避免现金短缺。]]></description>
+      <description><![CDATA[Peloton 正在进行大规模重组，希望根据销售放缓调整业务规模，并避免现金短缺。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/peloton-shares-plunge-after-refinancing.html</guid>
       <pubDate>Mon, 20 May 2024 21:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>梅西百货 (Macy’s)、科尔百货 (Kohl’s) 和诺德斯特龙 (Nordstrom) 如何吸引千禧一代、Z 世代购物者</title>
+      <title>杰米戴蒙表示摩根大通股票太贵：“我们不会大量回购”</title>
+      <link>https://www.cnbc.com/2024/05/20/jamie-dimon-jpmorgan-stock-too-expensive.html</link>
+      <description><![CDATA[摩根大通 (JPMorgan Chase) 的股价在过去一年中飙升了 40%，周一在戴蒙的言论对该股造成影响之前达到了 52 周新高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/20/jamie-dimon-jpmorgan-stock-too-expensive.html</guid>
+      <pubDate>Mon, 20 May 2024 20:44:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>梅西百货 (Macy’s)、科尔百货 (Kohl’s) 和诺德斯特龙 (Nordstrom) 如何追逐千禧一代、Z 世代购物者</title>
       <link>https://www.cnbc.com/2024/05/20/macys-kohls-nordstrom-earnings-department-stores-younger-shoppers.html</link>
       <description><![CDATA[婴儿潮一代在零售商购物者中占很大一部分，但投资者并不相信 Z 世代和千禧一代会逐渐进入商店购物。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/macys-kohls-nordstrom-earnings-department-stores-younger-shoppers.html</guid>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 20 May 2024 20:03:41 GMT</pubDate>
     </item>
     <item>
-      <title>初创公司表示将提供 GLP-1 注射服务后 Hims & Hers Health 股价飙升 27%</title>
+      <title>初创公司 Hims & Hers Health 宣布将提供 GLP-1 注射剂，其股价飙升 27%</title>
       <link>https://www.cnbc.com/2024/05/20/hims-hers-compounded-glp-1-injections.html</link>
       <description><![CDATA[近几个月来，随着 Ozempic 和 Wegovy 等药物的受欢迎程度持续飙升，GLP-1 市场面临供应限制。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/hims-hers-compounded-glp-1-injections.html</guid>
@@ -99,12 +99,12 @@
     <item>
       <title>最高法院法官阿利托出售了百威淡啤股票，然后在抵制期间购买了库尔斯股票</title>
       <link>https://www.cnbc.com/2024/05/20/supreme-court-alito-sold-bud-light-stock-bought-coors-boycott.html</link>
-      <description><![CDATA[根据最高法院法官的一份金融交易报告，塞缪尔·阿利托 (Samuel Alito) 在同一天出售了百威英博 (AB InBev) 股票并购买了莫尔森康胜 (Molson Coors)。]]></description>
+      <description><![CDATA[根据最高法院法官的一份金融交易报告，塞缪尔·阿利托 (Samuel Alito) 在同一天出售了百威英博 (AB InBev) 股票，并购买了莫尔森康胜 (Molson Coors)。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/supreme-court-alito-sold-bud-light-stock-bought-coors-boycott.html</guid>
       <pubDate>Mon, 20 May 2024 18:21:44 GMT</pubDate>
     </item>
     <item>
-      <title>消费者是否正在缩减开支？这取决于你问的是哪位首席执行官</title>
+      <title>消费者是否在减少支出？这取决于你问的是哪位首席执行官</title>
       <link>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</link>
       <description><![CDATA[百事可乐等公司就低收入消费者疲软发出警告，而达美航空和Chipotle则受益于其高收入客户群。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</guid>
