@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Tue, 21 May 2024 22:52:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 21 May 2024 23:33:00 GMT</lastBuildDate>
     <item>
-      <title>新加坡航空航班遭遇严重乱流 致一人死亡 30 人受伤</title>
+      <title>当英伟达超出预期时，这 6 只人工智能股票往往会上涨</title>
+      <link>https://www.cnbc.com/2024/05/22/nvda-alternatives-if-nvidia-beats-estimates-these-6-ai-stocks-tend-to-rise.html</link>
+      <description><![CDATA[英伟达过去公布了丰厚的业绩后，五只美国上市公司和一家日本上市公司的股价上涨了 6% 至 33%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/nvda-alternatives-if-nvidia-beats-estimates-these-6-ai-stocks-tend-to-rise.html</guid>
+      <pubDate>Tue, 21 May 2024 23:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>新加坡航空航班遭遇严重颠簸 造成1人死亡30人受伤</title>
       <link>https://www.cnbc.com/2024/05/21/one-dead-as-singapore-airlines-flight-encounters-severe-turbulence.html</link>
-      <description><![CDATA[新加坡航空一架航班因湍流改飞曼谷，造成一人死亡。]]></description>
+      <description><![CDATA[新加坡航空公司一架航班因气流颠簸改道飞往曼谷，机上一人死亡。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/one-dead-as-singapore-airlines-flight-encounters-severe-turbulence.html</guid>
       <pubDate>Tue, 21 May 2024 23:10:14 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 21 May 2024 22:57:12 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普竞选团队开始接受加密货币捐款，誓言建立一支“加密军队”</title>
+      <title>特朗普竞选团队开始接受加密货币捐赠，誓言建立一支“加密货币军队”</title>
       <link>https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html</link>
       <description><![CDATA[特朗普竞选团队将接受加密货币捐赠的决定视为抵制“社会主义政府对美国金融市场的控制”。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html</guid>
@@ -60,13 +67,6 @@
       <description><![CDATA[拜登政府将从东北部储备中释放100万桶汽油，以在7月4日假期之前降低价格。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4.html</guid>
       <pubDate>Tue, 21 May 2024 21:11:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞银表示，随着大型科技公司寻求可再生能源为人工智能提供动力，First Solar 的盈利到 2027 年可能飙升 370%</title>
-      <link>https://www.cnbc.com/2024/05/21/fslr-earnings-could-surge-as-big-tech-hunts-for-renewables-to-power-ai-ubs-says-.html</link>
-      <description><![CDATA[瑞银表示，First Solar 是“人工智能驱动的电力需求不断增长的一个被忽视的直接受益者”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/fslr-earnings-could-surge-as-big-tech-hunts-for-renewables-to-power-ai-ubs-says-.html</guid>
-      <pubDate>Tue, 21 May 2024 19:51:03 GMT</pubDate>
     </item>
     <item>
       <title>Uniswap 敦促 SEC 在新文件中放弃潜在的执法行动：CNBC Crypto World</title>
