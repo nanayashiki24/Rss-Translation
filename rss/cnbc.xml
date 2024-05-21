@@ -1,23 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 21 May 2024 22:47:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Tue, 21 May 2024 22:52:00 GMT</lastBuildDate>
     <item>
-      <title>RFK Jr. 表示，在 meme 股票短暂复苏后，他向 GameStop 投资了 24,000 美元</title>
-      <link>https://www.cnbc.com/2024/05/21/rfk-jr-says-he-invested-24000-in-gamestop-amid-re-.html</link>
-      <description><![CDATA[小罗伯特·肯尼迪是 11 月选举中总统乔·拜登和前总统唐纳德·特朗普的独立挑战者。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/rfk-jr-says-he-invested-24000-in-gamestop-amid-re-.html</guid>
-      <pubDate>Tue, 21 May 2024 22:46:29 GMT</pubDate>
+      <title>新加坡航空航班遭遇严重乱流 致一人死亡 30 人受伤</title>
+      <link>https://www.cnbc.com/2024/05/21/one-dead-as-singapore-airlines-flight-encounters-severe-turbulence.html</link>
+      <description><![CDATA[新加坡航空一架航班因湍流改飞曼谷，造成一人死亡。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/one-dead-as-singapore-airlines-flight-encounters-severe-turbulence.html</guid>
+      <pubDate>Tue, 21 May 2024 23:10:14 GMT</pubDate>
     </item>
     <item>
-      <title>克莱默探讨了企业和数据技术公司获胜的原因：“追随金钱”</title>
-      <link>https://www.cnbc.com/2024/05/21/cramer-looks-at-why-enterprise-and-data-tech-companies-are-winning.html</link>
-      <description><![CDATA[CNBC 的吉姆·克莱默 (Jim Cramer) 周二描述了以消费者为中心的公司如何遭受苦难，因为资金主要流向数据密集型科技公司。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/cramer-looks-at-why-enterprise-and-data-tech-companies-are-winning.html</guid>
-      <pubDate>Tue, 21 May 2024 22:38:30 GMT</pubDate>
+      <title>“大空头”投资者史蒂夫·艾斯曼：苹果是“隐藏的人工智能公司”</title>
+      <link>https://www.cnbc.com/2024/05/21/apple-is-hidden-ai-play-ahead-of-nvidia-earnings-steve-eisman-.html</link>
+      <description><![CDATA[因“大空头”而闻名的投资者史蒂夫·艾斯曼 (Steve Eisman) 预计，苹果将从人工智能热潮中获得巨大收益。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/apple-is-hidden-ai-play-ahead-of-nvidia-earnings-steve-eisman-.html</guid>
+      <pubDate>Tue, 21 May 2024 22:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>标准普尔 500 指数收盘创历史新高后，股票期货几乎没有变化，英伟达的盈利即将到来：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html</link>
+      <description><![CDATA[交易员热切期待周三下午公布的英伟达最新季度财报。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html</guid>
+      <pubDate>Tue, 21 May 2024 22:57:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普竞选团队开始接受加密货币捐款，誓言建立一支“加密军队”</title>
+      <link>https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html</link>
+      <description><![CDATA[特朗普竞选团队将接受加密货币捐赠的决定视为抵制“社会主义政府对美国金融市场的控制”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html</guid>
+      <pubDate>Tue, 21 May 2024 22:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFK Jr. 表示，在 Meme 股票短暂复苏后，他向 GameStop 投资了 24,000 美元</title>
+      <link>https://www.cnbc.com/2024/05/21/rfk-jr-says-he-invested-24000-in-gamestop-amid-re-.html</link>
+      <description><![CDATA[小罗伯特·肯尼迪是 11 月大选中总统乔·拜登和前总统唐纳德·特朗普的独立挑战者。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/rfk-jr-says-he-invested-24000-in-gamestop-amid-re-.html</guid>
+      <pubDate>Tue, 21 May 2024 22:46:29 GMT</pubDate>
     </item>
     <item>
       <title>特朗普副总统候选人道格·布尔古姆和共和党石油大亨哈罗德·哈姆是商界和政界的盟友</title>
@@ -25,20 +46,6 @@
       <description><![CDATA[道格·布尔古姆（Doug Burgum）是前总统唐纳德·特朗普（Donald Trump）竞选伙伴的潜在选择，他与石油和天然气业务密切相关。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/trump-vp-doug-burgum-oil.html</guid>
       <pubDate>Tue, 21 May 2024 22:36:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>标准普尔 500 指数收盘创历史新高后，股票期货几乎没有变化，英伟达的盈利即将到来：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html</link>
-      <description><![CDATA[交易员热切期待周三下午公布的英伟达最新季度财报。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 21 May 2024 22:23:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普竞选团队开始接受加密货币捐赠，誓言建立一支“加密货币军队”</title>
-      <link>https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html</link>
-      <description><![CDATA[特朗普竞选团队将接受加密货币捐赠的决定视为抵制“社会主义政府对美国金融市场的控制”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/trump-campaign-starts-taking-cryptocurrency-donations.html</guid>
-      <pubDate>Tue, 21 May 2024 22:13:45 GMT</pubDate>
     </item>
     <item>
       <title>麦当劳特许经营集团表示，如果没有公司投资，5 美元超值餐食就无法持续</title>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 21 May 2024 21:11:13 GMT</pubDate>
     </item>
     <item>
-      <title>瑞银：随着大型科技公司寻求可再生能源为人工智能提供动力，First Solar 的盈利到 2027 年可能飙升 370%</title>
+      <title>瑞银表示，随着大型科技公司寻求可再生能源为人工智能提供动力，First Solar 的盈利到 2027 年可能飙升 370%</title>
       <link>https://www.cnbc.com/2024/05/21/fslr-earnings-could-surge-as-big-tech-hunts-for-renewables-to-power-ai-ubs-says-.html</link>
       <description><![CDATA[瑞银表示，First Solar 是“人工智能驱动的电力需求不断增长的一个被忽视的直接受益者”。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/fslr-earnings-could-surge-as-big-tech-hunts-for-renewables-to-power-ai-ubs-says-.html</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>对冲基金对大型科技公司越来越挑剔，不再喜欢特斯拉和苹果</title>
       <link>https://www.cnbc.com/2024/05/21/hedge-funds-get-selective-with-big-tech-fall-out-of-love-with-tesla-apple.html</link>
-      <description><![CDATA[对冲基金上季度减少了对特斯拉、Alphabet 和苹果的投资，而微软仍然是最受欢迎的股票。]]></description>
+      <description><![CDATA[上个季度，对冲基金减少了对特斯拉、 Alphabet 和苹果的投资，而微软仍然是最受欢迎的股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/hedge-funds-get-selective-with-big-tech-fall-out-of-love-with-tesla-apple.html</guid>
       <pubDate>Tue, 21 May 2024 19:07:24 GMT</pubDate>
     </item>
@@ -92,23 +99,16 @@
     <item>
       <title>比尔盖茨列出了他今年夏天最推荐的书籍——以及“必读”的书籍</title>
       <link>https://www.cnbc.com/2024/05/21/bill-gates-2024-summer-book-recommendations-one-is-a-must-read.html</link>
-      <description><![CDATA[比尔·盖茨 (Bill Gates) 推荐的 2024 年夏季图书包括一本越战小说、一本关于更好倾听的非小说类书籍，以及一部电视节目《慢马》。]]></description>
+      <description><![CDATA[比尔·盖茨 (Bill Gates) 推荐的 2024 年夏季图书包括一本越南战争小说、一本关于更好倾听的非小说类书籍，以及一部电视节目《慢马》。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/bill-gates-2024-summer-book-recommendations-one-is-a-must-read.html</guid>
       <pubDate>Tue, 21 May 2024 17:00:01 GMT</pubDate>
     </item>
     <item>
       <title>迪士尼缩减内容规模，皮克斯将裁员 14%</title>
       <link>https://www.cnbc.com/2024/05/21/disneys-pixar-layoffs.html</link>
-      <description><![CDATA[迪士尼皮克斯动画工作室约有 14% 的员工（约 175 名）被解雇。]]></description>
+      <description><![CDATA[迪士尼皮克斯动画工作室约有 14% 的员工（约 175 名员工）被解雇。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/disneys-pixar-layoffs.html</guid>
       <pubDate>Tue, 21 May 2024 16:52:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>新加坡航空航班遭遇严重颠簸 造成1人死亡30人受伤</title>
-      <link>https://www.cnbc.com/2024/05/21/one-dead-as-singapore-airlines-flight-encounters-severe-turbulence.html</link>
-      <description><![CDATA[新加坡航空一架航班因湍流改飞曼谷，造成一人死亡。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/one-dead-as-singapore-airlines-flight-encounters-severe-turbulence.html</guid>
-      <pubDate>Tue, 21 May 2024 15:53:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
