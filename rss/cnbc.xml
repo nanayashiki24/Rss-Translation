@@ -1,16 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Tue, 21 May 2024 11:01:00 GMT</lastBuildDate>
     <item>
       <title>由于人们对 ETF 重新乐观，以太币上涨 20%，比特币也上涨</title>
       <link>https://www.cnbc.com/2024/05/21/crypto-market-today.html</link>
-      <description><![CDATA[随着美国证券交易委员会 (SEC) 对以太坊 ETF 现货申请的决定（第一个申请将于本周到期）的乐观情绪后期飙升，加密货币上涨。]]></description>
+      <description><![CDATA[由于美国证券交易委员会 (SEC) 对以太坊 ETF 现货申请的决定（第一个申请将于本周到期）的乐观情绪后期高涨，加密货币上涨。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/crypto-market-today.html</guid>
-      <pubDate>Tue, 21 May 2024 11:24:53 GMT</pubDate>
+      <pubDate>Tue, 21 May 2024 11:33:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管消费者在 DIY 项目上的支出减少，但 Lowe's 的盈利和收入仍表现出色</title>
+      <link>https://www.cnbc.com/2024/05/21/lowes-low-q1-2024-earnings.html</link>
+      <description><![CDATA[家居装修零售商劳氏 (Lowe&#39;s) 表示，销售额同比再次下降，并重申了全年盈利预测。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/lowes-low-q1-2024-earnings.html</guid>
+      <pubDate>Tue, 21 May 2024 11:32:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>与特朗普结盟的共和党人正在改变共和党对劳动力、自由市场和监管的态度</title>
+      <link>https://www.cnbc.com/2024/05/21/trump-republicans-shift-gop-approach-to-labor-free-markets-and-regulation.html</link>
+      <description><![CDATA[对于特朗普盟友的新民粹主义者来说，企业首席执行官并不是共和党与大政府的战争中的盟友。他们是“觉醒”的精英主义者，推动自由主义文化价值观。]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/trump-republicans-shift-gop-approach-to-labor-free-markets-and-regulation.html</guid>
+      <pubDate>Tue, 21 May 2024 11:26:55 GMT</pubDate>
     </item>
     <item>
       <title>乌克兰战争实时更新：克里姆林宫称泽连斯基“陷入歇斯底里”，希望西方直接卷入战争</title>
@@ -36,7 +50,7 @@
     <item>
       <title>人工智能需求将把电网推向崩溃的边缘。摩根士丹利表示这些股票可能受益</title>
       <link>https://www.cnbc.com/2024/05/21/data-centers-could-drive-the-grid-into-a-brick-wall-these-stocks-are-poised-to-benefit.html</link>
-      <description><![CDATA[摩根士丹利表示，随着电网因数据中心需求而紧张，小型天然气涡轮机可能会大受欢迎。]]></description>
+      <description><![CDATA[摩根士丹利表示，由于数据中心需求导致电网紧张，小型天然气涡轮机可能会大受欢迎。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/data-centers-could-drive-the-grid-into-a-brick-wall-these-stocks-are-poised-to-benefit.html</guid>
       <pubDate>Tue, 21 May 2024 10:53:48 GMT</pubDate>
     </item>
@@ -48,20 +62,6 @@
       <pubDate>Tue, 21 May 2024 10:49:36 GMT</pubDate>
     </item>
     <item>
-      <title>尽管消费者在 DIY 项目上的支出减少，但 Lowe's 的盈利和收入仍表现出色</title>
-      <link>https://www.cnbc.com/2024/05/21/lowes-low-q1-2024-earnings.html</link>
-      <description><![CDATA[家居装修零售商劳氏 (Lowe&#39;s) 表示，销售额同比再次下降，并重申了全年盈利预测。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/lowes-low-q1-2024-earnings.html</guid>
-      <pubDate>Tue, 21 May 2024 10:21:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>与特朗普结盟的共和党人正在改变共和党对劳动力、自由市场和监管的态度</title>
-      <link>https://www.cnbc.com/2024/05/21/trump-republicans-shift-gop-approach-to-labor-free-markets-and-regulation.html</link>
-      <description><![CDATA[对于特朗普盟友的新民粹主义者来说，企业首席执行官并不是共和党与大政府的战争中的盟友。他们是“觉醒”的精英主义者，推动自由主义文化价值观。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/trump-republicans-shift-gop-approach-to-labor-free-markets-and-regulation.html</guid>
-      <pubDate>Tue, 21 May 2024 09:47:18 GMT</pubDate>
-    </item>
-    <item>
       <title>特斯拉弗里蒙特工厂再次发生火灾，调查正在进行中</title>
       <link>https://www.cnbc.com/2024/05/21/tesla-fremont-factory-suffers-another-fire-investigation-underway.html</link>
       <description><![CDATA[]]></description>
@@ -69,16 +69,16 @@
       <pubDate>Tue, 21 May 2024 05:20:02 GMT</pubDate>
     </item>
     <item>
-      <title>斯嘉丽·约翰逊称 OpenAI 剽窃了她的声音，此前她曾告诉该公司不要在软件中使用她的声音</title>
+      <title>斯嘉丽·约翰逊 (Scarlett Johansson) 表示，在她告诉公司不要在软件中使用 OpenAI 的声音后，OpenAI 抄袭了她的声音</title>
       <link>https://www.cnbc.com/2024/05/20/scarlett-johansson-says-openai-ripped-off-her-voice-.html</link>
-      <description><![CDATA[在 OpenAI 暂停新的 ChatGPT AI 语音“Sky”之后，斯嘉丽·约翰逊发表了上述言论。]]></description>
+      <description><![CDATA[斯嘉丽·约翰逊发表此番言论之前，OpenAI 暂停了新的 ChatGPT AI 语音“Sky”。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/scarlett-johansson-says-openai-ripped-off-her-voice-.html</guid>
       <pubDate>Tue, 21 May 2024 03:12:50 GMT</pubDate>
     </item>
     <item>
       <title>DJT：特朗普媒体报告第一季度营收 770,500 美元，净亏损 3.276 亿美元</title>
       <link>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</link>
-      <description><![CDATA[特朗普媒体 (Trump Media) 是唐纳德·特朗普 (Donald Trump) 的 Truth Social 的母公司，于 3 月在纳斯达克证券交易所上市。]]></description>
+      <description><![CDATA[特朗普媒体 (Trump Media) 是唐纳德·特朗普 (Donald Trump) 的 Truth Social 的母公司，于 3 月份在纳斯达克证券交易所上市。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</guid>
       <pubDate>Mon, 20 May 2024 23:25:10 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 20 May 2024 21:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>美国人为了购买食品杂货而负债累累。这就是为什么这些余额可能难以偿还</title>
+      <title>美国人为了买食品而负债累累。这就是为什么这些债务很难偿还的原因</title>
       <link>https://www.cnbc.com/2024/05/20/americans-are-going-into-debt-to-buy-groceries-research-finds.html</link>
       <description><![CDATA[自 2021 年以来，美国人一直在努力应对食品价格上涨的问题。为了缓解压力，一些人开始使用信用卡、“先买后付”计划或发薪日贷款。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/americans-are-going-into-debt-to-buy-groceries-research-finds.html</guid>
