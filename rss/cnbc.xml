@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 21 May 2024 04:43:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Tue, 21 May 2024 05:21:00 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉弗里蒙特工厂再次发生火灾，调查正在进行中</title>
+      <link>https://www.cnbc.com/2024/05/21/tesla-fremont-factory-suffers-another-fire-investigation-underway.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/05/21/tesla-fremont-factory-suffers-another-fire-investigation-underway.html</guid>
+      <pubDate>Tue, 21 May 2024 05:20:02 GMT</pubDate>
+    </item>
     <item>
       <title>随着人工智能芯片竞赛的升温，三星电子任命了新的半导体业务负责人</title>
       <link>https://www.cnbc.com/2024/05/21/samsung-electronics-names-new-semiconductor-chief-as-ai-chip-race-heats-up.html</link>
@@ -15,7 +22,7 @@
     <item>
       <title>以太坊 ETF 乐观情绪重燃，以太坊飙升 20% 后，以太坊延续涨势</title>
       <link>https://www.cnbc.com/2024/05/21/crypto-market-today.html</link>
-      <description><![CDATA[受美国证券交易委员会 (SEC) 对现货以太币 ETF 申请作出决定的乐观情绪高涨推动，加密货币在周一晚间出现上涨，首批 ETF 申请将于本周公布。]]></description>
+      <description><![CDATA[由于美国证券交易委员会 (SEC) 对以太坊 ETF 现货申请的决定（第一个申请将于本周到期）的乐观情绪后期飙升，加密货币周一晚间上涨。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/crypto-market-today.html</guid>
       <pubDate>Tue, 21 May 2024 04:03:49 GMT</pubDate>
     </item>
@@ -34,9 +41,9 @@
       <pubDate>Tue, 21 May 2024 03:12:50 GMT</pubDate>
     </item>
     <item>
-      <title>顶级价值投资者将“非常便宜”的全球游戏股票称为逆势押注</title>
+      <title>顶级价值投资者将“非常便宜”的全球博彩股视为反向投资</title>
       <link>https://www.cnbc.com/2024/05/21/outperforming-investor-names-very-cheap-global-gaming-stock-as-a-contrarian-bet.html</link>
-      <description><![CDATA[尽管该公司报告称其净现金余额“健康”，达到 11 亿美元，但该价值股的股价自 2021 年高峰以来已下跌近 80%。]]></description>
+      <description><![CDATA[尽管该公司报告净现金余额为“健康”的 11 亿美元，但该价值股的股价自 2021 年峰值以来已下跌近 80%。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/outperforming-investor-names-very-cheap-global-gaming-stock-as-a-contrarian-bet.html</guid>
       <pubDate>Tue, 21 May 2024 01:14:54 GMT</pubDate>
     </item>
@@ -46,13 +53,6 @@
       <description><![CDATA[伯恩斯坦表示，美国对中国电动汽车征收更高关税的举措将影响美国电池供应链，并创造投资机会。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/bernstein-names-global-stocks-to-buy-on-china-ev-tariffs.html</guid>
       <pubDate>Tue, 21 May 2024 01:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>DJT：特朗普媒体公布第一季度营收 77.05 万美元，净亏损 3.276 亿美元</title>
-      <link>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</link>
-      <description><![CDATA[特朗普媒体 (Trump Media) 是唐纳德·特朗普 (Donald Trump) 的 Truth Social 的母公司，于 3 月份在纳斯达克证券交易所上市。]]></description>
-      <guid>https://www.cnbc.com/2024/05/20/trump-media-djt-q1-2024-earnings.html</guid>
-      <pubDate>Mon, 20 May 2024 23:25:10 GMT</pubDate>
     </item>
     <item>
       <title>摩根大通首席执行官杰米戴蒙表示退休比以往任何时候都更近</title>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 20 May 2024 21:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>杰米戴蒙表示摩根大通股票太贵：“我们不会大量回购”</title>
+      <title>杰米·戴蒙称摩根大通股票太贵：“我们不会回购大量股票”</title>
       <link>https://www.cnbc.com/2024/05/20/jamie-dimon-jpmorgan-stock-too-expensive.html</link>
       <description><![CDATA[摩根大通 (JPMorgan Chase) 的股价在过去一年中飙升了 40%，周一在戴蒙的言论对该股造成影响之前达到了 52 周新高。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/jamie-dimon-jpmorgan-stock-too-expensive.html</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>消费者是否正在缩减开支？这取决于你问的是哪位首席执行官</title>
       <link>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</link>
-      <description><![CDATA[百事可乐等公司已对低收入消费者的疲软发出警告，而达美航空和 Chipotle 则受益于其高收入客户群。]]></description>
+      <description><![CDATA[百事可乐等公司就低收入消费者疲软发出警告，而达美航空和Chipotle则受益于其高收入客户群。]]></description>
       <guid>https://www.cnbc.com/2024/05/20/consumer-pullback-ceos.html</guid>
       <pubDate>Mon, 20 May 2024 17:30:25 GMT</pubDate>
     </item>
