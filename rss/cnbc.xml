@@ -3,8 +3,15 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 22 May 2024 15:37:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 22 May 2024 15:45:00 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊计划对 Alexa 进行人工智能改造，并收取每月订阅费</title>
+      <link>https://www.cnbc.com/2024/05/22/amazon-plans-to-give-alexa-an-ai-overhaul-monthly-subscription-price.html</link>
+      <description><![CDATA[亚马逊正在用生成式人工智能升级其已有十年历史的 Alexa 语音助手，并计划每月收取订阅费以抵消该技术的成本。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/amazon-plans-to-give-alexa-an-ai-overhaul-monthly-subscription-price.html</guid>
+      <pubDate>Wed, 22 May 2024 15:50:45 GMT</pubDate>
+    </item>
     <item>
       <title>根据杰米·戴蒙 (Jamie Dimon) 的计算，这些银行股和摩根大通 (JPMorgan) 一样昂贵</title>
       <link>https://www.cnbc.com/2024/05/22/these-bank-stocks-are-expensive-using-jpmorgan-ceo-jamie-dimons-math.html</link>
@@ -29,26 +36,19 @@
     <item>
       <title>对冲基金正在加大力度投资这些不为人知的人工智能投资，同时削减大型股的投资</title>
       <link>https://www.cnbc.com/2024/05/22/hedge-funds-loading-up-on-under-the-radar-ai-plays-and-cutting-back-on-megacaps.html</link>
-      <description><![CDATA[高盛发现，对冲基金增持了整个人工智能领域中不为人知的赢家，尤其是基础设施领域的参与者。]]></description>
+      <description><![CDATA[高盛发现，对冲基金成为整个人工智能领域低调的赢家，尤其是基础设施领域的参与者。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/hedge-funds-loading-up-on-under-the-radar-ai-plays-and-cutting-back-on-megacaps.html</guid>
       <pubDate>Wed, 22 May 2024 15:23:51 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊计划对 Alexa 进行人工智能改造，并收取每月订阅费</title>
-      <link>https://www.cnbc.com/2024/05/22/amazon-plans-to-give-alexa-an-ai-overhaul-monthly-subscription-price.html</link>
-      <description><![CDATA[亚马逊正在用生成式人工智能升级其已有十年历史的 Alexa 语音助手，并计划每月收取订阅费以抵消该技术的成本。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/amazon-plans-to-give-alexa-an-ai-overhaul-monthly-subscription-price.html</guid>
-      <pubDate>Wed, 22 May 2024 15:19:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于消费者购买的杂货和家居用品减少，Target 股价下跌 10%</title>
+      <title>由于消费者减少购买杂货和家居用品，塔吉特股价下跌 10%</title>
       <link>https://www.cnbc.com/2024/05/22/target-tgt-q1-2024-earnings.html</link>
       <description><![CDATA[大型零售商塔吉特 (Target) 公布第一季度财报后几天，该公司表示将降低数千种杂货和日常用品的价格。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/target-tgt-q1-2024-earnings.html</guid>
       <pubDate>Wed, 22 May 2024 15:15:58 GMT</pubDate>
     </item>
     <item>
-      <title>尽管供应量大幅增加，但 4 月份房屋销售意外下滑</title>
+      <title>尽管供应量大幅增加，但 4 月份房屋销售量意外下滑</title>
       <link>https://www.cnbc.com/2024/05/22/april-existing-home-sales.html</link>
       <description><![CDATA[4 月份库存环比增长 9%，同比增长 16%，但按照目前的销售速度，供应量仍仅够 3.5 个月。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/april-existing-home-sales.html</guid>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 22 May 2024 14:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>CFPB 表示“先买后付”公司必须遵守美国信用卡法</title>
+      <title>CFPB 表示，先买后付公司必须遵守美国信用卡法律</title>
       <link>https://www.cnbc.com/2024/05/22/cfpb-buy-now-pay-later-credit-card-laws.html</link>
       <description><![CDATA[先买后付市场由 Affirm、Klarna 和 PayPal 等金融科技公司主导。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/cfpb-buy-now-pay-later-credit-card-laws.html</guid>
@@ -83,7 +83,7 @@
       <pubDate>Wed, 22 May 2024 13:33:28 GMT</pubDate>
     </item>
     <item>
-      <title>拜登政府将免除 16 万多名借款人的 77 亿美元学生债务</title>
+      <title>拜登政府将免除超过16万借款人77亿美元的学生债务</title>
       <link>https://www.cnbc.com/2024/05/22/biden-administration-to-forgive-7point7-billion-in-student-debt.html</link>
       <description><![CDATA[拜登政府周三宣布，将免除超过 16 万借款人的 77 亿美元学生债务。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/biden-administration-to-forgive-7point7-billion-in-student-debt.html</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>这不是你的想象。匹克球场随处可见</title>
       <link>https://www.cnbc.com/2024/05/22/pickleball-courts-boom.html</link>
-      <description><![CDATA[随着特许经营店、乡村俱乐部和健身俱乐部建造和改造场地，匹克球场已经成为一门大生意。]]></description>
+      <description><![CDATA[随着特许经营店、乡村俱乐部和健身俱乐部建造和改造空间，匹克球场已成为一项大生意。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/pickleball-courts-boom.html</guid>
       <pubDate>Wed, 22 May 2024 13:00:01 GMT</pubDate>
     </item>
