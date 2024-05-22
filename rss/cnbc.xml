@@ -3,24 +3,24 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 22 May 2024 18:34:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 22 May 2024 18:50:00 GMT</lastBuildDate>
+    <item>
+      <title>美联储会议纪要显示对通胀缺乏进展的担忧</title>
+      <link>https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html</link>
+      <description><![CDATA[美联储周三发布了 4 月 30 日至 5 月 1 日政策会议纪要。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html</guid>
+      <pubDate>Wed, 22 May 2024 18:41:57 GMT</pubDate>
+    </item>
     <item>
       <title>辉瑞计划到 2027 年在第一波新的成本削减中节省 15 亿美元</title>
       <link>https://www.cnbc.com/2024/05/22/pfizer-announces-new-cost-cutting-program.html</link>
-      <description><![CDATA[辉瑞公司去年还宣布了另一项 40 亿美元的成本削减计划，当时对其 Covid 疫苗和药物 Paxlovid 的需求下降。]]></description>
+      <description><![CDATA[辉瑞公司去年还宣布了另一项 40 亿美元的成本削减计划，当时其 Covid 疫苗和药物 Paxlovid 的需求下降。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/pfizer-announces-new-cost-cutting-program.html</guid>
       <pubDate>Wed, 22 May 2024 18:36:21 GMT</pubDate>
     </item>
     <item>
-      <title>美联储会议纪要显示通胀方面缺乏进展的担忧</title>
-      <link>https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html</link>
-      <description><![CDATA[美联储周三发布了 4 月 30 日至 5 月 1 日政策会议纪要。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html</guid>
-      <pubDate>Wed, 22 May 2024 18:25:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>金融科技噩梦：Synapse 破产后，我被套牢了近 38,000 美元</title>
+      <title>金融科技噩梦：Synapse 破产后“我有近 38,000 美元被套牢”</title>
       <link>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</link>
       <description><![CDATA[Synapse 是面向客户的金融科技品牌和 FDIC 支持的银行之间的中间人，但它在欠客户余额多少方面存在分歧。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</guid>
@@ -34,7 +34,7 @@
       <pubDate>Wed, 22 May 2024 18:20:01 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽车董事会成员表示，爱尔兰共和军电动汽车激励措施的缩减将使中国受益</title>
+      <title>通用汽车董事会成员表示，IRA电动汽车激励措施的回滚将使中国受益</title>
       <link>https://www.cnbc.com/2024/05/22/rollback-ira-electric-vehicle-credits-would-benefit-china-gm-board-member.html</link>
       <description><![CDATA[IRA 包括对电动汽车买家的激励措施以及对汽车制造商和供应商在北美生产全电动汽车及其零部件的支持。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/rollback-ira-electric-vehicle-credits-would-benefit-china-gm-board-member.html</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>塔吉特百货(Target)、麦当劳(McDonald's)和其他公司正在提供价值，因为它们在讨价还价者中失去了优势</title>
       <link>https://www.cnbc.com/2024/05/22/target-walmart-mcdonalds-price-cuts-deals.html</link>
-      <description><![CDATA[塔吉特的疲软业绩表明，零售商之间的竞争非常激烈，它们都想在交易方面胜过对方。]]></description>
+      <description><![CDATA[塔吉特的疲软业绩表明，零售商之间正试图在交易上相互竞争，展开激烈的竞争。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/target-walmart-mcdonalds-price-cuts-deals.html</guid>
       <pubDate>Wed, 22 May 2024 18:08:28 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 22 May 2024 17:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>美国汽车平均车龄达到创纪录的12.6年，因为高价格迫使人们延长汽车保有时间</title>
+      <title>由于高昂的价格迫使人们延长汽车使用时间，美国汽车平均使用年限达到创纪录的 12.6 年</title>
       <link>https://www.cnbc.com/2024/05/22/aging-cars-trucks-suvs.html</link>
       <description><![CDATA[在美国，汽车、卡车和 SUV 不断老化，人们一直保留着自己的车辆，主要是因为新车价格太高。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/aging-cars-trucks-suvs.html</guid>
@@ -104,7 +104,7 @@
       <pubDate>Wed, 22 May 2024 16:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>新的 Covid FLiRT 变种引发了夏季高峰的担忧</title>
+      <title>新冠 FLiRT 变种引发夏季疫情激增担忧</title>
       <link>https://www.cnbc.com/2024/05/22/new-covid-flirt-variants-spark-concerns-of-a-summer-spike.html</link>
       <description><![CDATA[新的 Covid-19 病毒株正在全球传播，引起卫生专业人员对夏季病例可能激增的担忧。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/new-covid-flirt-variants-spark-concerns-of-a-summer-spike.html</guid>
