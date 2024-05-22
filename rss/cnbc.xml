@@ -3,28 +3,56 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 22 May 2024 18:11:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Wed, 22 May 2024 18:34:00 GMT</lastBuildDate>
     <item>
-      <title>美联储会议纪要显示对通胀缺乏进展的担忧</title>
+      <title>辉瑞计划到 2027 年在第一波新的成本削减中节省 15 亿美元</title>
+      <link>https://www.cnbc.com/2024/05/22/pfizer-announces-new-cost-cutting-program.html</link>
+      <description><![CDATA[辉瑞公司去年还宣布了另一项 40 亿美元的成本削减计划，当时对其 Covid 疫苗和药物 Paxlovid 的需求下降。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/pfizer-announces-new-cost-cutting-program.html</guid>
+      <pubDate>Wed, 22 May 2024 18:36:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储会议纪要显示通胀方面缺乏进展的担忧</title>
       <link>https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html</link>
-      <description><![CDATA[美联储周三公布了4月30日至5月1日政策会议的会议纪要。]]></description>
+      <description><![CDATA[美联储周三发布了 4 月 30 日至 5 月 1 日政策会议纪要。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html</guid>
-      <pubDate>Wed, 22 May 2024 18:16:43 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 18:25:51 GMT</pubDate>
     </item>
     <item>
-      <title>由于消费者购买的杂货和家居用品减少，目标股价下跌</title>
-      <link>https://www.cnbc.com/2024/05/22/target-tgt-q1-2024-earnings.html</link>
-      <description><![CDATA[大型零售商塔吉特 (Target) 公布第一季度财报后几天，该公司表示将降低数千种杂货和日常用品的价格。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/target-tgt-q1-2024-earnings.html</guid>
-      <pubDate>Wed, 22 May 2024 18:11:23 GMT</pubDate>
+      <title>金融科技噩梦：Synapse 破产后，我被套牢了近 38,000 美元</title>
+      <link>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</link>
+      <description><![CDATA[Synapse 是面向客户的金融科技品牌和 FDIC 支持的银行之间的中间人，但它在欠客户余额多少方面存在分歧。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</guid>
+      <pubDate>Wed, 22 May 2024 18:22:44 GMT</pubDate>
     </item>
     <item>
-      <title>德意志银行表示，现在是时候通过这两只股票投资垃圾股了：“复合防御性增长”</title>
+      <title>人工智能宠儿英伟达在盘后报道。华尔街在关注什么</title>
+      <link>https://www.cnbc.com/2024/05/22/ai-darling-nvidia-reports-after-the-bell-what-wall-street-is-watching-.html</link>
+      <description><![CDATA[以下是英伟达周三盘后发布的报告时华尔街正在密切关注的内容。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/ai-darling-nvidia-reports-after-the-bell-what-wall-street-is-watching-.html</guid>
+      <pubDate>Wed, 22 May 2024 18:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用汽车董事会成员表示，爱尔兰共和军电动汽车激励措施的缩减将使中国受益</title>
+      <link>https://www.cnbc.com/2024/05/22/rollback-ira-electric-vehicle-credits-would-benefit-china-gm-board-member.html</link>
+      <description><![CDATA[IRA 包括对电动汽车买家的激励措施以及对汽车制造商和供应商在北美生产全电动汽车及其零部件的支持。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/rollback-ira-electric-vehicle-credits-would-benefit-china-gm-board-member.html</guid>
+      <pubDate>Wed, 22 May 2024 18:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>德意志银行表示，现在是通过这两只股票投资垃圾股的时候了：“复合防御性增长”</title>
       <link>https://www.cnbc.com/2024/05/22/deutsche-bank-says-its-time-to-invest-in-trash-through-these-2-stocks.html</link>
       <description><![CDATA[据《废物商业杂志》报道，废物和回收行业在 2022 年创造了约 910 亿美元，明显高于 2019 年。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/deutsche-bank-says-its-time-to-invest-in-trash-through-these-2-stocks.html</guid>
       <pubDate>Wed, 22 May 2024 18:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>塔吉特百货(Target)、麦当劳(McDonald's)和其他公司正在提供价值，因为它们在讨价还价者中失去了优势</title>
+      <link>https://www.cnbc.com/2024/05/22/target-walmart-mcdonalds-price-cuts-deals.html</link>
+      <description><![CDATA[塔吉特的疲软业绩表明，零售商之间的竞争非常激烈，它们都想在交易方面胜过对方。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/target-walmart-mcdonalds-price-cuts-deals.html</guid>
+      <pubDate>Wed, 22 May 2024 18:08:28 GMT</pubDate>
     </item>
     <item>
       <title>英国石油公司前高管的前夫因窃听她的电话后因内幕交易入狱</title>
@@ -34,18 +62,11 @@
       <pubDate>Wed, 22 May 2024 18:01:52 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 盘后公布第一季度业绩</title>
+      <title>英伟达盘后公布第一季度收益</title>
       <link>https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html</link>
       <description><![CDATA[Nvidia 已经从十年前一家相当小众的 3D 游戏硬件开发商成长为人工智能热潮核心的芯片制造商。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html</guid>
       <pubDate>Wed, 22 May 2024 18:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>辉瑞计划到 2027 年在第一波新的成本削减中节省 15 亿美元</title>
-      <link>https://www.cnbc.com/2024/05/22/pfizer-announces-new-cost-cutting-program.html</link>
-      <description><![CDATA[辉瑞公司去年还宣布了另一项 40 亿美元的成本削减计划，当时其 Covid 疫苗和药物 Paxlovid 的需求下降。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/pfizer-announces-new-cost-cutting-program.html</guid>
-      <pubDate>Wed, 22 May 2024 17:56:21 GMT</pubDate>
     </item>
     <item>
       <title>英国首相里希·苏纳克呼吁7月4日举行大选</title>
@@ -55,18 +76,11 @@
       <pubDate>Wed, 22 May 2024 17:50:23 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能宠儿 Nvidia 在盘后发布财报。华尔街关注的焦点</title>
-      <link>https://www.cnbc.com/2024/05/22/ai-darling-nvidia-reports-after-the-bell-what-wall-street-is-watching-.html</link>
-      <description><![CDATA[以下是英伟达周三盘后发布的报告时华尔街正在密切关注的内容。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/ai-darling-nvidia-reports-after-the-bell-what-wall-street-is-watching-.html</guid>
-      <pubDate>Wed, 22 May 2024 17:44:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>中午涨幅最大的股票：Target、Urban Outfitters、特斯拉、Shopify 等</title>
-      <link>https://www.cnbc.com/2024/05/22/stocks-making-the-biggest-moves-midday-tgt-urbn-tsla-shop-and-more.html</link>
-      <description><![CDATA[这些是午盘交易中涨幅最大的一些股票。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/stocks-making-the-biggest-moves-midday-tgt-urbn-tsla-shop-and-more.html</guid>
-      <pubDate>Wed, 22 May 2024 17:39:10 GMT</pubDate>
+      <title>财务顾问如何在资金管理中考虑情绪因素</title>
+      <link>https://www.cnbc.com/2024/05/22/how-financial-advisors-are-factoring-for-emotions-in-money-management.html</link>
+      <description><![CDATA[专家表示，在投资知识中加入行为科学可以帮助财务顾问为客户获得更好的结果。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/how-financial-advisors-are-factoring-for-emotions-in-money-management.html</guid>
+      <pubDate>Wed, 22 May 2024 17:47:55 GMT</pubDate>
     </item>
     <item>
       <title>尽管供应量大幅增加，但 4 月份房屋销售意外下滑</title>
@@ -83,25 +97,11 @@
       <pubDate>Wed, 22 May 2024 16:47:30 GMT</pubDate>
     </item>
     <item>
-      <title>民意调查显示，大多数美国人错误地认为美国正陷入衰退</title>
-      <link>https://www.cnbc.com/2024/05/22/most-americans-falsely-think-the-us-is-in-recession-poll-shows.html</link>
-      <description><![CDATA[拜登总统正试图在 11 月与唐纳德·特朗普 (Donald Trump) 的大选之前凭借其经济记录赢得选民的支持。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/most-americans-falsely-think-the-us-is-in-recession-poll-shows.html</guid>
-      <pubDate>Wed, 22 May 2024 16:05:22 GMT</pubDate>
-    </item>
-    <item>
       <title>通用汽车全电动雪佛兰Equinox上市，这是对电动汽车生产和需求的最新考验</title>
       <link>https://www.cnbc.com/2024/05/22/gm-chevy-equinox-ev.html</link>
       <description><![CDATA[随着比亚迪和蔚来等中国竞争对手在中国以外地区的销量增长，实惠的入门级电动汽车定价长期以来一直是通用汽车、特斯拉和其他公司的目标。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/gm-chevy-equinox-ev.html</guid>
       <pubDate>Wed, 22 May 2024 16:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊计划对 Alexa 进行人工智能改造，并收取每月订阅费</title>
-      <link>https://www.cnbc.com/2024/05/22/amazon-plans-to-give-alexa-an-ai-overhaul-monthly-subscription-price.html</link>
-      <description><![CDATA[亚马逊正在用生成式人工智能升级其已有十年历史的 Alexa 语音助手，并计划每月收取订阅费以抵消该技术的成本。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/amazon-plans-to-give-alexa-an-ai-overhaul-monthly-subscription-price.html</guid>
-      <pubDate>Wed, 22 May 2024 15:51:43 GMT</pubDate>
     </item>
     <item>
       <title>新的 Covid FLiRT 变种引发了夏季高峰的担忧</title>
