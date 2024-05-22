@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 22 May 2024 11:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 11:25:00 GMT</lastBuildDate>
+    <item>
+      <title>周三分析师呼吁：高盛表示电子商务股票将上涨30%，食品巨头获得评级</title>
+      <link>https://www.cnbc.com/2024/05/22/wednesdays-analyst-calls-goldman-says-e-commerce-stock-will-rally-30percent-food-giant-gets-upgraded.html</link>
+      <description><![CDATA[一家电子商务公司和一家知名食品股是分析师周三谈论的最大股票之一。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/wednesdays-analyst-calls-goldman-says-e-commerce-stock-will-rally-30percent-food-giant-gets-upgraded.html</guid>
+      <pubDate>Wed, 22 May 2024 11:19:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>汽车巨头标致正在试验无人驾驶技术——但有一点不同——亚马逊式的送货服务</title>
+      <link>https://www.cnbc.com/2024/05/22/peugeot-pilots-vays-remote-driving-tech-to-power-delivery.html</link>
+      <description><![CDATA[法国汽车巨头标致告诉 CNBC，它已与德国初创公司 Vay 合作测试“远程驾驶”技术的使用。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/peugeot-pilots-vays-remote-driving-tech-to-power-delivery.html</guid>
+      <pubDate>Wed, 22 May 2024 11:12:54 GMT</pubDate>
+    </item>
     <item>
       <title>强风暴再次席卷中西部，龙卷风在爱荷华州造成多人死亡</title>
       <link>https://www.cnbc.com/2024/05/22/tornado-kills-multiple-people-in-iowa-as-powerful-storms-again-tear-through-midwest-.html</link>
-      <description><![CDATA[在对爱荷华州格林菲尔德造成巨大破坏之后，风暴于周二向东移动，袭击伊利诺伊州和威斯康星州部分地区，导致数千户断电。]]></description>
+      <description><![CDATA[在摧毁爱荷华州格林菲尔德后，周二风暴向东移动，袭击了伊利诺伊州和威斯康星州的部分地区，造成数千人断电。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/tornado-kills-multiple-people-in-iowa-as-powerful-storms-again-tear-through-midwest-.html</guid>
       <pubDate>Wed, 22 May 2024 11:07:57 GMT</pubDate>
     </item>
@@ -20,13 +34,6 @@
       <pubDate>Wed, 22 May 2024 11:05:05 GMT</pubDate>
     </item>
     <item>
-      <title>周三分析师呼吁：高盛表示电子商务股票将上涨30%，食品巨头获得评级</title>
-      <link>https://www.cnbc.com/2024/05/22/wednesdays-analyst-calls-goldman-says-e-commerce-stock-will-rally-30percent-food-giant-gets-upgraded.html</link>
-      <description><![CDATA[一家电子商务公司和一家知名食品股是分析师周三谈论的最大股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/wednesdays-analyst-calls-goldman-says-e-commerce-stock-will-rally-30percent-food-giant-gets-upgraded.html</guid>
-      <pubDate>Wed, 22 May 2024 11:01:05 GMT</pubDate>
-    </item>
-    <item>
       <title>CFPB 表示“先买后付”公司必须遵守美国信用卡法</title>
       <link>https://www.cnbc.com/2024/05/22/cfpb-buy-now-pay-later-credit-card-laws.html</link>
       <description><![CDATA[先买后付市场由 Affirm、Klarna 和 PayPal 等金融科技公司主导。]]></description>
@@ -36,7 +43,7 @@
     <item>
       <title>随着利率跌至七周低点，每周抵押贷款再融资需求复苏</title>
       <link>https://www.cnbc.com/2024/05/22/weekly-mortgage-refinance-demand-revives-as-interest-rates-fall-to-7-week-low.html</link>
-      <description><![CDATA[根据抵押贷款银行家协会的季节性调整指数，抵押贷款申请总量较前一周增长 1.9%。]]></description>
+      <description><![CDATA[根据抵押贷款银行家协会经季节性调整的指数，抵押贷款申请总量较前一周上涨了 1.9%。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/weekly-mortgage-refinance-demand-revives-as-interest-rates-fall-to-7-week-low.html</guid>
       <pubDate>Wed, 22 May 2024 11:00:01 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>这些是摩根大通未来 12 个月最有信心的股票选择</title>
       <link>https://www.cnbc.com/2024/05/22/these-are-jpmorgans-highest-conviction-stock-picks-over-the-next-12-months.html</link>
-      <description><![CDATA[摩根大通最有信心的名单包括 GLP-1、减肥股票和数据中心需求不断增长的潜在受益者。]]></description>
+      <description><![CDATA[摩根大通最有信心的名单包括 GLP-1、减肥股票和数据中心需求增长的潜在受益者。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/these-are-jpmorgans-highest-conviction-stock-picks-over-the-next-12-months.html</guid>
       <pubDate>Wed, 22 May 2024 10:45:55 GMT</pubDate>
     </item>
@@ -97,16 +104,9 @@
       <pubDate>Wed, 22 May 2024 05:17:51 GMT</pubDate>
     </item>
     <item>
-      <title>拜登将在 7 月 4 日之前释放 100 万桶汽油以降低油价</title>
-      <link>https://www.cnbc.com/2024/05/21/biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4.html</link>
-      <description><![CDATA[拜登政府将从东北部储备中释放100万桶汽油，以在7月4日假期之前降低价格。]]></description>
-      <guid>https://www.cnbc.com/2024/05/21/biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4.html</guid>
-      <pubDate>Wed, 22 May 2024 01:42:37 GMT</pubDate>
-    </item>
-    <item>
       <title>RFK Jr. 表示，在 Meme 股票短暂复苏后，他向 GameStop 投资了 24,000 美元</title>
       <link>https://www.cnbc.com/2024/05/21/rfk-jr-says-he-invested-24000-in-gamestop-amid-re-.html</link>
-      <description><![CDATA[小罗伯特·肯尼迪 (RFK Jr.) 是 11 月大选中总统乔·拜登和前总统唐纳德·特朗普的独立挑战者。]]></description>
+      <description><![CDATA[小罗伯特·肯尼迪是 11 月选举中总统乔·拜登和前总统唐纳德·特朗普的独立挑战者。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/rfk-jr-says-he-invested-24000-in-gamestop-amid-re-.html</guid>
       <pubDate>Tue, 21 May 2024 22:46:29 GMT</pubDate>
     </item>
