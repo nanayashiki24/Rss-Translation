@@ -3,35 +3,42 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Wed, 22 May 2024 10:28:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 22 May 2024 10:49:00 GMT</lastBuildDate>
     <item>
       <title>由于消费者购买的食品杂货和家居用品减少，盈利未达到目标，销售额下降</title>
       <link>https://www.cnbc.com/2024/05/22/target-tgt-q1-2024-earnings.html</link>
-      <description><![CDATA[大型零售商塔吉特 (Target) 在表示将降低数千种杂货和日常用品的价格后几天公布了财报。]]></description>
+      <description><![CDATA[大型零售商塔吉特 (Target) 公布第一季度财报后几天，该公司表示将降低数千种杂货和日常用品的价格。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/target-tgt-q1-2024-earnings.html</guid>
-      <pubDate>Wed, 22 May 2024 10:30:20 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 10:50:41 GMT</pubDate>
     </item>
     <item>
       <title>周三分析师呼吁：高盛表示电子商务股票将上涨30%，食品巨头获得评级</title>
       <link>https://www.cnbc.com/2024/05/22/wednesdays-analyst-calls-goldman-says-e-commerce-stock-will-rally-30percent-food-giant-gets-upgraded.html</link>
-      <description><![CDATA[一家电子商务公司和一家知名食品公司股票是周三分析师谈论最多的股票之一。]]></description>
+      <description><![CDATA[一家电子商务公司和一家知名食品股是分析师周三谈论的最大股票之一。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/wednesdays-analyst-calls-goldman-says-e-commerce-stock-will-rally-30percent-food-giant-gets-upgraded.html</guid>
-      <pubDate>Wed, 22 May 2024 10:26:26 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 10:46:18 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰战争实况：俄罗斯否认想要重新划定波罗的海边界；莫斯科的战术核武器演习向西方发出警告</title>
-      <link>https://www.cnbc.com/2024/05/22/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯周二开始的战术核武器演习的时机并非偶然，乌克兰和西方肯定会密切关注。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Wed, 22 May 2024 10:26:03 GMT</pubDate>
+      <title>这些是摩根大通未来 12 个月最有信心的股票选择</title>
+      <link>https://www.cnbc.com/2024/05/22/these-are-jpmorgans-highest-conviction-stock-picks-over-the-next-12-months.html</link>
+      <description><![CDATA[摩根大通最有信心的名单包括 GLP-1、减肥股票和数据中心需求增长的潜在受益者。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/these-are-jpmorgans-highest-conviction-stock-picks-over-the-next-12-months.html</guid>
+      <pubDate>Wed, 22 May 2024 10:45:55 GMT</pubDate>
     </item>
     <item>
       <title>随着英伟达财报临近，股票期货下跌：实时更新</title>
       <link>https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html</link>
       <description><![CDATA[由于投资者期待广泛期待的英伟达最新财报的发布，美国股指期货周三下跌。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 22 May 2024 10:24:44 GMT</pubDate>
+      <pubDate>Wed, 22 May 2024 10:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰战争实时更新：俄罗斯否认想要重新划定波罗的海边界；莫斯科战术核武器演习向西方发出警告</title>
+      <link>https://www.cnbc.com/2024/05/22/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
+      <description><![CDATA[俄罗斯周二开始的战术核武器演习的时机并非偶然，乌克兰和西方肯定会密切关注。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
+      <pubDate>Wed, 22 May 2024 10:26:03 GMT</pubDate>
     </item>
     <item>
       <title>思科前首席执行官表示，人工智能将在未来十年为股市提供动力</title>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 22 May 2024 10:19:33 GMT</pubDate>
     </item>
     <item>
-      <title>英国通胀高于预期，6 月降息预期减弱</title>
+      <title>英国通胀高于预期，削减六月降息预期</title>
       <link>https://www.cnbc.com/2024/05/22/uk-inflation-april-2024.html</link>
       <description><![CDATA[英国国家统计局周三公布了四月份的通胀数据。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/uk-inflation-april-2024.html</guid>
@@ -69,14 +76,7 @@
       <pubDate>Wed, 22 May 2024 08:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>遭遇极度颠簸的航班乘客抵达新加坡</title>
-      <link>https://www.cnbc.com/2024/05/22/sq321-passengers-on-singapore-airlines-heavy-turbulence-flight-arrive.html</link>
-      <description><![CDATA[周三，新加坡航空航班上的 140 多人安全抵达新加坡。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/sq321-passengers-on-singapore-airlines-heavy-turbulence-flight-arrive.html</guid>
-      <pubDate>Wed, 22 May 2024 07:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>新冠 FLiRT 变种引发夏季疫情激增担忧</title>
+      <title>新的 Covid FLiRT 变种引发了夏季高峰的担忧</title>
       <link>https://www.cnbc.com/2024/05/22/new-covid-flirt-variants-spark-concerns-of-a-summer-spike.html</link>
       <description><![CDATA[新的 Covid-19 病毒株正在全球传播，引起卫生专业人员对夏季病例可能激增的担忧。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/new-covid-flirt-variants-spark-concerns-of-a-summer-spike.html</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>拜登将在 7 月 4 日之前释放 100 万桶汽油以降低加油站价格</title>
       <link>https://www.cnbc.com/2024/05/21/biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4.html</link>
-      <description><![CDATA[拜登政府将从东北部储备中释放100万桶汽油，以在7月4日假期之前降低价格。]]></description>
+      <description><![CDATA[拜登政府将从东北部的储备中释放100万桶汽油，以在7月4日假期之前降低价格。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/biden-to-release-1-million-barrels-of-gasoline-to-reduce-prices-at-the-pump-ahead-of-july-4.html</guid>
       <pubDate>Wed, 22 May 2024 01:42:37 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Tue, 21 May 2024 22:46:29 GMT</pubDate>
     </item>
     <item>
-      <title>麦当劳特许经营集团表示，如果没有公司投资，5 美元超值餐食就无法持续</title>
+      <title>麦当劳特许经营商团体称，如果没有公司投资，5 美元超值套餐就无法维持</title>
       <link>https://www.cnbc.com/2024/05/21/mcdonalds-franchisee-group-value-meal.html</link>
       <description><![CDATA[价值 5 美元的餐点将从 6 月 25 日开始出现在菜单上，并将持续大约一个月。]]></description>
       <guid>https://www.cnbc.com/2024/05/21/mcdonalds-franchisee-group-value-meal.html</guid>
