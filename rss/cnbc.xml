@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Thu, 23 May 2024 05:40:00 GMT</lastBuildDate>
+    <item>
+      <title>人工智能宠儿英伟达发布强劲预测后纳斯达克期货上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</link>
+      <description><![CDATA[周三股市下跌，华尔街正在评估市场领头羊英伟达的最新季度业绩。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</guid>
+      <pubDate>Thu, 23 May 2024 06:04:13 GMT</pubDate>
+    </item>
     <item>
       <title>马来西亚前总理马哈蒂尔表示他“没有参与腐败行为”</title>
       <link>https://www.cnbc.com/2024/05/23/malaysias-mahathir-i-myself-was-not-involved-in-corrupt-practices.html</link>
@@ -48,18 +55,11 @@
       <pubDate>Thu, 23 May 2024 00:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能驱动的销售激增，Nvidia 股价首次突破 1,000 美元</title>
+      <title>人工智能推动销售激增，英伟达股价首次突破 1,000 美元</title>
       <link>https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html</link>
       <description><![CDATA[英伟达在盘后公布了财报。这是结果。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html</guid>
       <pubDate>Thu, 23 May 2024 00:40:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能宠儿英伟达发布强劲预测后纳斯达克期货上涨：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</link>
-      <description><![CDATA[周三股市下跌，华尔街正在评估市场领头羊英伟达的最新季度业绩。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 23 May 2024 00:27:22 GMT</pubDate>
     </item>
     <item>
       <title>瑞银表示，家族办公室现在和未来 5 年计划如何投资</title>
@@ -83,7 +83,7 @@
       <pubDate>Wed, 22 May 2024 20:01:43 GMT</pubDate>
     </item>
     <item>
-      <title>美国银行称，这个意想不到的市场角落提供了优质的股息支付者</title>
+      <title>美国银行表示，这个意想不到的市场角落提供了优质的股息支付者</title>
       <link>https://www.cnbc.com/2024/05/22/buy-these-under-the-radar-quality-dividend-stocks-bank-of-america-says.html</link>
       <description><![CDATA[与大盘股相比，罗素 2000 指数在 2024 年的表现并不令人印象深刻，但该指数中有稳定的收入支付者。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/buy-these-under-the-radar-quality-dividend-stocks-bank-of-america-says.html</guid>
