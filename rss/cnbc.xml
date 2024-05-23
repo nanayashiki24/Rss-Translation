@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 23 May 2024 05:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 05:40:00 GMT</lastBuildDate>
+    <item>
+      <title>马来西亚前总理马哈蒂尔表示他“没有参与腐败行为”</title>
+      <link>https://www.cnbc.com/2024/05/23/malaysias-mahathir-i-myself-was-not-involved-in-corrupt-practices.html</link>
+      <description><![CDATA[马来西亚前总理马哈蒂尔·穆罕默德表示，他和他的家人没有参与任何“腐败行为”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/malaysias-mahathir-i-myself-was-not-involved-in-corrupt-practices.html</guid>
+      <pubDate>Thu, 23 May 2024 05:38:38 GMT</pubDate>
+    </item>
     <item>
       <title>摩根大通首席执行官杰米戴蒙表示，美国可能会出现“硬着陆”，滞胀将是“最糟糕的结果”</title>
       <link>https://www.cnbc.com/2024/05/23/jpm-jamie-dimon-us-could-see-hard-landing-stagflation-is-worst-outcome.html</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[政治顾问史蒂夫·克莱默 (Steve Kramer) 已在新罕布什尔州被起诉，他向 NBC 新闻承认，他是假冒乔·拜登声音的机器人电话的幕后黑手。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/political-consultant-who-admitted-deepfaking-bidens-voice-is-indicted-.html</guid>
       <pubDate>Thu, 23 May 2024 03:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达打破了极高的期望，并在未来几年继续保持人工智能驱动的主导地位</title>
-      <link>https://www.cnbc.com/2024/05/22/nvidia-crushes-earnings-expectations-charts-continued-ai-dominance.html</link>
-      <description><![CDATA[在本财报季最受期待的季度，英伟达表现出色。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/nvidia-crushes-earnings-expectations-charts-continued-ai-dominance.html</guid>
-      <pubDate>Thu, 23 May 2024 01:18:05 GMT</pubDate>
     </item>
     <item>
       <title>数据中心业务增长超过 400% 后，Nvidia 并未表现出 AI 放缓的迹象</title>
@@ -78,7 +78,7 @@
     <item>
       <title>美联储会议纪要显示对通胀缺乏进展的担忧</title>
       <link>https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html</link>
-      <description><![CDATA[美联储周三公布了4月30日至5月1日政策会议的会议纪要。]]></description>
+      <description><![CDATA[美联储周三发布了 4 月 30 日至 5 月 1 日政策会议纪要。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/fed-minutes-may-2024-.html</guid>
       <pubDate>Wed, 22 May 2024 20:01:43 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>美国汽车平均车龄达到创纪录的12.6年，因为高价格迫使人们延长汽车保有时间</title>
       <link>https://www.cnbc.com/2024/05/22/aging-cars-trucks-suvs.html</link>
-      <description><![CDATA[美国的轿车、卡车和SUV不断老化，因为人们保留现有车辆的主要原因是新车价格太高。]]></description>
+      <description><![CDATA[在美国，汽车、卡车和 SUV 不断老化，人们一直保留着自己的车辆，主要是因为新车价格太高。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/aging-cars-trucks-suvs.html</guid>
       <pubDate>Wed, 22 May 2024 16:47:30 GMT</pubDate>
     </item>
