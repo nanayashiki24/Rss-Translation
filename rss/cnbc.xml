@@ -3,14 +3,21 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 23 May 2024 19:48:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Thu, 23 May 2024 20:09:00 GMT</lastBuildDate>
     <item>
-      <title>即使在英伟达发布重磅报告后，道琼斯指数仍下跌 600 点，标准普尔 500 指数仍从历史高位回落：实时更新</title>
+      <title>由于英伟达的巨额盈利未能提振更广泛的市场，道指在 2024 年最糟糕的一天下跌了 600 点：实时更新</title>
       <link>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</link>
-      <description><![CDATA[随着华尔街评估市场领头羊英伟达的最新季度业绩，标准普尔 500 指数周四下跌。]]></description>
+      <description><![CDATA[随着华尔街评估市场领头羊英伟达的最新季度业绩，股市周四下跌。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 23 May 2024 19:50:31 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 20:13:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>CHIPS 法案半导体奖金最后 60 亿美元的去向</title>
+      <link>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</link>
+      <description><![CDATA[美国商务部正在考虑如何分配《芯片法案》奖金的最后 60 亿美元，以资助半导体供应商、传统芯片制造商和其他公司。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</guid>
+      <pubDate>Thu, 23 May 2024 20:08:21 GMT</pubDate>
     </item>
     <item>
       <title>诺福克南方铁路公司同意就俄亥俄州火车出轨事件达成 3.1 亿美元的联邦和解协议</title>
@@ -36,7 +43,7 @@
     <item>
       <title>摩根士丹利告诉投资者避免对冲基金过度拥挤的交易</title>
       <link>https://www.cnbc.com/2024/05/23/morgan-stanley-tells-investors-to-avoid-hedge-funds-overcrowded-trades-.html</link>
-      <description><![CDATA[摩根士丹利表示，如果出现系统性交易员的群体踩踏事件，那么拥有对冲基金最拥挤的交易可能会有风险。]]></description>
+      <description><![CDATA[摩根士丹利表示，如果出现系统性交易员蜂拥而至的情况，持有对冲基金最拥挤的交易可能会存在风险。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/morgan-stanley-tells-investors-to-avoid-hedge-funds-overcrowded-trades-.html</guid>
       <pubDate>Thu, 23 May 2024 19:01:57 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 23 May 2024 18:52:52 GMT</pubDate>
     </item>
     <item>
-      <title>投资太空：五角大楼如何利用人工智能和间谍卫星数据</title>
+      <title>投资太空：五角大楼如何利用人工智能来获取间谍卫星数据</title>
       <link>https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html</link>
       <description><![CDATA[太空资本纽约峰会聚集了投资者和公司，讨论星际飞船、美国国家安全、中国等关键行业话题。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html</guid>
@@ -90,25 +97,18 @@
       <pubDate>Thu, 23 May 2024 17:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>汽车保险费率自 20 世纪 70 年代以来涨幅最大，但很快就会有所缓解</title>
+      <title>汽车保险费率正出现 20 世纪 70 年代以来的最大涨幅，但很快就会有所缓解</title>
       <link>https://www.cnbc.com/2024/05/23/auto-insurance-rates-are-jumping-the-most-since-the-1970s-but-there-could-be-relief-soon.html</link>
       <description><![CDATA[飙升的汽车保险费用是过去一年通胀背后的主要驱动因素，但未来可能会有所缓解。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/auto-insurance-rates-are-jumping-the-most-since-the-1970s-but-there-could-be-relief-soon.html</guid>
       <pubDate>Thu, 23 May 2024 16:24:30 GMT</pubDate>
     </item>
     <item>
-      <title>CNBC 的印度内部时事通讯：股市上涨的秘密</title>
+      <title>CNBC 的《印度内幕》时事通讯：股市反弹的秘密</title>
       <link>https://www.cnbc.com/2024/05/23/cnbcs-inside-india-newsletter-the-secret-of-the-stock-market-rally.html</link>
       <description><![CDATA[将一部分收入存起来以备不时之需通常被认为是谨慎的行为。然而，在印度，它却导致股票被高估。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/cnbcs-inside-india-newsletter-the-secret-of-the-stock-market-rally.html</guid>
       <pubDate>Thu, 23 May 2024 16:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着价格和利率的上涨，四月份新建房屋的销售量下降</title>
-      <link>https://www.cnbc.com/2024/05/23/newly-built-home-sales-april.html</link>
-      <description><![CDATA[较高的抵押贷款利率阻碍了四月份新建房屋的销售。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/newly-built-home-sales-april.html</guid>
-      <pubDate>Thu, 23 May 2024 15:59:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
