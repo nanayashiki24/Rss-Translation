@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 23 May 2024 21:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 21:35:00 GMT</lastBuildDate>
+    <item>
+      <title>SEC 批准规则变更以允许创建以太坊 ETF</title>
+      <link>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</link>
+      <description><![CDATA[监管机构表示，继 1 月份对比特币基金采取类似举措后，将允许交易所列出购买和持有以太加密货币的基金。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</guid>
+      <pubDate>Thu, 23 May 2024 21:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊新云业务主管马特·加曼 (Matt Garman) 在跟上人工智能步伐的压力下继承了业务</title>
+      <link>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</link>
+      <description><![CDATA[Adam Selipsky 掌管亚马逊网络服务的三年任期恰逢人工智能领域增长放缓和竞争日益激烈。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</guid>
+      <pubDate>Thu, 23 May 2024 21:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>司法部起诉要求解散 Ticketmaster 母公司 Live Nation</title>
+      <link>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</link>
+      <description><![CDATA[泰勒·斯威夫特 (Taylor Swift) Eras 巡回演唱会门票发售失败后，粉丝投诉引发了司法部的调查，引发了这起诉讼。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</guid>
+      <pubDate>Thu, 23 May 2024 21:27:05 GMT</pubDate>
+    </item>
     <item>
       <title>边疆航空首席执行官敦促打击机场轮椅服务的“猖獗滥用”</title>
       <link>https://www.cnbc.com/2024/05/23/frontier-airlines-ceo-passengers-abuse-airport-wheelchair-service.html</link>
@@ -34,25 +55,18 @@
       <pubDate>Thu, 23 May 2024 20:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>诺福克南方公司同意就俄亥俄州火车脱轨事件支付 3.1 亿美元联邦和解金</title>
+      <title>诺福克南方铁路公司同意就俄亥俄州火车出轨事件达成 3.1 亿美元的联邦和解协议</title>
       <link>https://www.cnbc.com/2024/05/23/norfolk-southern-agrees-to-310-million-settlement-over-train-derailment-east-palestine-ohio.html</link>
-      <description><![CDATA[作为联邦和解协议的一部分，该公司将因涉嫌违反《清洁水法》支付 1500 万美元的罚款。]]></description>
+      <description><![CDATA[作为联邦和解协议的一部分，该公司将因涉嫌违反《清洁水法》而支付 1500 万美元的罚款。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/norfolk-southern-agrees-to-310-million-settlement-over-train-derailment-east-palestine-ohio.html</guid>
       <pubDate>Thu, 23 May 2024 19:40:11 GMT</pubDate>
     </item>
     <item>
       <title>该双线债券基金表现优于市场。这是它要买的东西</title>
       <link>https://www.cnbc.com/2024/05/23/this-doubleline-bond-fund-is-beating-the-market-heres-what-its-buying.html</link>
-      <description><![CDATA[双线资本 (DoubleLine) 的杰弗里·谢尔曼 (Jeffrey Sherman) 在接受 CNBC 采访时谈到了经济面临的风险以及债券市场的哪些部分对投资者最有意义。]]></description>
+      <description><![CDATA[DoubleLine 的杰弗里·谢尔曼 (Jeffrey Sherman) 在接受 CNBC 采访时谈到了经济面临的风险以及债券市场的哪些部分对投资者最有意义。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/this-doubleline-bond-fund-is-beating-the-market-heres-what-its-buying.html</guid>
       <pubDate>Thu, 23 May 2024 19:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>司法部起诉要求解散 Ticketmaster 母公司 Live Nation</title>
-      <link>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</link>
-      <description><![CDATA[在这起诉讼之前，美国司法部因泰勒·斯威夫特 Eras 巡演门票发售失败而引发粉丝投诉，展开调查。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</guid>
-      <pubDate>Thu, 23 May 2024 19:30:45 GMT</pubDate>
     </item>
     <item>
       <title>摩根士丹利告诉投资者避免对冲基金过度拥挤的交易</title>
@@ -62,18 +76,11 @@
       <pubDate>Thu, 23 May 2024 19:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>高尔夫冠军斯科蒂·谢夫勒逮捕视频发布，警官违反随身摄像头规则</title>
+      <title>高尔夫冠军斯科蒂·谢夫勒逮捕视频发布，警官违反了随身摄像头规则</title>
       <link>https://www.cnbc.com/2024/05/23/scottie-scheffler-prosecutors-to-drop-criminal-charges-against-golfer.html</link>
       <description><![CDATA[针对世界顶级高尔夫球手斯科蒂·舍夫勒的案件正在肯塔基州路易斯维尔进行。他被指控袭击一名警察。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/scottie-scheffler-prosecutors-to-drop-criminal-charges-against-golfer.html</guid>
       <pubDate>Thu, 23 May 2024 18:52:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资太空：五角大楼如何利用人工智能和间谍卫星数据</title>
-      <link>https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html</link>
-      <description><![CDATA[太空资本纽约峰会聚集了投资者和公司，讨论星际飞船、美国国家安全、中国等关键行业话题。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html</guid>
-      <pubDate>Thu, 23 May 2024 18:43:54 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉首席执行官埃隆·马斯克表示，他赞成对中国电动汽车“不征收关税”</title>
@@ -83,14 +90,7 @@
       <pubDate>Thu, 23 May 2024 18:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>36% 的美国人表示房地产是最好的长期投资——金融专家表示他们可能是错的</title>
-      <link>https://www.cnbc.com/2024/05/23/long-term-investments-real-estate-versus-stocks.html</link>
-      <description><![CDATA[在一项新的民意调查中，36% 的美国人表示房地产是长期投资的首选，而 22% 的人选择股票和共同基金。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/long-term-investments-real-estate-versus-stocks.html</guid>
-      <pubDate>Thu, 23 May 2024 17:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>突发集装箱短缺导致海运费飙升，拉响全球贸易警钟</title>
+      <title>突如其来的集装箱紧缩导致海运费飙升，敲响了全球贸易警钟</title>
       <link>https://www.cnbc.com/2024/05/23/a-sudden-container-crunch-is-sending-ocean-freight-rates-soaring.html</link>
       <description><![CDATA[由于航运旺季的集装箱紧缩扰乱了全球贸易，并可能对消费者造成打击，海运即期运费正在经历突然的、意外的飙升。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/a-sudden-container-crunch-is-sending-ocean-freight-rates-soaring.html</guid>
