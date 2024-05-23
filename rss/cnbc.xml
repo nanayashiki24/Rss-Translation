@@ -1,23 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 23 May 2024 11:13:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Thu, 23 May 2024 11:34:00 GMT</lastBuildDate>
     <item>
-      <title>周四分析师呼吁：福特汽车值得买入，玩具股将上涨逾20%</title>
-      <link>https://www.cnbc.com/2024/05/23/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</link>
-      <description><![CDATA[周四，分析师们谈论的最知名企业包括一家汽车巨头和一家玩具制造商。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</guid>
-      <pubDate>Thu, 23 May 2024 11:18:12 GMT</pubDate>
+      <title>捷蓝航空与英国航空寻求合作以扩大网络</title>
+      <link>https://www.cnbc.com/2024/05/22/jetblue-british-airways-seek-partnership-to-expand-networks.html</link>
+      <description><![CDATA[捷蓝航空和英国航空需要交通部批准代码共享协议，该协议将允许航空公司出售彼此航班上的座位。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/jetblue-british-airways-seek-partnership-to-expand-networks.html</guid>
+      <pubDate>Thu, 23 May 2024 11:28:33 GMT</pubDate>
     </item>
     <item>
       <title>乌克兰战争实时更新：莫斯科威胁对挪威旅游封锁做出反应；俄罗斯军队声称在巴赫穆特附近再次取得进展</title>
       <link>https://www.cnbc.com/2024/05/23/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
       <description><![CDATA[俄罗斯表示，其边境地区别尔哥罗德遭到导弹和无人机袭击，并声称其防空系统击落了 35 枚火箭弹和三架无人机。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
-      <pubDate>Thu, 23 May 2024 11:09:19 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 11:25:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>周四分析师呼吁：福特汽车值得买入，玩具股将上涨逾20%</title>
+      <link>https://www.cnbc.com/2024/05/23/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</link>
+      <description><![CDATA[周四，分析师们谈论的最知名企业包括一家汽车巨头和一家玩具制造商。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/analyst-calls-all-the-market-moving-wall-street-chatter-from-thursday.html</guid>
+      <pubDate>Thu, 23 May 2024 11:18:12 GMT</pubDate>
     </item>
     <item>
       <title>多伦多授予 WNBA 在美国以外的第一支球队，扩充球队将于 2​​026 年开始比赛</title>
@@ -36,14 +43,14 @@
     <item>
       <title>阿里巴巴可能出售 50 亿美元可转换债券，港股下跌 5%</title>
       <link>https://www.cnbc.com/2024/05/23/alibabas-hong-kong-shares-drop-5percent-after-report-of-possible-5-billion-convertible-bond-sale.html</link>
-      <description><![CDATA[有报道称中国科技巨头阿里巴巴正考虑发行可转换债券，此后该公司在香港上市的股票周四下跌逾 5%。]]></description>
+      <description><![CDATA[有报道称中国科技巨头阿里巴巴正在考虑出售可转换债券，周四香港上市的阿里巴巴股价下跌超过 5%。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/alibabas-hong-kong-shares-drop-5percent-after-report-of-possible-5-billion-convertible-bond-sale.html</guid>
       <pubDate>Thu, 23 May 2024 10:18:50 GMT</pubDate>
     </item>
     <item>
       <title>伊隆·马斯克 (Elon Musk) 预测两年内人工智能将超越人类。中国百度首席执行官称还需要10年时间</title>
       <link>https://www.cnbc.com/2024/05/23/artificial-general-intelligence-more-than-10-years-away-baidu-ceo.html</link>
-      <description><![CDATA[百度首席执行官李彦宏表示，比人类更聪明的人工智能（AGI）还需要10多年的时间。]]></description>
+      <description><![CDATA[百度首席执行官李彦宏表示，比人类更聪明的人工智能（AGI）还需要10多年的时间才能实现。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/artificial-general-intelligence-more-than-10-years-away-baidu-ceo.html</guid>
       <pubDate>Thu, 23 May 2024 09:09:29 GMT</pubDate>
     </item>
@@ -69,16 +76,9 @@
       <pubDate>Thu, 23 May 2024 00:52:23 GMT</pubDate>
     </item>
     <item>
-      <title>捷蓝航空与英国航空寻求合作以扩大网络</title>
-      <link>https://www.cnbc.com/2024/05/22/jetblue-british-airways-seek-partnership-to-expand-networks.html</link>
-      <description><![CDATA[捷蓝航空和英国航空需要交通部批准代码共享协议，该协议将允许航空公司出售彼此航班上的座位。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/jetblue-british-airways-seek-partnership-to-expand-networks.html</guid>
-      <pubDate>Thu, 23 May 2024 00:30:05 GMT</pubDate>
-    </item>
-    <item>
       <title>金融科技噩梦：Synapse 破产后“我有近 38,000 美元被套牢”</title>
       <link>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</link>
-      <description><![CDATA[Synapse 是面向客户的金融科技品牌和 FDIC 支持的银行之间的中间人，但它对所欠客户余额的数额存在分歧。]]></description>
+      <description><![CDATA[Synapse 是面向客户的金融科技品牌和 FDIC 支持的银行之间的中间人，但它在欠客户余额多少方面存在分歧。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</guid>
       <pubDate>Wed, 22 May 2024 22:18:41 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Wed, 22 May 2024 19:17:37 GMT</pubDate>
     </item>
     <item>
-      <title>辉瑞计划在第一轮成本削减中到 2027 年节省 15 亿美元</title>
+      <title>辉瑞计划到 2027 年在第一波新的成本削减中节省 15 亿美元</title>
       <link>https://www.cnbc.com/2024/05/22/pfizer-announces-new-cost-cutting-program.html</link>
       <description><![CDATA[辉瑞公司去年还宣布了另一项 40 亿美元的成本削减计划，当时对其 Covid 疫苗和药物 Paxlovid 的需求下降。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/pfizer-announces-new-cost-cutting-program.html</guid>
