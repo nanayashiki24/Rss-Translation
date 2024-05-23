@@ -1,26 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 23 May 2024 22:47:00 GMT</lastBuildDate>
+    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
+    <lastBuildDate>Thu, 23 May 2024 22:57:00 GMT</lastBuildDate>
     <item>
       <title>吉尔丹董事会在年会前突然辞职，将控制权交给激进分子</title>
       <link>https://www.cnbc.com/2024/05/23/gildan-browning-west-chamandy-resigns.html</link>
-      <description><![CDATA[董事会集体辞职为激进主义者布朗宁·韦斯特 (Browning West) 掌权扫清了道路后，格伦·查曼迪 (Glenn Chamandy) 将重返他创立的服装供应商。]]></description>
+      <description><![CDATA[格伦·查曼迪（Glenn Chamandy）在董事会大规模辞职为激进分子布朗宁·韦斯特（Browning West）接管公司扫清道路后，将重返他创立的这家服装供应商。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/gildan-browning-west-chamandy-resigns.html</guid>
-      <pubDate>Thu, 23 May 2024 22:49:41 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 23:02:58 GMT</pubDate>
     </item>
     <item>
-      <title>道指创下 2023 年 3 月以来最差交易日后，股票期货几乎没有变化：实时更新</title>
+      <title>道琼斯指数创下 2023 年 3 月以来最差交易日后，股指期货几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
       <description><![CDATA[尽管英伟达股价飙升，但周四所有三大股指均收低。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 23 May 2024 22:36:47 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 22:56:44 GMT</pubDate>
     </item>
     <item>
-      <title>边疆航空首席执行官敦促打击机场轮椅服务的“猖獗滥用”</title>
+      <title>Jim Cramer 警告不要在季度井喷后交易 Nvidia</title>
+      <link>https://www.cnbc.com/2024/05/23/jim-cramer-warns-against-trading-nvidia-after-blowout-quarter.html</link>
+      <description><![CDATA[CNBC 的 Jim Cramer 周四提醒投资者，他认为交易 Nvidia 是不明智的，并表示他们应该保留这个人工智能宠儿。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/jim-cramer-warns-against-trading-nvidia-after-blowout-quarter.html</guid>
+      <pubDate>Thu, 23 May 2024 22:33:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>边疆航空首席执行官呼吁严厉打击机场轮椅服务的“猖獗滥用”行为</title>
       <link>https://www.cnbc.com/2024/05/23/frontier-airlines-ceo-passengers-abuse-airport-wheelchair-service.html</link>
       <description><![CDATA[边疆航空首席执行官表示，他曾见过有 20 名乘坐轮椅的乘客被带上飞机的航班，但抵达时只使用了 3 名轮椅。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/frontier-airlines-ceo-passengers-abuse-airport-wheelchair-service.html</guid>
@@ -41,13 +48,6 @@
       <pubDate>Thu, 23 May 2024 21:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>司法部起诉要求解散 Ticketmaster 母公司 Live Nation</title>
-      <link>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</link>
-      <description><![CDATA[此次诉讼是在美国司法部对泰勒·斯威夫特“时代巡回演唱会”门票发售失败后，粉丝们提出投诉并展开调查后提出的。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</guid>
-      <pubDate>Thu, 23 May 2024 21:27:05 GMT</pubDate>
-    </item>
-    <item>
       <title>盘后涨幅最大的股票：Ross Stores、Intuit、Workday 等</title>
       <link>https://www.cnbc.com/2024/05/23/stocks-making-the-biggest-moves-after-hours-rost-intu-wday-deck.html</link>
       <description><![CDATA[这些是在盘中交易中涨幅最大的股票。]]></description>
@@ -64,7 +64,7 @@
     <item>
       <title>诺福克南方铁路公司同意就俄亥俄州火车出轨事件达成 3.1 亿美元的联邦和解协议</title>
       <link>https://www.cnbc.com/2024/05/23/norfolk-southern-agrees-to-310-million-settlement-over-train-derailment-east-palestine-ohio.html</link>
-      <description><![CDATA[作为联邦和解协议的一部分，该公司将因涉嫌违反《清洁水法》而支付 1500 万美元的罚款。]]></description>
+      <description><![CDATA[作为联邦和解协议的一部分，该公司将因涉嫌违反《清洁水法》支付 1500 万美元的罚款。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/norfolk-southern-agrees-to-310-million-settlement-over-train-derailment-east-palestine-ohio.html</guid>
       <pubDate>Thu, 23 May 2024 19:40:11 GMT</pubDate>
     </item>
