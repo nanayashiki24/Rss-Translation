@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Thu, 23 May 2024 05:40:00 GMT</lastBuildDate>
+    <item>
+      <title>马来西亚前总理马哈蒂尔表示他“没有参与腐败行为”</title>
+      <link>https://www.cnbc.com/2024/05/23/malaysias-mahathir-i-myself-was-not-involved-in-corrupt-practices.html</link>
+      <description><![CDATA[马来西亚前总理马哈蒂尔·穆罕默德表示，他和他的家人没有参与任何“腐败行为”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/malaysias-mahathir-i-myself-was-not-involved-in-corrupt-practices.html</guid>
+      <pubDate>Thu, 23 May 2024 06:23:11 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能宠儿英伟达发布强劲预测后纳斯达克期货上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</link>
       <description><![CDATA[周三股市下跌，华尔街正在评估市场领头羊英伟达的最新季度业绩。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</guid>
       <pubDate>Thu, 23 May 2024 06:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>马来西亚前总理马哈蒂尔表示他“没有参与腐败行为”</title>
-      <link>https://www.cnbc.com/2024/05/23/malaysias-mahathir-i-myself-was-not-involved-in-corrupt-practices.html</link>
-      <description><![CDATA[马来西亚前总理马哈蒂尔·穆罕默德表示，他和他的家人没有参与任何“腐败行为”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/malaysias-mahathir-i-myself-was-not-involved-in-corrupt-practices.html</guid>
-      <pubDate>Thu, 23 May 2024 05:38:38 GMT</pubDate>
     </item>
     <item>
       <title>摩根大通首席执行官杰米戴蒙表示，美国可能会出现“硬着陆”，滞胀将是“最糟糕的结果”</title>
@@ -55,7 +55,7 @@
       <pubDate>Thu, 23 May 2024 00:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能推动销售激增，英伟达股价首次突破 1,000 美元</title>
+      <title>人工智能驱动的销售激增，Nvidia 股价首次突破 1,000 美元</title>
       <link>https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html</link>
       <description><![CDATA[英伟达在盘后公布了财报。这是结果。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/nvidia-nvda-earnings-report-q1-2025-.html</guid>
@@ -69,7 +69,7 @@
       <pubDate>Wed, 22 May 2024 23:56:53 GMT</pubDate>
     </item>
     <item>
-      <title>金融科技噩梦：Synapse 破产后“我有近 38,000 美元被套牢”</title>
+      <title>金融科技噩梦：Synapse 破产后，我被套牢了近 38,000 美元</title>
       <link>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</link>
       <description><![CDATA[Synapse 是面向客户的金融科技品牌和 FDIC 支持的银行之间的中间人，但它在欠客户余额多少方面存在分歧。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</guid>
