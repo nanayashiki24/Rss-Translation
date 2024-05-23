@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Thu, 23 May 2024 21:35:00 GMT</lastBuildDate>
@@ -10,14 +10,14 @@
       <link>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</link>
       <description><![CDATA[监管机构表示，继 1 月份对比特币基金采取类似举措后，将允许交易所列出购买和持有以太加密货币的基金。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</guid>
-      <pubDate>Thu, 23 May 2024 21:36:20 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 21:46:29 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊新云业务主管马特·加曼 (Matt Garman) 在跟上人工智能步伐的压力下继承了业务</title>
+      <title>亚马逊云计算业务负责人马特·加曼 (Matt Garman) 接手公司业务，面临跟上人工智能步伐的压力</title>
       <link>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</link>
       <description><![CDATA[Adam Selipsky 掌管亚马逊网络服务的三年任期恰逢人工智能领域增长放缓和竞争日益激烈。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</guid>
-      <pubDate>Thu, 23 May 2024 21:30:28 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 21:39:38 GMT</pubDate>
     </item>
     <item>
       <title>司法部起诉要求解散 Ticketmaster 母公司 Live Nation</title>
@@ -50,7 +50,7 @@
     <item>
       <title>CHIPS 法案半导体奖金最后 60 亿美元的去向</title>
       <link>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</link>
-      <description><![CDATA[美国商务部正在考虑如何分配《芯片法案》奖金的最后 60 亿美元，以资助半导体供应商、传统芯片制造商和其他公司。]]></description>
+      <description><![CDATA[美国商务部正在权衡如何分配 CHIPS 法案奖金的最后 60 亿美元来资助半导体供应商、传统芯片制造商和其他公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</guid>
       <pubDate>Thu, 23 May 2024 20:08:21 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>该双线债券基金表现优于市场。这是它要买的东西</title>
       <link>https://www.cnbc.com/2024/05/23/this-doubleline-bond-fund-is-beating-the-market-heres-what-its-buying.html</link>
-      <description><![CDATA[DoubleLine 的杰弗里·谢尔曼 (Jeffrey Sherman) 在接受 CNBC 采访时谈到了经济面临的风险以及债券市场的哪些部分对投资者最有意义。]]></description>
+      <description><![CDATA[双线资本 (DoubleLine) 的杰弗里·谢尔曼 (Jeffrey Sherman) 在接受 CNBC 采访时谈到了经济面临的风险以及债券市场的哪些部分对投资者最有意义。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/this-doubleline-bond-fund-is-beating-the-market-heres-what-its-buying.html</guid>
       <pubDate>Thu, 23 May 2024 19:32:15 GMT</pubDate>
     </item>
     <item>
       <title>摩根士丹利告诉投资者避免对冲基金过度拥挤的交易</title>
       <link>https://www.cnbc.com/2024/05/23/morgan-stanley-tells-investors-to-avoid-hedge-funds-overcrowded-trades-.html</link>
-      <description><![CDATA[摩根士丹利表示，如果出现系统性交易员蜂拥而至的情况，持有对冲基金最拥挤的交易可能会存在风险。]]></description>
+      <description><![CDATA[摩根士丹利表示，如果出现系统性交易员的群体踩踏事件，那么拥有对冲基金最拥挤的交易可能会有风险。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/morgan-stanley-tells-investors-to-avoid-hedge-funds-overcrowded-trades-.html</guid>
       <pubDate>Thu, 23 May 2024 19:01:57 GMT</pubDate>
     </item>
@@ -104,9 +104,9 @@
       <pubDate>Thu, 23 May 2024 16:24:30 GMT</pubDate>
     </item>
     <item>
-      <title>CNBC 的印度内部时事通讯：股市上涨的秘密</title>
+      <title>CNBC 的 Inside India 时事通讯：股市上涨的秘密</title>
       <link>https://www.cnbc.com/2024/05/23/cnbcs-inside-india-newsletter-the-secret-of-the-stock-market-rally.html</link>
-      <description><![CDATA[将一部分收入存起来以备不时之需通常被认为是谨慎的行为。然而，在印度，它却导致股票被高估。]]></description>
+      <description><![CDATA[把一部分收入存起来以备不时之需通常被认为是谨慎的行为。然而，在印度，这导致股票估值过高。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/cnbcs-inside-india-newsletter-the-secret-of-the-stock-market-rally.html</guid>
       <pubDate>Thu, 23 May 2024 16:02:12 GMT</pubDate>
     </item>
