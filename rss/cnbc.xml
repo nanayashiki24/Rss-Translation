@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 23 May 2024 13:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 13:31:00 GMT</lastBuildDate>
+    <item>
+      <title>受英伟达财报后飙升的推动，标准普尔 500 指数升至新高：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</link>
+      <description><![CDATA[周四，随着华尔街评估市场领头羊英伟达的最新季度业绩，标准普尔 500 指数升至新高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</guid>
+      <pubDate>Thu, 23 May 2024 13:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊新任云业务老板继承了一项面临跟上人工智能步伐压力的业务</title>
+      <link>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</link>
+      <description><![CDATA[Adam Selipsky 掌管亚马逊网络服务的三年任期恰逢人工智能领域增长放缓和竞争日益激烈。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</guid>
+      <pubDate>Thu, 23 May 2024 13:29:45 GMT</pubDate>
+    </item>
     <item>
       <title>前董事会成员表示，特斯拉可以更多地利用埃隆·马斯克的关注点</title>
       <link>https://www.cnbc.com/2024/05/23/elon-musk-has-lost-his-focus-former-tesla-board-member-says-.html</link>
@@ -20,16 +34,9 @@
       <pubDate>Thu, 23 May 2024 13:08:46 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊新任云计算主管接手的业务面临着跟上人工智能步伐的压力</title>
-      <link>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</link>
-      <description><![CDATA[Adam Selipsky 掌管亚马逊网络服务的三年任期恰逢人工智能领域增长放缓和竞争日益激烈。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</guid>
-      <pubDate>Thu, 23 May 2024 13:07:46 GMT</pubDate>
-    </item>
-    <item>
       <title>乌克兰战争实时更新：俄罗斯威胁直接袭击英国军事目标；哈尔科夫遭遇“极其残酷”的袭击</title>
       <link>https://www.cnbc.com/2024/05/23/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</link>
-      <description><![CDATA[俄罗斯称，其边境地区别尔哥罗德遭到导弹和无人机袭击，声称其防空系统击落了 35 枚火箭弹和 3 架无人机。]]></description>
+      <description><![CDATA[俄罗斯表示，其边境地区别尔哥罗德遭到导弹和无人机袭击，并声称其防空系统击落了 35 枚火箭弹和三架无人机。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Thu, 23 May 2024 12:46:03 GMT</pubDate>
     </item>
@@ -48,23 +55,16 @@
       <pubDate>Thu, 23 May 2024 12:36:17 GMT</pubDate>
     </item>
     <item>
-      <title>以下是周四最大的分析师电话会议：Nvidia、Tesla、Ford、Super Micro、Wendy's、Hasbro、Take-Two、Wynn 等</title>
-      <link>https://www.cnbc.com/2024/05/23/top-stocks-to-watch-on-wall-street-like-nvidia.html</link>
-      <description><![CDATA[以下是周四华尔街最大的呼吁。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/top-stocks-to-watch-on-wall-street-like-nvidia.html</guid>
-      <pubDate>Thu, 23 May 2024 12:30:21 GMT</pubDate>
+      <title>由于需求前景强劲，分析师上调了英伟达的价格目标，称“故事显然还远未结束”</title>
+      <link>https://www.cnbc.com/2024/05/23/analysts-boost-nvidia-price-targets-on-strong-demand-outlook-say-narrative-is-clearly-nowhere-near-its-end.html</link>
+      <description><![CDATA[在芯片制造巨头英伟达再次发出强劲指引后，华尔街分析师变得更加看好该公司。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/analysts-boost-nvidia-price-targets-on-strong-demand-outlook-say-narrative-is-clearly-nowhere-near-its-end.html</guid>
+      <pubDate>Thu, 23 May 2024 11:11:44 GMT</pubDate>
     </item>
     <item>
-      <title>盘前涨幅最大的股票：Nvidia、Live Nation、Snowflake 等</title>
-      <link>https://www.cnbc.com/2024/05/23/stocks-making-the-biggest-moves-before-the-bell-nvda-lyv-snow.html</link>
-      <description><![CDATA[这些是盘前交易中涨幅最大的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/stocks-making-the-biggest-moves-before-the-bell-nvda-lyv-snow.html</guid>
-      <pubDate>Thu, 23 May 2024 12:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达数据中心业务增长逾 400% 后 AI 发展未见放缓迹象</title>
+      <title>数据中心业务增长超过 400% 后，Nvidia 并未表现出 AI 放缓的迹象</title>
       <link>https://www.cnbc.com/2024/05/22/nvidia-no-sign-of-ai-slowdown-after-over-400percent-jump-in-data-center-unit.html</link>
-      <description><![CDATA[英伟达首席财务官科莱特·克雷斯(Colette Kress)周三对投资者表示，云提供商看到了“立即而强劲的投资回报”。]]></description>
+      <description><![CDATA[英伟达财务主管科莱特·克雷斯(Colette Kress)周三对投资者表示，云提供商看到了“立竿见影、强劲的投资回报”。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/nvidia-no-sign-of-ai-slowdown-after-over-400percent-jump-in-data-center-unit.html</guid>
       <pubDate>Thu, 23 May 2024 10:22:13 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 23 May 2024 07:05:02 GMT</pubDate>
     </item>
     <item>
-      <title>Snowflake 首席执行官谈与 Nvidia 的合作：“未来还有许多合作”</title>
+      <title>Snowflake 首席执行官谈论与 Nvidia 的合作：“还有很多合作要做”</title>
       <link>https://www.cnbc.com/2024/05/22/snowflake-ceo-talks-collaboration-with-nvidia-theres-a-lot-to-come.html</link>
       <description><![CDATA[Snowflake 首席执行官 Sridhar Ramaswamy 在周三接受 CNBC 的 Jim Cramer 采访时讨论了该公司与人工智能宠儿 Nvidia 的合作。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/snowflake-ceo-talks-collaboration-with-nvidia-theres-a-lot-to-come.html</guid>
