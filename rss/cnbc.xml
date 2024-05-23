@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Thu, 23 May 2024 19:06:00 GMT</lastBuildDate>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 23 May 2024 19:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>波音首席财务官表示，预计 2024 年将出现现金消耗，飞机交付量在危机中缓慢恢复</title>
+      <title>波音首席财务官称，预计 2024 年现金消耗将增加，危机期间飞机交付将缓慢复苏</title>
       <link>https://www.cnbc.com/2024/05/23/boeing-cfo-deliveries-cash-flow-max-crisis.html</link>
       <description><![CDATA[波音首席财务官表示，由于该制造商面临一系列生产挑战，第二季度的飞机交付量不会恢复第一季度的水平。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/boeing-cfo-deliveries-cash-flow-max-crisis.html</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>华纳兄弟探索频道提供的 NBA 转播权可能会使其与亚马逊竞争，而不是与 NBC 竞争</title>
       <link>https://www.cnbc.com/2024/05/23/warner-bros-discovery-considers-matching-nba-package-slated-for-amazon.html</link>
-      <description><![CDATA[消息人士称，华纳兄弟探索频道可能对争取为亚马逊提供的 NBA 游戏套餐比为 NBCUniversal 提供的游戏套餐更感兴趣。]]></description>
+      <description><![CDATA[消息人士称，华纳兄弟探索频道可能更感兴趣的是为亚马逊指定的 NBA 套餐，而不是为 NBCUniversal 指定的游戏。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/warner-bros-discovery-considers-matching-nba-package-slated-for-amazon.html</guid>
       <pubDate>Thu, 23 May 2024 17:52:31 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>突如其来的集装箱紧缩导致海运费飙升，敲响了全球贸易警钟</title>
       <link>https://www.cnbc.com/2024/05/23/a-sudden-container-crunch-is-sending-ocean-freight-rates-soaring.html</link>
-      <description><![CDATA[由于航运旺季的集装箱紧缩扰乱了全球贸易，并可能对消费者造成打击，海运即期运费正在经历突然的、意外的飙升。]]></description>
+      <description><![CDATA[由于航运旺季的集装箱短缺扰乱了全球贸易并可能对消费者造成冲击，海运现货价格正突然意外飙升。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/a-sudden-container-crunch-is-sending-ocean-freight-rates-soaring.html</guid>
       <pubDate>Thu, 23 May 2024 17:10:10 GMT</pubDate>
     </item>
