@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 23 May 2024 01:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 03:14:00 GMT</lastBuildDate>
+    <item>
+      <title>承认深度伪造拜登声音的政治顾问被起诉</title>
+      <link>https://www.cnbc.com/2024/05/23/political-consultant-who-admitted-deepfaking-bidens-voice-is-indicted-.html</link>
+      <description><![CDATA[政治顾问史蒂夫·克莱默 (Steve Kramer) 已在新罕布什尔州被起诉，他向 NBC 新闻承认，他是假冒乔·拜登声音的机器人电话的幕后黑手。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/political-consultant-who-admitted-deepfaking-bidens-voice-is-indicted-.html</guid>
+      <pubDate>Thu, 23 May 2024 03:12:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储会议纪要暗示利率可能长期维持高位，亚洲股市涨跌互现</title>
+      <link>https://www.cnbc.com/2024/05/23/asia-markets.html</link>
+      <description><![CDATA[路透社调查估计，韩国央行将基准政策利率维持在 3.5%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/asia-markets.html</guid>
+      <pubDate>Thu, 23 May 2024 02:14:46 GMT</pubDate>
+    </item>
     <item>
       <title>英伟达打破了极高的期望，并在未来几年继续保持人工智能驱动的主导地位</title>
       <link>https://www.cnbc.com/2024/05/22/nvidia-crushes-earnings-expectations-charts-continued-ai-dominance.html</link>
-      <description><![CDATA[在本财报季最受期待的季度，英伟达表现出色。]]></description>
+      <description><![CDATA[这是本财报季最受期待的一个季度，英伟达表现出色。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/nvidia-crushes-earnings-expectations-charts-continued-ai-dominance.html</guid>
       <pubDate>Thu, 23 May 2024 01:18:05 GMT</pubDate>
     </item>
     <item>
       <title>数据中心业务增长超过 400% 后，Nvidia 并未表现出 AI 放缓的迹象</title>
       <link>https://www.cnbc.com/2024/05/22/nvidia-no-sign-of-ai-slowdown-after-over-400percent-jump-in-data-center-unit.html</link>
-      <description><![CDATA[英伟达首席财务官科莱特·克雷斯(Colette Kress)周三对投资者表示，云提供商看到了“立即而强劲的投资回报”。]]></description>
+      <description><![CDATA[英伟达财务主管科莱特·克雷斯(Colette Kress)周三对投资者表示，云提供商看到了“立竿见影、强劲的投资回报”。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/nvidia-no-sign-of-ai-slowdown-after-over-400percent-jump-in-data-center-unit.html</guid>
       <pubDate>Thu, 23 May 2024 00:42:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>捷蓝航空与英国航空寻求合作以扩大网络</title>
-      <link>https://www.cnbc.com/2024/05/22/jetblue-british-airways-seek-partnership-to-expand-networks.html</link>
-      <description><![CDATA[捷蓝航空和英国航空需要交通部批准代码共享协议，该协议将允许航空公司出售彼此航班上的座位。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/jetblue-british-airways-seek-partnership-to-expand-networks.html</guid>
-      <pubDate>Thu, 23 May 2024 00:30:05 GMT</pubDate>
     </item>
     <item>
       <title>人工智能宠儿英伟达发布强劲预测后纳斯达克期货上涨：实时更新</title>
@@ -41,14 +48,14 @@
       <pubDate>Wed, 22 May 2024 23:56:53 GMT</pubDate>
     </item>
     <item>
-      <title>在与 Alphabet 断绝关系数月后，陷入困境的 AI 公司 Appen 又失去了更多高管</title>
+      <title>Alphabet 断绝关系几个月后，陷入困境的人工智能公司 Appen 失去了更多高管</title>
       <link>https://www.cnbc.com/2024/05/22/ai-firm-appen-loses-more-executives-months-after-alphabet-cut-ties.html</link>
       <description><![CDATA[曾经将谷歌、微软和英伟达视为客户的人工智能公司澳鹏已经失去了负责收入和营销的高管。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/ai-firm-appen-loses-more-executives-months-after-alphabet-cut-ties.html</guid>
       <pubDate>Wed, 22 May 2024 23:17:41 GMT</pubDate>
     </item>
     <item>
-      <title>金融科技噩梦：Synapse 破产后“我有近 38,000 美元被套牢”</title>
+      <title>金融科技噩梦：Synapse 破产后，我被套牢了近 38,000 美元</title>
       <link>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</link>
       <description><![CDATA[Synapse 是面向客户的金融科技品牌和 FDIC 支持的银行之间的中间人，但它在欠客户余额多少方面存在分歧。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/synapse-bankruptcy-customer-funds.html</guid>
@@ -57,16 +64,9 @@
     <item>
       <title>华纳兄弟探索频道与 ESPN 达成 5 年大学橄榄球季后赛协议</title>
       <link>https://www.cnbc.com/2024/05/22/warner-bros-discovery-espn-college-football-playoff-deal.html</link>
-      <description><![CDATA[华纳兄弟探索频道将从 12 月开始在 TNT 和 Max 体育频道播放两场大学橄榄球季后赛。]]></description>
+      <description><![CDATA[华纳兄弟探索频道将从 12 月开始在 TNT 和 Max 体育频道上播出两场大学橄榄球季后赛。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/warner-bros-discovery-espn-college-football-playoff-deal.html</guid>
       <pubDate>Wed, 22 May 2024 21:46:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>新闻集团和 OpenAI 达成“多年全球合作伙伴关系”协议，利用新闻内容改进 ChatGPT</title>
-      <link>https://www.cnbc.com/2024/05/22/newscorp-and-openai-strike-multi-year-partnership-deal-to-use-journalistic-content-to-improve-chatgpt.html</link>
-      <description><![CDATA[OpenAI 和新闻集团周三达成“多年全球合作伙伴关系”，该协议将允许 OpenAI 在 ChatGPT 内显示新闻集团拥有的文章。]]></description>
-      <guid>https://www.cnbc.com/2024/05/22/newscorp-and-openai-strike-multi-year-partnership-deal-to-use-journalistic-content-to-improve-chatgpt.html</guid>
-      <pubDate>Wed, 22 May 2024 21:12:08 GMT</pubDate>
     </item>
     <item>
       <title>E.l.f.美妆今年首次实现 10 亿美元营收，但股价因指引弱于预期而下跌</title>
@@ -106,7 +106,7 @@
     <item>
       <title>新的 Covid FLiRT 变种引发了夏季高峰的担忧</title>
       <link>https://www.cnbc.com/2024/05/22/new-covid-flirt-variants-spark-concerns-of-a-summer-spike.html</link>
-      <description><![CDATA[新型新冠病毒毒株正在全球范围内传播，这引发了卫生专业人士对夏季病例可能激增的担忧。]]></description>
+      <description><![CDATA[新的 Covid-19 病毒株正在全球传播，引起卫生专业人员对夏季病例可能激增的担忧。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/new-covid-flirt-variants-spark-concerns-of-a-summer-spike.html</guid>
       <pubDate>Wed, 22 May 2024 05:17:51 GMT</pubDate>
     </item>
