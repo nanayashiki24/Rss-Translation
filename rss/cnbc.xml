@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
     <lastBuildDate>Thu, 23 May 2024 04:34:00 GMT</lastBuildDate>
+    <item>
+      <title>美联储会议纪要暗示利率可能长期维持高位，亚洲股市涨跌互现</title>
+      <link>https://www.cnbc.com/2024/05/23/asia-markets.html</link>
+      <description><![CDATA[路透社调查估计，韩国央行将基准政策利率维持在 3.5%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/asia-markets.html</guid>
+      <pubDate>Thu, 23 May 2024 04:45:29 GMT</pubDate>
+    </item>
     <item>
       <title>据报道，微软与阿联酋的交易可能涉及将美国关键芯片和人工智能技术转移到海外</title>
       <link>https://www.cnbc.com/2024/05/23/microsofts-uae-deal-could-reportedly-involve-transfer-of-key-us-chips-and-ai-technology-abroad-.html</link>
@@ -20,21 +27,14 @@
       <pubDate>Thu, 23 May 2024 04:18:15 GMT</pubDate>
     </item>
     <item>
-      <title>承认深度伪造拜登声音的政治顾问已被起诉</title>
+      <title>承认深度伪造拜登声音的政治顾问被起诉</title>
       <link>https://www.cnbc.com/2024/05/23/political-consultant-who-admitted-deepfaking-bidens-voice-is-indicted-.html</link>
       <description><![CDATA[政治顾问史蒂夫·克莱默 (Steve Kramer) 已在新罕布什尔州被起诉，他向 NBC 新闻承认，他是假冒乔·拜登声音的机器人电话的幕后黑手。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/political-consultant-who-admitted-deepfaking-bidens-voice-is-indicted-.html</guid>
       <pubDate>Thu, 23 May 2024 03:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>美联储会议纪要表明利率可能会在更长时间内保持较高水平，亚洲市场涨跌互现</title>
-      <link>https://www.cnbc.com/2024/05/23/asia-markets.html</link>
-      <description><![CDATA[根据路透社调查估计，韩国央行维持基准政策利率于3.5%不变。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/asia-markets.html</guid>
-      <pubDate>Thu, 23 May 2024 02:14:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 超越了极高的期望，并预计未来几年将继续在人工智能领域占据主导地位</title>
+      <title>英伟达打破了极高的期望，并在未来几年继续保持人工智能驱动的主导地位</title>
       <link>https://www.cnbc.com/2024/05/22/nvidia-crushes-earnings-expectations-charts-continued-ai-dominance.html</link>
       <description><![CDATA[在本财报季最受期待的季度，英伟达表现出色。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/nvidia-crushes-earnings-expectations-charts-continued-ai-dominance.html</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>数据中心业务增长超过 400% 后，Nvidia 并未表现出 AI 放缓的迹象</title>
       <link>https://www.cnbc.com/2024/05/22/nvidia-no-sign-of-ai-slowdown-after-over-400percent-jump-in-data-center-unit.html</link>
-      <description><![CDATA[英伟达财务主管科莱特·克雷斯(Colette Kress)周三对投资者表示，云提供商看到了“立竿见影、强劲的投资回报”。]]></description>
+      <description><![CDATA[英伟达首席财务官科莱特·克雷斯(Colette Kress)周三对投资者表示，云提供商看到了“立即而强劲的投资回报”。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/nvidia-no-sign-of-ai-slowdown-after-over-400percent-jump-in-data-center-unit.html</guid>
       <pubDate>Thu, 23 May 2024 00:42:50 GMT</pubDate>
     </item>
