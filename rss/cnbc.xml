@@ -1,37 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Thu, 23 May 2024 18:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 19:06:00 GMT</lastBuildDate>
     <item>
       <title>即使在英伟达发布重磅报告后，道琼斯指数仍下跌 600 点，标准普尔 500 指数仍从历史高位回落：实时更新</title>
       <link>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</link>
       <description><![CDATA[随着华尔街评估市场领头羊英伟达的最新季度业绩，标准普尔 500 指数周四下跌。]]></description>
       <guid>https://www.cnbc.com/2024/05/22/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 23 May 2024 18:40:35 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 19:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根士丹利告诉投资者避免对冲基金过度拥挤的交易</title>
+      <link>https://www.cnbc.com/2024/05/23/morgan-stanley-tells-investors-to-avoid-hedge-funds-overcrowded-trades-.html</link>
+      <description><![CDATA[摩根士丹利表示，如果出现系统性交易员蜂拥而至的情况，持有对冲基金最拥挤的交易可能会存在风险。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/morgan-stanley-tells-investors-to-avoid-hedge-funds-overcrowded-trades-.html</guid>
+      <pubDate>Thu, 23 May 2024 19:01:57 GMT</pubDate>
     </item>
     <item>
       <title>波音首席财务官表示，预计 2024 年将出现现金消耗，飞机交付量在危机中缓慢恢复</title>
       <link>https://www.cnbc.com/2024/05/23/boeing-cfo-deliveries-cash-flow-max-crisis.html</link>
       <description><![CDATA[波音首席财务官表示，由于该制造商面临一系列生产挑战，第二季度的飞机交付量不会恢复第一季度的水平。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/boeing-cfo-deliveries-cash-flow-max-crisis.html</guid>
-      <pubDate>Thu, 23 May 2024 18:36:41 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 18:53:56 GMT</pubDate>
     </item>
     <item>
-      <title>顾问称，这个退休账户今年夏天对青少年来说可以实现“三重税收效率”</title>
-      <link>https://www.cnbc.com/2024/05/23/roth-iras-for-kids-offer-triple-tax-benefits.html</link>
-      <description><![CDATA[罗斯儿童个人退休账户可以提供三重税收优惠。以下是家长为孩子开设 IRA 需要了解的信息。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/roth-iras-for-kids-offer-triple-tax-benefits.html</guid>
-      <pubDate>Thu, 23 May 2024 18:35:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯科蒂·谢夫勒案：警官在逮捕高尔夫球手时没有打开随身摄像头，违反了规定，负责人说</title>
+      <title>高尔夫冠军斯科蒂·谢夫勒逮捕视频发布，警官违反了随身摄像头规则</title>
       <link>https://www.cnbc.com/2024/05/23/scottie-scheffler-prosecutors-to-drop-criminal-charges-against-golfer.html</link>
-      <description><![CDATA[针对世界顶级高尔夫球手斯科蒂·舍弗勒的案件正在肯塔基州路易斯维尔审理。他被指控袭击警察。]]></description>
+      <description><![CDATA[针对世界顶级高尔夫球手斯科蒂·舍夫勒的案件正在肯塔基州路易斯维尔进行。他被指控袭击一名警察。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/scottie-scheffler-prosecutors-to-drop-criminal-charges-against-golfer.html</guid>
-      <pubDate>Thu, 23 May 2024 18:13:38 GMT</pubDate>
+      <pubDate>Thu, 23 May 2024 18:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资太空：五角大楼如何利用人工智能处理间谍卫星数据</title>
+      <link>https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html</link>
+      <description><![CDATA[太空资本纽约峰会聚集了投资者和公司，讨论星际飞船、美国国家安全、中国等关键行业话题。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/investing-in-space-how-the-pentagon-uses-ai-with-spy-satellite-data.html</guid>
+      <pubDate>Thu, 23 May 2024 18:43:54 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉首席执行官埃隆·马斯克表示，他赞成对中国电动汽车“不征收关税”</title>
@@ -50,23 +57,16 @@
     <item>
       <title>该双线债券基金表现优于市场。这是它要买的东西</title>
       <link>https://www.cnbc.com/2024/05/23/this-doubleline-bond-fund-is-beating-the-market-heres-what-its-buying.html</link>
-      <description><![CDATA[DoubleLine 的杰弗里·谢尔曼 (Jeffrey Sherman) 向 CNBC 谈论了经济风险以及债券市场的哪个部分对投资者最有意义。]]></description>
+      <description><![CDATA[DoubleLine 的杰弗里·谢尔曼 (Jeffrey Sherman) 在接受 CNBC 采访时谈到了经济面临的风险以及债券市场的哪些部分对投资者最有意义。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/this-doubleline-bond-fund-is-beating-the-market-heres-what-its-buying.html</guid>
       <pubDate>Thu, 23 May 2024 18:00:05 GMT</pubDate>
     </item>
     <item>
       <title>华纳兄弟探索频道提供的 NBA 转播权可能会使其与亚马逊竞争，而不是与 NBC 竞争</title>
       <link>https://www.cnbc.com/2024/05/23/warner-bros-discovery-considers-matching-nba-package-slated-for-amazon.html</link>
-      <description><![CDATA[消息人士称，华纳兄弟探索频道可能更感兴趣的是为亚马逊指定的 NBA 套餐，而不是为 NBCUniversal 指定的游戏。]]></description>
+      <description><![CDATA[消息人士称，华纳兄弟探索频道可能对争取为亚马逊提供的 NBA 游戏套餐比为 NBCUniversal 提供的游戏套餐更感兴趣。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/warner-bros-discovery-considers-matching-nba-package-slated-for-amazon.html</guid>
       <pubDate>Thu, 23 May 2024 17:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>新研究发现，每日吸食大麻的人数超过饮酒量。这对大麻行业意味着什么</title>
-      <link>https://www.cnbc.com/2024/05/23/daily-marijuana-use-surpasses-alcohol-consumption-new-study-finds.html</link>
-      <description><![CDATA[华尔街的一些分析师认为，大麻采用的增加将对酒精行业产生影响，可能会出现合并和啤酒销量减少的情况。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/daily-marijuana-use-surpasses-alcohol-consumption-new-study-finds.html</guid>
-      <pubDate>Thu, 23 May 2024 17:45:48 GMT</pubDate>
     </item>
     <item>
       <title>36% 的美国人表示房地产是最好的长期投资——金融专家表示他们可能是错的</title>
@@ -85,7 +85,7 @@
     <item>
       <title>司法部起诉要求解散 Ticketmaster 母公司 Live Nation</title>
       <link>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</link>
-      <description><![CDATA[在这起诉讼之前，美国司法部因泰勒·斯威夫特 Eras 巡演门票发售失败而引发粉丝投诉，展开调查。]]></description>
+      <description><![CDATA[泰勒·斯威夫特 (Taylor Swift) Eras 巡回演唱会门票发售失败后，粉丝投诉引发了司法部的调查，引发了这起诉讼。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</guid>
       <pubDate>Thu, 23 May 2024 16:46:19 GMT</pubDate>
     </item>
