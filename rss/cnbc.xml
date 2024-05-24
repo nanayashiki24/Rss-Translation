@@ -1,16 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 24 May 2024 15:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 15:30:00 GMT</lastBuildDate>
     <item>
       <title>股市小幅上涨，但道琼斯指数将结束五周连涨：实时更新</title>
       <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
       <description><![CDATA[道琼斯工业平均指数经历了一年多来最糟糕的交易日后，周五股市小幅走高。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 24 May 2024 15:14:26 GMT</pubDate>
+      <pubDate>Fri, 24 May 2024 15:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>刺痛快餐业的纪录片制片人摩根·斯普尔洛克去世，享年 53 岁</title>
+      <link>https://www.cnbc.com/2024/05/24/morgan-spurlock-super-size-me-dead.html</link>
+      <description><![CDATA[他以一个月只吃麦当劳来说明快餐饮食的危险而闻名，他的电影《Super Size Me》获得了奥斯卡金像奖提名。]]></description>
+      <guid>https://www.cnbc.com/2024/05/24/morgan-spurlock-super-size-me-dead.html</guid>
+      <pubDate>Fri, 24 May 2024 15:21:21 GMT</pubDate>
     </item>
     <item>
       <title>拜登的汽油销售可能不会对夏季汽油价格产生重大影响</title>
@@ -27,16 +34,9 @@
       <pubDate>Fri, 24 May 2024 15:01:55 GMT</pubDate>
     </item>
     <item>
-      <title>刺痛快餐业的纪录片制片人摩根·斯普尔洛克去世，享年 53 岁</title>
-      <link>https://www.cnbc.com/2024/05/24/morgan-spurlock-super-size-me-dead.html</link>
-      <description><![CDATA[他因一个月只吃麦当劳而闻名，以说明快餐饮食的危险，他的电影《Super Size Me》获得了奥斯卡金像奖提名。]]></description>
-      <guid>https://www.cnbc.com/2024/05/24/morgan-spurlock-super-size-me-dead.html</guid>
-      <pubDate>Fri, 24 May 2024 14:57:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰富瑞表示，小盘股的表现开始优于大盘，这些股票是最佳的投资方式</title>
+      <title>杰富瑞表示，小盘股开始跑赢大盘，这些股票是最佳投资选择</title>
       <link>https://www.cnbc.com/2024/05/24/jefferies-says-small-caps-are-starting-to-outperform-and-these-stocks-are-the-best-way-to-play-it.html</link>
-      <description><![CDATA[杰富瑞表示，随着小型股成为焦点，这些流动性高的股票可能值得关注。]]></description>
+      <description><![CDATA[杰富瑞表示，随着小盘股成为焦点，这些具有高流动性的股票可能值得关注。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/jefferies-says-small-caps-are-starting-to-outperform-and-these-stocks-are-the-best-way-to-play-it.html</guid>
       <pubDate>Fri, 24 May 2024 14:38:25 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>Ark Invest 的 Cathie Wood 表示，较低的价格和利率将“激活盘卷股票”</title>
       <link>https://www.cnbc.com/2024/05/24/ark-invests-cathie-wood-says-lower-prices-and-rates-will-activate-coiled-equities.html</link>
-      <description><![CDATA[伍德在 X 帖子中表示：“我们认为，更多的价格通货紧缩和更低的利率将激活盘卷股票。”]]></description>
+      <description><![CDATA[伍德在 X 帖子中表示：“我们认为，更多的价格通缩和更低的利率将激活盘卷股票。”]]></description>
       <guid>https://www.cnbc.com/2024/05/24/ark-invests-cathie-wood-says-lower-prices-and-rates-will-activate-coiled-equities.html</guid>
       <pubDate>Fri, 24 May 2024 14:11:09 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Fri, 24 May 2024 14:10:14 GMT</pubDate>
     </item>
     <item>
-      <title>数据显示，特斯拉大幅削减上海 Model Y 产量</title>
+      <title>数据显示，特斯拉大幅削减上海工厂 Model Y 的产量</title>
       <link>https://www.cnbc.com/2024/05/24/tesla-slashes-model-y-production-in-shanghai-data-shows.html</link>
       <description><![CDATA[据路透社周五报道，自 3 月份以来，特斯拉上海工厂已将其最畅销的 Model Y 电动汽车的产量削减了两位数。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/tesla-slashes-model-y-production-in-shanghai-data-shows.html</guid>
@@ -90,14 +90,14 @@
       <pubDate>Fri, 24 May 2024 13:53:00 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达首席执行官黄仁勋的净资产五年内从 30 亿美元增至 900 亿美元</title>
+      <title>Nvidia 首席执行官黄仁勋的净资产在五年内从 30 亿美元飙升至 900 亿美元</title>
       <link>https://www.cnbc.com/2024/05/24/nvidia-ceo-jensen-huangs-net-worth-swells-by-87-billion-in-5-years.html</link>
       <description><![CDATA[随着英伟达股价周四上涨超过 9%，收于近 1,038 美元，首席执行官黄仁勋所持股份价值增加了​​ 77 亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/nvidia-ceo-jensen-huangs-net-worth-swells-by-87-billion-in-5-years.html</guid>
       <pubDate>Fri, 24 May 2024 12:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>随着电视规模的缩小，广告商增加了沃尔玛和亚马逊等零售商的支出</title>
+      <title>随着电视广告的减少，广告商增加了对沃尔玛和亚马逊等零售商的支出</title>
       <link>https://www.cnbc.com/2024/05/24/advertisers-retail-media-spending.html</link>
       <description><![CDATA[零售商拥有的客户数据（从一次性购买者到忠诚者）对于想要优化曝光的广告商来说非常有价值。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/advertisers-retail-media-spending.html</guid>
