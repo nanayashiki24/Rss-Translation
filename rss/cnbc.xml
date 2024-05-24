@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 24 May 2024 18:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 19:31:00 GMT</lastBuildDate>
+    <item>
+      <title>随着对 Nvidia 和人工智能交易的热情持续，标准普尔 500 指数周五上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数经历了一年多来最糟糕的交易日后，周五股市小幅走高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 24 May 2024 19:34:37 GMT</pubDate>
+    </item>
     <item>
       <title>礼来公司将在印第安纳州工厂再投资 53 亿美元，以扩大 Mounjaro 和 Zepbound 的供应</title>
       <link>https://www.cnbc.com/2024/05/24/eli-lilly-invests-to-increase-mounjaro-zepbound-supply.html</link>
@@ -15,16 +22,16 @@
     <item>
       <title>为什么杂货如此昂贵——以及消费者如何开始看到缓解</title>
       <link>https://www.cnbc.com/2024/05/24/why-groceries-are-so-expensive-and-how-consumers-may-see-some-relief.html</link>
-      <description><![CDATA[专家表示，为了节省食品杂货开支，消费者可能必须改变购物习惯。这可能意味着要寻找便宜的杂货店。]]></description>
+      <description><![CDATA[专家表示，为了现在在食品杂货上省钱，消费者可能必须改变他们的购物习惯。这可能意味着寻找便宜的杂货店。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/why-groceries-are-so-expensive-and-how-consumers-may-see-some-relief.html</guid>
       <pubDate>Fri, 24 May 2024 19:19:07 GMT</pubDate>
     </item>
     <item>
-      <title>随着对 Nvidia 和人工智能交易的热情持续，标准普尔 500 指数周五上涨：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
-      <description><![CDATA[道琼斯工业平均指数经历了一年多来最糟糕的交易日后，周五股市小幅走高。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 24 May 2024 19:03:05 GMT</pubDate>
+      <title>Trivariate Research 表示，购买不受高通胀和利率影响的优质科技股</title>
+      <link>https://www.cnbc.com/2024/05/24/buy-quality-tech-stocks-immune-to-high-inflation-and-rates-trivariate-research-says-.html</link>
+      <description><![CDATA[Trivariate Research 分享了一份与通胀几乎为零相关的优质科技股清单。]]></description>
+      <guid>https://www.cnbc.com/2024/05/24/buy-quality-tech-stocks-immune-to-high-inflation-and-rates-trivariate-research-says-.html</guid>
+      <pubDate>Fri, 24 May 2024 19:01:48 GMT</pubDate>
     </item>
     <item>
       <title>罗德岛州两家 CVS 零售店加入新的全国药房联盟</title>
@@ -36,7 +43,7 @@
     <item>
       <title>谷歌因人工智能概述犯明显错误而受到批评，例如说前总统奥巴马是穆斯林</title>
       <link>https://www.cnbc.com/2024/05/24/google-criticized-as-ai-overview-makes-errors-like-saying-president-obama-is-muslim.html</link>
-      <description><![CDATA[根据截图，公众对谷歌搜索中的人工智能概述功能的批评越来越多，该功能返回了不准确或无意义的结果。]]></description>
+      <description><![CDATA[根据截图显示，公众对谷歌搜索中的 AI 概览功能的批评日益增多，因为该功能返回的结果不准确或毫无意义。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/google-criticized-as-ai-overview-makes-errors-like-saying-president-obama-is-muslim.html</guid>
       <pubDate>Fri, 24 May 2024 18:13:18 GMT</pubDate>
     </item>
@@ -62,14 +69,7 @@
       <pubDate>Fri, 24 May 2024 17:37:58 GMT</pubDate>
     </item>
     <item>
-      <title>在创纪录的一周后，Moderna 和这家太阳能公司成为最超买的股票之一</title>
-      <link>https://www.cnbc.com/2024/05/24/mrna-is-among-the-most-overbought-stocks-after-a-record-setting-week.html</link>
-      <description><![CDATA[根据 14 天相对强度指数（RSI），某些股票本周变得超买。]]></description>
-      <guid>https://www.cnbc.com/2024/05/24/mrna-is-among-the-most-overbought-stocks-after-a-record-setting-week.html</guid>
-      <pubDate>Fri, 24 May 2024 17:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝莱德债券大师里克·里德 (Rick Rieder) 认为，眼下的机会就在这里</title>
+      <title>贝莱德债券大师里克·里德 (Rick Rieder) 现在看到了机遇</title>
       <link>https://www.cnbc.com/2024/05/24/where-blackrocks-rick-rieder-sees-opportunity-right-now.html</link>
       <description><![CDATA[贝莱德全球固定收益首席投资官里克·里德(Rick Rieder)表示，在这个市场上，投资者可以获得一些丰厚的收益，而不必冒任何大风险。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/where-blackrocks-rick-rieder-sees-opportunity-right-now.html</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>私募股权如何推动红龙虾</title>
       <link>https://www.cnbc.com/2024/05/24/how-private-equity-rolled-red-lobster.html</link>
-      <description><![CDATA[2014 年，一家私募股权公司收购了这家标志性海鲜连锁店，并以 15 亿美元的价格出售了餐厅旗下的房地产。随后，餐厅陷入了支付租金的困境。]]></description>
+      <description><![CDATA[2014 年，一家私募股权公司收购了这家标志性的海鲜连锁店，并以 15 亿美元的价格出售了餐厅旗下的房地产。然后餐馆就难以支付租金。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/how-private-equity-rolled-red-lobster.html</guid>
       <pubDate>Fri, 24 May 2024 16:30:22 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>油价从三个月低点反弹，但仍面临周跌幅</title>
       <link>https://www.cnbc.com/2024/05/24/oil-prices-hit-three-month-lows-head-for-weekly-loss-as-summer-driving-season-kicks-off.html</link>
-      <description><![CDATA[WTI 和布伦特原油每周将分别下跌约 4% 和 3%。]]></description>
+      <description><![CDATA[WTI 和布伦特原油每周价格分别下跌约 4% 和 3%。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/oil-prices-hit-three-month-lows-head-for-weekly-loss-as-summer-driving-season-kicks-off.html</guid>
       <pubDate>Fri, 24 May 2024 14:38:18 GMT</pubDate>
     </item>
