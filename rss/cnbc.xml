@@ -4,14 +4,7 @@
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 24 May 2024 09:36:00 GMT</lastBuildDate>
-    <item>
-      <title>在关税威胁日益加大的情况下，中国电动汽车制造商继续积极进军欧洲</title>
-      <link>https://www.cnbc.com/2024/05/24/chinese-ev-makers-continue-push-into-europe-amid-tariff-threat.html</link>
-      <description><![CDATA[尽管欧盟正在进行的对中国电动汽车补贴的调查可能会导致关税，但蔚来、小鹏汽车和比亚迪仍在继续其欧洲扩张。]]></description>
-      <guid>https://www.cnbc.com/2024/05/24/chinese-ev-makers-continue-push-into-europe-amid-tariff-threat.html</guid>
-      <pubDate>Fri, 24 May 2024 09:19:18 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 May 2024 09:42:00 GMT</lastBuildDate>
     <item>
       <title>道指创下 2023 年 3 月以来最差交易日后，股指期货小幅走高：实时更新</title>
       <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
@@ -43,14 +36,14 @@
     <item>
       <title>吉尔丹董事会在年会前突然辞职，将控制权交给激进分子</title>
       <link>https://www.cnbc.com/2024/05/23/gildan-browning-west-chamandy-resigns.html</link>
-      <description><![CDATA[格伦·查曼迪（Glenn Chamandy）在董事会大规模辞职为激进分子布朗宁·韦斯特（Browning West）夺取控制权扫清道路后，将重返他创立的这家服装供应商。]]></description>
+      <description><![CDATA[格伦·查曼迪（Glenn Chamandy）在董事会大规模辞职为激进分子布朗宁·韦斯特（Browning West）接管公司扫清道路后，将重返他创立的这家服装供应商。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/gildan-browning-west-chamandy-resigns.html</guid>
       <pubDate>Thu, 23 May 2024 23:39:09 GMT</pubDate>
     </item>
     <item>
       <title>边疆航空首席执行官敦促打击机场轮椅服务的“猖獗滥用”</title>
       <link>https://www.cnbc.com/2024/05/23/frontier-airlines-ceo-passengers-abuse-airport-wheelchair-service.html</link>
-      <description><![CDATA[边疆航空首席执行官巴里·比弗尔 (Barry Biffle) 表示，他曾看到过这样的情况：出发时有 20 名乘客坐在轮椅上，但抵达后只有 3 人使用了轮椅。]]></description>
+      <description><![CDATA[Frontier 首席执行官巴里·比夫尔 (Barry Biffle) 表示，他曾见过有 20 名乘客在起飞时使用轮椅的航班，但只有 3 人在抵达时使用轮椅。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/frontier-airlines-ceo-passengers-abuse-airport-wheelchair-service.html</guid>
       <pubDate>Thu, 23 May 2024 23:20:15 GMT</pubDate>
     </item>
@@ -62,9 +55,16 @@
       <pubDate>Thu, 23 May 2024 21:57:48 GMT</pubDate>
     </item>
     <item>
+      <title>波音首席财务官表示，预计 2024 年将出现现金消耗，飞机交付量在危机中恢复缓慢</title>
+      <link>https://www.cnbc.com/2024/05/23/boeing-cfo-deliveries-cash-flow-max-crisis.html</link>
+      <description><![CDATA[波音公司首席财务官表示，由于面临着一系列生产挑战，波音公司第二季度的飞机交付量不会比第一季度恢复。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/boeing-cfo-deliveries-cash-flow-max-crisis.html</guid>
+      <pubDate>Thu, 23 May 2024 20:20:45 GMT</pubDate>
+    </item>
+    <item>
       <title>CHIPS 法案半导体奖金最后 60 亿美元的去向</title>
       <link>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</link>
-      <description><![CDATA[美国商务部正在权衡如何分配 CHIPS 法案奖金的最后 60 亿美元来资助半导体供应商、传统芯片制造商和其他公司。]]></description>
+      <description><![CDATA[美国商务部正在考虑如何分配《芯片法案》奖金的最后 60 亿美元，以资助半导体供应商、传统芯片制造商和其他公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</guid>
       <pubDate>Thu, 23 May 2024 20:08:21 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 23 May 2024 18:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>华纳兄弟探索频道提供的 NBA 转播权可能会使其与亚马逊竞争，而不是与 NBC 竞争</title>
+      <title>华纳兄弟探索频道的 NBA 转播权报价可能会使其与亚马逊而非 NBC 展开竞争</title>
       <link>https://www.cnbc.com/2024/05/23/warner-bros-discovery-considers-matching-nba-package-slated-for-amazon.html</link>
       <description><![CDATA[消息人士称，华纳兄弟探索频道可能更感兴趣的是为亚马逊指定的 NBA 套餐，而不是为 NBCUniversal 指定的游戏。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/warner-bros-discovery-considers-matching-nba-package-slated-for-amazon.html</guid>
