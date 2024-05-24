@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 24 May 2024 06:35:00 GMT</lastBuildDate>
-    <item>
-      <title>道指创下 2023 年 3 月以来最差交易日后，股票期货几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
-      <description><![CDATA[尽管英伟达股价飙升，但周四所有三大股指均收低。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 24 May 2024 06:04:38 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 24 May 2024 07:19:00 GMT</lastBuildDate>
     <item>
       <title>微软和亚马逊支持的人工智能初创公司的首席执行官是新的科技摇滚明星</title>
       <link>https://www.cnbc.com/2024/05/24/mistral-ai-anthropic-ceos-are-the-new-tech-rockstars-in-ai-boom.html</link>
       <description><![CDATA[Mistral AI 首席执行官 Arthur Mensch 和 Anthropic 首席执行官 Dario Amodei 备受关注，他们都是美国科技巨头支持的领先人工智能公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/mistral-ai-anthropic-ceos-are-the-new-tech-rockstars-in-ai-boom.html</guid>
-      <pubDate>Fri, 24 May 2024 05:01:07 GMT</pubDate>
+      <pubDate>Fri, 24 May 2024 07:20:40 GMT</pubDate>
     </item>
     <item>
-      <title>NCAA 签署了一项将改变大学体育格局的协议——向学生运动员付费</title>
-      <link>https://www.cnbc.com/2024/05/24/ncaa-signs-off-on-deal-that-could-pay-college-student-athletes-.html</link>
-      <description><![CDATA[NCAA 及其五个最大的会议宣布的一项暂定协议可能最早在 2025 年秋季直接向运动员提供数百万美元。]]></description>
-      <guid>https://www.cnbc.com/2024/05/24/ncaa-signs-off-on-deal-that-could-pay-college-student-athletes-.html</guid>
-      <pubDate>Fri, 24 May 2024 04:03:13 GMT</pubDate>
+      <title>F1 与 Andretti Global 的纠纷吸引了美国立法者</title>
+      <link>https://www.cnbc.com/2024/05/24/f1-dispute-with-andretti-global-draws-in-us-lawmakers.html</link>
+      <description><![CDATA[关于是否接受美国赛车运动巨头 Andretti Global 作为一级方程式第 11 支车队的争论已经达到沸点。]]></description>
+      <guid>https://www.cnbc.com/2024/05/24/f1-dispute-with-andretti-global-draws-in-us-lawmakers.html</guid>
+      <pubDate>Fri, 24 May 2024 07:16:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于利率前景打压市场情绪，欧洲股市跟随全球市场走低</title>
+      <link>https://www.cnbc.com/2024/05/24/european-markets-open-to-close-ftse-100-dax-cac-40.html</link>
+      <description><![CDATA[欧洲市场周五开盘走低，反映了美国利率前景打压市场情绪的全球趋势。]]></description>
+      <guid>https://www.cnbc.com/2024/05/24/european-markets-open-to-close-ftse-100-dax-cac-40.html</guid>
+      <pubDate>Fri, 24 May 2024 07:14:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>道琼斯指数创下 2023 年 3 月以来最差交易日后，股指期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
+      <description><![CDATA[尽管英伟达股价飙升，但周四所有三大股指均收低。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 24 May 2024 06:04:38 GMT</pubDate>
     </item>
     <item>
       <title>摩根大通表示，印度和日本是亚洲“极其有趣”的股权和并购市场的亮点</title>
@@ -36,7 +43,7 @@
     <item>
       <title>OpenAI 发送内部备忘录，解除前员工有争议的退出协议</title>
       <link>https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html</link>
-      <description><![CDATA[OpenAI 周四发布了一份内部备忘录，解除了前员工未到期的非贬低协议，该协议引发了争议。]]></description>
+      <description><![CDATA[OpenAI 周四发布了一份内部备忘录，解除了与前雇员之间尚未到期的互不贬损协议，该协议曾引发争议。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html</guid>
       <pubDate>Fri, 24 May 2024 03:05:26 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 23 May 2024 23:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>SEC 批准规则变更以允许创建以太坊 ETF</title>
+      <title>SEC 批准规则变更，允许创建以太币 ETF</title>
       <link>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</link>
       <description><![CDATA[监管机构表示，继 1 月份对比特币基金采取类似举措后，将允许交易所列出购买和持有以太加密货币的基金。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</guid>
@@ -95,13 +102,6 @@
       <description><![CDATA[摩根士丹利表示，如果出现系统性交易员蜂拥而至的情况，持有对冲基金最拥挤的交易可能会存在风险。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/morgan-stanley-tells-investors-to-avoid-hedge-funds-overcrowded-trades-.html</guid>
       <pubDate>Thu, 23 May 2024 19:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>CNBC 的印度内部时事通讯：股市上涨的秘密</title>
-      <link>https://www.cnbc.com/2024/05/23/cnbcs-inside-india-newsletter-the-secret-of-the-stock-market-rally.html</link>
-      <description><![CDATA[将一部分收入存起来以备不时之需通常被认为是谨慎的行为。然而，在印度，它却导致股票被高估。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/cnbcs-inside-india-newsletter-the-secret-of-the-stock-market-rally.html</guid>
-      <pubDate>Thu, 23 May 2024 16:02:12 GMT</pubDate>
     </item>
     <item>
       <title>心理学专家表示，如何利用对死亡的恐惧来过上最好的生活</title>
