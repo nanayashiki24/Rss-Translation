@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 24 May 2024 07:19:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 07:36:00 GMT</lastBuildDate>
+    <item>
+      <title>随着北京方面提振市场，摩根大通对中国股市持“积极态度”，对房地产持“建设性态度”</title>
+      <link>https://www.cnbc.com/2024/05/24/jpmorgan-is-positive-on-china-stocks-and-constructive-on-its-property-sector-.html</link>
+      <description><![CDATA[随着世界第二大经济体努力支撑其股票和房地产市场，摩根大通对中国股市持“乐观”态度，对其房地产行业持“建设性”态度。]]></description>
+      <guid>https://www.cnbc.com/2024/05/24/jpmorgan-is-positive-on-china-stocks-and-constructive-on-its-property-sector-.html</guid>
+      <pubDate>Fri, 24 May 2024 07:33:24 GMT</pubDate>
+    </item>
     <item>
       <title>微软和亚马逊支持的人工智能初创公司的首席执行官是新的科技摇滚明星</title>
       <link>https://www.cnbc.com/2024/05/24/mistral-ai-anthropic-ceos-are-the-new-tech-rockstars-in-ai-boom.html</link>
@@ -29,7 +36,7 @@
     <item>
       <title>道琼斯指数创下 2023 年 3 月以来最差交易日后，股指期货几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
-      <description><![CDATA[尽管英伟达股价飙升，但周四所有三大股指均收低。]]></description>
+      <description><![CDATA[尽管英伟达股价飙升，但三大指数周四收盘均下跌。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
       <pubDate>Fri, 24 May 2024 06:04:38 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>OpenAI 发送内部备忘录，解除前员工有争议的退出协议</title>
       <link>https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html</link>
-      <description><![CDATA[OpenAI 周四发布了一份内部备忘录，解除了与前雇员之间尚未到期的互不贬损协议，该协议曾引发争议。]]></description>
+      <description><![CDATA[OpenAI 周四发布了一份内部备忘录，解除了前员工未到期的非贬低协议，该协议引发了争议。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html</guid>
       <pubDate>Fri, 24 May 2024 03:05:26 GMT</pubDate>
     </item>
@@ -69,18 +76,11 @@
       <pubDate>Thu, 23 May 2024 23:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>SEC 批准规则变更，允许创建以太币 ETF</title>
+      <title>SEC 批准规则变更以允许创建以太坊 ETF</title>
       <link>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</link>
       <description><![CDATA[监管机构表示，继 1 月份对比特币基金采取类似举措后，将允许交易所列出购买和持有以太加密货币的基金。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</guid>
       <pubDate>Thu, 23 May 2024 21:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊云业务主管马特·加曼（Matt Garman）在跟上人工智能步伐的压力下继承了业务</title>
-      <link>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</link>
-      <description><![CDATA[Adam Selipsky 掌管亚马逊网络服务的三年任期恰逢人工智能领域增长放缓和竞争日益激烈。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</guid>
-      <pubDate>Thu, 23 May 2024 21:39:38 GMT</pubDate>
     </item>
     <item>
       <title>CHIPS 法案半导体奖金最后 60 亿美元的去向</title>
