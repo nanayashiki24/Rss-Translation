@@ -3,42 +3,42 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 24 May 2024 10:11:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 24 May 2024 10:36:00 GMT</lastBuildDate>
     <item>
-      <title>英伟达的股票拆分使其成为道指成分股的有力竞争者，但并非十拿九稳</title>
+      <title>道指有望从 2023 年 3 月以来最糟糕的交易日中恢复过来，股票期货上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数经历一年多以来最糟糕的交易日后，周五股指期货小幅走高。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 24 May 2024 10:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达的股票分割使其成为道琼斯指数的有力竞争者，但并非稳操胜券</title>
       <link>https://www.cnbc.com/2024/05/24/nvidias-stock-split-makes-it-a-dow-contender-but-not-a-shoo-in.html</link>
-      <description><![CDATA[指数委员会寻找一只“声誉良好”且持续增长、“能引起大量投资者兴趣”的股票。]]></description>
+      <description><![CDATA[指数委员会寻找具有“良好声誉”和持续增长且“大量投资者感兴趣”的股票。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/nvidias-stock-split-makes-it-a-dow-contender-but-not-a-shoo-in.html</guid>
       <pubDate>Fri, 24 May 2024 10:01:28 GMT</pubDate>
     </item>
     <item>
-      <title>富国银行继续悄然进行招聘，以扩大贷款业务。这对股票意味着什么</title>
+      <title>富国银行继续悄然进行招聘，以扩大贷款规模。这对股票意味着什么</title>
       <link>https://www.cnbc.com/2024/05/24/wells-fargo-hiring-spree-to-boost-investment-banking-improves-our-stock-outlook.html</link>
       <description><![CDATA[富国银行正在从根源上拓展业务。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/wells-fargo-hiring-spree-to-boost-investment-banking-improves-our-stock-outlook.html</guid>
       <pubDate>Fri, 24 May 2024 10:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>道指创下 2023 年 3 月以来最差交易日后，股指期货小幅走高：实时更新</title>
-      <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
-      <description><![CDATA[尽管英伟达股价飙升，但周四所有三大股指均收低。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 24 May 2024 08:27:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>F1 与 Andretti Global 的纠纷吸引了美国立法者</title>
-      <link>https://www.cnbc.com/2024/05/24/f1-dispute-with-andretti-global-draws-in-us-lawmakers.html</link>
-      <description><![CDATA[关于是否接受美国赛车运动巨头 Andretti Global 作为一级方程式第 11 支车队的争论已经达到沸点。]]></description>
-      <guid>https://www.cnbc.com/2024/05/24/f1-dispute-with-andretti-global-draws-in-us-lawmakers.html</guid>
-      <pubDate>Fri, 24 May 2024 07:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>NCAA 签署协议，将改变大学体育格局——向学生运动员支付报酬</title>
+      <title>NCAA 签署了一项将改变大学体育格局的协议——向学生运动员付费</title>
       <link>https://www.cnbc.com/2024/05/24/ncaa-signs-off-on-deal-that-could-pay-college-student-athletes-.html</link>
       <description><![CDATA[NCAA 及其五个最大的会议宣布的一项暂定协议可能最早在 2025 年秋季直接向运动员提供数百万美元。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/ncaa-signs-off-on-deal-that-could-pay-college-student-athletes-.html</guid>
       <pubDate>Fri, 24 May 2024 04:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 发送内部备忘录，解除前员工有争议的退出协议</title>
+      <link>https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html</link>
+      <description><![CDATA[OpenAI 周四发布了一份内部备忘录，解除了前员工未到期的非贬低协议，该协议引发了争议。]]></description>
+      <guid>https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html</guid>
+      <pubDate>Fri, 24 May 2024 03:05:26 GMT</pubDate>
     </item>
     <item>
       <title>嘉信理财首席执行官表示通胀是投资者的“头号担忧”</title>
@@ -50,7 +50,7 @@
     <item>
       <title>吉尔丹董事会在年会前突然辞职，将控制权交给激进分子</title>
       <link>https://www.cnbc.com/2024/05/23/gildan-browning-west-chamandy-resigns.html</link>
-      <description><![CDATA[格伦·查曼迪（Glenn Chamandy）在董事会大规模辞职为激进分子布朗宁·韦斯特（Browning West）接管公司扫清道路后，将重返他创立的这家服装供应商。]]></description>
+      <description><![CDATA[格伦·查曼迪（Glenn Chamandy）在董事会大规模辞职为激进分子布朗宁·韦斯特（Browning West）夺取控制权扫清道路后，将重返他创立的这家服装供应商。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/gildan-browning-west-chamandy-resigns.html</guid>
       <pubDate>Thu, 23 May 2024 23:39:09 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 23 May 2024 23:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>SEC 批准规则变更，允许创建以太币 ETF</title>
+      <title>SEC 批准规则变更以允许创建以太坊 ETF</title>
       <link>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</link>
       <description><![CDATA[监管机构表示，继 1 月份对比特币基金采取类似举措后，将允许交易所列出购买和持有以太加密货币的基金。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/sec-approves-rule-change-to-allow-creation-of-ether-etfs.html</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>CHIPS 法案半导体奖金最后 60 亿美元的去向</title>
       <link>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</link>
-      <description><![CDATA[美国商务部正在考虑如何分配《芯片法案》奖金的最后 60 亿美元，以资助半导体供应商、传统芯片制造商和其他公司。]]></description>
+      <description><![CDATA[美国商务部正在权衡如何分配 CHIPS 法案奖金的最后 60 亿美元来资助半导体供应商、传统芯片制造商和其他公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</guid>
       <pubDate>Thu, 23 May 2024 20:08:21 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 23 May 2024 18:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>突如其来的集装箱紧缩导致海运费飙升，敲响了全球贸易警钟</title>
+      <title>突发集装箱短缺导致海运费飙升，拉响全球贸易警钟</title>
       <link>https://www.cnbc.com/2024/05/23/a-sudden-container-crunch-is-sending-ocean-freight-rates-soaring.html</link>
       <description><![CDATA[由于航运旺季的集装箱紧缩扰乱了全球贸易，并可能对消费者造成打击，海运即期运费正在经历突然的、意外的飙升。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/a-sudden-container-crunch-is-sending-ocean-freight-rates-soaring.html</guid>
