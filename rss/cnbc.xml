@@ -3,8 +3,8 @@
   <channel>
     <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Fri, 24 May 2024 09:15:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Fri, 24 May 2024 09:26:00 GMT</lastBuildDate>
     <item>
       <title>道指创下 2023 年 3 月以来最差交易日后，股指期货小幅走高：实时更新</title>
       <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 24 May 2024 00:11:41 GMT</pubDate>
     </item>
     <item>
-      <title>嘉信理财首席执行官称通胀是投资者“首要关注的问题”</title>
+      <title>嘉信理财首席执行官表示通胀是投资者的“头号担忧”</title>
       <link>https://www.cnbc.com/2024/05/23/charles-schwab-ceo-says-inflation-is-number-one-concern-for-investors.html</link>
       <description><![CDATA[嘉信理财首席执行官沃尔特·贝廷格 (Walt Bettinger) 周四在接受 CNBC 的吉姆·克莱默 (Jim Cramer) 采访时表示，通胀是客户最紧迫的担忧。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/charles-schwab-ceo-says-inflation-is-number-one-concern-for-investors.html</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>吉尔丹董事会在年会前突然辞职，将控制权交给激进分子</title>
       <link>https://www.cnbc.com/2024/05/23/gildan-browning-west-chamandy-resigns.html</link>
-      <description><![CDATA[董事会集体辞职为激进主义者布朗宁·韦斯特 (Browning West) 掌权扫清了道路后，格伦·查曼迪 (Glenn Chamandy) 将重返他创立的服装供应商。]]></description>
+      <description><![CDATA[格伦·查曼迪（Glenn Chamandy）在董事会大规模辞职为激进分子布朗宁·韦斯特（Browning West）接管公司扫清道路后，将重返他创立的这家服装供应商。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/gildan-browning-west-chamandy-resigns.html</guid>
       <pubDate>Thu, 23 May 2024 23:39:09 GMT</pubDate>
     </item>
@@ -62,25 +62,18 @@
       <pubDate>Thu, 23 May 2024 21:57:48 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊云业务主管马特·加曼（Matt Garman）在跟上人工智能步伐的压力下继承了业务</title>
-      <link>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</link>
-      <description><![CDATA[Adam Selipsky 掌管亚马逊网络服务的三年任期恰逢人工智能领域增长放缓和竞争日益激烈。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/amazons-new-cloud-boss-inherits-a-business-at-crossroads-over-ai.html</guid>
-      <pubDate>Thu, 23 May 2024 21:39:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>司法部起诉要求解散 Ticketmaster 母公司 Live Nation</title>
-      <link>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</link>
-      <description><![CDATA[泰勒·斯威夫特 (Taylor Swift) Eras 巡回演唱会门票发售失败后，粉丝投诉引发了司法部的调查，引发了这起诉讼。]]></description>
-      <guid>https://www.cnbc.com/2024/05/23/justice-department-sues-live-nation-ticketmaster.html</guid>
-      <pubDate>Thu, 23 May 2024 21:27:05 GMT</pubDate>
-    </item>
-    <item>
       <title>CHIPS 法案半导体奖金最后 60 亿美元的去向</title>
       <link>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</link>
       <description><![CDATA[美国商务部正在考虑如何分配《芯片法案》奖金的最后 60 亿美元，以资助半导体供应商、传统芯片制造商和其他公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/chips-act-last-6-billion-in-semiconductor-award-money.html</guid>
       <pubDate>Thu, 23 May 2024 20:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>新研究发现，每日大麻的使用量超过了饮酒量。这对酒业意味着什么</title>
+      <link>https://www.cnbc.com/2024/05/23/daily-marijuana-use-surpasses-alcohol-consumption-new-study-finds.html</link>
+      <description><![CDATA[华尔街的一些分析师认为，大麻采用的增加将对酒精行业产生影响，可能会出现合并和啤酒销量减少的情况。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/daily-marijuana-use-surpasses-alcohol-consumption-new-study-finds.html</guid>
+      <pubDate>Thu, 23 May 2024 19:15:16 GMT</pubDate>
     </item>
     <item>
       <title>高尔夫冠军斯科蒂·谢夫勒逮捕视频发布，警官违反了随身摄像头规则</title>
@@ -92,12 +85,19 @@
     <item>
       <title>特斯拉首席执行官埃隆·马斯克表示，他赞成对中国电动汽车“不征收关税”</title>
       <link>https://www.cnbc.com/2024/05/23/tesla-ceo-elon-musk-says-he-favors-no-tariffs-on-chinese-evs.html</link>
-      <description><![CDATA[埃隆·马斯克周四在巴黎举行的一次会议上表示，他不同意拜登总统对中国制造的电动汽车进口征收关税。]]></description>
+      <description><![CDATA[埃隆·马斯克周四在巴黎的一次会议上表示，他不同意拜登总统对中国产电动汽车进口征收关税。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/tesla-ceo-elon-musk-says-he-favors-no-tariffs-on-chinese-evs.html</guid>
       <pubDate>Thu, 23 May 2024 18:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>突发集装箱短缺导致海运费飙升，拉响全球贸易警钟</title>
+      <title>华纳兄弟探索频道提供的 NBA 转播权可能会使其与亚马逊竞争，而不是与 NBC 竞争</title>
+      <link>https://www.cnbc.com/2024/05/23/warner-bros-discovery-considers-matching-nba-package-slated-for-amazon.html</link>
+      <description><![CDATA[消息人士称，华纳兄弟探索频道可能更感兴趣的是为亚马逊指定的 NBA 套餐，而不是为 NBCUniversal 指定的游戏。]]></description>
+      <guid>https://www.cnbc.com/2024/05/23/warner-bros-discovery-considers-matching-nba-package-slated-for-amazon.html</guid>
+      <pubDate>Thu, 23 May 2024 17:52:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>突如其来的集装箱紧缩导致海运费飙升，敲响了全球贸易警钟</title>
       <link>https://www.cnbc.com/2024/05/23/a-sudden-container-crunch-is-sending-ocean-freight-rates-soaring.html</link>
       <description><![CDATA[由于航运旺季的集装箱紧缩扰乱了全球贸易，并可能对消费者造成打击，海运即期运费正在经历突然的、意外的飙升。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/a-sudden-container-crunch-is-sending-ocean-freight-rates-soaring.html</guid>
