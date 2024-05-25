@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Sat, 25 May 2024 12:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 13:10:00 GMT</lastBuildDate>
+    <item>
+      <title>数字健康公司如何利用 GLP-1 热潮</title>
+      <link>https://www.cnbc.com/2024/05/25/digital-health-companies-are-launching-programs-around-glp-1s-.html</link>
+      <description><![CDATA[加入 GLP-1 市场是一个巨大的机遇，从 Ro 到慧俪轻体 (WeightWatchers) 等数字健康公司都在争夺市场份额。]]></description>
+      <guid>https://www.cnbc.com/2024/05/25/digital-health-companies-are-launching-programs-around-glp-1s-.html</guid>
+      <pubDate>Sat, 25 May 2024 13:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>GameStop 股票发售筹集 9.33 亿美元后股价飙升</title>
       <link>https://www.cnbc.com/2024/05/25/gamestop-surges-after-fetching-933-million-from-stock-sale.html</link>
@@ -22,7 +29,7 @@
     <item>
       <title>这支电源管理股票在过去一年中翻了一番，可能会从人工智能推动的能源需求中获得巨大收益</title>
       <link>https://www.cnbc.com/2024/05/25/this-power-management-stock-could-win-big-from-ai-fueled-energy-demands.html</link>
-      <description><![CDATA[华尔街认为，对耗电的人工智能模型的日益增长的需求可能会使这种不为人知的电源管理股票受益。]]></description>
+      <description><![CDATA[华尔街认为，对耗电的人工智能模型的需求不断增长，可能会使这种不为人知的电源管理股票受益。]]></description>
       <guid>https://www.cnbc.com/2024/05/25/this-power-management-stock-could-win-big-from-ai-fueled-energy-demands.html</guid>
       <pubDate>Sat, 25 May 2024 11:52:37 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>耶伦认为俄罗斯资产收益支持的七国集团乌克兰贷款不会出现“阻碍”</title>
       <link>https://www.cnbc.com/2024/05/25/yellen-sees-no-showstoppers-on-g7-ukraine-loan-backed-by-russian-asset-earnings.html</link>
-      <description><![CDATA[美国财政部长珍妮特·耶伦表示，她认为与七国集团财长就向乌克兰提供更多贷款的谈判没有“任何阻碍”。]]></description>
+      <description><![CDATA[美国财政部长珍妮特耶伦称，她没有看到与七国集团财长就向乌克兰提供更大额度贷款的谈判“出现任何阻碍”。]]></description>
       <guid>https://www.cnbc.com/2024/05/25/yellen-sees-no-showstoppers-on-g7-ukraine-loan-backed-by-russian-asset-earnings.html</guid>
       <pubDate>Sat, 25 May 2024 07:19:12 GMT</pubDate>
     </item>
@@ -46,13 +53,6 @@
       <description><![CDATA[在纳斯达克上市的 DJT 旗下的 Trump Media 依赖广告销售，并承认用户参与度的下降可能会损害其业务。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/truth-social-traffic-trump-media-djt-data.html</guid>
       <pubDate>Fri, 24 May 2024 22:36:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>尤瓦尔迪校园枪击案受害者家属起诉 Meta、微软和枪支制造商</title>
-      <link>https://www.cnbc.com/2024/05/24/uvalde-school-shooting-call-of-duty-instagram-daniel-defense.html</link>
-      <description><![CDATA[Uvalde 诉讼称，Daniel Defense 使用 Instagram 和动视暴雪的《使命召唤》向十几岁的男孩进行营销，而 Meta 和微软允许这样做。]]></description>
-      <guid>https://www.cnbc.com/2024/05/24/uvalde-school-shooting-call-of-duty-instagram-daniel-defense.html</guid>
-      <pubDate>Fri, 24 May 2024 22:19:41 GMT</pubDate>
     </item>
     <item>
       <title>为什么杂货如此昂贵——以及消费者如何开始看到缓解</title>
@@ -71,12 +71,12 @@
     <item>
       <title>UAW 挑战梅赛德斯-奔驰工会投票，要求 NLRB 重新选举</title>
       <link>https://www.cnbc.com/2024/05/24/uaw-mercedes-benz-challenge.html</link>
-      <description><![CDATA[UAW 指控梅赛德斯-奔驰解雇了支持工会的工人，强迫工人参加反工会会议，并干扰了工人的维权能力。]]></description>
+      <description><![CDATA[全美汽车工人联合会指控梅赛德斯-奔驰解雇了支持工会的工人，强迫工人参加反工会会议，并干扰了工人的维权能力。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/uaw-mercedes-benz-challenge.html</guid>
       <pubDate>Fri, 24 May 2024 20:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>随着英伟达和人工智能交易的上涨，纳斯达克周五收于历史新高</title>
+      <title>随着英伟达和人工智能交易的上涨，纳斯达克周五收盘创下历史新高</title>
       <link>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</link>
       <description><![CDATA[道琼斯工业平均指数经历了一年多来最糟糕的交易日后，周五股市收高。]]></description>
       <guid>https://www.cnbc.com/2024/05/23/stock-market-today-live-updates.html</guid>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 24 May 2024 16:10:13 GMT</pubDate>
     </item>
     <item>
-      <title>微软和亚马逊支持的人工智能初创公司的首席执行官是新的科技明星</title>
+      <title>微软和亚马逊支持的人工智能初创公司的首席执行官是新的科技摇滚明星</title>
       <link>https://www.cnbc.com/2024/05/24/mistral-ai-anthropic-ceos-are-the-new-tech-rockstars-in-ai-boom.html</link>
       <description><![CDATA[Mistral AI 首席执行官 Arthur Mensch 和 Anthropic 首席执行官 Dario Amodei 备受关注，他们都是美国科技巨头支持的领先人工智能公司。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/mistral-ai-anthropic-ceos-are-the-new-tech-rockstars-in-ai-boom.html</guid>
