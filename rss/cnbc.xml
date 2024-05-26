@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Sun, 26 May 2024 21:18:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Sun, 26 May 2024 23:37:00 GMT</lastBuildDate>
+    <item>
+      <title>白银与黄金：美国银行指定 4 只“有吸引力”的 ETF 以获得贵金属敞口</title>
+      <link>https://www.cnbc.com/2024/05/27/silver-vs-gold-bank-of-america-names-4-attractive-etfs.html</link>
+      <description><![CDATA[该银行的研究还表明，自 1945 年以来，包含 40% 商品敞口的投资组合的表现将比包含 40% 债券的投资组合每年高出 0.8%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/27/silver-vs-gold-bank-of-america-names-4-attractive-etfs.html</guid>
+      <pubDate>Sun, 26 May 2024 23:15:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>对英伟达投资过度？以下是一些另类成长股</title>
+      <link>https://www.cnbc.com/2024/05/27/overinvested-in-nvidia-here-are-some-alternative-growth-stocks.html</link>
+      <description><![CDATA[Nvidia 最近的财报使其股价首次突破 1,000 美元。 “剩下的最大问题是这条跑道有多长，”一位分析师表示。]]></description>
+      <guid>https://www.cnbc.com/2024/05/27/overinvested-in-nvidia-here-are-some-alternative-growth-stocks.html</guid>
+      <pubDate>Sun, 26 May 2024 23:14:16 GMT</pubDate>
+    </item>
     <item>
       <title>纳斯卡 (NASCAR) 球星凯尔·拉尔森 (Kyle Larson) 在大雨冲刷了“双打”后，为印地 500 赛首次亮相赢得了绿旗</title>
       <link>https://www.cnbc.com/2024/05/26/nascar-star-kyle-larson-takes-green-flag-for-indy-500-debut.html</link>
@@ -13,7 +27,7 @@
       <pubDate>Sun, 26 May 2024 21:15:35 GMT</pubDate>
     </item>
     <item>
-      <title>美国交通部长皮特·布蒂吉格表示，气候变化是航班乱流增多的原因</title>
+      <title>交通部长皮特·布蒂吉格表示，气候变化是航班颠簸加剧的原因</title>
       <link>https://www.cnbc.com/2024/05/26/climate-change-behind-rising-flight-turbulence-transportation-secy-buttigieg-says.html</link>
       <description><![CDATA[交通部长皮特·布蒂吉格表示，飞行湍流的增加是气候变化的影响。]]></description>
       <guid>https://www.cnbc.com/2024/05/26/climate-change-behind-rising-flight-turbulence-transportation-secy-buttigieg-says.html</guid>
@@ -22,7 +36,7 @@
     <item>
       <title>日本海上保安厅称，朝鲜计划于5月27日至6月4日期间发射卫星火箭</title>
       <link>https://www.cnbc.com/2024/05/26/north-korea-plans-to-launch-satellite-rocket-between-may-27-and-june-4-japan-coast-guard-says.html</link>
-      <description><![CDATA[日本海上保安厅表示，朝鲜已向日本通报其计划在5月27日至6月4日期间发射运载太空卫星的火箭。]]></description>
+      <description><![CDATA[日本海上保安厅称，朝鲜已通知日本，计划于5月27日至6月4日期间发射一枚载有太空卫星的火箭。]]></description>
       <guid>https://www.cnbc.com/2024/05/26/north-korea-plans-to-launch-satellite-rocket-between-may-27-and-june-4-japan-coast-guard-says.html</guid>
       <pubDate>Sun, 26 May 2024 19:37:43 GMT</pubDate>
     </item>
@@ -34,18 +48,11 @@
       <pubDate>Sun, 26 May 2024 18:56:20 GMT</pubDate>
     </item>
     <item>
-      <title>Z 世代可以做三件事来减少焦虑并提高工作效率</title>
+      <title>Z 世代现在可以做的 3 件事来减少焦虑并提高工作效率</title>
       <link>https://www.cnbc.com/2024/05/26/3-things-gen-z-can-do-today-to-decrease-anxiety-and-be-more-productive.html</link>
-      <description><![CDATA[重新思考你与智能手机的关系可以帮助你保持专注并遏制精神疾病。]]></description>
+      <description><![CDATA[重新思考您与智能手机的关系可以帮助您保持专注并抑制精神疾病。]]></description>
       <guid>https://www.cnbc.com/2024/05/26/3-things-gen-z-can-do-today-to-decrease-anxiety-and-be-more-productive.html</guid>
       <pubDate>Sun, 26 May 2024 15:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>明晰？在这样的经济环境下？</title>
-      <link>https://www.cnbc.com/2024/05/26/clarity-in-this-economy.html</link>
-      <description><![CDATA[距离大选还有五个月的时间，情况看起来很稳定，但美国人在充满希望和陷入“仓鼠轮子”之间左右为难。]]></description>
-      <guid>https://www.cnbc.com/2024/05/26/clarity-in-this-economy.html</guid>
-      <pubDate>Sun, 26 May 2024 14:55:09 GMT</pubDate>
     </item>
     <item>
       <title>亚利桑那州国务卿称，威胁美国选举官员是“国内恐怖主义”</title>
@@ -62,13 +69,6 @@
       <pubDate>Sun, 26 May 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的加入对拥有 128 年历史的道琼斯工业平均指数意味着什么</title>
-      <link>https://www.cnbc.com/2024/05/26/heres-what-adding-nvidia-would-mean-for-the-128-year-old-dow-industrials.html</link>
-      <description><![CDATA[道琼斯指数由 30 只股票组成，是一种价格加权平均值，这意味着价格较高的股票比价格较低的股票导致该指数的波动更大。]]></description>
-      <guid>https://www.cnbc.com/2024/05/26/heres-what-adding-nvidia-would-mean-for-the-128-year-old-dow-industrials.html</guid>
-      <pubDate>Sun, 26 May 2024 12:54:16 GMT</pubDate>
-    </item>
-    <item>
       <title>中国企业正在海外寻求增长。摩根士丹利表示这是发挥趋势的股票</title>
       <link>https://www.cnbc.com/2024/05/26/chinese-firms-go-global-morgan-stanleys-stock-to-play-the-trend.html</link>
       <description><![CDATA[根据摩根士丹利最新的预测，一家在美国上市、大部分资金来自海外的中国公司股价可能会飙升 75% 以上。]]></description>
@@ -76,14 +76,14 @@
       <pubDate>Sun, 26 May 2024 12:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>沃伦·巴菲特 (Warren巴菲特) 详解如何重复他的成功并实现每年 50% 的回报</title>
+      <title>沃伦·巴菲特详解如何复制他的成功并获得每年 50% 的回报</title>
       <link>https://www.cnbc.com/2024/05/26/warren-buffett-breaks-down-how-to-repeat-his-success-and-return-50percent-a-year-.html</link>
       <description><![CDATA[这位奥马哈先知曾发誓，如果他只管理 100 万美元，他就能轻松获得 50% 的年回报率。]]></description>
       <guid>https://www.cnbc.com/2024/05/26/warren-buffett-breaks-down-how-to-repeat-his-success-and-return-50percent-a-year-.html</guid>
       <pubDate>Sun, 26 May 2024 12:31:13 GMT</pubDate>
     </item>
     <item>
-      <title>数字健康公司如何利用 GLP-1 热潮</title>
+      <title>数字医疗公司如何利用 GLP-1 热潮</title>
       <link>https://www.cnbc.com/2024/05/25/digital-health-companies-are-launching-programs-around-glp-1s-.html</link>
       <description><![CDATA[加入 GLP-1 市场是一个巨大的机遇，从 Ro 到慧俪轻体 (WeightWatchers) 等数字健康公司都在争夺市场份额。]]></description>
       <guid>https://www.cnbc.com/2024/05/25/digital-health-companies-are-launching-programs-around-glp-1s-.html</guid>
@@ -104,9 +104,9 @@
       <pubDate>Sat, 25 May 2024 11:55:03 GMT</pubDate>
     </item>
     <item>
-      <title>大老板戴上了友谊手镯。泰勒·斯威夫特和碧昂丝的“通用语言”如何帮助职场生活</title>
+      <title>大老板戴着友谊手链。泰勒·斯威夫特和碧昂斯的“通用语言”如何帮助工作生活</title>
       <link>https://www.cnbc.com/2024/05/24/taylor-swift-and-beyonces-universal-language-is-improving-life-at-work.html</link>
-      <description><![CDATA[在工人不满和代际冲突的时代，泰勒·斯威夫特和碧昂丝迎来了社会和谐。]]></description>
+      <description><![CDATA[在工人不满和代际冲突的时代，泰勒·斯威夫特和碧昂斯迎来了社会和谐。]]></description>
       <guid>https://www.cnbc.com/2024/05/24/taylor-swift-and-beyonces-universal-language-is-improving-life-at-work.html</guid>
       <pubDate>Fri, 24 May 2024 19:41:05 GMT</pubDate>
     </item>
