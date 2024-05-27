@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国头条新闻和分析</title>
+    <title>美国热门新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 27 May 2024 18:07:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 27 May 2024 19:04:00 GMT</lastBuildDate>
     <item>
       <title>两届 NBA 总冠军比尔·沃顿去世，享年 71 岁</title>
       <link>https://www.cnbc.com/2024/05/27/two-time-nba-champion-bill-walton-dead-at-71-.html</link>
@@ -13,9 +13,16 @@
       <pubDate>Mon, 27 May 2024 18:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>与家庭画廊的艺术收藏家会面：“股市没有给我任何满足感”</title>
+      <title>哈佛职业顾问表示，社交活动中饮酒的两条规则：这不是鸡尾酒时间，而是“建立关系的时间”</title>
+      <link>https://www.cnbc.com/2024/05/27/whats-the-best-cocktail-to-have-at-a-networking-event.html</link>
+      <description><![CDATA[喝酒并不完全是坏事，但是，任何喝过酒的人都知道，在某些情况下，酒精可能会妨碍你的社交能力。]]></description>
+      <guid>https://www.cnbc.com/2024/05/27/whats-the-best-cocktail-to-have-at-a-networking-event.html</guid>
+      <pubDate>Mon, 27 May 2024 18:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>认识拥有家庭画廊的艺术收藏家：“股市没有给我带来任何满足感”</title>
       <link>https://www.cnbc.com/2024/05/27/meet-the-wealthy-art-collectors-with-galleries-in-their-homes.html</link>
-      <description><![CDATA[克里斯蒂安·莱维特 (Christian Levett) 开放自己的家供人参观他的收藏品，而格兰特·卡多内 (Grant Cardone) 则更喜欢艺术而不是股票市场。博罗斯 (Boros) 一家住在艺术博物馆楼上。]]></description>
+      <description><![CDATA[克里斯蒂安·莱维特 (Christian Levett) 为参观他的收藏而开放了自己的家，而格兰特·卡登 (Grant Cardone) 则更喜欢艺术而不是股票市场。波罗斯一家住在他们的艺术博物馆楼上。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/meet-the-wealthy-art-collectors-with-galleries-in-their-homes.html</guid>
       <pubDate>Mon, 27 May 2024 17:06:13 GMT</pubDate>
     </item>
@@ -36,21 +43,21 @@
     <item>
       <title>埃隆·马斯克 (Elon Musk) 的 xAI 在新融资后估值达 240 亿美元</title>
       <link>https://www.cnbc.com/2024/05/27/elon-musks-xai-valued-at-24-billion-after-fresh-funding.html</link>
-      <description><![CDATA[这家人工智能初创公司的这一轮融资得到了安德森霍洛维茨和红杉资本等投资者的支持。]]></description>
+      <description><![CDATA[这家人工智能初创公司的融资得到了 Andreessen Horowitz 和红杉资本等投资者的支持。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/elon-musks-xai-valued-at-24-billion-after-fresh-funding.html</guid>
       <pubDate>Mon, 27 May 2024 16:20:01 GMT</pubDate>
     </item>
     <item>
       <title>这只新的减肥药 ETF 对业内两家领先企业下了重注</title>
       <link>https://www.cnbc.com/2024/05/27/weight-loss-drug-etf-bets-big-on-eli-lilly-novo-nordisk.html</link>
-      <description><![CDATA[尽管诺和诺德 (Novo Nordisk) 和礼来 (Eli Lilly) 的股价在过去一年中飙升，但 Roundhill Investments 认为 GLP-1 制药商未来将获得更大的收益。]]></description>
+      <description><![CDATA[虽然诺和诺德 (Novo Nordisk) 和礼来 (Eli Lilly) 的股价在过去一年中飙升，但 Roundhill Investments 认为 GLP-1 制药商未来将获得更大的收益。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/weight-loss-drug-etf-bets-big-on-eli-lilly-novo-nordisk.html</guid>
       <pubDate>Mon, 27 May 2024 16:01:01 GMT</pubDate>
     </item>
     <item>
       <title>朝鲜称其最新卫星发射在飞行中爆炸</title>
       <link>https://www.cnbc.com/2024/05/27/north-korea-fires-suspected-rocket-after-warning-of-satellite-launch.html</link>
-      <description><![CDATA[朝鲜称其周一发射新型军事侦察卫星的尝试失败。]]></description>
+      <description><![CDATA[朝鲜表示，其发射新军事侦察卫星的尝试周一以失败告终。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/north-korea-fires-suspected-rocket-after-warning-of-satellite-launch.html</guid>
       <pubDate>Mon, 27 May 2024 15:49:44 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>7 家远程和混合公司将支付你的假期费用——他们都在招聘</title>
       <link>https://www.cnbc.com/2024/05/27/remote-and-hybrid-companies-that-will-pay-for-your-vacation.html</link>
-      <description><![CDATA[一些公司为员工提供四位数的预算来见识世界。其他人则提供航班或酒店积分。]]></description>
+      <description><![CDATA[有些公司为员工提供四位数的周游世界的预算。还有一些公司提供机票或酒店积分。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/remote-and-hybrid-companies-that-will-pay-for-your-vacation.html</guid>
       <pubDate>Mon, 27 May 2024 13:30:01 GMT</pubDate>
     </item>
@@ -92,16 +99,9 @@
     <item>
       <title>Ozempic 并不能让每个人变瘦。这为一些股票带来了机会</title>
       <link>https://www.cnbc.com/2024/05/27/ozempic-doesnt-make-everyone-thin-that-opens-up-an-opportunity-for-some-stocks.html</link>
-      <description><![CDATA[对于一些试图大量减肥的患者来说，减肥药物的效果仍然可以改变他们的生活。]]></description>
+      <description><![CDATA[对于一些试图减肥的患者来说，抗肥胖药物的效果仍然可以改变生活。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/ozempic-doesnt-make-everyone-thin-that-opens-up-an-opportunity-for-some-stocks.html</guid>
       <pubDate>Mon, 27 May 2024 12:28:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿里巴巴全球子公司任命大卫·贝克汉姆为国际电子商务品牌大使</title>
-      <link>https://www.cnbc.com/2024/05/27/alibabas-global-arm-signs-david-beckham-as-international-e-commerce-brand-ambassador.html</link>
-      <description><![CDATA[该业务部门周一表示，足球明星大卫·贝克汉姆已与阿里巴巴国际电子商务平台全球速卖通签署了最新的广告协议。]]></description>
-      <guid>https://www.cnbc.com/2024/05/27/alibabas-global-arm-signs-david-beckham-as-international-e-commerce-brand-ambassador.html</guid>
-      <pubDate>Mon, 27 May 2024 07:01:06 GMT</pubDate>
     </item>
     <item>
       <title>美联储今年夏天可能不会降息</title>
