@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>美国热门新闻和分析</title>
+    <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是商业新闻和实时金融市场报道的全球领先者。查找快速、可操作的信息。</description>
-    <lastBuildDate>Mon, 27 May 2024 15:24:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 16:05:00 GMT</lastBuildDate>
+    <item>
+      <title>这只新的减肥药 ETF 对业内两家领先企业下了重注</title>
+      <link>https://www.cnbc.com/2024/05/27/weight-loss-drug-etf-bets-big-on-eli-lilly-novo-nordisk.html</link>
+      <description><![CDATA[尽管诺和诺德 (Novo Nordisk) 和礼来 (Eli Lilly) 的股价在过去一年中飙升，但 Roundhill Investments 认为 GLP-1 制药商未来将获得更大的收益。]]></description>
+      <guid>https://www.cnbc.com/2024/05/27/weight-loss-drug-etf-bets-big-on-eli-lilly-novo-nordisk.html</guid>
+      <pubDate>Mon, 27 May 2024 16:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>你认识的每个人都要去游轮旅行</title>
+      <link>https://www.cnbc.com/2024/05/27/everyone-you-know-is-going-on-a-cruise.html</link>
+      <description><![CDATA[甚至新手也纷纷登上邮轮，数量达到创纪录的水平，年轻乘客数量激增，他们认为为期一周的海上旅行并非“只适合老年人”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/27/everyone-you-know-is-going-on-a-cruise.html</guid>
+      <pubDate>Mon, 27 May 2024 15:51:29 GMT</pubDate>
+    </item>
     <item>
       <title>朝鲜称其最新卫星发射在飞行中爆炸</title>
       <link>https://www.cnbc.com/2024/05/27/north-korea-fires-suspected-rocket-after-warning-of-satellite-launch.html</link>
@@ -34,9 +48,9 @@
       <pubDate>Mon, 27 May 2024 14:59:09 GMT</pubDate>
     </item>
     <item>
-      <title>摇动座椅和管道雾气：4DX 如何开辟利基观影市场</title>
+      <title>摇晃的座椅和浓雾：4DX 如何开拓小众电影市场</title>
       <link>https://www.cnbc.com/2024/05/27/4dx-movie-experience.html</link>
-      <description><![CDATA[4DX 体验票价平均比传统票价高出 8 美元，但这似乎并没有阻止观众。]]></description>
+      <description><![CDATA[4DX体验的费用平均比传统票价高出8美元，但这似乎并没有阻止观众。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/4dx-movie-experience.html</guid>
       <pubDate>Mon, 27 May 2024 14:44:25 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>针对俄罗斯的“无人机墙”：北约六国宣布边境防御计划</title>
       <link>https://www.cnbc.com/2024/05/27/russia-drone-wall-six-nato-countries-announce-border-defense-plan.html</link>
-      <description><![CDATA[立陶宛、拉脱维亚、爱沙尼亚、波兰、芬兰和挪威正在联手建造“无人机墙”，以保护其边境免受俄罗斯的侵害。]]></description>
+      <description><![CDATA[立陶宛、拉脱维亚、爱沙尼亚、波兰、芬兰和挪威正在联手建造“无人机墙”，以保护其边境免受俄罗斯侵害。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/russia-drone-wall-six-nato-countries-announce-border-defense-plan.html</guid>
       <pubDate>Mon, 27 May 2024 13:04:15 GMT</pubDate>
     </item>
@@ -69,16 +83,9 @@
       <pubDate>Mon, 27 May 2024 12:41:47 GMT</pubDate>
     </item>
     <item>
-      <title>SEC 对以太币 ETF 的接受凸显了加密货币政治命运的转变</title>
-      <link>https://www.cnbc.com/2024/05/27/sec-embrace-of-ether-etfs-highlights-cryptocurrencys-shifting-political-fortunes.html</link>
-      <description><![CDATA[该行业的政治潮流似乎正在朝着有利于其的方向转变。]]></description>
-      <guid>https://www.cnbc.com/2024/05/27/sec-embrace-of-ether-etfs-highlights-cryptocurrencys-shifting-political-fortunes.html</guid>
-      <pubDate>Mon, 27 May 2024 12:38:30 GMT</pubDate>
-    </item>
-    <item>
       <title>Ozempic 并不能让每个人变瘦。这为一些股票带来了机会</title>
       <link>https://www.cnbc.com/2024/05/27/ozempic-doesnt-make-everyone-thin-that-opens-up-an-opportunity-for-some-stocks.html</link>
-      <description><![CDATA[对于一些试图减肥的患者来说，抗肥胖药物的效果仍然可以改变生活。]]></description>
+      <description><![CDATA[对于一些试图大量减肥的患者来说，减肥药物的效果仍然可以改变他们的生活。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/ozempic-doesnt-make-everyone-thin-that-opens-up-an-opportunity-for-some-stocks.html</guid>
       <pubDate>Mon, 27 May 2024 12:28:27 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[克里斯蒂安·莱维特 (Christian Levett) 为参观他的收藏而开放了自己的家，而格兰特·卡登 (Grant Cardone) 则更喜欢艺术而不是股票市场。波罗斯一家住在他们的艺术博物馆楼上。]]></description>
       <guid>https://www.cnbc.com/2024/05/27/meet-the-wealthy-art-collectors-with-galleries-in-their-homes.html</guid>
       <pubDate>Mon, 27 May 2024 05:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 位白手起家的百万富翁拒绝花钱买什么：“能够买东西却选择不买，这很有趣”</title>
-      <link>https://www.cnbc.com/2024/05/26/what-self-made-millionaires-refuse-to-spend-money-on.html</link>
-      <description><![CDATA[不加选择地花钱是不会成为百万富翁的，或者长期保持百万富翁的状态。五位百万富翁就可以在哪里省钱提供了一些建议。]]></description>
-      <guid>https://www.cnbc.com/2024/05/26/what-self-made-millionaires-refuse-to-spend-money-on.html</guid>
-      <pubDate>Sun, 26 May 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
       <title>美联储今年夏天可能不会降息</title>
