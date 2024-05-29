@@ -3,28 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 29 May 2024 15:06:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 29 May 2024 15:38:00 GMT</lastBuildDate>
     <item>
-      <title>Abercrombie & Fitch 股价上涨逾 15%，因该公司持续强劲增长</title>
-      <link>https://www.cnbc.com/2024/05/29/abercrombie-fitch-anf-earnings-q1-2024.html</link>
-      <description><![CDATA[Abercrombie &amp; Fitch 正在以其轰动一时的《2023》为基础，扩大 Hollister 的业务，并在其同名品牌中增加新的类别，例如 A&amp;F 婚礼商店。]]></description>
-      <guid>https://www.cnbc.com/2024/05/29/abercrombie-fitch-anf-earnings-q1-2024.html</guid>
-      <pubDate>Wed, 29 May 2024 15:16:55 GMT</pubDate>
+      <title>销售策略失败后美国航空股价暴跌 15%；航空公司削减增长</title>
+      <link>https://www.cnbc.com/2024/05/29/american-airlines-growth-sales-strategy.html</link>
+      <description><![CDATA[美国航空下调了第二季度利润和单位收入预测，该季度正值一年中最繁忙的旅行时段。]]></description>
+      <guid>https://www.cnbc.com/2024/05/29/american-airlines-growth-sales-strategy.html</guid>
+      <pubDate>Wed, 29 May 2024 15:35:12 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普审判陪审团即将开始审议纽约刑事封口费案</title>
+      <title>特朗普审判陪审团开始审议纽约刑事封口费案</title>
       <link>https://www.cnbc.com/2024/05/29/trump-hush-money-jury-to-start-deliberations-in-new-york-court.html</link>
       <description><![CDATA[共和党总统候选人唐纳德·特朗普 (Donald Trump) 面临与在 2016 年大选前向色情明星斯托米·丹尼尔斯 (Stormy Daniels) 支付贿赂有关的指控。]]></description>
       <guid>https://www.cnbc.com/2024/05/29/trump-hush-money-jury-to-start-deliberations-in-new-york-court.html</guid>
-      <pubDate>Wed, 29 May 2024 15:09:17 GMT</pubDate>
+      <pubDate>Wed, 29 May 2024 15:29:28 GMT</pubDate>
     </item>
     <item>
-      <title>康菲石油公司以 170 亿美元的全股票交易收购马拉松石油公司，以增强页岩资产</title>
+      <title>康菲石油公司以 170 亿美元的全股票交易收购马拉松石油，以增强页岩资产</title>
       <link>https://www.cnbc.com/2024/05/29/conocophillips-to-buy-marathon-oil-in-17point1-billion-all-stock-deal-that-bolsters-shale-assets.html</link>
       <description><![CDATA[此次收购将为康菲石油公司的投资组合增加 20 亿桶资源，扩大其在德克萨斯州、新墨西哥州和北达科他州页岩油田的影响力。]]></description>
       <guid>https://www.cnbc.com/2024/05/29/conocophillips-to-buy-marathon-oil-in-17point1-billion-all-stock-deal-that-bolsters-shale-assets.html</guid>
-      <pubDate>Wed, 29 May 2024 15:08:36 GMT</pubDate>
+      <pubDate>Wed, 29 May 2024 15:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉姆·查诺斯提起诉讼，指控他挪用资金“毫无根据且具有诽谤性”</title>
+      <link>https://www.cnbc.com/2024/05/29/jim-chanos-calls-suit-accusing-him-of-embezzling-funds-baseless-and-defamatory.html</link>
+      <description><![CDATA[吉姆·查诺斯被一位前合伙人起诉，指控他将公司当作“存钱罐”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/29/jim-chanos-calls-suit-accusing-him-of-embezzling-funds-baseless-and-defamatory.html</guid>
+      <pubDate>Wed, 29 May 2024 15:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abercrombie & Fitch 股价上涨逾 15%，因该公司持续强劲增长</title>
+      <link>https://www.cnbc.com/2024/05/29/abercrombie-fitch-anf-earnings-q1-2024.html</link>
+      <description><![CDATA[Abercrombie &amp; Fitch 正在借助《2023》大片，扩大 Hollister 的业务，并在其同名品牌中增加新的类别，例如 A&amp;F 婚礼商店。]]></description>
+      <guid>https://www.cnbc.com/2024/05/29/abercrombie-fitch-anf-earnings-q1-2024.html</guid>
+      <pubDate>Wed, 29 May 2024 15:16:55 GMT</pubDate>
     </item>
     <item>
       <title>伯克希尔哈撒韦公司因估值便宜而获得买入评级</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[据 Argus 称，伯克希尔哈撒韦公司看起来是一项有吸引力的投资。]]></description>
       <guid>https://www.cnbc.com/2024/05/29/berkshire-hathaway-gets-an-upgrade-to-buy-citing-cheap-valuation.html</guid>
       <pubDate>Wed, 29 May 2024 15:05:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>销售策略失败后美国航空股价暴跌 15%；航空公司削减增长</title>
-      <link>https://www.cnbc.com/2024/05/29/american-airlines-growth-sales-strategy.html</link>
-      <description><![CDATA[美国航空下调了第二季度利润和单位收入预测，该季度正值一年中最繁忙的旅行时段。]]></description>
-      <guid>https://www.cnbc.com/2024/05/29/american-airlines-growth-sales-strategy.html</guid>
-      <pubDate>Wed, 29 May 2024 15:04:58 GMT</pubDate>
     </item>
     <item>
       <title>高盛合伙人 Beth Hammack 将接替梅斯特担任克利夫兰联储主席</title>
@@ -53,13 +60,6 @@
       <description><![CDATA[迪克体育用品 (Dick&#39;s Sporting Goods) 的销售额增长远超预期，其他零售商也表示消费者正在花钱购买新衣服和新鞋子。]]></description>
       <guid>https://www.cnbc.com/2024/05/29/dicks-sporting-goods-dks-earnings-q1-2024.html</guid>
       <pubDate>Wed, 29 May 2024 14:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 Verizon 合作为手机提供卫星互联网服务后，AST SpaceMobile 股价飙升 40%</title>
-      <link>https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html</link>
-      <description><![CDATA[AST 首席执行官阿贝尔·阿维兰 (Abel Avellan) 称这些协议“从根本上消除了盲区，并为该国偏远地区提供了空间连通性”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/29/ast-spacemobile-verizon-satellite-internet.html</guid>
-      <pubDate>Wed, 29 May 2024 14:47:39 GMT</pubDate>
     </item>
     <item>
       <title>前 OpenAI 董事会成员解释首席执行官 Sam Altman 被解雇的原因</title>
@@ -85,7 +85,7 @@
     <item>
       <title>加密货币交易所 Gemini 在 18 个月前暂停提现后向用户返还 22 亿美元</title>
       <link>https://www.cnbc.com/2024/05/29/winklevoss-crypto-exchange-gemini-returns-2point2-billion-to-users.html</link>
-      <description><![CDATA[加密货币交易所 Gemini 周三宣布，将向 Earn 计划用户返还 21.8 亿美元，该计划已于 2022 年 11 月暂停提款。]]></description>
+      <description><![CDATA[加密货币交易所 Gemini 周三宣布，将向 Earn 计划用户返还 21.8 亿美元，该计划已于 2022 年 11 月暂停了提款业务。]]></description>
       <guid>https://www.cnbc.com/2024/05/29/winklevoss-crypto-exchange-gemini-returns-2point2-billion-to-users.html</guid>
       <pubDate>Wed, 29 May 2024 14:00:40 GMT</pubDate>
     </item>
