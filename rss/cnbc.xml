@@ -3,21 +3,63 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 31 May 2024 15:32:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 31 May 2024 16:13:00 GMT</lastBuildDate>
+    <item>
+      <title>特朗普已被定罪。接下来会发生什么</title>
+      <link>https://www.cnbc.com/2024/05/30/trump-guilty-crime-felony-what-happens-next.html</link>
+      <description><![CDATA[唐纳德·特朗普是目前美国第一位被判有罪的前总统，也是第一位可能成为主要政党总统候选人的候选人。]]></description>
+      <guid>https://www.cnbc.com/2024/05/30/trump-guilty-crime-felony-what-happens-next.html</guid>
+      <pubDate>Fri, 31 May 2024 16:19:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>顶级代理顾问 ISS 建议不要考虑伊隆·马斯克的 560 亿美元特斯拉薪酬方案</title>
+      <link>https://www.cnbc.com/2024/05/31/elon-musk-tesla-tsla-pay-package-shareholders.html</link>
+      <description><![CDATA[顶级代理顾问机构股东服务公司周五建议特斯拉股东投票反对重新批准首席执行官埃隆马斯克的 560 亿美元薪酬方案]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/elon-musk-tesla-tsla-pay-package-shareholders.html</guid>
+      <pubDate>Fri, 31 May 2024 16:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普抨击封口费判决为政治战争</title>
+      <link>https://www.cnbc.com/2024/05/31/trump-press-conference-guilty-verdict.html</link>
+      <description><![CDATA[唐纳德·特朗普是美国历史上首位被判有罪的前总统。他将在 11 月的选举中对阵总统乔·拜登。]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/trump-press-conference-guilty-verdict.html</guid>
+      <pubDate>Fri, 31 May 2024 16:12:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>标普 500 指数周五下跌，有望成为六年来首周下跌：实时更新</title>
+      <link>https://www.cnbc.com/2024/05/30/stock-market-today-live-updates.html</link>
+      <description><![CDATA[五月有望成为胜利的五月，各主要基准指数都将在七个月内第六个月取得正增长。]]></description>
+      <guid>https://www.cnbc.com/2024/05/30/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 31 May 2024 16:10:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞银认为，今年剩余时间最值得持有的能源和公用事业股票</title>
+      <link>https://www.cnbc.com/2024/05/31/best-energy-and-utility-stocks-to-own-for-rest-of-year-according-to-ubs.html</link>
+      <description><![CDATA[该公司列出的今年剩余时间内最看好的能源股包括新近被热捧的人工智能股和油田服务领军企业。]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/best-energy-and-utility-stocks-to-own-for-rest-of-year-according-to-ubs.html</guid>
+      <pubDate>Fri, 31 May 2024 15:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA 批准 Moderna 的 RSV 老年人疫苗，这是该公司的第二款产品</title>
+      <link>https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html</link>
+      <description><![CDATA[这一决定对于 Moderna 来说是一个胜利，因为在其唯一可商业化销售的产品 Covid 疫苗需求暴跌的背景下，该公司需要另一个收入来源。]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html</guid>
+      <pubDate>Fri, 31 May 2024 15:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普竞选团队在有罪判决后筹集创纪录的 3480 万美元捐款</title>
+      <link>https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html</link>
+      <description><![CDATA[共和党竞选团队表示，在周四下午历史性判决公布后的不到七个小时内，他们就从小额捐助者那里筹集了 3480 万美元。]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html</guid>
+      <pubDate>Fri, 31 May 2024 15:42:32 GMT</pubDate>
+    </item>
     <item>
       <title>如果英伟达的部分获利回吐持续，则需要对芯片股进行对冲</title>
       <link>https://www.cnbc.com/2024/05/31/a-hedge-on-chip-stocks-if-some-of-the-profit-taking-in-nvidia-continues.html</link>
       <description><![CDATA[Jeff Kilburg 使用流行的半导体 ETF 构建了对冲。]]></description>
       <guid>https://www.cnbc.com/2024/05/31/a-hedge-on-chip-stocks-if-some-of-the-profit-taking-in-nvidia-continues.html</guid>
       <pubDate>Fri, 31 May 2024 15:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看：唐纳德·特朗普在封口费案中被判有罪后的第二天举行新闻发布会</title>
-      <link>https://www.cnbc.com/2024/05/31/donald-trump-press-conference-guilty-verdict.html</link>
-      <description><![CDATA[前总统唐纳德·特朗普定于周五在纽约特朗普大厦发表讲话，此前一天，州法院陪审团裁定他犯有 34 项重罪。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/donald-trump-press-conference-guilty-verdict.html</guid>
-      <pubDate>Fri, 31 May 2024 15:35:29 GMT</pubDate>
     </item>
     <item>
       <title>华美银行如何通过服务亚裔美国人社区获得优势</title>
@@ -27,44 +69,9 @@
       <pubDate>Fri, 31 May 2024 15:33:54 GMT</pubDate>
     </item>
     <item>
-      <title>瑞银认为，今年剩余时间最值得持有的能源和公用事业股票</title>
-      <link>https://www.cnbc.com/2024/05/31/best-energy-and-utility-stocks-to-own-for-rest-of-year-according-to-ubs.html</link>
-      <description><![CDATA[该公司列出的今年剩余时间内最看好的能源股包括新近被吹捧的人工智能股和油田服务领军企业。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/best-energy-and-utility-stocks-to-own-for-rest-of-year-according-to-ubs.html</guid>
-      <pubDate>Fri, 31 May 2024 15:30:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA 批准 Moderna 的 RSV 老年人疫苗，这是该公司的第二款产品</title>
-      <link>https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html</link>
-      <description><![CDATA[这一决定对于 Moderna 来说是一个胜利，因为在其唯一可商业化销售的产品 Covid 疫苗需求暴跌的背景下，该公司需要另一个收入来源。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html</guid>
-      <pubDate>Fri, 31 May 2024 15:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普已被定罪。接下来会发生什么</title>
-      <link>https://www.cnbc.com/2024/05/30/trump-guilty-crime-felony-what-happens-next.html</link>
-      <description><![CDATA[唐纳德·特朗普是目前美国第一位被判有罪的前总统，也是第一位可能成为主要政党总统候选人的候选人。]]></description>
-      <guid>https://www.cnbc.com/2024/05/30/trump-guilty-crime-felony-what-happens-next.html</guid>
-      <pubDate>Fri, 31 May 2024 15:21:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿斯顿·马丁从一级方程式赛车和新款高性能车型中获益</title>
-      <link>https://www.cnbc.com/2024/05/31/aston-martin-formula-1-new-models.html</link>
-      <description><![CDATA[阿斯顿马丁已彻底改革了制造流程、巩固了财务状况，目前正在推出一系列以高性能为特色的新产品。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/aston-martin-formula-1-new-models.html</guid>
-      <pubDate>Fri, 31 May 2024 15:17:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普竞选团队在有罪判决后筹集创纪录的 3480 万美元捐款</title>
-      <link>https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html</link>
-      <description><![CDATA[唐纳德·特朗普将在纽约与总统乔·拜登对决，他被​​判定犯有 34 项与 2016 年的封口令有关的重罪。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/trump-campaign-donations-record.html</guid>
-      <pubDate>Fri, 31 May 2024 15:11:39 GMT</pubDate>
-    </item>
-    <item>
       <title>比特币 ETF 并未赢得金融顾问的青睐</title>
       <link>https://www.cnbc.com/2024/05/31/bitcoin-etfs-arent-winning-the-hearts-and-minds-of-financial-advisors.html</link>
-      <description><![CDATA[比特币 ETF 推出近六个月后，几乎没有迹象表明顾问们对其抱有热情。]]></description>
+      <description><![CDATA[比特币 ETF 推出近六个月后，几乎没有迹象表明顾问们对其抱有太大兴趣。]]></description>
       <guid>https://www.cnbc.com/2024/05/31/bitcoin-etfs-arent-winning-the-hearts-and-minds-of-financial-advisors.html</guid>
       <pubDate>Fri, 31 May 2024 14:28:50 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>人工智能服务器“利润率接近零” 戴尔股价下跌 16%</title>
       <link>https://www.cnbc.com/2024/05/31/dell-shares-fall-ai-servers-concerns.html</link>
-      <description><![CDATA[尽管戴尔周四的营收和利润均超过预期，但周五其股价仍大幅下跌。]]></description>
+      <description><![CDATA[尽管戴尔周四的营收和利润均超出预期，但周五其股价仍大幅下跌。]]></description>
       <guid>https://www.cnbc.com/2024/05/31/dell-shares-fall-ai-servers-concerns.html</guid>
       <pubDate>Fri, 31 May 2024 13:52:52 GMT</pubDate>
     </item>
@@ -88,13 +95,6 @@
       <description><![CDATA[周五上午，特朗普媒体股价下跌，原因是该公司最大股东、前总统唐纳德·特朗普被判 34 项重罪。]]></description>
       <guid>https://www.cnbc.com/2024/05/30/djt-stock-falls-donald-trump-found-guilty-on-34-counts.html</guid>
       <pubDate>Fri, 31 May 2024 13:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级代理顾问 ISS 建议不要考虑伊隆·马斯克的 560 亿美元特斯拉薪酬方案</title>
-      <link>https://www.cnbc.com/2024/05/31/elon-musk-tesla-tsla-pay-package-shareholders.html</link>
-      <description><![CDATA[顶级代理顾问机构股东服务公司周五建议特斯拉股东投票反对重新批准首席执行官埃隆马斯克的 560 亿美元薪酬方案]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/elon-musk-tesla-tsla-pay-package-shareholders.html</guid>
-      <pubDate>Fri, 31 May 2024 13:41:02 GMT</pubDate>
     </item>
     <item>
       <title>比尔·阿克曼以 105 亿美元的估值出售潘兴广场股份，目标是有朝一日上市</title>
