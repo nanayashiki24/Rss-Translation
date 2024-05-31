@@ -3,21 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 31 May 2024 18:12:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 31 May 2024 18:34:00 GMT</lastBuildDate>
     <item>
-      <title>沃伦·巴菲特担心蓬勃发展但规模仍然很小的保险市场可能出现“巨额损失”</title>
-      <link>https://www.cnbc.com/2024/05/31/warren-buffett-worried-about-huge-losses-in-booming-insurance-market.html</link>
-      <description><![CDATA[沃伦·巴菲特最近警告称，由于代理商急于签约客户，网络安全保险风险被忽视，未来可能出现“巨额损失”。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/warren-buffett-worried-about-huge-losses-in-booming-insurance-market.html</guid>
-      <pubDate>Fri, 31 May 2024 18:19:55 GMT</pubDate>
+      <title>FDA 批准 Moderna 的 RSV 老年人疫苗，这是该公司的第二款产品</title>
+      <link>https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html</link>
+      <description><![CDATA[这一决定对于 Moderna 来说是一个胜利，因为在其唯一可商业化销售的产品 Covid 疫苗需求暴跌的背景下，该公司需要另一个收入来源。]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html</guid>
+      <pubDate>Fri, 31 May 2024 18:38:35 GMT</pubDate>
     </item>
     <item>
       <title>标普 500 指数周五下跌，有望成为六年来首周下跌：实时更新</title>
       <link>https://www.cnbc.com/2024/05/30/stock-market-today-live-updates.html</link>
       <description><![CDATA[五月有望成为胜利的五月，各主要基准指数都将在七个月内第六个月取得正增长。]]></description>
       <guid>https://www.cnbc.com/2024/05/30/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 31 May 2024 18:16:52 GMT</pubDate>
+      <pubDate>Fri, 31 May 2024 18:38:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>基金经理称，如果圭亚那资产之争今年得到解决，雪佛龙的表现可能优于埃克森美孚</title>
+      <link>https://www.cnbc.com/2024/05/31/cvx-may-outpace-xom-if-guyana-feud-is-resolved-this-year-fund-manager.html</link>
+      <description><![CDATA[今年迄今为止，埃克森美孚的表现远远超过雪佛龙，这两家石油巨头的股价分别上涨了约 15% 和 6%。]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/cvx-may-outpace-xom-if-guyana-feud-is-resolved-this-year-fund-manager.html</guid>
+      <pubDate>Fri, 31 May 2024 18:36:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周零售业盈利表现强劲。但这并不意味着消费者将复苏</title>
+      <link>https://www.cnbc.com/2024/05/31/first-quarter-retail-earnings-dont-spell-consumer-comeback.html</link>
+      <description><![CDATA[由于面临通货膨胀、高利率和不确定的经济形势，消费者在购物时变得更加挑剔。]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/first-quarter-retail-earnings-dont-spell-consumer-comeback.html</guid>
+      <pubDate>Fri, 31 May 2024 18:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃伦·巴菲特担心蓬勃发展但规模仍然很小的保险市场可能出现“巨额损失”</title>
+      <link>https://www.cnbc.com/2024/05/31/warren-buffett-worried-about-huge-losses-in-booming-insurance-market.html</link>
+      <description><![CDATA[沃伦·巴菲特最近警告称，由于代理商急于签约客户，网络安全保险风险被忽视，未来可能会出现“巨额损失”。]]></description>
+      <guid>https://www.cnbc.com/2024/05/31/warren-buffett-worried-about-huge-losses-in-booming-insurance-market.html</guid>
+      <pubDate>Fri, 31 May 2024 18:19:55 GMT</pubDate>
     </item>
     <item>
       <title>拜登称特朗普对有罪判决的回应在白宫“鲁莽”、“危险”</title>
@@ -27,13 +48,6 @@
       <pubDate>Fri, 31 May 2024 18:13:55 GMT</pubDate>
     </item>
     <item>
-      <title>本周零售业盈利表现强劲。但这并不意味着消费者将复苏</title>
-      <link>https://www.cnbc.com/2024/05/31/first-quarter-retail-earnings-dont-spell-consumer-comeback.html</link>
-      <description><![CDATA[由于面临通货膨胀、高利率和不确定的经济形势，消费者在购物时变得更加挑剔。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/first-quarter-retail-earnings-dont-spell-consumer-comeback.html</guid>
-      <pubDate>Fri, 31 May 2024 18:05:01 GMT</pubDate>
-    </item>
-    <item>
       <title>午盘涨幅最大的股票：Gap、MongoDB、戴尔科技等</title>
       <link>https://www.cnbc.com/2024/05/31/stocks-making-the-biggest-moves-midday-gps-mdb-dell.html</link>
       <description><![CDATA[这些是午盘交易中波动最大的股票。]]></description>
@@ -41,25 +55,11 @@
       <pubDate>Fri, 31 May 2024 17:09:23 GMT</pubDate>
     </item>
     <item>
-      <title>FDA 批准 Moderna 的 RSV 老年人疫苗，这是该公司的第二款产品</title>
-      <link>https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html</link>
-      <description><![CDATA[这一决定对于 Moderna 来说是一个胜利，因为在其唯一可商业化销售的产品 Covid 疫苗需求暴跌的背景下，该公司需要另一个收入来源。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/fda-approves-moderna-rsv-vaccine-for-seniors.html</guid>
-      <pubDate>Fri, 31 May 2024 17:03:49 GMT</pubDate>
-    </item>
-    <item>
       <title>期权交易员说他们正在“购买波动性”是什么意思</title>
       <link>https://www.cnbc.com/2024/05/31/what-options-traders-mean-when-they-say-they-are-buying-volatility.html</link>
       <description><![CDATA[Mike Khouw 分解了“购买波动性”概念并提供了软件股票的交易。]]></description>
       <guid>https://www.cnbc.com/2024/05/31/what-options-traders-mean-when-they-say-they-are-buying-volatility.html</guid>
       <pubDate>Fri, 31 May 2024 16:55:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>基金经理称，如果圭亚那资产之争今年得到解决，雪佛龙的表现可能优于埃克森美孚</title>
-      <link>https://www.cnbc.com/2024/05/31/cvx-may-outpace-xom-if-guyana-feud-is-resolved-this-year-fund-manager.html</link>
-      <description><![CDATA[今年迄今为止，埃克森美孚的表现远远超过雪佛龙，这两家石油巨头的股价分别上涨了约 15% 和 6%。]]></description>
-      <guid>https://www.cnbc.com/2024/05/31/cvx-may-outpace-xom-if-guyana-feud-is-resolved-this-year-fund-manager.html</guid>
-      <pubDate>Fri, 31 May 2024 16:25:04 GMT</pubDate>
     </item>
     <item>
       <title>特朗普已被定罪。接下来会发生什么</title>
