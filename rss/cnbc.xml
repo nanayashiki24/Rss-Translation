@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Sat, 01 Jun 2024 15:04:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Sat, 01 Jun 2024 15:31:00 GMT</lastBuildDate>
+    <item>
+      <title>波音公司计划首次使用 Starliner 飞船运送 NASA 宇航员</title>
+      <link>https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html</link>
+      <description><![CDATA[波音公司计划于周六发射首次载有宇航员的星际航线飞行，这是该航天器被推迟已久的最后一次测试。]]></description>
+      <guid>https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html</guid>
+      <pubDate>Sat, 01 Jun 2024 15:29:42 GMT</pubDate>
+    </item>
     <item>
       <title>SEC 对以太坊 ETF 的裁决可能标志着加密投资的历史性转变</title>
       <link>https://www.cnbc.com/2024/06/01/major-cryptocurrency-shift-due-to-sec-ethereum-etf-ruling-vaneck-ceo.html</link>
@@ -29,16 +36,9 @@
     <item>
       <title>下一代“身体互联网”可以将科技与人体融合在一起</title>
       <link>https://www.cnbc.com/2024/06/01/internet-of-bodies-could-meld-tech-and-human-bodies-together.html</link>
-      <description><![CDATA[下一代“身体互联网”（IOB）可以使技术设备和人体比以往更加紧密地结合在一起。]]></description>
+      <description><![CDATA[下一代“身体互联网”（IOB）可以让技术设备和人体比以往更加紧密地结合在一起。]]></description>
       <guid>https://www.cnbc.com/2024/06/01/internet-of-bodies-could-meld-tech-and-human-bodies-together.html</guid>
       <pubDate>Sat, 01 Jun 2024 13:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>工会谈判陷入僵局 美国航空面临罢工威胁</title>
-      <link>https://www.cnbc.com/2024/06/01/american-airlines-faces-strike-threat-as-union-negotiations-stall.html</link>
-      <description><![CDATA[美国联合航空、阿拉斯加航空、美国航空和边疆航空的空乘人员等员工仍在努力达成新的合同协议。]]></description>
-      <guid>https://www.cnbc.com/2024/06/01/american-airlines-faces-strike-threat-as-union-negotiations-stall.html</guid>
-      <pubDate>Sat, 01 Jun 2024 13:34:15 GMT</pubDate>
     </item>
     <item>
       <title>出口民调显示，莫迪领导的印度人民党联盟预计将在印度大选中赢得议会多数席位</title>
