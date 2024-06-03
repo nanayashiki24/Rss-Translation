@@ -3,12 +3,19 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 03 Jun 2024 09:17:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Mon, 03 Jun 2024 09:32:00 GMT</lastBuildDate>
+    <item>
+      <title>陷入困境的法国 IT 公司考虑救助交易，导致“股权大幅稀释”，Atos 股价下跌 16%</title>
+      <link>https://www.cnbc.com/2024/06/03/atos-falls-16percent-as-embattled-french-it-firms-weighs-rescue-deals-set-to-result-in-massive-dilution.html</link>
+      <description><![CDATA[陷入困境的法国 IT 公司 Atos 的股价周一暴跌，因为该公司表示本周将在两种救助方案中进行选择。]]></description>
+      <guid>https://www.cnbc.com/2024/06/03/atos-falls-16percent-as-embattled-french-it-firms-weighs-rescue-deals-set-to-result-in-massive-dilution.html</guid>
+      <pubDate>Mon, 03 Jun 2024 09:31:25 GMT</pubDate>
+    </item>
     <item>
       <title>“咆哮的小猫”交易员发布账户显示持仓 1.16 亿美元后，GameStop 股价盘前飙升 73%</title>
       <link>https://www.cnbc.com/2024/06/02/gamestop-jumps-as-roaring-kitty-trader-posts-giant-116-million-stock-position.html</link>
-      <description><![CDATA[由于市场猜测 Keith Gill（X 上的 Roaring Kitty 昵称）可能在该视频游戏零售商中占有重要地位，GameStop 股价周一在盘前交易中再次上涨。]]></description>
+      <description><![CDATA[由于市场猜测 Keith Gill（X 上的 Roaring Kitty 绰号）可能在该视频游戏零售商中占有重要地位，GameStop 股价周一在盘前交易中再次上涨。]]></description>
       <guid>https://www.cnbc.com/2024/06/02/gamestop-jumps-as-roaring-kitty-trader-posts-giant-116-million-stock-position.html</guid>
       <pubDate>Mon, 03 Jun 2024 09:10:48 GMT</pubDate>
     </item>
@@ -27,18 +34,18 @@
       <pubDate>Mon, 03 Jun 2024 08:21:02 GMT</pubDate>
     </item>
     <item>
-      <title>数字银行 Monzo 收入增长逾一倍，首次实现全年盈利</title>
-      <link>https://www.cnbc.com/2024/06/03/digital-bank-monzo-posts-first-full-year-of-profit-after-more-than-doubling-revenue.html</link>
-      <description><![CDATA[英国数字挑战者银行 Monzo 周一公布了其第一年全年盈利情况。]]></description>
-      <guid>https://www.cnbc.com/2024/06/03/digital-bank-monzo-posts-first-full-year-of-profit-after-more-than-doubling-revenue.html</guid>
-      <pubDate>Mon, 03 Jun 2024 08:05:57 GMT</pubDate>
-    </item>
-    <item>
       <title>在与 Nvidia、英特尔的激烈竞争中，AMD 宣布推出新的 AI 芯片</title>
       <link>https://www.cnbc.com/2024/06/03/amd-unveils-new-ai-chips-amid-rising-competition-with-nvidia-intel.html</link>
       <description><![CDATA[AMD 周一宣布推出新的人工智能芯片，力图在与 Nvidia 和英特尔等公司的竞争中确立领先地位。]]></description>
       <guid>https://www.cnbc.com/2024/06/03/amd-unveils-new-ai-chips-amid-rising-competition-with-nvidia-intel.html</guid>
       <pubDate>Mon, 03 Jun 2024 07:27:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿联酋航空总裁称新加坡航空乱流事件给所有业内人士带来了教训</title>
+      <link>https://www.cnbc.com/2024/06/03/singapore-airlines-turbulence-was-a-lesson-to-industry-says-emirates.html</link>
+      <description><![CDATA[阿联酋航空总裁表示，最近新加坡航空的飞机颠簸事件以及后续处理方式为整个航空业提供了一个教训。]]></description>
+      <guid>https://www.cnbc.com/2024/06/03/singapore-airlines-turbulence-was-a-lesson-to-industry-says-emirates.html</guid>
+      <pubDate>Mon, 03 Jun 2024 05:05:04 GMT</pubDate>
     </item>
     <item>
       <title>高盛推荐特定交易策略，列出 2 只全球“强力买入”股票</title>
@@ -62,6 +69,13 @@
       <pubDate>Sun, 02 Jun 2024 20:41:22 GMT</pubDate>
     </item>
     <item>
+      <title>美国海军退役上将被指控向科技公司首席执行官行贿 50 万美元薪水</title>
+      <link>https://www.cnbc.com/2024/06/01/retired-us-navy-admiral-charged-in-bribery-scheme-with-tech-ceos.html</link>
+      <description><![CDATA[美国司法部表示，罗伯特·伯克 (Robert Burke) 从 2022 年开始担任 Next Jump 的高级合伙人，起薪为 50 万美元，并拥有 10 万股股票期权。]]></description>
+      <guid>https://www.cnbc.com/2024/06/01/retired-us-navy-admiral-charged-in-bribery-scheme-with-tech-ceos.html</guid>
+      <pubDate>Sun, 02 Jun 2024 19:36:27 GMT</pubDate>
+    </item>
+    <item>
       <title>随着市场竞争加剧，Nvidia 在几个月后宣布推出新的 AI 芯片</title>
       <link>https://www.cnbc.com/2024/06/02/nvidia-next-generation-ai-chips-rubin-blackwell.html</link>
       <description><![CDATA[英伟达首席执行官黄仁勋在台北国际电脑展 (COMPUTEX) 科技大会前夕宣布了名为“Rubin”的全新 AI 芯片架构。]]></description>
@@ -76,32 +90,11 @@
       <pubDate>Sun, 02 Jun 2024 17:02:12 GMT</pubDate>
     </item>
     <item>
-      <title>快餐连锁店老板和受挤压的顾客正在测试超值套餐经济的极限</title>
+      <title>快餐连锁店老板和受挤压的顾客测试超值套餐经济的极限</title>
       <link>https://www.cnbc.com/2024/06/02/fast-food-owners-squeezed-customers-test-limit-of-value-meal-economy.html</link>
       <description><![CDATA[随着麦当劳、汉堡王和温迪汉堡针对受到通货膨胀严重打击的低收入消费者推出超值套餐，快餐连锁店老板面临着经济考验。]]></description>
       <guid>https://www.cnbc.com/2024/06/02/fast-food-owners-squeezed-customers-test-limit-of-value-meal-economy.html</guid>
       <pubDate>Sun, 02 Jun 2024 14:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要急于接受 TikTok 的理财建议——原因如下</title>
-      <link>https://www.cnbc.com/2024/06/02/heres-whats-wrong-with-tiktoks-viral-money-hacks.html</link>
-      <description><![CDATA[专家表示，制定一个可以长期维持的预算是无可替代的。]]></description>
-      <guid>https://www.cnbc.com/2024/06/02/heres-whats-wrong-with-tiktoks-viral-money-hacks.html</guid>
-      <pubDate>Sun, 02 Jun 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>内塔尼亚胡助手称以色列同意拜登的加沙停火计划</title>
-      <link>https://www.cnbc.com/2024/06/02/netanyahu-aide-says-israel-agreed-to-bidens-cease-fire-plan-for-gaza.html</link>
-      <description><![CDATA[首席外交政策顾问奥菲尔·福尔克 (Ophir Falk) 表示，这是“我们同意的一项协议——虽然这不是一项好的协议，但我们非常希望释放人质，全部人质。”]]></description>
-      <guid>https://www.cnbc.com/2024/06/02/netanyahu-aide-says-israel-agreed-to-bidens-cease-fire-plan-for-gaza.html</guid>
-      <pubDate>Sun, 02 Jun 2024 12:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰总统泽连斯基指责中国帮助俄罗斯破坏即将举行的和平峰会</title>
-      <link>https://www.cnbc.com/2024/06/02/zelenskyy-accuses-china-of-helping-russia-to-disrupt-peace-summit.html</link>
-      <description><![CDATA[乌克兰总统泽连斯基周日指责中国向其他国家施压，要求他们不要参加即将举行的和平峰会，以此帮助俄罗斯破坏该峰会。]]></description>
-      <guid>https://www.cnbc.com/2024/06/02/zelenskyy-accuses-china-of-helping-russia-to-disrupt-peace-summit.html</guid>
-      <pubDate>Sun, 02 Jun 2024 10:04:14 GMT</pubDate>
     </item>
     <item>
       <title>SEC 对以太坊 ETF 的裁决可能标志着加密投资的历史性转变</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[VanEck 首席执行官深入探讨了其公司以太坊 ETF 的初步批准以及该决定对加密货币投资者的意义。]]></description>
       <guid>https://www.cnbc.com/2024/06/01/major-cryptocurrency-shift-due-to-sec-ethereum-etf-ruling-vaneck-ceo.html</guid>
       <pubDate>Sat, 01 Jun 2024 15:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年巧克力主要成分价格为何飙升</title>
+      <link>https://www.cnbc.com/2024/06/01/why-the-price-of-chocolates-key-ingredient-skyrocketed-in-2024.html</link>
+      <description><![CDATA[巧克力的主要成分可可的价格在 2024 年飙升。]]></description>
+      <guid>https://www.cnbc.com/2024/06/01/why-the-price-of-chocolates-key-ingredient-skyrocketed-in-2024.html</guid>
+      <pubDate>Sat, 01 Jun 2024 12:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
