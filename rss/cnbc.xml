@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
     <lastBuildDate>Tue, 04 Jun 2024 01:33:00 GMT</lastBuildDate>
+    <item>
+      <title>印度开始为全球最大选举计票，出口民调预测莫迪将获胜</title>
+      <link>https://www.cnbc.com/2024/06/04/india-elections-vote-counting-to-start-modis-bjp-projected-to-win.html</link>
+      <description><![CDATA[印度已开始计票为 2024 年大选做准备，现任总理纳伦德拉·莫迪 (Narendra Modi) 有望罕见地连续执政第三届。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/india-elections-vote-counting-to-start-modis-bjp-projected-to-win.html</guid>
+      <pubDate>Tue, 04 Jun 2024 02:48:30 GMT</pubDate>
+    </item>
     <item>
       <title>欺诈案审判陪审员报告称，她获得了 12 万美元的现金包，并承诺如果她无罪释放，还会得到更多</title>
       <link>https://www.cnbc.com/2024/06/04/fraud-trial-juror-reports-getting-bag-of-120000-and-promise-of-more-if-shell-acquit.html</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[英伟达并不是唯一一家从人工智能看涨情绪中受益的公司，其他科技股也受到提振，推动纳斯达克指数在 5 月 24 日收于历史新高。]]></description>
       <guid>https://www.cnbc.com/2024/06/04/top-alternatives-to-nvidia-that-are-cheaper-according-to-the-pros.html</guid>
       <pubDate>Mon, 03 Jun 2024 23:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度将开始为全球最大选举计票，出口民调预测莫迪将获胜</title>
-      <link>https://www.cnbc.com/2024/06/04/india-elections-vote-counting-to-start-modis-bjp-projected-to-win.html</link>
-      <description><![CDATA[印度已开始计票为 2024 年大选做准备，现任总理纳伦德拉·莫迪 (Narendra Modi) 有望罕见地连续执政第三届。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/india-elections-vote-counting-to-start-modis-bjp-projected-to-win.html</guid>
-      <pubDate>Mon, 03 Jun 2024 23:12:02 GMT</pubDate>
     </item>
     <item>
       <title>消息称，谷歌将在快速发展的云计算部门裁员至少 100 人</title>
