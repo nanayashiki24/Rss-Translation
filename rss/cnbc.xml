@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 04 Jun 2024 10:35:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 04 Jun 2024 11:04:00 GMT</lastBuildDate>
     <item>
       <title>周二分析师预测：博通为首选，中国电动汽车股票将上涨逾 30%</title>
       <link>https://www.cnbc.com/2024/06/04/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
       <description><![CDATA[博通和一家中国电动汽车制造商是分析师周二讨论的股票之一。]]></description>
       <guid>https://www.cnbc.com/2024/06/04/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</guid>
-      <pubDate>Tue, 04 Jun 2024 10:37:18 GMT</pubDate>
+      <pubDate>Tue, 04 Jun 2024 11:08:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>莫迪的联盟在印度大选中获胜的可能性低于预期</title>
+      <link>https://www.cnbc.com/2024/06/04/india-elections-modis-bjp-led-alliance-set-for-narrower-than-expected-win.html</link>
+      <description><![CDATA[纳伦德拉·莫迪领导的印度人民党领导的全国民主联盟将再次执政——尽管多数席位将大大减少。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/india-elections-modis-bjp-led-alliance-set-for-narrower-than-expected-win.html</guid>
+      <pubDate>Tue, 04 Jun 2024 11:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>好莱坞的杰弗里·卡森伯格押注网络安全，避开数字媒体，寻找初创企业</title>
+      <link>https://www.cnbc.com/2024/06/04/jeffrey-katzenberg-wndrco-raises-460-million.html</link>
+      <description><![CDATA[梦工厂联合创始人杰弗瑞·卡森伯格为其新基金筹集了 4.6 亿美元，并将赌注押在网络安全和未来工作上，而不是数字媒体。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/jeffrey-katzenberg-wndrco-raises-460-million.html</guid>
+      <pubDate>Tue, 04 Jun 2024 11:00:01 GMT</pubDate>
     </item>
     <item>
       <title>乌克兰战争实况更新：俄罗斯嘲笑基辅邀请邻国参加和平峰会；莫斯科表示将停止外国人领养儿童</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[另据当地政府消息，俄罗斯导弹袭击了中部城市第聂伯罗，造成 7 人受伤，并损坏了民用基础设施。]]></description>
       <guid>https://www.cnbc.com/2024/06/04/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html</guid>
       <pubDate>Tue, 04 Jun 2024 10:29:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>莫迪的联盟在印度大选中获胜的可能性低于预期</title>
-      <link>https://www.cnbc.com/2024/06/04/india-elections-modis-bjp-led-alliance-set-for-narrower-than-expected-win.html</link>
-      <description><![CDATA[纳伦德拉·莫迪领导的印度人民党领导的全国民主联盟将再次执政——尽管多数席位将大大减少。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/india-elections-modis-bjp-led-alliance-set-for-narrower-than-expected-win.html</guid>
-      <pubDate>Tue, 04 Jun 2024 10:23:02 GMT</pubDate>
     </item>
     <item>
       <title>高盛称，OPEC+增加石油供应的决定对市场来说是一个“利空意外”</title>
@@ -48,13 +55,6 @@
       <pubDate>Tue, 04 Jun 2024 05:11:33 GMT</pubDate>
     </item>
     <item>
-      <title>比特币矿工向人工智能企业投入数百万美元，寻求数十亿美元的回报</title>
-      <link>https://www.cnbc.com/2024/06/03/bitcoin-miners-sink-millions-into-ai-business-seek-billions-in-return.html</link>
-      <description><![CDATA[比特币矿工 Core Scientific 正在通过与云公司 CoreWeave 建立 35 亿美元的合作伙伴关系来扩展其人工智能业务。]]></description>
-      <guid>https://www.cnbc.com/2024/06/03/bitcoin-miners-sink-millions-into-ai-business-seek-billions-in-return.html</guid>
-      <pubDate>Tue, 04 Jun 2024 01:29:37 GMT</pubDate>
-    </item>
-    <item>
       <title>吉姆·克莱默 (Jim Cramer) 解释为何戴尔值得逢低买入</title>
       <link>https://www.cnbc.com/2024/06/03/dell-is-a-buy-on-the-dip-jim-cramer.html</link>
       <description><![CDATA[CNBC 的吉姆克莱默 (Jim Cramer) 周一回顾了戴尔的盈利报告，并告诉投资者他为何认为该股目前值得买入。]]></description>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 03 Jun 2024 23:35:52 GMT</pubDate>
     </item>
     <item>
-      <title>大纪元时报首席财务官关志雄被指控涉嫌 6700 万美元全球洗钱计划</title>
+      <title>大纪元首席财务官关志雄被指控涉嫌 6700 万美元全球洗钱计划</title>
       <link>https://www.cnbc.com/2024/06/03/money-laundering-epoch-times-cfo-charged-with-alleged-67-million-scheme-.html</link>
       <description><![CDATA[《大纪元时报》隶属于宗教团体“法轮功”，该团体反对中国共产党，并支持前总统唐纳德·特朗普。]]></description>
       <guid>https://www.cnbc.com/2024/06/03/money-laundering-epoch-times-cfo-charged-with-alleged-67-million-scheme-.html</guid>
