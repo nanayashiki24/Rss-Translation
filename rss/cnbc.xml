@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 04 Jun 2024 13:19:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 04 Jun 2024 13:32:00 GMT</lastBuildDate>
+    <item>
+      <title>美国小企业管理局推出高达 500 万美元的新信贷额度，为小企业提供资金</title>
+      <link>https://www.cnbc.com/2024/06/04/sba-7a-working-capital-for-small-businesses.html</link>
+      <description><![CDATA[该项目是美国小企业管理局在局长伊莎贝尔·卡西利亚斯·古兹曼 (Isabel Casillas Guzman) 领导下扩大其针对美国小企业旗舰贷款计划的努力之一。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/sba-7a-working-capital-for-small-businesses.html</guid>
+      <pubDate>Tue, 04 Jun 2024 13:36:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克下令 Nvidia 向 X 和 xAI 运送为特斯拉预留的数千颗 AI 芯片</title>
+      <link>https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html</link>
+      <description><![CDATA[Nvidia 内部流传的电子邮件显示，埃隆·马斯克 (Elon Musk) 要求该芯片制造商优先向 X 和 xAI 出货 GPU，优先于特斯拉。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html</guid>
+      <pubDate>Tue, 04 Jun 2024 13:31:05 GMT</pubDate>
+    </item>
     <item>
       <title>莫迪的联盟在印度大选中获胜的可能性低于预期</title>
       <link>https://www.cnbc.com/2024/06/04/india-elections-modis-bjp-led-alliance-set-for-narrower-than-expected-win.html</link>
@@ -48,20 +62,6 @@
       <pubDate>Tue, 04 Jun 2024 13:08:43 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克下令 Nvidia 向 X 和 xAI 运送为特斯拉预留的数千颗 AI 芯片</title>
-      <link>https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html</link>
-      <description><![CDATA[Nvidia 内部流传的电子邮件显示，埃隆·马斯克 (Elon Musk) 要求该芯片制造商优先向 X 和 xAI 出货 GPU，优先于特斯拉。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html</guid>
-      <pubDate>Tue, 04 Jun 2024 13:07:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国小企业管理局推出高达 500 万美元的新信贷额度，为小企业提供资金</title>
-      <link>https://www.cnbc.com/2024/06/04/sba-7a-working-capital-for-small-businesses.html</link>
-      <description><![CDATA[该项目是美国小企业管理局在局长伊莎贝尔·卡西利亚斯·古兹曼 (Isabel Casillas Guzman) 领导下扩大其针对美国小企业旗舰贷款计划的努力之一。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/sba-7a-working-capital-for-small-businesses.html</guid>
-      <pubDate>Tue, 04 Jun 2024 13:04:33 GMT</pubDate>
-    </item>
-    <item>
       <title>美国上诉法院阻止针对黑人女性拥有的企业的补助计划</title>
       <link>https://www.cnbc.com/2024/06/04/us-appeals-court-blocks-grant-program-for-black-women-owned-businesses.html</link>
       <description><![CDATA[美国上诉法院周一裁定，无畏基金不能恢复向黑人女性拥有的企业提供资助。]]></description>
@@ -90,7 +90,7 @@
       <pubDate>Tue, 04 Jun 2024 12:23:40 GMT</pubDate>
     </item>
     <item>
-      <title>医疗初创公司 Sword Health 宣布推出可与患者交谈的 AI</title>
+      <title>医疗初创公司 Sword Health 宣布推出可与患者交谈的人工智能</title>
       <link>https://www.cnbc.com/2024/06/04/sword-health-announces-phoenix-conversational-ai.html</link>
       <description><![CDATA[Sword Health 宣布了一项名为 Phoenix 的新型 AI 解决方案，可以指导患者完成虚拟物理治疗课程。]]></description>
       <guid>https://www.cnbc.com/2024/06/04/sword-health-announces-phoenix-conversational-ai.html</guid>
