@@ -3,14 +3,98 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 04 Jun 2024 15:18:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 04 Jun 2024 16:18:00 GMT</lastBuildDate>
+    <item>
+      <title>随着人工智能数据中心需求激增，核能再次受到青睐。花旗认为有两只股票值得关注</title>
+      <link>https://www.cnbc.com/2024/06/04/nuclear-energy-back-in-favor-with-data-centers-citi-picks-two-stocks.html</link>
+      <description><![CDATA[花旗表示，数据中心的需求将推动美国核电机组的利用率提高，杜克能源和南方电力公司将从中受益。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/nuclear-energy-back-in-favor-with-data-centers-citi-picks-two-stocks.html</guid>
+      <pubDate>Tue, 04 Jun 2024 16:21:46 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普 2020 年竞选助理、律师因威斯康星州伪造选举人票案被起诉</title>
       <link>https://www.cnbc.com/2024/06/04/trump-2020-campaign-aide-lawyers-charged-in-wisconsin-fake-electors-case.html</link>
       <description><![CDATA[威斯康星州是 2020 年美国总统大选中拜登领先唐纳德·特朗普的几个摇摆州之一。]]></description>
       <guid>https://www.cnbc.com/2024/06/04/trump-2020-campaign-aide-lawyers-charged-in-wisconsin-fake-electors-case.html</guid>
-      <pubDate>Tue, 04 Jun 2024 15:30:21 GMT</pubDate>
+      <pubDate>Tue, 04 Jun 2024 16:18:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Databricks 收购数据优化初创公司 Tabular，向 Snowflake 发起新挑战</title>
+      <link>https://www.cnbc.com/2024/06/04/databricks-is-buying-data-optimization-startup-tabular.html</link>
+      <description><![CDATA[Databricks 打断了 Snowflake 的会议，宣布收购一家可以帮助企业准备数据以实现更具成本效益的查询的初创公司。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/databricks-is-buying-data-optimization-startup-tabular.html</guid>
+      <pubDate>Tue, 04 Jun 2024 16:14:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克下令 Nvidia 向 X 和 xAI 运送为特斯拉预留的数千颗 AI 芯片</title>
+      <link>https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html</link>
+      <description><![CDATA[Nvidia 内部流传的电子邮件显示，埃隆·马斯克 (Elon Musk) 要求该芯片制造商优先向 X 和 xAI 出货 GPU，优先于特斯拉。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html</guid>
+      <pubDate>Tue, 04 Jun 2024 16:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>富达表示，无论你对加密货币的看法如何，少量比特币配置都是有意义的</title>
+      <link>https://www.cnbc.com/2024/06/04/small-bitcoin-stake-makes-sense-regardless-of-cryptocurrency-thesis-says-fidelity.html</link>
+      <description><![CDATA[富达数字资产的一位高管表示：“对于很多客户来说，在比特币之类的资产中持有非零头寸是有意义的。”]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/small-bitcoin-stake-makes-sense-regardless-of-cryptocurrency-thesis-says-fidelity.html</guid>
+      <pubDate>Tue, 04 Jun 2024 16:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度纳伦德拉·莫迪尽管遭遇选举挫折却宣布获胜</title>
+      <link>https://www.cnbc.com/2024/06/04/indias-narendra-modi-declares-victory-despite-election-blow.html</link>
+      <description><![CDATA[在计票即将结束时，莫迪在 X 上表示：“人们连续第三次对 NDA [全国民主联盟] 充满信心。”]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/indias-narendra-modi-declares-victory-despite-election-blow.html</guid>
+      <pubDate>Tue, 04 Jun 2024 16:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stifel 表示，标准普尔 500 指数到 9 月底将回调 10%，因此应采取防御措施</title>
+      <link>https://www.cnbc.com/2024/06/04/sp-500-to-fall-by-10percent-by-end-of-september-so-get-defensive-stifel-says.html</link>
+      <description><![CDATA[这家总部位于圣路易斯的投资银行预计基准股指将跌至 4,750 点左右。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/sp-500-to-fall-by-10percent-by-end-of-september-so-get-defensive-stifel-says.html</guid>
+      <pubDate>Tue, 04 Jun 2024 16:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>4 月份职位空缺数量再次下降，达到 2021 年 2 月以来的最低水平，表明劳动力市场疲软</title>
+      <link>https://www.cnbc.com/2024/06/04/job-openings-report-april-2024-job-openings-fell-again.html</link>
+      <description><![CDATA[四月份职位空缺数量下降幅度超过预期，表明劳动力市场可能出现疲软。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/job-openings-report-april-2024-job-openings-fell-again.html</guid>
+      <pubDate>Tue, 04 Jun 2024 16:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们花了 1 美元买下一个废弃的棒球场，又花了 1400 万美元把它改造成豪华公寓——看看里面</title>
+      <link>https://www.cnbc.com/2024/06/04/unlocked-indiana-abandoned-baseball-stadium-apartment-building.html</link>
+      <description><![CDATA[印第安纳州印第安纳波利斯的布什体育场目前有 138 套公寓。大楼租金每月从 900 美元到 1,700 美元不等。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/unlocked-indiana-abandoned-baseball-stadium-apartment-building.html</guid>
+      <pubDate>Tue, 04 Jun 2024 15:49:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>司法部长梅里克·加兰德回击众议院共和党藐视法庭的威胁：“我不会被吓倒”</title>
+      <link>https://www.cnbc.com/2024/06/04/merrick-garland-house-republicans-doj-trump-verdict-trump.html</link>
+      <description><![CDATA[加兰在证词中驳斥了围绕周四前总统唐纳德·特朗普历史性定罪的一系列阴谋论。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/merrick-garland-house-republicans-doj-trump-verdict-trump.html</guid>
+      <pubDate>Tue, 04 Jun 2024 15:47:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国职业棒球大联盟对图库皮塔·马卡诺处以终身禁赛处罚，原因是他因在棒球比赛中赌博</title>
+      <link>https://www.cnbc.com/2024/06/04/mlb-hits-tucupita-marcano-with-lifetime-ban-for-betting-on-baseball-games.html</link>
+      <description><![CDATA[圣地亚哥教士队的内野手是百余年来第一位因赌博而被禁赛的现役球员。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/mlb-hits-tucupita-marcano-with-lifetime-ban-for-betting-on-baseball-games.html</guid>
+      <pubDate>Tue, 04 Jun 2024 15:41:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉姆·克莱默说不要卖掉特斯拉，但要远离这只生物科技股</title>
+      <link>https://www.cnbc.com/2024/06/04/jim-cramer-dont-sell-tesla-but-stay-away-from-this-biotech-stock.html</link>
+      <description><![CDATA[吉姆·克莱默 (Jim Cramer) 周二发表了他对特斯拉、英特尔以及 CNBC 投资俱乐部投资组合之外的更多股票的看法。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/jim-cramer-dont-sell-tesla-but-stay-away-from-this-biotech-stock.html</guid>
+      <pubDate>Tue, 04 Jun 2024 15:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Roaring Kitty 的财富如何从 5.3 万美元增长至近 3 亿美元，并且有朝一日可能突破 10 亿美元</title>
+      <link>https://www.cnbc.com/2024/06/04/how-roaring-kittys-wealth-went-from-53000-to-nearly-300-million-and-could-one-day-top-1-billion.html</link>
+      <description><![CDATA[GameStop 冠军基思·吉尔 (Keith Gill) 在 GameStop 的持仓价值从 2019 年的 53,000 美元飙升至超过 2.89 亿美元。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/how-roaring-kittys-wealth-went-from-53000-to-nearly-300-million-and-could-one-day-top-1-billion.html</guid>
+      <pubDate>Tue, 04 Jun 2024 15:33:04 GMT</pubDate>
     </item>
     <item>
       <title>古根海姆表示，由于投资者不认同马斯克的自动驾驶愿景，特斯拉股价将暴跌 30%</title>
@@ -20,95 +104,11 @@
       <pubDate>Tue, 04 Jun 2024 15:21:45 GMT</pubDate>
     </item>
     <item>
-      <title>司法部长梅里克·加兰德回击众议院共和党藐视法庭的威胁：“我不会被吓倒”</title>
-      <link>https://www.cnbc.com/2024/06/04/merrick-garland-house-republicans-doj-trump-verdict-trump.html</link>
-      <description><![CDATA[加兰驳斥了围绕上周前总统唐纳德·特朗普历史性定罪的一系列阴谋论。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/merrick-garland-house-republicans-doj-trump-verdict-trump.html</guid>
-      <pubDate>Tue, 04 Jun 2024 15:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度大选结果令人震惊，莫迪领导的政党或将失去多数席位</title>
-      <link>https://www.cnbc.com/2024/06/04/india-elections-modis-bjp-led-alliance-set-for-narrower-than-expected-win.html</link>
-      <description><![CDATA[纳伦德拉·莫迪领导的印度人民党预计将赢得印度议会下院的 239 个席位，但未能获得绝对多数。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/india-elections-modis-bjp-led-alliance-set-for-narrower-than-expected-win.html</guid>
-      <pubDate>Tue, 04 Jun 2024 15:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特 5 月份电动汽车和混合动力汽车销量飙升 65%</title>
-      <link>https://www.cnbc.com/2024/06/04/ford-us-may-sales.html</link>
-      <description><![CDATA[福特周二公布其混合动力汽车和全电动汽车销量增长约 65%。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/ford-us-may-sales.html</guid>
-      <pubDate>Tue, 04 Jun 2024 15:16:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>国际货币基金组织理事克里斯塔利娜·格奥尔基耶娃：全球经济最令人担忧的趋势是“随意”的关税政策</title>
-      <link>https://www.cnbc.com/2024/06/04/most-worrying-economic-trend-is-willy-nilly-tariff-policy-imf-head.html</link>
-      <description><![CDATA[过去一年全球贸易限制措施增加了两倍，表明“各国都在不由自主地推行产业政策”，对全球经济增长构成了巨大风险。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/most-worrying-economic-trend-is-willy-nilly-tariff-policy-imf-head.html</guid>
-      <pubDate>Tue, 04 Jun 2024 15:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>4 月份职位空缺数量再次下降，达到 2021 年 2 月以来的最低水平，表明劳动力市场疲软</title>
-      <link>https://www.cnbc.com/2024/06/04/job-openings-report-april-2024-job-openings-fell-again.html</link>
-      <description><![CDATA[四月份职位空缺数量下降幅度超过预期，表明劳动力市场可能出现疲软。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/job-openings-report-april-2024-job-openings-fell-again.html</guid>
-      <pubDate>Tue, 04 Jun 2024 14:43:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 现任和前任员工警告人工智能存在“严重风险”且缺乏监管</title>
-      <link>https://www.cnbc.com/2024/06/04/openai-open-ai-risks-lack-of-oversight.html</link>
-      <description><![CDATA[OpenAI 的一群现任和前任员工周二发表了一封公开信，表达了对人工智能行业快速发展的担忧。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/openai-open-ai-risks-lack-of-oversight.html</guid>
-      <pubDate>Tue, 04 Jun 2024 14:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克下令 Nvidia 向 X 和 xAI 运送为特斯拉预留的数千颗 AI 芯片</title>
-      <link>https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html</link>
-      <description><![CDATA[Nvidia 内部流传的电子邮件显示，埃隆·马斯克 (Elon Musk) 要求该芯片制造商优先向 X 和 xAI 出货 GPU，优先于特斯拉。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/elon-musk-told-nvidia-to-ship-ai-chips-reserved-for-tesla-to-x-xai.html</guid>
-      <pubDate>Tue, 04 Jun 2024 14:38:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何找到即将移动的横向交易的疲软股票，并使用期权进行交易</title>
-      <link>https://www.cnbc.com/2024/06/04/how-to-find-sleepy-stocks-trading-sideways-that-are-about-to-move-and-trade-them-with-options.html</link>
-      <description><![CDATA[交易员 Nishant Pant 描述了他工作中经常使用的交易设置。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/how-to-find-sleepy-stocks-trading-sideways-that-are-about-to-move-and-trade-them-with-options.html</guid>
-      <pubDate>Tue, 04 Jun 2024 14:34:18 GMT</pubDate>
-    </item>
-    <item>
       <title>派拉蒙领导团队在年度会议上概述了裁员情况并公布了合资计划</title>
       <link>https://www.cnbc.com/2024/06/04/paramount-annual-meeting-job-cuts-streaming-jv.html</link>
-      <description><![CDATA[派拉蒙和天舞电影公司已同意合并条款，但该交易仍在等待控股股东莎莉·雷石东 (Shari Redstone) 的批准。]]></description>
+      <description><![CDATA[派拉蒙和天舞电影公司已同意合并条款，但交易仍在等待控股股东莎莉·雷石东 (Shari Redstone) 的批准。]]></description>
       <guid>https://www.cnbc.com/2024/06/04/paramount-annual-meeting-job-cuts-streaming-jv.html</guid>
       <pubDate>Tue, 04 Jun 2024 14:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国小企业管理局推出高达 500 万美元的新信贷额度，为小企业提供资金</title>
-      <link>https://www.cnbc.com/2024/06/04/sba-7a-working-capital-for-small-businesses.html</link>
-      <description><![CDATA[该项目是美国小企业管理局在局长伊莎贝尔·卡西利亚斯·古兹曼 (Isabel Casillas Guzman) 领导下扩大其针对美国小企业旗舰贷款计划的努力之一。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/sba-7a-working-capital-for-small-businesses.html</guid>
-      <pubDate>Tue, 04 Jun 2024 14:14:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>好莱坞的杰弗里·卡森伯格押注网络安全，避开数字媒体，寻找初创企业</title>
-      <link>https://www.cnbc.com/2024/06/04/jeffrey-katzenberg-wndrco-raises-460-million.html</link>
-      <description><![CDATA[梦工厂联合创始人杰弗瑞·卡森伯格为其新基金筹集了 4.6 亿美元，并将赌注押在网络安全和未来工作上，而不是数字媒体。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/jeffrey-katzenberg-wndrco-raises-460-million.html</guid>
-      <pubDate>Tue, 04 Jun 2024 13:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPEC+增加供应，美国原油延续跌势，跌破每桶 73 美元</title>
-      <link>https://www.cnbc.com/2024/06/04/crude-oil-prices-today.html</link>
-      <description><![CDATA[由于 OPEC+ 计划从 10 月份开始增产，油价已抹去了今年的大部分涨幅。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/crude-oil-prices-today.html</guid>
-      <pubDate>Tue, 04 Jun 2024 12:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，足球明星姆巴佩转会皇马将获得至少 1.08 亿美元的奖金</title>
-      <link>https://www.cnbc.com/2024/06/04/real-madrid-mbappe-reportedly-set-to-receive-108-million-bonus.html</link>
-      <description><![CDATA[据报道，法国足球明星基利安·姆巴佩 (Kylian Mbappe) 未来五年将获得至少 8500 万英镑（1.084 亿美元）的签约奖金。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/real-madrid-mbappe-reportedly-set-to-receive-108-million-bonus.html</guid>
-      <pubDate>Tue, 04 Jun 2024 12:09:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
