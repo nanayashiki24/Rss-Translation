@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Tue, 04 Jun 2024 15:18:00 GMT</lastBuildDate>
+    <item>
+      <title>特朗普 2020 年竞选助理、律师因威斯康星州伪造选举人票案被起诉</title>
+      <link>https://www.cnbc.com/2024/06/04/trump-2020-campaign-aide-lawyers-charged-in-wisconsin-fake-electors-case.html</link>
+      <description><![CDATA[威斯康星州是 2020 年美国总统大选中拜登领先唐纳德·特朗普的几个摇摆州之一。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/trump-2020-campaign-aide-lawyers-charged-in-wisconsin-fake-electors-case.html</guid>
+      <pubDate>Tue, 04 Jun 2024 15:30:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>古根海姆表示，由于投资者不认同马斯克的自动驾驶愿景，特斯拉股价将暴跌 30%</title>
+      <link>https://www.cnbc.com/2024/06/04/tesla-shares-to-tumble-30percent-as-investors-fail-to-buy-into-musks-autonomy-vision-says-guggenheim.html</link>
+      <description><![CDATA[古根海姆表示，特斯拉投资者未来可能还会面临更多痛苦。]]></description>
+      <guid>https://www.cnbc.com/2024/06/04/tesla-shares-to-tumble-30percent-as-investors-fail-to-buy-into-musks-autonomy-vision-says-guggenheim.html</guid>
+      <pubDate>Tue, 04 Jun 2024 15:21:45 GMT</pubDate>
+    </item>
     <item>
       <title>司法部长梅里克·加兰德回击众议院共和党藐视法庭的威胁：“我不会被吓倒”</title>
       <link>https://www.cnbc.com/2024/06/04/merrick-garland-house-republicans-doj-trump-verdict-trump.html</link>
@@ -27,13 +41,6 @@
       <pubDate>Tue, 04 Jun 2024 15:16:21 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普 2020 年竞选助理、律师因威斯康星州伪造选举人票案被起诉</title>
-      <link>https://www.cnbc.com/2024/06/04/trump-2020-campaign-aide-lawyers-charged-in-wisconsin-fake-electors-case.html</link>
-      <description><![CDATA[威斯康星州是 2020 年美国总统大选中拜登领先唐纳德·特朗普的几个摇摆州之一。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/trump-2020-campaign-aide-lawyers-charged-in-wisconsin-fake-electors-case.html</guid>
-      <pubDate>Tue, 04 Jun 2024 15:15:09 GMT</pubDate>
-    </item>
-    <item>
       <title>国际货币基金组织理事克里斯塔利娜·格奥尔基耶娃：全球经济最令人担忧的趋势是“随意”的关税政策</title>
       <link>https://www.cnbc.com/2024/06/04/most-worrying-economic-trend-is-willy-nilly-tariff-policy-imf-head.html</link>
       <description><![CDATA[过去一年全球贸易限制措施增加了两倍，表明“各国都在不由自主地推行产业政策”，对全球经济增长构成了巨大风险。]]></description>
@@ -41,16 +48,9 @@
       <pubDate>Tue, 04 Jun 2024 15:05:35 GMT</pubDate>
     </item>
     <item>
-      <title>古根海姆表示，由于投资者不认同马斯克的自动驾驶愿景，特斯拉股价将暴跌 30%</title>
-      <link>https://www.cnbc.com/2024/06/04/tesla-shares-to-tumble-30percent-as-investors-fail-to-buy-into-musks-autonomy-vision-says-guggenheim.html</link>
-      <description><![CDATA[古根海姆表示，特斯拉投资者未来可能还会面临更多痛苦。]]></description>
-      <guid>https://www.cnbc.com/2024/06/04/tesla-shares-to-tumble-30percent-as-investors-fail-to-buy-into-musks-autonomy-vision-says-guggenheim.html</guid>
-      <pubDate>Tue, 04 Jun 2024 15:04:22 GMT</pubDate>
-    </item>
-    <item>
       <title>4 月份职位空缺数量再次下降，达到 2021 年 2 月以来的最低水平，表明劳动力市场疲软</title>
       <link>https://www.cnbc.com/2024/06/04/job-openings-report-april-2024-job-openings-fell-again.html</link>
-      <description><![CDATA[四月份职位空缺数量下降幅度超过预期，表明劳动力市场可能正在疲软。]]></description>
+      <description><![CDATA[四月份职位空缺数量下降幅度超过预期，表明劳动力市场可能出现疲软。]]></description>
       <guid>https://www.cnbc.com/2024/06/04/job-openings-report-april-2024-job-openings-fell-again.html</guid>
       <pubDate>Tue, 04 Jun 2024 14:43:36 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>派拉蒙领导团队在年度会议上概述了裁员情况并公布了合资计划</title>
       <link>https://www.cnbc.com/2024/06/04/paramount-annual-meeting-job-cuts-streaming-jv.html</link>
-      <description><![CDATA[派拉蒙和天舞电影公司已同意合并条款，但交易仍在等待控股股东莎莉·雷石东 (Shari Redstone) 的批准。]]></description>
+      <description><![CDATA[派拉蒙和天舞电影公司已同意合并条款，但该交易仍在等待控股股东莎莉·雷石东 (Shari Redstone) 的批准。]]></description>
       <guid>https://www.cnbc.com/2024/06/04/paramount-annual-meeting-job-cuts-streaming-jv.html</guid>
       <pubDate>Tue, 04 Jun 2024 14:14:58 GMT</pubDate>
     </item>
