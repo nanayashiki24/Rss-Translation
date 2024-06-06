@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 06 Jun 2024 20:04:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 06 Jun 2024 20:20:00 GMT</lastBuildDate>
+    <item>
+      <title>以下是周五的重要就业报告的预期内容</title>
+      <link>https://www.cnbc.com/2024/06/06/heres-what-to-expect-from-fridays-big-jobs-report.html</link>
+      <description><![CDATA[接受道琼斯调查的经济学家预计，美国劳工统计局将报告美国经济当月新增 190,000 个就业岗位。]]></description>
+      <guid>https://www.cnbc.com/2024/06/06/heres-what-to-expect-from-fridays-big-jobs-report.html</guid>
+      <pubDate>Thu, 06 Jun 2024 20:36:51 GMT</pubDate>
+    </item>
     <item>
       <title>Five Below 首席执行官表示，低端消费者“确实捉襟见肘”</title>
       <link>https://www.cnbc.com/2024/06/06/the-low-end-consumer-is-really-being-stretched-says-five-below-ceo.html</link>
@@ -20,18 +27,11 @@
       <pubDate>Thu, 06 Jun 2024 20:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>英国科技先驱迈克·林奇在美国欺诈案审判中被判无罪</title>
-      <link>https://www.cnbc.com/2024/06/06/british-tech-pioneer-mike-lynch-acquitted-at-us-fraud-trial.html</link>
-      <description><![CDATA[对于这位自 2011 年将公司出售给惠普以来一直受到法律问题困扰的企业家来说，这是一个重大胜利。]]></description>
-      <guid>https://www.cnbc.com/2024/06/06/british-tech-pioneer-mike-lynch-acquitted-at-us-fraud-trial.html</guid>
-      <pubDate>Thu, 06 Jun 2024 20:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是周五的重要就业报告的预期内容</title>
-      <link>https://www.cnbc.com/2024/06/06/heres-what-to-expect-from-fridays-big-jobs-report.html</link>
-      <description><![CDATA[接受道琼斯调查的经济学家预计，美国劳工统计局将报告美国经济当月新增 190,000 个就业岗位。]]></description>
-      <guid>https://www.cnbc.com/2024/06/06/heres-what-to-expect-from-fridays-big-jobs-report.html</guid>
-      <pubDate>Thu, 06 Jun 2024 20:00:18 GMT</pubDate>
+      <title>Rivian 重新设计全电动 R1 皮卡和 SUV，添加 Nvidia 芯片并提高性能</title>
+      <link>https://www.cnbc.com/2024/06/06/rivian-r1-pickup-suv-redesigned.html</link>
+      <description><![CDATA[Rivian 表示，与预期的 R2 型号相比，它已经为第二代产品改变了一半以上的硬件组件。]]></description>
+      <guid>https://www.cnbc.com/2024/06/06/rivian-r1-pickup-suv-redesigned.html</guid>
+      <pubDate>Thu, 06 Jun 2024 19:49:16 GMT</pubDate>
     </item>
     <item>
       <title>堕落天使 ETF 收益率约为 7%，表现优异，但也存在一定风险</title>
@@ -57,7 +57,7 @@
     <item>
       <title>亿万富翁弗兰克·麦考特 (Frank McCourt) 对 TikTok 的竞标赢得了关键支持者，因为他看重的是该应用的珍贵算法</title>
       <link>https://www.cnbc.com/2024/06/06/billionaire-frank-mccourts-tiktok-bid-backed-by-parents-group.html</link>
-      <description><![CDATA[今年 4 月，美国总统乔·拜登签署了一项联邦法案，敦促字节跳动出售 TikTok，否则将面临禁令，此后，TikTok 的潜在买家开始虎视眈眈。]]></description>
+      <description><![CDATA[今年 4 月，美国总统乔·拜登签署了一项联邦法案，敦促字节跳动出售 TikTok，否则将面临禁令，此后，TikTok 的潜在买家开始纷纷行动起来。]]></description>
       <guid>https://www.cnbc.com/2024/06/06/billionaire-frank-mccourts-tiktok-bid-backed-by-parents-group.html</guid>
       <pubDate>Thu, 06 Jun 2024 19:15:14 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 06 Jun 2024 17:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>电动汽车销量低迷，赫兹低价出售二手特斯拉汽车，售价降至 25,000 美元</title>
+      <title>电动汽车销量低迷，赫兹低价甩卖二手特斯拉汽车，售价降至 25,000 美元</title>
       <link>https://www.cnbc.com/2024/06/06/ev-sales-slump-hertz-dump-take-used-tesla-to-no-haggle-25000-price.html</link>
       <description><![CDATA[随着赫兹公司战略性地抛售其特斯拉汽车，以及二手电动汽车价格的暴跌，25,000 美元的特斯拉汽车已经成为现实。]]></description>
       <guid>https://www.cnbc.com/2024/06/06/ev-sales-slump-hertz-dump-take-used-tesla-to-no-haggle-25000-price.html</guid>
