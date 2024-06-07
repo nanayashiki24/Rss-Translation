@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Fri, 07 Jun 2024 22:29:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Fri, 07 Jun 2024 23:03:00 GMT</lastBuildDate>
+    <item>
+      <title>纳德拉、纳拉延等科技公司 CEO 投资板球“美国梦”</title>
+      <link>https://www.cnbc.com/2024/06/07/nadella-narayen-among-tech-ceos-investing-in-crickets-american-dream.html</link>
+      <description><![CDATA[随着首次由美国联合主办的男子 T20 板球世界杯的升温，投资者寻求将这项运动带入美国主流。]]></description>
+      <guid>https://www.cnbc.com/2024/06/07/nadella-narayen-among-tech-ceos-investing-in-crickets-american-dream.html</guid>
+      <pubDate>Fri, 07 Jun 2024 23:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉姆·克莱默指出，在经济放缓的情况下，包装食品类股票可能会表现良好</title>
+      <link>https://www.cnbc.com/2024/06/07/cramer-packaged-food-stocks-likely-to-do-well-in-a-slower-economy.html</link>
+      <description><![CDATA[CNBC 的吉姆克莱默 (Jim Cramer) 指出，其中有金宝汤和 J.M. Smucker，以及泰森食品、荷美尔、通用磨坊、康尼格拉和凯拉诺瓦。]]></description>
+      <guid>https://www.cnbc.com/2024/06/07/cramer-packaged-food-stocks-likely-to-do-well-in-a-slower-economy.html</guid>
+      <pubDate>Fri, 07 Jun 2024 22:47:55 GMT</pubDate>
+    </item>
     <item>
       <title>吉姆·克莱默 (Jim Cramer) 的本周展望：美联储会议和 CPI 报告</title>
       <link>https://www.cnbc.com/2024/06/07/jim-cramer-cpi-report-fed-meeting-wwdc24.html</link>
@@ -62,13 +76,6 @@
       <pubDate>Fri, 07 Jun 2024 20:22:03 GMT</pubDate>
     </item>
     <item>
-      <title>5 月份就业数据超出预期，美国国债收益率飙升</title>
-      <link>https://www.cnbc.com/2024/06/07/us-treasurys-ahead-of-may-jobs-report.html</link>
-      <description><![CDATA[五月份非农就业人数增幅超过预期，导致美国国债收益率周五上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/06/07/us-treasurys-ahead-of-may-jobs-report.html</guid>
-      <pubDate>Fri, 07 Jun 2024 20:14:42 GMT</pubDate>
-    </item>
-    <item>
       <title>“咆哮的小猫”交易员在直播中透露有关该零售商的最新消息，GameStop 股价暴跌 40%</title>
       <link>https://www.cnbc.com/2024/06/07/following-gamestop-action-during-roaring-kitty-livestream.html</link>
       <description><![CDATA[基思·吉尔 (Keith Gill)，更为人熟知的绰号是“咆哮的小猫”，计划自三年前模因股票热潮爆发以来首次举办直播。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[亨特·拜登被指控三项罪名，涉及购买和持有柯尔特眼镜蛇左轮手枪以及吸食非法毒品。]]></description>
       <guid>https://www.cnbc.com/2024/06/07/hunter-biden-trial-prosecution-rests.html</guid>
       <pubDate>Fri, 07 Jun 2024 18:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软表示，在遭到强烈反对后，新电脑上的 AI 截图功能将默认关闭</title>
-      <link>https://www.cnbc.com/2024/06/07/microsoft-says-its-upcoming-recall-featu.html</link>
-      <description><![CDATA[安全研究人员表示，随着 Recall（一种通过自动生成的屏幕截图进行搜索的功能）的推出，黑客可以获取用户电脑上的数据。]]></description>
-      <guid>https://www.cnbc.com/2024/06/07/microsoft-says-its-upcoming-recall-featu.html</guid>
-      <pubDate>Fri, 07 Jun 2024 18:34:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
