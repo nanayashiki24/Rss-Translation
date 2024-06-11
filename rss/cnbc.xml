@@ -3,21 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 11 Jun 2024 06:09:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 11 Jun 2024 07:18:00 GMT</lastBuildDate>
+    <item>
+      <title>计算机公司 Raspberry Pi 在伦敦市场首次亮相，股价上涨 32%</title>
+      <link>https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html</link>
+      <description><![CDATA[周二，Raspberry Pi 股价在市场首次亮相时上涨了 32%，这家英国计算机初创公司希望通过首次公开募股筹集约 1.66 亿英镑（2.112 亿美元）。]]></description>
+      <guid>https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html</guid>
+      <pubDate>Tue, 11 Jun 2024 07:34:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟预计将于本周公布针对中国电动汽车的关税计划</title>
+      <link>https://www.cnbc.com/2024/06/11/eu-is-expected-to-unveil-tariff-plans-for-chinese-evs-this-week.html</link>
+      <description><![CDATA[欧盟声称中国对汽车的补贴“对欧盟的电动汽车行业构成了经济威胁”。]]></description>
+      <guid>https://www.cnbc.com/2024/06/11/eu-is-expected-to-unveil-tariff-plans-for-chinese-evs-this-week.html</guid>
+      <pubDate>Tue, 11 Jun 2024 07:13:52 GMT</pubDate>
+    </item>
     <item>
       <title>马克龙在法国提前大选的赌博再次引发了人们对他傲慢的批评</title>
       <link>https://www.cnbc.com/2024/06/11/macrons-snap-election-resurfaces-an-old-criticism-that-hes-arrogant.html</link>
       <description><![CDATA[批评人士表示，提前举行选举是一位“绝望”总统的举动，他被指责为傲慢和脱离实际。]]></description>
       <guid>https://www.cnbc.com/2024/06/11/macrons-snap-election-resurfaces-an-old-criticism-that-hes-arrogant.html</guid>
       <pubDate>Tue, 11 Jun 2024 06:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算公司 Raspberry Pi 将在伦敦罕见科技 IPO 中募集 2.11 亿美元</title>
-      <link>https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html</link>
-      <description><![CDATA[Raspberry Pi 是一家生产微型单板计算机的公司，其在伦敦 IPO 的发行价为每股 280 便士。]]></description>
-      <guid>https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html</guid>
-      <pubDate>Tue, 11 Jun 2024 06:31:59 GMT</pubDate>
     </item>
     <item>
       <title>投资者为美联储政策会议开始做准备，股指期货下跌：实时更新</title>
@@ -48,16 +55,9 @@
       <pubDate>Tue, 11 Jun 2024 00:54:50 GMT</pubDate>
     </item>
     <item>
-      <title>台湾能源危机或对全球半导体行业造成“冲击”</title>
-      <link>https://www.cnbc.com/2024/06/11/taiwans-energy-crunch-could-throw-a-wrench-into-global-chip-industry.html</link>
-      <description><![CDATA[作为全球半导体强国的台湾正面临电力短缺，这可能给芯片制造商带来麻烦。]]></description>
-      <guid>https://www.cnbc.com/2024/06/11/taiwans-energy-crunch-could-throw-a-wrench-into-global-chip-industry.html</guid>
-      <pubDate>Tue, 11 Jun 2024 00:51:55 GMT</pubDate>
-    </item>
-    <item>
       <title>这只低调的科技股是人工智能的“推动者”，分析师认为它有 40% 的上涨空间</title>
       <link>https://www.cnbc.com/2024/06/11/gen-ai-enabler-stock-is-expected-to-rise-40percent-say-analysts-about-informatica-shares.html</link>
-      <description><![CDATA[这家总部位于加利福尼亚的公司推出了一种新的人工智能模型，预计将帮助企业将其数据用于生成人工智能应用。]]></description>
+      <description><![CDATA[这家总部位于加州的公司推出了一种新的人工智能模型，预计将帮助企业将其数据用于生成人工智能应用。]]></description>
       <guid>https://www.cnbc.com/2024/06/11/gen-ai-enabler-stock-is-expected-to-rise-40percent-say-analysts-about-informatica-shares.html</guid>
       <pubDate>Mon, 10 Jun 2024 23:59:48 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Mon, 10 Jun 2024 23:59:03 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克因与 OpenAI 合作威胁禁止其公司使用苹果设备</title>
+      <title>埃隆·马斯克因与 OpenAI 合作威胁禁止其公司使用 Apple 设备</title>
       <link>https://www.cnbc.com/2024/06/10/elon-musk-to-ban-apple-devices-from-his-companies-over-openai-deal.html</link>
       <description><![CDATA[在苹果宣布与 OpenAI 合作数小时后，特斯拉首席执行官埃隆马斯克威胁要禁止其公司使用其设备。]]></description>
       <guid>https://www.cnbc.com/2024/06/10/elon-musk-to-ban-apple-devices-from-his-companies-over-openai-deal.html</guid>
