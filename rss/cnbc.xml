@@ -3,12 +3,12 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 12 Jun 2024 05:15:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 12 Jun 2024 05:37:00 GMT</lastBuildDate>
     <item>
       <title>亚马逊 AWS 将在台湾推出新的基础设施区域，助力亚太地区快速扩张</title>
       <link>https://www.cnbc.com/2024/06/12/aws-to-launch-new-infrastructure-region-in-taiwan-as-it-expands-in-apac.html</link>
-      <description><![CDATA[亚马逊网络服务公司表示，它正在寻求满足亚太地区“对云服务的高需求”。]]></description>
+      <description><![CDATA[亚马逊网络服务表示，它正在寻求满足亚太地区“对云服务的高需求”。]]></description>
       <guid>https://www.cnbc.com/2024/06/12/aws-to-launch-new-infrastructure-region-in-taiwan-as-it-expands-in-apac.html</guid>
       <pubDate>Wed, 12 Jun 2024 05:14:24 GMT</pubDate>
     </item>
@@ -27,14 +27,7 @@
       <pubDate>Wed, 12 Jun 2024 03:45:59 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉股东起诉马斯克归还数十亿美元的非法利润</title>
-      <link>https://www.cnbc.com/2024/06/12/tesla-shareholder-sues-musk-to-return-billions-in-alleged-unlawful-profits.html</link>
-      <description><![CDATA[一名机构股东在周二提起的诉讼中指控，埃隆·马斯克利用内幕信息出售特斯拉股票，获利数十亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/06/12/tesla-shareholder-sues-musk-to-return-billions-in-alleged-unlawful-profits.html</guid>
-      <pubDate>Wed, 12 Jun 2024 02:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>内森热狗大赛与冠军乔伊·切斯特纳特分道扬镳，转而与植物基香肠合作</title>
+      <title>内森热狗大赛与冠军乔伊·切斯特纳特分道扬镳，转而与植物性香肠合作</title>
       <link>https://www.cnbc.com/2024/06/11/joey-chestnut-out-of-nathans-hot-dog-contest.html</link>
       <description><![CDATA[美国职业大胃王 (Major League Eating) 将在今年 7 月 4 日由 Nathan&#39;s Famous 主办的热狗大赛之前与 16 届冠军乔伊·切斯特纳 (Joey Chestnut) 分道扬镳。]]></description>
       <guid>https://www.cnbc.com/2024/06/11/joey-chestnut-out-of-nathans-hot-dog-contest.html</guid>
@@ -57,9 +50,16 @@
     <item>
       <title>尽管盈利未达预期，但 Oracle 股价因谷歌和 OpenAI 交易而上涨</title>
       <link>https://www.cnbc.com/2024/06/11/oracle-orcl-q4-earnings-report-2024.html</link>
-      <description><![CDATA[Oracle 正在拨付资金用于数据中心建设以满足 OpenAI 的需求，并将其商标数据库引入其他公共云。]]></description>
+      <description><![CDATA[Oracle 正在分配资金用于数据中心建设以满足 OpenAI 的需求，并将其商标数据库引入其他公共云。]]></description>
       <guid>https://www.cnbc.com/2024/06/11/oracle-orcl-q4-earnings-report-2024.html</guid>
       <pubDate>Tue, 11 Jun 2024 23:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>世界经济论坛称，全球性别差距可能需要 134 年才能消除，但 2024 年选举带来希望</title>
+      <link>https://www.cnbc.com/2024/06/11/wef-2024-election-cycle-offers-hope-for-134-year-global-gender-gap.html</link>
+      <description><![CDATA[世界经济论坛表示，2024 年的大选周期为缩小全球性别差距提供了独特的机会。]]></description>
+      <guid>https://www.cnbc.com/2024/06/11/wef-2024-election-cycle-offers-hope-for-134-year-global-gender-gap.html</guid>
+      <pubDate>Tue, 11 Jun 2024 22:02:01 GMT</pubDate>
     </item>
     <item>
       <title>美联储会议和通胀报告周三公布，影响可能巨大</title>
@@ -97,7 +97,7 @@
       <pubDate>Tue, 11 Jun 2024 19:14:17 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 前员工担心公司对其数百万美元股份的控制权</title>
+      <title>OpenAI 前员工担心公司对其价值数百万美元的股份的控制权</title>
       <link>https://www.cnbc.com/2024/06/11/openai-insider-stock-sales-are-raising-concern-among-ex-employees-.html</link>
       <description><![CDATA[OpenAI 计划定期允许员工出售部分股权，但前员工担心他们不会得到平等对待。]]></description>
       <guid>https://www.cnbc.com/2024/06/11/openai-insider-stock-sales-are-raising-concern-among-ex-employees-.html</guid>
