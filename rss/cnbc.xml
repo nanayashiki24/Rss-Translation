@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
     <lastBuildDate>Thu, 13 Jun 2024 21:15:00 GMT</lastBuildDate>
+    <item>
+      <title>Adobe 业绩好于预期，股价飙升 17%</title>
+      <link>https://www.cnbc.com/2024/06/13/adobe-adbe-q2-earnings-report-2024.html</link>
+      <description><![CDATA[Adobe 周四公布的业绩超出了分析师的预期。]]></description>
+      <guid>https://www.cnbc.com/2024/06/13/adobe-adbe-q2-earnings-report-2024.html</guid>
+      <pubDate>Thu, 13 Jun 2024 21:35:43 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉股东投票决定恢复埃隆·马斯克的 560 亿美元薪酬方案</title>
       <link>https://www.cnbc.com/2024/06/13/tesla-shareholder-elon-musk-pay-package-at-annual-meeting.html</link>
       <description><![CDATA[在周四特斯拉的年度股东大会上，股东们被要求对十几项提案进行投票，其中包括首席执行官埃隆马斯克的 2018 年薪酬方案。]]></description>
       <guid>https://www.cnbc.com/2024/06/13/tesla-shareholder-elon-musk-pay-package-at-annual-meeting.html</guid>
-      <pubDate>Thu, 13 Jun 2024 21:18:08 GMT</pubDate>
+      <pubDate>Thu, 13 Jun 2024 21:27:29 GMT</pubDate>
     </item>
     <item>
       <title>受通胀数据回落提振，标普 500 指数连续第四次创下收盘新高：实时更新</title>
@@ -18,13 +25,6 @@
       <description><![CDATA[在投资者获得更多表明通胀压力正在缓解的经济数据后，标准普尔 500 指数周四连续第四次创下收盘纪录。]]></description>
       <guid>https://www.cnbc.com/2024/06/12/stock-market-today-live-updates.html</guid>
       <pubDate>Thu, 13 Jun 2024 21:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 业绩好于预期，股价飙升 15%</title>
-      <link>https://www.cnbc.com/2024/06/13/adobe-adbe-q2-earnings-report-2024.html</link>
-      <description><![CDATA[Adobe 周四公布的业绩超出了分析师的预期。]]></description>
-      <guid>https://www.cnbc.com/2024/06/13/adobe-adbe-q2-earnings-report-2024.html</guid>
-      <pubDate>Thu, 13 Jun 2024 21:13:18 GMT</pubDate>
     </item>
     <item>
       <title>由于参与人数过多，GameStop 年度股东大会服务器崩溃</title>
@@ -83,7 +83,7 @@
       <pubDate>Thu, 13 Jun 2024 17:22:41 GMT</pubDate>
     </item>
     <item>
-      <title>以下是 2024 年 5 月通货紧缩的“微型区域”——一张图表</title>
+      <title>以下是 2024 年 5 月通货紧缩的“微小区域”——一张图表</title>
       <link>https://www.cnbc.com/2024/06/13/deflation-cpi-may-2024-in-one-chart.html</link>
       <description><![CDATA[通货紧缩与通货膨胀相反：通货紧缩指的是价格下跌的速度。消费者预算的某些领域已经出现了这种情况。]]></description>
       <guid>https://www.cnbc.com/2024/06/13/deflation-cpi-may-2024-in-one-chart.html</guid>
