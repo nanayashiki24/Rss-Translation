@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
     <lastBuildDate>Tue, 18 Jun 2024 15:09:00 GMT</lastBuildDate>
+    <item>
+      <title>纽约最高法院驳回特朗普禁言令上诉</title>
+      <link>https://www.cnbc.com/2024/06/18/trump-gag-order-appeal-new-york.html</link>
+      <description><![CDATA[美国前总统唐纳德·特朗普被判犯有伪造商业记录罪，这是他为掩盖向色情明星斯托米·丹尼尔斯支付封口费的行为的一部分。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/trump-gag-order-appeal-new-york.html</guid>
+      <pubDate>Tue, 18 Jun 2024 15:35:14 GMT</pubDate>
+    </item>
     <item>
       <title>一项广受关注的调查显示，投资者的乐观情绪达到 2021 年 11 月以来的最高水平</title>
       <link>https://www.cnbc.com/2024/06/18/investors-are-most-bullish-since-nov-2021-widely-followed-survey-says.html</link>
@@ -13,16 +20,9 @@
       <pubDate>Tue, 18 Jun 2024 15:13:17 GMT</pubDate>
     </item>
     <item>
-      <title>纽约最高法院驳回特朗普禁言令上诉</title>
-      <link>https://www.cnbc.com/2024/06/18/trump-gag-order-appeal-new-york.html</link>
-      <description><![CDATA[美国前总统唐纳德·特朗普被判伪造商业记录，以掩盖向色情明星斯托米·丹尼尔斯支付封口费的行为。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/trump-gag-order-appeal-new-york.html</guid>
-      <pubDate>Tue, 18 Jun 2024 15:02:22 GMT</pubDate>
-    </item>
-    <item>
       <title>美国银行称，美联储必须先降低住房通胀率，才能考虑降息</title>
       <link>https://www.cnbc.com/2024/06/18/housing-inflation-will-need-to-come-down-before-the-fed-can-think-about-cutting-rates.html</link>
-      <description><![CDATA[住房成本是今年通胀形势的核心，令政策制定者感到苦恼。]]></description>
+      <description><![CDATA[住房成本是今年通胀形势的核心，令政策制定者苦恼不已。]]></description>
       <guid>https://www.cnbc.com/2024/06/18/housing-inflation-will-need-to-come-down-before-the-fed-can-think-about-cutting-rates.html</guid>
       <pubDate>Tue, 18 Jun 2024 15:00:51 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>5 月份零售额增长 0.1%，低于预期</title>
       <link>https://www.cnbc.com/2024/06/18/retail-sales-report-may-2024-may-retail-sales-rise-0point1percent.html</link>
-      <description><![CDATA[根据道琼斯指数的预测，5月份零售额预计增长0.2%。]]></description>
+      <description><![CDATA[根据道琼斯指数的预测，5月份零售额预计将增长0.2%。]]></description>
       <guid>https://www.cnbc.com/2024/06/18/retail-sales-report-may-2024-may-retail-sales-rise-0point1percent.html</guid>
       <pubDate>Tue, 18 Jun 2024 13:58:21 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>电动汽车初创公司 Fisker 申请破产，旨在出售资产</title>
       <link>https://www.cnbc.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy-aims-to-sell-assets.html</link>
-      <description><![CDATA[周一晚些时候，菲斯克申请破产保护，这家电动汽车制造商希望通过出售资产和重组债务来挽救其业务。]]></description>
+      <description><![CDATA[周一晚些时候，电动汽车制造商菲斯克申请破产保护，希望通过出售资产和重组债务来挽救其业务。]]></description>
       <guid>https://www.cnbc.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy-aims-to-sell-assets.html</guid>
       <pubDate>Tue, 18 Jun 2024 13:48:10 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>亚马逊工会投票决定与卡车司机工会联手</title>
       <link>https://www.cnbc.com/2024/06/18/amazon-labor-union-votes-to-join-forces-with-teamsters.html</link>
-      <description><![CDATA[在合同谈判陷入僵局后，新协议可能会迫使亚马逊坐到谈判桌上。]]></description>
+      <description><![CDATA[在合同谈判陷入僵局后，新协议可能会迫使亚马逊坐到谈判桌前。]]></description>
       <guid>https://www.cnbc.com/2024/06/18/amazon-labor-union-votes-to-join-forces-with-teamsters.html</guid>
       <pubDate>Tue, 18 Jun 2024 13:24:01 GMT</pubDate>
     </item>
