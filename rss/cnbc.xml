@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 18 Jun 2024 21:07:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 18 Jun 2024 22:08:00 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊因违反加州 59,000 多起劳动法被罚款</title>
+      <link>https://www.cnbc.com/2024/06/18/amazon-hit-with-5point9-million-fine-for-violating-california-labor-law.html</link>
+      <description><![CDATA[官员们对南加州两家亚马逊仓库进行了调查，发现它们“未能提供配额的书面通知”。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/amazon-hit-with-5point9-million-fine-for-violating-california-labor-law.html</guid>
+      <pubDate>Tue, 18 Jun 2024 22:10:08 GMT</pubDate>
+    </item>
     <item>
       <title>波音公司首席执行官遭参议院小组猛烈批评：“你还在任，真是可笑”</title>
       <link>https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html</link>
       <description><![CDATA[今年 1 月，在阿拉斯加航空公司的一次飞行中，波音公司一架几乎全新的 737 Max 飞机的一个门塞被炸掉，此后波音公司遭到批评。]]></description>
       <guid>https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html</guid>
-      <pubDate>Tue, 18 Jun 2024 21:34:15 GMT</pubDate>
+      <pubDate>Tue, 18 Jun 2024 21:57:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>FTC 将 TikTok 投诉转交司法部</title>
+      <link>https://www.cnbc.com/2024/06/18/ftc-refers-tiktok-complaint-to-doj.html</link>
+      <description><![CDATA[美国联邦贸易委员会表示，已将针对 TikTok 和字节跳动的投诉提交给司法部。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/ftc-refers-tiktok-complaint-to-doj.html</guid>
+      <pubDate>Tue, 18 Jun 2024 21:38:49 GMT</pubDate>
     </item>
     <item>
       <title>特朗普媒体股价暴跌 17%，新上市的 DJT 股票将稀释其股价</title>
@@ -18,20 +32,6 @@
       <description><![CDATA[特朗普媒体 (Trump Media) 的股票代码为 DJT，其拥有其大股东前总统唐纳德·特朗普 (Donald Trump) 使用的 Truth Social 应用程序。]]></description>
       <guid>https://www.cnbc.com/2024/06/18/trump-media-shares-plunge-17percent-with-newly-available-shares-set-to-dilute-stock-value.html</guid>
       <pubDate>Tue, 18 Jun 2024 21:13:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊因违反加州劳动法被罚款 590 万美元</title>
-      <link>https://www.cnbc.com/2024/06/18/amazon-hit-with-5point9-million-fine-for-violating-california-labor-law.html</link>
-      <description><![CDATA[官员们调查了南加州的两个亚马逊仓库，发现它们“未能提供配额的书面通知”。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/amazon-hit-with-5point9-million-fine-for-violating-california-labor-law.html</guid>
-      <pubDate>Tue, 18 Jun 2024 20:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTC 将 TikTok 投诉转交司法部</title>
-      <link>https://www.cnbc.com/2024/06/18/ftc-refers-tiktok-complaint-to-doj.html</link>
-      <description><![CDATA[美国联邦贸易委员会表示，已将针对 TikTok 和字节跳动的投诉提交给司法部。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/ftc-refers-tiktok-complaint-to-doj.html</guid>
-      <pubDate>Tue, 18 Jun 2024 20:25:17 GMT</pubDate>
     </item>
     <item>
       <title>标普 500 指数周二再创收盘新高，英伟达市值超越微软：实时更新</title>
@@ -78,7 +78,7 @@
     <item>
       <title>CNBC Crypto World：加密货币整体回调，主要山寨币下跌</title>
       <link>https://www.cnbc.com/video/2024/06/18/major-altcoins-sink-broader-crypto-pullback-crypto-world.html</link>
-      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来情况。在今天的节目中，Off The Chain Capital 的 Brian Dixon 讨论了比特币和其他加密货币近期回调背后的因素。]]></description>
+      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来的情况。在今天的节目中，Off The Chain Capital 的 Brian Dixon 讨论了比特币和其他加密货币最近回调背后的因素。]]></description>
       <guid>https://www.cnbc.com/video/2024/06/18/major-altcoins-sink-broader-crypto-pullback-crypto-world.html</guid>
       <pubDate>Tue, 18 Jun 2024 19:00:01 GMT</pubDate>
     </item>
