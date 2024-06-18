@@ -3,21 +3,63 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 18 Jun 2024 19:24:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 18 Jun 2024 20:15:00 GMT</lastBuildDate>
     <item>
-      <title>波音公司首席执行官遭参议院小组猛烈批评：“你还在任，真是可笑”</title>
-      <link>https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html</link>
-      <description><![CDATA[今年 1 月，在阿拉斯加航空公司的一次飞行中，波音公司一架几乎全新的 737 Max 飞机的一个门塞被炸掉，此后波音公司遭到批评。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html</guid>
-      <pubDate>Tue, 18 Jun 2024 19:36:52 GMT</pubDate>
+      <title>“萨姆规则”衰退指标制定者表示，美联储不降息就是“玩火”</title>
+      <link>https://www.cnbc.com/2024/06/18/economist-sahm-who-devised-recession-rule-says-the-fed-is-playing-with-fire-.html</link>
+      <description><![CDATA[随着近几个月失业率的上升，“萨姆规则”在华尔街引发了越来越多的讨论。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/economist-sahm-who-devised-recession-rule-says-the-fed-is-playing-with-fire-.html</guid>
+      <pubDate>Tue, 18 Jun 2024 20:17:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于零售销售疲软引发消费者担忧，美国国债收益率回落</title>
+      <link>https://www.cnbc.com/2024/06/18/treasury-yields-rise-ahead-of-may-retail-sales-data.html</link>
+      <description><![CDATA[5月份零售销售数据公布后，美国国债收益率周二下跌。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/treasury-yields-rise-ahead-of-may-retail-sales-data.html</guid>
+      <pubDate>Tue, 18 Jun 2024 20:11:04 GMT</pubDate>
     </item>
     <item>
       <title>随着利率开始下降，这些新的高收益债券基金正在进入市场</title>
       <link>https://www.cnbc.com/2024/06/18/these-new-high-yield-bond-funds-are-hitting-the-market-as-interest-rates-start-to-fall.html</link>
       <description><![CDATA[尽管美联储预计将降息且经济出现放缓迹象，但新的高收益基金仍在涌现。]]></description>
       <guid>https://www.cnbc.com/2024/06/18/these-new-high-yield-bond-funds-are-hitting-the-market-as-interest-rates-start-to-fall.html</guid>
-      <pubDate>Tue, 18 Jun 2024 19:26:49 GMT</pubDate>
+      <pubDate>Tue, 18 Jun 2024 20:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些是当今最受欢迎的交易——也是逆势而行的最佳交易</title>
+      <link>https://www.cnbc.com/2024/06/18/these-are-the-best-contrarian-trades-to-go-against-the-crowd-bofa-says.html</link>
+      <description><![CDATA[“七侠荡寇志”是华尔街最为拥挤的交易，但投资者正在寻找那些在市场情绪逆转时具有更大上涨空间的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/these-are-the-best-contrarian-trades-to-go-against-the-crowd-bofa-says.html</guid>
+      <pubDate>Tue, 18 Jun 2024 20:09:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 市值超越微软成为最有价值的上市公司</title>
+      <link>https://www.cnbc.com/2024/06/18/nvidia-passes-microsoft-in-market-cap-is-most-valuable-public-company.html</link>
+      <description><![CDATA[自 2022 年底以来，英伟达股价已上涨逾 9 倍，该芯片制造商超越微软，成为最有价值的上市公司。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/nvidia-passes-microsoft-in-market-cap-is-most-valuable-public-company.html</guid>
+      <pubDate>Tue, 18 Jun 2024 20:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>FTC 将 TikTok 投诉转交司法部</title>
+      <link>https://www.cnbc.com/2024/06/18/ftc-refers-tiktok-complaint-to-doj.html</link>
+      <description><![CDATA[美国联邦贸易委员会表示，已将针对 TikTok 和字节跳动的投诉提交给司法部。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/ftc-refers-tiktok-complaint-to-doj.html</guid>
+      <pubDate>Tue, 18 Jun 2024 19:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普媒体股票抛售加速，道琼工业指数下跌 13%</title>
+      <link>https://www.cnbc.com/2024/06/18/djt-shares-tumble-13percent-as-trump-media-stock-sell-off-accelerates.html</link>
+      <description><![CDATA[自 5 月 30 日纽约陪审团裁定特朗普犯有 34 项伪造商业记录的重罪以来，特朗普媒体的股价下跌了约 40%。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/djt-shares-tumble-13percent-as-trump-media-stock-sell-off-accelerates.html</guid>
+      <pubDate>Tue, 18 Jun 2024 19:46:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音公司首席执行官遭参议院小组猛烈批评：“你还在任，真是可笑”</title>
+      <link>https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html</link>
+      <description><![CDATA[今年 1 月，在阿拉斯加航空公司的一次飞行中，波音公司一架几乎全新的 737 Max 飞机的一个门塞被炸掉，此后波音公司遭到批评。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html</guid>
+      <pubDate>Tue, 18 Jun 2024 19:36:52 GMT</pubDate>
     </item>
     <item>
       <title>美国银行顶级汽车分析师表示，底特律汽车制造商需要尽快退出中国市场</title>
@@ -27,32 +69,11 @@
       <pubDate>Tue, 18 Jun 2024 19:09:51 GMT</pubDate>
     </item>
     <item>
-      <title>这些是当今最受欢迎的交易——也是逆势而行的最佳交易</title>
-      <link>https://www.cnbc.com/2024/06/18/these-are-the-best-contrarian-trades-to-go-against-the-crowd-bofa-says.html</link>
-      <description><![CDATA[七侠荡寇志是华尔街最拥挤的交易，但投资者正在寻找那些在市场情绪发生逆转时具有更大上涨空间的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/these-are-the-best-contrarian-trades-to-go-against-the-crowd-bofa-says.html</guid>
-      <pubDate>Tue, 18 Jun 2024 19:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>“萨姆规则”衰退指标制定者表示，美联储不降息就是“玩火”</title>
-      <link>https://www.cnbc.com/2024/06/18/economist-sahm-who-devised-recession-rule-says-the-fed-is-playing-with-fire-.html</link>
-      <description><![CDATA[随着近几个月失业率的上升，“萨姆规则”在华尔街引发了越来越多的讨论。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/economist-sahm-who-devised-recession-rule-says-the-fed-is-playing-with-fire-.html</guid>
-      <pubDate>Tue, 18 Jun 2024 19:05:23 GMT</pubDate>
-    </item>
-    <item>
       <title>CNBC Crypto World：加密货币整体回调，主要山寨币下跌</title>
       <link>https://www.cnbc.com/video/2024/06/18/major-altcoins-sink-broader-crypto-pullback-crypto-world.html</link>
-      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来的情况。在今天的节目中，Off The Chain Capital 的 Brian Dixon 讨论了比特币和其他加密货币最近回调背后的因素。]]></description>
+      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来情况。在今天的节目中，Off The Chain Capital 的 Brian Dixon 讨论了比特币和其他加密货币近期回调背后的因素。]]></description>
       <guid>https://www.cnbc.com/video/2024/06/18/major-altcoins-sink-broader-crypto-pullback-crypto-world.html</guid>
       <pubDate>Tue, 18 Jun 2024 19:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普媒体股票抛售加速，道琼工业指数下跌 13%</title>
-      <link>https://www.cnbc.com/2024/06/18/djt-shares-tumble-13percent-as-trump-media-stock-sell-off-accelerates.html</link>
-      <description><![CDATA[自 5 月 30 日纽约陪审团裁定特朗普犯有 34 项伪造商业记录的重罪以来，特朗普媒体的股价下跌了约 40%。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/djt-shares-tumble-13percent-as-trump-media-stock-sell-off-accelerates.html</guid>
-      <pubDate>Tue, 18 Jun 2024 18:46:44 GMT</pubDate>
     </item>
     <item>
       <title>在电动汽车初创企业浪潮中，菲斯克申请破产保护，其创始人经历似曾相识的时刻</title>
@@ -62,32 +83,11 @@
       <pubDate>Tue, 18 Jun 2024 18:29:37 GMT</pubDate>
     </item>
     <item>
-      <title>美国各州无子女夫妇需要多少钱才能维持生活</title>
-      <link>https://www.cnbc.com/2024/06/18/how-much-money-dinks-need-to-get-by-in-every-us-state.html</link>
-      <description><![CDATA[美国没有孩子的夫妇每年需要赚6万美元以上才能满足基本需求。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/how-much-money-dinks-need-to-get-by-in-every-us-state.html</guid>
-      <pubDate>Tue, 18 Jun 2024 18:26:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看波音公司首席执行官戴夫·卡尔霍恩在参议院小组就举报人指控作证</title>
-      <link>https://www.cnbc.com/2024/06/18/watch-live-boeing-ceo-dave-calhoun-senate-testimony.html</link>
-      <description><![CDATA[波音公司首席执行官戴夫·卡尔霍恩因 737 Max 飞机门塞爆裂而面临举报人指控和质量控制问题，接受参议院的质询。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/watch-live-boeing-ceo-dave-calhoun-senate-testimony.html</guid>
-      <pubDate>Tue, 18 Jun 2024 18:20:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于零售销售疲软引发消费者担忧，美国国债收益率回落</title>
-      <link>https://www.cnbc.com/2024/06/18/treasury-yields-rise-ahead-of-may-retail-sales-data.html</link>
-      <description><![CDATA[5月份零售销售数据公布后，美国国债收益率周二下跌。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/treasury-yields-rise-ahead-of-may-retail-sales-data.html</guid>
-      <pubDate>Tue, 18 Jun 2024 18:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 市值超越微软成为最有价值的上市公司</title>
-      <link>https://www.cnbc.com/2024/06/18/nvidia-passes-microsoft-in-market-cap-is-most-valuable-public-company.html</link>
-      <description><![CDATA[自 2022 年底以来，英伟达股价已上涨逾 9 倍，该芯片制造商超越微软，成为最有价值的上市公司。]]></description>
-      <guid>https://www.cnbc.com/2024/06/18/nvidia-passes-microsoft-in-market-cap-is-most-valuable-public-company.html</guid>
-      <pubDate>Tue, 18 Jun 2024 18:14:25 GMT</pubDate>
+      <title>史蒂夫·科恩将大力投资人工智能</title>
+      <link>https://www.cnbc.com/2024/06/18/steve-cohen-is-set-to-make-a-big-push-into-investing-in-ai.html</link>
+      <description><![CDATA[史蒂夫科恩 (Steve Cohen) 的 Point72 计划推出一只独立的、专注于人工智能的对冲基金，以利用这一繁荣局面。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/steve-cohen-is-set-to-make-a-big-push-into-investing-in-ai.html</guid>
+      <pubDate>Tue, 18 Jun 2024 17:33:40 GMT</pubDate>
     </item>
     <item>
       <title>夫妇俩花了“所有的钱”开了一家纽约咖啡馆——去年他们的生意收入近 5000 万美元</title>
@@ -99,7 +99,7 @@
     <item>
       <title>5 月份零售额增长 0.1%，低于预期</title>
       <link>https://www.cnbc.com/2024/06/18/retail-sales-report-may-2024-may-retail-sales-rise-0point1percent.html</link>
-      <description><![CDATA[根据道琼斯指数的预测，5月份零售额预计将增长0.2%。]]></description>
+      <description><![CDATA[根据道琼斯指数的预测，5月份零售额预计增长0.2%。]]></description>
       <guid>https://www.cnbc.com/2024/06/18/retail-sales-report-may-2024-may-retail-sales-rise-0point1percent.html</guid>
       <pubDate>Tue, 18 Jun 2024 13:58:21 GMT</pubDate>
     </item>
