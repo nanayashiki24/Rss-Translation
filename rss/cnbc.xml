@@ -3,14 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 19 Jun 2024 10:54:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 19 Jun 2024 12:28:00 GMT</lastBuildDate>
+    <item>
+      <title>这些团体帮助有色人种和 LGBTQ+ 群体在户外找到“完全包容的空间”</title>
+      <link>https://www.cnbc.com/2024/06/19/a-radically-inclusive-outdoor-space-for-lgbtq-and-people-of-color-.html</link>
+      <description><![CDATA[Hoods to Woods、Edge Outdoors 和 Unlikely Riders 等非营利组织致力于为边缘化人群创建户外社区。]]></description>
+      <guid>https://www.cnbc.com/2024/06/19/a-radically-inclusive-outdoor-space-for-lgbtq-and-people-of-color-.html</guid>
+      <pubDate>Wed, 19 Jun 2024 12:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着大型科技公司为数据中心寻求清洁能源，太阳能的增长速度超过任何电力来源</title>
+      <link>https://www.cnbc.com/2024/06/19/solar-is-growing-faster-than-any-energy-source-as-clean-power-for-data-centers.html</link>
+      <description><![CDATA[太阳能在美国已经迅速发展，预计今年新增发电厂数量将远远超过天然气。]]></description>
+      <guid>https://www.cnbc.com/2024/06/19/solar-is-growing-faster-than-any-energy-source-as-clean-power-for-data-centers.html</guid>
+      <pubDate>Wed, 19 Jun 2024 12:12:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲股市涨跌互现；英国通胀率下降后，富时指数上涨</title>
+      <link>https://www.cnbc.com/2024/06/19/european-markets-stocks-news-and-uk-inflation-data.html</link>
+      <description><![CDATA[欧洲股市周三涨跌互现，失去了前一交易日的积极势头。]]></description>
+      <guid>https://www.cnbc.com/2024/06/19/european-markets-stocks-news-and-uk-inflation-data.html</guid>
+      <pubDate>Wed, 19 Jun 2024 12:05:16 GMT</pubDate>
+    </item>
     <item>
       <title>普京称俄罗斯与朝鲜签署包括共同防御协定在内的伙伴关系协议</title>
       <link>https://www.cnbc.com/2024/06/19/north-korea-rolls-out-the-red-carpet-for-putin.html</link>
       <description><![CDATA[西方官员警告称，朝鲜与金正恩的关系正在升温，而弗拉基米尔·普京在朝鲜平壤受到了隆重接待。]]></description>
       <guid>https://www.cnbc.com/2024/06/19/north-korea-rolls-out-the-red-carpet-for-putin.html</guid>
-      <pubDate>Wed, 19 Jun 2024 11:31:17 GMT</pubDate>
+      <pubDate>Wed, 19 Jun 2024 11:53:24 GMT</pubDate>
     </item>
     <item>
       <title>尽管通胀率达到 2% 目标，英国央行仍将维持利率不变</title>
@@ -20,11 +41,11 @@
       <pubDate>Wed, 19 Jun 2024 10:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>美联储维持利率不变 惠誉将中国降息预期推迟至明年</title>
-      <link>https://www.cnbc.com/2024/06/19/fitch-pushes-back-china-rate-cut-as-fed-holds-interest-rates-steady.html</link>
-      <description><![CDATA[惠誉目前预测，中国今年将维持一年期中期借贷便利 (MLF) 利率在 2.5% 不变，明年则将下调至 2.25%。]]></description>
-      <guid>https://www.cnbc.com/2024/06/19/fitch-pushes-back-china-rate-cut-as-fed-holds-interest-rates-steady.html</guid>
-      <pubDate>Wed, 19 Jun 2024 10:11:53 GMT</pubDate>
+      <title>英伟达隔夜上涨，推动亚洲芯片相关股票上涨，因市场对人工智能持乐观态度</title>
+      <link>https://www.cnbc.com/2024/06/19/nvidia-rally-overnight-lifts-chip-related-stocks-in-asia-on-ai-optimism-.html</link>
+      <description><![CDATA[英伟达成为全球市值最高的公司，推动日本、韩国和台湾的亚洲科技股上涨]]></description>
+      <guid>https://www.cnbc.com/2024/06/19/nvidia-rally-overnight-lifts-chip-related-stocks-in-asia-on-ai-optimism-.html</guid>
+      <pubDate>Wed, 19 Jun 2024 09:41:59 GMT</pubDate>
     </item>
     <item>
       <title>英国大选前通胀率降至英国央行 2% 目标</title>
@@ -34,13 +55,6 @@
       <pubDate>Wed, 19 Jun 2024 09:32:22 GMT</pubDate>
     </item>
     <item>
-      <title>普京和金正恩的关系是权宜婚姻：其运作方式如下</title>
-      <link>https://www.cnbc.com/2024/06/19/what-do-kim-jong-un-and-putin-get-from-each-other.html</link>
-      <description><![CDATA[普京与金正恩会晤的重点是深化两国之间的战略交易，即交换条件。]]></description>
-      <guid>https://www.cnbc.com/2024/06/19/what-do-kim-jong-un-and-putin-get-from-each-other.html</guid>
-      <pubDate>Wed, 19 Jun 2024 09:06:49 GMT</pubDate>
-    </item>
-    <item>
       <title>美国寻求缓和敌对行动，以色列警告黎巴嫩可能爆发“全面战争”</title>
       <link>https://www.cnbc.com/2024/06/19/israel-warns-lebanon-of-prospect-of-all-out-war-as-us-seeks-to-de-escalate-hostilities.html</link>
       <description><![CDATA[以色列外交部长表示，以色列对于与真主党的敌对行动是否可能升级“已经接近做出决定的时刻”。]]></description>
@@ -48,28 +62,7 @@
       <pubDate>Wed, 19 Jun 2024 09:06:14 GMT</pubDate>
     </item>
     <item>
-      <title>“无意的地球工程”：研究人员称低硫航运规则加剧了气候变化</title>
-      <link>https://www.cnbc.com/2024/06/19/geoengineering-study-shipping-regulation-made-climate-change-worse.html</link>
-      <description><![CDATA[一组科学家在最近的一篇论文中表示，规则的改变可能有助于解释为什么去年破纪录的高温如此极端。]]></description>
-      <guid>https://www.cnbc.com/2024/06/19/geoengineering-study-shipping-regulation-made-climate-change-worse.html</guid>
-      <pubDate>Wed, 19 Jun 2024 06:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲科技中心内部：伦敦有能力保持第一的位置吗？</title>
-      <link>https://www.cnbc.com/2024/06/19/europe-tech-hubs-can-the-uk-and-london-maintain-its-lead.html</link>
-      <description><![CDATA[英国被视为仅次于美国和中国的全球最大科技中心之一，但它正面临着从英国脱欧到疲软的 IPO 市场等挑战。]]></description>
-      <guid>https://www.cnbc.com/2024/06/19/europe-tech-hubs-can-the-uk-and-london-maintain-its-lead.html</guid>
-      <pubDate>Wed, 19 Jun 2024 05:19:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>表现最佳的全球债券基金在过去一年中上涨了 74%。以下是它的投资方向</title>
-      <link>https://www.cnbc.com/2024/06/19/this-top-performing-global-bond-fund-is-up-74percent-over-the-past-year.html</link>
-      <description><![CDATA[该新兴市场基金的目标是每年以美元计算实现两位数的回报，目前的收益率约为 10%。]]></description>
-      <guid>https://www.cnbc.com/2024/06/19/this-top-performing-global-bond-fund-is-up-74percent-over-the-past-year.html</guid>
-      <pubDate>Wed, 19 Jun 2024 04:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>威利·梅斯，史上最伟大的棒球天才之一，逝世享年 93 岁</title>
+      <title>威利·梅斯，史上最伟大的棒球天才之一，去世，享年 93 岁</title>
       <link>https://www.cnbc.com/2024/06/19/willie-mays-supreme-baseball-talent-considered-best-to-ever-play-dies-at-93.html</link>
       <description><![CDATA[旧金山巨人队表示，这位名人堂成员于周二下午安详离世。]]></description>
       <guid>https://www.cnbc.com/2024/06/19/willie-mays-supreme-baseball-talent-considered-best-to-ever-play-dies-at-93.html</guid>
@@ -95,6 +88,13 @@
       <description><![CDATA[随着人工智能宠儿英伟达继续迈向新高，标准普尔 500 指数创下新高。]]></description>
       <guid>https://www.cnbc.com/2024/06/17/stock-market-today-live-updates.html</guid>
       <pubDate>Tue, 18 Jun 2024 20:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>“萨姆规则”衰退指标制定者表示，美联储不降息就是“玩火”</title>
+      <link>https://www.cnbc.com/2024/06/18/economist-sahm-who-devised-recession-rule-says-the-fed-is-playing-with-fire-.html</link>
+      <description><![CDATA[随着近几个月失业率的上升，“萨姆规则”在华尔街引发了越来越多的讨论。]]></description>
+      <guid>https://www.cnbc.com/2024/06/18/economist-sahm-who-devised-recession-rule-says-the-fed-is-playing-with-fire-.html</guid>
+      <pubDate>Tue, 18 Jun 2024 20:17:47 GMT</pubDate>
     </item>
     <item>
       <title>Nvidia 市值超越微软成为最有价值的上市公司</title>
