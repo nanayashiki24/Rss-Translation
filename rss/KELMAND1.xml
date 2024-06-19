@@ -4,195 +4,203 @@
     <title>埃齐奥·毛☢ / @KELMAND1</title>
     <link>https://nitter.privacydev.net/KELMAND1</link>
     <description>Twitter 消息源：@KELMAND1。由 nitter.privacydev.net 生成</description>
-    <lastBuildDate>Tue, 18 Jun 2024 11:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 11:15:35 GMT</lastBuildDate>
     <item>
-      <title>俄罗斯、中国和朝鲜即将开始谈判，允许中国船只沿图们江进入日本海
+      <title>首个AI高考全卷评测结果发布：最高分303（总分420），数学全不及格
 
-图们江（图马纳亚河)沿中国、朝鲜和俄罗斯边境流入日本海日本的。目前，中国船只只能沿河自由行驶至防川，无法出海，因为需要获得俄罗斯和朝鲜的许可才能通过剩余的15公里路段。
+在前不久高考结束后，上海人工智能实验室旗下司南评测体系OpenCompass选取了7个大模型进行高考“语数外”全卷能力测试。6月19日， OpenCompass发布了首个大模型高考全卷评测结果。
 
- 5月会晤后，习近平和普京在联合声明中加入了俄罗斯联邦和中国参与与朝鲜就图马纳亚河问题进行“建设性对话”的条款。
+语数外三科加起来的满分为420分，此次高考测试结果显示，阿里通义千问2-72B排名第一，为303分，OpenAI的GPT-4o排名第二，得分296分，上海人工智能实验室的书生·浦语2.0排名第三，三个大模型的得分率均超过70%。来自法国大模型初创公司的Mistral排名末尾。
 
-此前，俄罗斯并不支持中国的这一倡议，担心北京会因此增强其在东北亚的影响力。然而，现在情况发生了变化。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802935241306452067#m</link>
-      <description><![CDATA[俄罗斯、中国和朝鲜即将开始谈判，允许中国船只沿图们江进入日本海
+从结果来看，大模型的语文、英语考试水平普遍不错，但数学都不及格，最高分也只有75分，来自书生·浦语2.0，其次是GPT-4o，得分73分。语文最高分是通义千问，英语最高分是GPT-4o。在数学方面大模型还有很大的提升空间。数学关乎复杂推理相关能力，这是大模型普遍面临的难题，也是大模型在金融、工业等要求可靠的场景落地需要的关键能力。
 
-图们江（图马纳亚河)沿中国、朝鲜和俄罗斯边境流入日本海日本的。目前，中国船只只能沿河自由行驶至防川，无法出海，因为需要获得俄罗斯和朝鲜的许可才能通过剩余的15公里路段。
+此次测试的模型分别来自阿里巴巴、零一万物、智谱AI、上海人工智能实验室、法国Mistral的开源模型，以及来自OpenAI的闭源模型GPT-4o。实验室表示，因无法确定闭源模型的更新时间，为公平起见，此次评测没有纳入商用闭源模型，仅引入GPT-4o作为评测参考。这次选择参与高考的“考生”均在高考前（2024年4月-6月）开源，避免了“刷题风险”。</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803352038534967347#m</link>
+      <description><![CDATA[首个AI高考全卷评测结果发布：最高分303（总分420），数学全不及格
 
- 5月会晤后，习近平和普京在联合声明中加入了俄罗斯联邦和中国参与与朝鲜就图马纳亚河问题进行“建设性对话”的条款。
+在前不久高考结束后，上海人工智能实验室旗下司南评测体系OpenCompass选取了7个大模型进行高考“语数外”全卷能力测试。6月19日， OpenCompass发布了首个大模型高考全卷评测结果。
 
-此前，俄罗斯并不支持中国的这一倡议，担心北京会因此增强其在东北亚的影响力。然而，现在情况发生了变化。
+语数外三科加起来的满分为420分，此次高考测试结果显示，阿里通义千问2-72B排名第一，为303分，OpenAI的GPT-4o排名第二，得分296分，上海人工智能实验室的书生·浦语2.0排名第三，三个大模型的得分率均超过70%。来自法国大模型初创公司的Mistral排名末尾。
+
+从结果来看，大模型的语文、英语考试水平普遍不错，但数学都不及格，最高分也只有75分，来自书生·浦语2.0，其次是GPT-4o，得分73分。语文最高分是通义千问，英语最高分是GPT-4o。在数学方面大模型还有很大的提升空间。数学关乎复杂推理相关能力，这是大模型普遍面临的难题，也是大模型在金融、工业等要求可靠的场景落地需要的关键能力。
+
+此次测试的模型分别来自阿里巴巴、零一万物、智谱AI、上海人工智能实验室、法国Mistral的开源模型，以及来自OpenAI的闭源模型GPT-4o。实验室表示，因无法确定闭源模型的更新时间，为公平起见，此次评测没有纳入商用闭源模型，仅引入GPT-4o作为评测参考。这次选择参与高考的“考生”均在高考前（2024年4月-6月）开源，避免了“刷题风险”。
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802935241306452067#m</guid>
-      <pubDate>Tue, 18 Jun 2024 05:23:53 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803352038534967347#m</guid>
+      <pubDate>Wed, 19 Jun 2024 09:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>ICYMI：62% 的美国人希望驱逐所有非法移民—民意调查 大多数美国人希望驱逐包括拉丁裔在内的人—根据一项新民意调查，62% 的美国人支持驱逐所有非法移民。大多数拉丁裔（53%）支持大规模驱逐。
-
-得了，润人末日将近。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802918653543031086#m</link>
-      <description><![CDATA[ICYMI：62% 的美国人希望驱逐所有非法移民—民意调查 大多数美国人希望驱逐包括拉丁裔在内的人—根据一项新民意调查，62% 的美国人支持驱逐所有非法移民。大多数拉丁裔（53%）支持大规模驱逐。
-
-得了，润人末日将近。
+      <title>芬兰是欧盟第一个开始开采铀的国家，但尚未学会如何浓缩铀。</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803342386153837042#m</link>
+      <description><![CDATA[芬兰是欧盟第一个开始开采铀的国家，但尚未学会如何浓缩铀。]]></description>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803342386153837042#m</guid>
+      <pubDate>Wed, 19 Jun 2024 08:21:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰那边暗网弹簧刀600（弹簧刀300的升级版，威力和航程更大）才卖7000美元一架，湾湾不如直接找乌克兰采购现货还便宜点？🤣🤣🤣🤣</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803330792472629512#m</link>
+      <description><![CDATA[乌克兰那边暗网弹簧刀600（弹簧刀300的升级版，威力和航程更大）才卖7000美元一架，湾湾不如直接找乌克兰采购现货还便宜点？🤣🤣🤣🤣
+nitter.privacydev.net/KELMAND1/status/1803304288401367516#m
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802918653543031086#m</guid>
-      <pubDate>Tue, 18 Jun 2024 04:17:58 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803330792472629512#m</guid>
+      <pubDate>Wed, 19 Jun 2024 07:35:39 GMT</pubDate>
     </item>
     <item>
-      <title>美国州起诉辉瑞公司隐瞒新冠疫苗风险
-
-堪萨斯州周一起诉辉瑞公司，指控该公司误导公众，隐瞒风险，并对其新冠疫苗做出虚假宣传。在诉讼中，该州称这家总部位于纽约的制药商涉嫌虚假陈述，声称该疫苗对变异病毒保持高效，不仅可以预防疾病，还可以预防传播。
-
-堪萨斯州总检察长克里斯·科巴赫说：“在美国人需要真相的时候，辉瑞公司多次做出误导性陈述，欺骗公众有关其疫苗的信息。”
-
-真相终于揭晓了……</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802911883487572206#m</link>
-      <description><![CDATA[美国州起诉辉瑞公司隐瞒新冠疫苗风险
-
-堪萨斯州周一起诉辉瑞公司，指控该公司误导公众，隐瞒风险，并对其新冠疫苗做出虚假宣传。在诉讼中，该州称这家总部位于纽约的制药商涉嫌虚假陈述，声称该疫苗对变异病毒保持高效，不仅可以预防疾病，还可以预防传播。
-
-堪萨斯州总检察长克里斯·科巴赫说：“在美国人需要真相的时候，辉瑞公司多次做出误导性陈述，欺骗公众有关其疫苗的信息。”
-
-真相终于揭晓了……
+      <title>啊对对对，这批卖给弹簧刀300无人机里面每一架都有一个英伟达H100计算卡，这样8.4万美元一架的价格就不算贵，良心价！</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803329782706479354#m</link>
+      <description><![CDATA[啊对对对，这批卖给弹簧刀300无人机里面每一架都有一个英伟达H100计算卡，这样8.4万美元一架的价格就不算贵，良心价！
+nitter.privacydev.net/mosquit41389272/status/1803320210423947713#m
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802911883487572206#m</guid>
-      <pubDate>Tue, 18 Jun 2024 03:51:04 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803329782706479354#m</guid>
+      <pubDate>Wed, 19 Jun 2024 07:31:39 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟领导人未就支持冯德莱恩连任主席达成共识
-
-欧盟成员国领导人周一在比利时布鲁塞尔开会，讨论欧盟委员会主席、欧洲理事会主席、欧盟外交与安全政策高级代表等主要职位下任人选，但会议结束时并未能达成共识。预期将在下周四及周五(27及28日)召开的欧盟峰会上作出最终决定。
-
-外界一直预期，冯德莱恩(Ursula von der Leyen)会获支持连任欧盟委员会主席一职，葡萄牙前总理科斯塔(Antonio Costa)出任欧洲理事会主席，及爱沙尼亚总理卡拉斯(Kaja Kallas)出任欧盟外交与安全政策高级代表。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802910545903006167#m</link>
-      <description><![CDATA[欧盟领导人未就支持冯德莱恩连任主席达成共识
-
-欧盟成员国领导人周一在比利时布鲁塞尔开会，讨论欧盟委员会主席、欧洲理事会主席、欧盟外交与安全政策高级代表等主要职位下任人选，但会议结束时并未能达成共识。预期将在下周四及周五(27及28日)召开的欧盟峰会上作出最终决定。
-
-外界一直预期，冯德莱恩(Ursula von der Leyen)会获支持连任欧盟委员会主席一职，葡萄牙前总理科斯塔(Antonio Costa)出任欧洲理事会主席，及爱沙尼亚总理卡拉斯(Kaja Kallas)出任欧盟外交与安全政策高级代表。]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802910545903006167#m</guid>
-      <pubDate>Tue, 18 Jun 2024 03:45:45 GMT</pubDate>
+      <title>前后各一刀，真是令人唏嘘（bushi</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803319701088641163#m</link>
+      <description><![CDATA[前后各一刀，真是令人唏嘘（bushi
+nitter.privacydev.net/miren_41319/status/1803241690884612319#m]]></description>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803319701088641163#m</guid>
+      <pubDate>Wed, 19 Jun 2024 06:51:35 GMT</pubDate>
     </item>
     <item>
-      <title>据以色列媒体报道，来自叙利亚、阿富汗和也门的外国战士已开始抵达黎巴嫩，与真主党并肩作战对抗以色列。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802895367111147775#m</link>
-      <description><![CDATA[据以色列媒体报道，来自叙利亚、阿富汗和也门的外国战士已开始抵达黎巴嫩，与真主党并肩作战对抗以色列。]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802895367111147775#m</guid>
-      <pubDate>Tue, 18 Jun 2024 02:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>右翼反扑 - 乌克兰基辅举行大规模反 LGBT 游行。此次游行由极右翼团体“Centuria”和“Right-Sector”组织。
-
-LGBT 游行原定在基辅地铁举行，但由于“基辅骄傲节”活动组织者无法保证参与者免受反 LGBT 人群的伤害，游行被取消。
-
-5 名著名指挥官撰写了一份谴责“基辅骄傲节”的声明，要求拉达在战争期间不允许举行此类活动 - Denis Nikitin（“俄罗斯志愿军团”）、Maxim Zhorin（“亚速”第三独立旅）、Bogdan Khodakovy（“复仇”营）、Christian Udarov 和 Ivan Philipchuk（乌克兰武装部队军官）。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802895009462862310#m</link>
-      <description><![CDATA[右翼反扑 - 乌克兰基辅举行大规模反 LGBT 游行。此次游行由极右翼团体“Centuria”和“Right-Sector”组织。
-
-LGBT 游行原定在基辅地铁举行，但由于“基辅骄傲节”活动组织者无法保证参与者免受反 LGBT 人群的伤害，游行被取消。
-
-5 名著名指挥官撰写了一份谴责“基辅骄傲节”的声明，要求拉达在战争期间不允许举行此类活动 - Denis Nikitin（“俄罗斯志愿军团”）、Maxim Zhorin（“亚速”第三独立旅）、Bogdan Khodakovy（“复仇”营）、Christian Udarov 和 Ivan Philipchuk（乌克兰武装部队军官）。
+      <title>挖个我去年最喜欢的坟”华为造车已死“，传说中的圈内华为专家，就是”信源一句顶你十句“那种。</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803314975479570501#m</link>
+      <description><![CDATA[挖个我去年最喜欢的坟”华为造车已死“，传说中的圈内华为专家，就是”信源一句顶你十句“那种。
+nitter.privacydev.net/chumacn/status/1665665326456127493#m
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802895009462862310#m</guid>
-      <pubDate>Tue, 18 Jun 2024 02:44:01 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803314975479570501#m</guid>
+      <pubDate>Wed, 19 Jun 2024 06:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>多国反对欧盟对中国电动汽车提高关税
+      <title>台湾计划从美国购买 720 个 Switchblade 300 巡飞弹，总价6020万美元。
 
-据据德国之声，德国汽车工业协会(VDA)希望，可以通过谈判来改变欧盟对中国电动汽车提高关税的计划。汽车工业联合会负责人拉德强调，这不仅仅事关汽车工业，还给欧盟的出口经济带来巨大伤害。此外，提高关税也会导致电动汽车价格上涨。
+弹簧刀300啊…就是威力只有个手榴弹大那个玩意….卖8.4w美元一个啊😧😧😧
 
-路透称，当地时间6月12日，欧盟委员会发表声明宣布，将对从中国进口的电动汽车最高加征38.1%的额外关税。欧盟委员会称，如果欧盟无法与中方通过谈判达成解决方案，征收临时关税的举措将从7月4日起生效。
+在乌克兰战场被乌军士兵评价“难用还贵….”现在基本见不到的东西…实战完全被FPV淘汰的东西….湾湾还买那么多，这个价格我不说什么了，绝对杀猪价。</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803304288401367516#m</link>
+      <description><![CDATA[台湾计划从美国购买 720 个 Switchblade 300 巡飞弹，总价6020万美元。
 
-英国《金融时报》此前称，对于是否要加征关税，欧盟内部存在很大分歧。据欧盟官员透露，德国、瑞典和匈牙利都不赞成对中国电动汽车加征关税，德国政府还试图向欧盟委员会主席冯德莱恩施加压力，要求其放弃反补贴调查。
+弹簧刀300啊…就是威力只有个手榴弹大那个玩意….卖8.4w美元一个啊😧😧😧
 
-社会你冯姐这是惹众怒了。😂😂😂</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802874854141747284#m</link>
-      <description><![CDATA[多国反对欧盟对中国电动汽车提高关税
-
-据据德国之声，德国汽车工业协会(VDA)希望，可以通过谈判来改变欧盟对中国电动汽车提高关税的计划。汽车工业联合会负责人拉德强调，这不仅仅事关汽车工业，还给欧盟的出口经济带来巨大伤害。此外，提高关税也会导致电动汽车价格上涨。
-
-路透称，当地时间6月12日，欧盟委员会发表声明宣布，将对从中国进口的电动汽车最高加征38.1%的额外关税。欧盟委员会称，如果欧盟无法与中方通过谈判达成解决方案，征收临时关税的举措将从7月4日起生效。
-
-英国《金融时报》此前称，对于是否要加征关税，欧盟内部存在很大分歧。据欧盟官员透露，德国、瑞典和匈牙利都不赞成对中国电动汽车加征关税，德国政府还试图向欧盟委员会主席冯德莱恩施加压力，要求其放弃反补贴调查。
-
-社会你冯姐这是惹众怒了。😂😂😂]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802874854141747284#m</guid>
-      <pubDate>Tue, 18 Jun 2024 01:23:55 GMT</pubDate>
+在乌克兰战场被乌军士兵评价“难用还贵….”现在基本见不到的东西…实战完全被FPV淘汰的东西….湾湾还买那么多，这个价格我不说什么了，绝对杀猪价。]]></description>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803304288401367516#m</guid>
+      <pubDate>Wed, 19 Jun 2024 05:50:20 GMT</pubDate>
     </item>
     <item>
-      <title>前所未有！美股三巨头占全球市值10%
-
-根据券商Strategas的数据，在微软、苹果和英伟达市值突破3万亿以后，三家公司占标普500指数权重达到了20%以上。标普道琼斯指数高级指数分析师希尔维布拉特（HowardSilverblatt）发现，美股三巨头已经占全球市值的10.6%，这在历史上也是前所未有的。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802872454920163338#m</link>
-      <description><![CDATA[前所未有！美股三巨头占全球市值10%
-
-根据券商Strategas的数据，在微软、苹果和英伟达市值突破3万亿以后，三家公司占标普500指数权重达到了20%以上。标普道琼斯指数高级指数分析师希尔维布拉特（HowardSilverblatt）发现，美股三巨头已经占全球市值的10.6%，这在历史上也是前所未有的。
-nitter.privacydev.net/byuzhngxi999/status/1802865610172649967#m]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802872454920163338#m</guid>
-      <pubDate>Tue, 18 Jun 2024 01:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰小男孩因为家人在大街上被TCC抓走挺身而出奋力抗争，然并卵。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802867774823522363#m</link>
-      <description><![CDATA[乌克兰小男孩因为家人在大街上被TCC抓走挺身而出奋力抗争，然并卵。
-nitter.privacydev.net/KELMAND1/status/1802120603736142311#m
+      <title>R to @KELMAND1: 与此同时，你们看看湾湾当初是怎么舔的😂😂😂😂😂😂😂</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803291350462505222#m</link>
+      <description><![CDATA[与此同时，你们看看湾湾当初是怎么舔的😂😂😂😂😂😂😂
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802867774823522363#m</guid>
-      <pubDate>Tue, 18 Jun 2024 00:55:47 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803291350462505222#m</guid>
+      <pubDate>Wed, 19 Jun 2024 04:58:56 GMT</pubDate>
     </item>
     <item>
-      <title>根据华盛顿州金县上周公开的起诉书显示，今年1月26日，一名67岁赴美探亲的中国大妈在美国西雅图塔克维拉的一家开市客停车场遭遇抢劫，不幸被两名青年枪杀，经现场抢救不治身亡。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802865830042239304#m</link>
-      <description><![CDATA[根据华盛顿州金县上周公开的起诉书显示，今年1月26日，一名67岁赴美探亲的中国大妈在美国西雅图塔克维拉的一家开市客停车场遭遇抢劫，不幸被两名青年枪杀，经现场抢救不治身亡。
+      <title>《纽约时报》记者：据多个人道主义组织称，在加沙耗资约3.2亿美元建造的美国浮动码头再次停止使用。预计将在几周内被彻底拆除。据该出版物称，该码头甚至远远不能满足最基本的需求。
+
+记住，这就是美军后勤部门花费3.2亿美元建造的豆腐渣工程，质量差成这样也是令人叹为观止。</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803287125573640270#m</link>
+      <description><![CDATA[《纽约时报》记者：据多个人道主义组织称，在加沙耗资约3.2亿美元建造的美国浮动码头再次停止使用。预计将在几周内被彻底拆除。据该出版物称，该码头甚至远远不能满足最基本的需求。
+
+记住，这就是美军后勤部门花费3.2亿美元建造的豆腐渣工程，质量差成这样也是令人叹为观止。
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802865830042239304#m</guid>
-      <pubDate>Tue, 18 Jun 2024 00:48:04 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803287125573640270#m</guid>
+      <pubDate>Wed, 19 Jun 2024 04:42:08 GMT</pubDate>
     </item>
     <item>
-      <title>梅洛尼在和平峰会上没有表示俄罗斯将“被迫投降”：一位国际观察员指出了意大利总理的话的翻译错误， 据尤里·菲泽尔称，广播中的同声翻译听起来是这样的：    
+      <title>朋友问我为什么老是不相信印度未来会在各方面碾压中国？？？
 
-“保卫乌克兰意味着团结国际社会保卫乌克兰的一切努力，如果俄罗斯不同意这些基本原则，我们将迫使它投降。” 
+我说，“因为他们还在吃屎，字面意义上的，吃屎”。</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803285672876450225#m</link>
+      <description><![CDATA[朋友问我为什么老是不相信印度未来会在各方面碾压中国？？？
 
-但事实上，格鲁吉亚·梅洛尼在这段话中说的是乌克兰被迫投降： “保卫乌克兰意味着保卫团结国际社会并保护每个国家的规则体系，如果乌克兰不能依靠我们的支持，因此被迫投降，我们就不会这样做。今天在这里讨论谈判的最低条件。”</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802864649446302195#m</link>
-      <description><![CDATA[梅洛尼在和平峰会上没有表示俄罗斯将“被迫投降”：一位国际观察员指出了意大利总理的话的翻译错误， 据尤里·菲泽尔称，广播中的同声翻译听起来是这样的：    
-
-“保卫乌克兰意味着团结国际社会保卫乌克兰的一切努力，如果俄罗斯不同意这些基本原则，我们将迫使它投降。” 
-
-但事实上，格鲁吉亚·梅洛尼在这段话中说的是乌克兰被迫投降： “保卫乌克兰意味着保卫团结国际社会并保护每个国家的规则体系，如果乌克兰不能依靠我们的支持，因此被迫投降，我们就不会这样做。今天在这里讨论谈判的最低条件。”]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802864649446302195#m</guid>
-      <pubDate>Tue, 18 Jun 2024 00:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国博主对“美国想让中国打台湾”这事儿的看法和殖狗的看法完全相反，认为这是相当可信的说法 - 跟乌克兰是同一套剧本。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802863910804140192#m</link>
-      <description><![CDATA[美国博主对“美国想让中国打台湾”这事儿的看法和殖狗的看法完全相反，认为这是相当可信的说法 - 跟乌克兰是同一套剧本。
+我说，“因为他们还在吃屎，字面意义上的，吃屎”。
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802863910804140192#m</guid>
-      <pubDate>Tue, 18 Jun 2024 00:40:26 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803285672876450225#m</guid>
+      <pubDate>Wed, 19 Jun 2024 04:36:22 GMT</pubDate>
     </item>
     <item>
-      <title>“被占领的马里乌波尔的地狱光景”</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802861704419664361#m</link>
-      <description><![CDATA[“被占领的马里乌波尔的地狱光景”
+      <title>平壤的朝鲜人民在金日成广场迎接弗拉基米尔·普京</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803279767145423108#m</link>
+      <description><![CDATA[平壤的朝鲜人民在金日成广场迎接弗拉基米尔·普京
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802861704419664361#m</guid>
-      <pubDate>Tue, 18 Jun 2024 00:31:40 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803279767145423108#m</guid>
+      <pubDate>Wed, 19 Jun 2024 04:12:54 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰再次处于违约边缘。 8月1日，西方债权人的200亿美元债务的宽限期到期。  
+      <title>说实话啊，泽圣还是挺努力的了，虽然说结果狠灾难。
 
-路透社援引财政部长马尔琴科的话称，乌克兰目前无法与债券持有人就200亿美元的债务重组达成一致。债权人反对基辅部分注销债务的提议。
+但他背后的北约么，就有点难绷了...“要加入北约，乌克兰需要先击败俄罗斯。”</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803278259196666322#m</link>
+      <description><![CDATA[说实话啊，泽圣还是挺努力的了，虽然说结果狠灾难。
 
-事实证明，乌克兰将从西方获得的新贷款将用于偿还旧债务。</title>
-      <link>https://nitter.privacydev.net/KELMAND1/status/1802860170902388928#m</link>
-      <description><![CDATA[乌克兰再次处于违约边缘。 8月1日，西方债权人的200亿美元债务的宽限期到期。  
-
-路透社援引财政部长马尔琴科的话称，乌克兰目前无法与债券持有人就200亿美元的债务重组达成一致。债权人反对基辅部分注销债务的提议。
-
-事实证明，乌克兰将从西方获得的新贷款将用于偿还旧债务。
+但他背后的北约么，就有点难绷了...“要加入北约，乌克兰需要先击败俄罗斯。”
+nitter.privacydev.net/KELMAND1/status/1803276118126162056#m
 ]]></description>
-      <guid>https://nitter.privacydev.net/KELMAND1/status/1802860170902388928#m</guid>
-      <pubDate>Tue, 18 Jun 2024 00:25:34 GMT</pubDate>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803278259196666322#m</guid>
+      <pubDate>Wed, 19 Jun 2024 04:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰民心风向在变：一年来，泽连斯基失去了 20% 的支持率。
+
+基辅国际社会学研究所最近的一项调查数据证明了这一点。 
+
+2023 年 9 月，泽连斯基的活动得到了 77% 的支持，现在则为 56%。 
+
+2023 年 9 月，33% 的人对总统表示“钦佩”，而现在这一比例为 8%。 37% 的人有些或完全不赞成总统的表现。</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803276118126162056#m</link>
+      <description><![CDATA[乌克兰民心风向在变：一年来，泽连斯基失去了 20% 的支持率。
+
+基辅国际社会学研究所最近的一项调查数据证明了这一点。 
+
+2023 年 9 月，泽连斯基的活动得到了 77% 的支持，现在则为 56%。 
+
+2023 年 9 月，33% 的人对总统表示“钦佩”，而现在这一比例为 8%。 37% 的人有些或完全不赞成总统的表现。
+]]></description>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803276118126162056#m</guid>
+      <pubDate>Wed, 19 Jun 2024 03:58:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>回旋镖：此前，乌克兰特工部门付钱给俄罗斯人，让他们放火焚烧俄罗斯的军事登记和征兵办公室，现在，据乌克兰官方说俄罗斯人特工部门付钱给乌克兰人，烧毁乌克兰人讨厌的TCC（军事登记和征兵登记处）的车辆。
+
+由于人们对泽政府抓壮丁的仇恨以及当局在该国制造的贫困，这种情况成为可能。</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803273716564107521#m</link>
+      <description><![CDATA[回旋镖：此前，乌克兰特工部门付钱给俄罗斯人，让他们放火焚烧俄罗斯的军事登记和征兵办公室，现在，据乌克兰官方说俄罗斯人特工部门付钱给乌克兰人，烧毁乌克兰人讨厌的TCC（军事登记和征兵登记处）的车辆。
+
+由于人们对泽政府抓壮丁的仇恨以及当局在该国制造的贫困，这种情况成为可能。
+]]></description>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803273716564107521#m</guid>
+      <pubDate>Wed, 19 Jun 2024 03:48:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国拟将乌克兰防御行动领导权移交给北约
+
+上周，美国同意了一项计划，将武装和训练乌克兰军队的责任交给北约，这标志着美国开始逐渐疏远乌克兰的军事治理。值得注意的是，这是在美国与乌克兰签署安全协议之前做出的。
+
+北约秘书长延斯·斯托尔滕贝格周四在为期两天的部长级会议开始前发表讲话，称国防部长们正在布鲁塞尔开会，为预计将在 7 月华盛顿北约峰会上最终确定的一项概念做最后的润色。
+
+近几个月来，北约总部一直在努力控制这项由五角大楼发起的倡议，美国国防部长劳埃德·奥斯汀的行动小组（也称为“拉姆施泰因集团”）很有可能被解散。与此同时，北约的新计划将对美国主导的位于德国威斯巴登的陆军欧洲总部的倡议产生影响，自 2022 年以来，该总部一直是乌克兰军事装备的主要中心。乌克兰安全援助小组，即美国武装部队（SAG-U），由美国人于 2022 年在斯图加特的美国欧洲司令部总部成立，将迁往威斯巴登，继续由美国欧洲司令部将军克里斯托弗·卡沃利领导，而卡沃利本人将在北约最高指挥部任职，而不是在美国武装部队任职。
+
+让北约负责的想法是在今年 4 月提出的，当时斯托尔滕贝格在北约国防部长会议上提出了这个想法。当时，华盛顿在国防开支问题上陷入僵局，立法者对未来对乌克兰的武器支持存在分歧。
+
+在北约内部，这种情况引发了人们对美国对乌克兰支持可靠性的担忧，以及北约内部对承担更大角色的兴趣。“我们当然赞赏美国和其他盟友所做的一切。这是史无前例的，”斯托尔滕贝格说，“同时，我们看到美国花了六个月的时间才就对乌克兰的额外措施达成一致。”所有这些，尤其是斯托尔滕贝格的倡议，似乎是为了将事实包装得漂漂亮亮，即 7 月在华盛顿举行的峰会上，美国人将向欧洲人指出，进一步的战争将由他们承担，并提醒他们臭名昭著的 GDP 2.5% 用于维护北约（许多国家没有支付这笔费用），但以卡沃利将军为代表的美国人也将控制这些费用。而且还会有美国武器，只是现在完全由欧洲资金提供。计划建立一个最低限额为 1000 亿美元的援助基金，资金将由北约成员国提供，而不是美国。
+
+在华盛顿峰会上，美国方面不会主动讨论乌克兰加入北约的问题。芬兰人和瑞典人应该做好准备，因为乌克兰人的蕾丝内裤梦会让他们付出巨大的代价……</title>
+      <link>https://nitter.privacydev.net/KELMAND1/status/1803263816085676450#m</link>
+      <description><![CDATA[美国拟将乌克兰防御行动领导权移交给北约
+
+上周，美国同意了一项计划，将武装和训练乌克兰军队的责任交给北约，这标志着美国开始逐渐疏远乌克兰的军事治理。值得注意的是，这是在美国与乌克兰签署安全协议之前做出的。
+
+北约秘书长延斯·斯托尔滕贝格周四在为期两天的部长级会议开始前发表讲话，称国防部长们正在布鲁塞尔开会，为预计将在 7 月华盛顿北约峰会上最终确定的一项概念做最后的润色。
+
+近几个月来，北约总部一直在努力控制这项由五角大楼发起的倡议，美国国防部长劳埃德·奥斯汀的行动小组（也称为“拉姆施泰因集团”）很有可能被解散。与此同时，北约的新计划将对美国主导的位于德国威斯巴登的陆军欧洲总部的倡议产生影响，自 2022 年以来，该总部一直是乌克兰军事装备的主要中心。乌克兰安全援助小组，即美国武装部队（SAG-U），由美国人于 2022 年在斯图加特的美国欧洲司令部总部成立，将迁往威斯巴登，继续由美国欧洲司令部将军克里斯托弗·卡沃利领导，而卡沃利本人将在北约最高指挥部任职，而不是在美国武装部队任职。
+
+让北约负责的想法是在今年 4 月提出的，当时斯托尔滕贝格在北约国防部长会议上提出了这个想法。当时，华盛顿在国防开支问题上陷入僵局，立法者对未来对乌克兰的武器支持存在分歧。
+
+在北约内部，这种情况引发了人们对美国对乌克兰支持可靠性的担忧，以及北约内部对承担更大角色的兴趣。“我们当然赞赏美国和其他盟友所做的一切。这是史无前例的，”斯托尔滕贝格说，“同时，我们看到美国花了六个月的时间才就对乌克兰的额外措施达成一致。”所有这些，尤其是斯托尔滕贝格的倡议，似乎是为了将事实包装得漂漂亮亮，即 7 月在华盛顿举行的峰会上，美国人将向欧洲人指出，进一步的战争将由他们承担，并提醒他们臭名昭著的 GDP 2.5% 用于维护北约（许多国家没有支付这笔费用），但以卡沃利将军为代表的美国人也将控制这些费用。而且还会有美国武器，只是现在完全由欧洲资金提供。计划建立一个最低限额为 1000 亿美元的援助基金，资金将由北约成员国提供，而不是美国。
+
+在华盛顿峰会上，美国方面不会主动讨论乌克兰加入北约的问题。芬兰人和瑞典人应该做好准备，因为乌克兰人的蕾丝内裤梦会让他们付出巨大的代价……]]></description>
+      <guid>https://nitter.privacydev.net/KELMAND1/status/1803263816085676450#m</guid>
+      <pubDate>Wed, 19 Jun 2024 03:09:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
