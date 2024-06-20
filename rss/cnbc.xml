@@ -3,19 +3,47 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 20 Jun 2024 13:34:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 20 Jun 2024 14:03:00 GMT</lastBuildDate>
     <item>
-      <title>标普 500 指数创下新高，英伟达领涨华尔街：实时更新</title>
+      <title>标普 500 指数首次突破 5,500 点，英伟达继续保持市场领先地位：实时更新</title>
       <link>https://www.cnbc.com/2024/06/19/sp-500-futures-were-little-changed-as-wall-street-looks-for-nvidia-to-keep-leading-market.html</link>
       <description><![CDATA[股市在周二经历了上涨行情，并有望在缩短的交易时段结束疲软上涨的走势。]]></description>
       <guid>https://www.cnbc.com/2024/06/19/sp-500-futures-were-little-changed-as-wall-street-looks-for-nvidia-to-keep-leading-market.html</guid>
-      <pubDate>Thu, 20 Jun 2024 13:38:18 GMT</pubDate>
+      <pubDate>Thu, 20 Jun 2024 14:14:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普媒体股价下跌 12%，道琼工业指数加速下跌</title>
+      <link>https://www.cnbc.com/2024/06/20/djt-trump-media-stock-price-today.html</link>
+      <description><![CDATA[自从纽约陪审团判定这位共和党总统候选人犯有 34 项伪造商业记录罪名以来，特朗普媒体一直陷入低迷。]]></description>
+      <guid>https://www.cnbc.com/2024/06/20/djt-trump-media-stock-price-today.html</guid>
+      <pubDate>Thu, 20 Jun 2024 14:09:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 竞争对手 Anthropic 宣布推出迄今为止最强大的 AI</title>
+      <link>https://www.cnbc.com/2024/06/20/anthropic-claude-3point5-sonnet-ai-announced.html</link>
+      <description><![CDATA[该公司表示，Claude 3.5 Sonnet 比之前的主打车型 Claude 3 Opus 速度更快，并且是 Anthropic 新款 Claude 3.5 系列的首款车型。]]></description>
+      <guid>https://www.cnbc.com/2024/06/20/anthropic-claude-3point5-sonnet-ai-announced.html</guid>
+      <pubDate>Thu, 20 Jun 2024 14:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着退休临近，许多 X 世代的人仍在努力追赶</title>
+      <link>https://www.cnbc.com/2024/06/20/how-gen-x-can-prepare-for-retirement-through-401ks-iras-social-security.html</link>
+      <description><![CDATA[X 世代可以工作到退休年龄，并将社会保障福利延迟至 70 岁，以帮助增加退休储蓄。]]></description>
+      <guid>https://www.cnbc.com/2024/06/20/how-gen-x-can-prepare-for-retirement-through-401ks-iras-social-security.html</guid>
+      <pubDate>Thu, 20 Jun 2024 13:59:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管 Olive Garden 和高级餐饮销售表现不佳，但 Darden 的盈利仍超出预期</title>
+      <link>https://www.cnbc.com/2024/06/20/darden-restaurants-dri-q4-2024-earnings.html</link>
+      <description><![CDATA[Olive Garden 的所有者 Darden Restaurants 报告称，最新季度同店销售额持平。]]></description>
+      <guid>https://www.cnbc.com/2024/06/20/darden-restaurants-dri-q4-2024-earnings.html</guid>
+      <pubDate>Thu, 20 Jun 2024 13:50:47 GMT</pubDate>
     </item>
     <item>
       <title>埃隆马斯克称超微和戴尔为 xAI 超级计算机项目供应商，其股价上涨</title>
       <link>https://www.cnbc.com/2024/06/20/super-micro-dell-shares-jump-as-elon-musk-calls-them-suppliers-to-xai-supercomputer-project.html</link>
-      <description><![CDATA[马斯克表示：“戴尔正在组装 xAI 正在建造的超级计算机的一半机架。”并补充说超微也将参与其中。]]></description>
+      <description><![CDATA[马斯克表示：“戴尔正在组装 xAI 正在建造的超级计算机的一半机架。”他补充说，超微也将参与其中。]]></description>
       <guid>https://www.cnbc.com/2024/06/20/super-micro-dell-shares-jump-as-elon-musk-calls-them-suppliers-to-xai-supercomputer-project.html</guid>
       <pubDate>Thu, 20 Jun 2024 13:34:58 GMT</pubDate>
     </item>
@@ -25,20 +53,6 @@
       <description><![CDATA[知情人士透露，拜登政府将宣布禁止在美国销售卡巴斯基实验室的杀毒软件的计划。]]></description>
       <guid>https://www.cnbc.com/2024/06/20/biden-to-ban-us-sales-of-kaspersky-software-over-ties-to-russia.html</guid>
       <pubDate>Thu, 20 Jun 2024 13:29:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国原油价格维持在每桶 81 美元上方，有望连续第二周上涨</title>
-      <link>https://www.cnbc.com/2024/06/20/crude-oil-prices-today.html</link>
-      <description><![CDATA[摩根大通预测，受夏季燃料需求推动，到 9 月份布伦特原油价格将达到每桶 90 美元。]]></description>
-      <guid>https://www.cnbc.com/2024/06/20/crude-oil-prices-today.html</guid>
-      <pubDate>Thu, 20 Jun 2024 13:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普传媒盘前交易中暴跌 10%，股价下跌势头将加速</title>
-      <link>https://www.cnbc.com/2024/06/20/djt-trump-media-stock-price-today.html</link>
-      <description><![CDATA[自从纽约陪审团判定这位共和党总统候选人犯有 34 项伪造商业记录罪名以来，特朗普媒体一直陷入低迷。]]></description>
-      <guid>https://www.cnbc.com/2024/06/20/djt-trump-media-stock-price-today.html</guid>
-      <pubDate>Thu, 20 Jun 2024 13:14:32 GMT</pubDate>
     </item>
     <item>
       <title>这款人工智能游戏的市值即将超过沃伦·巴菲特的伯克希尔·哈撒韦公司</title>
@@ -64,7 +78,7 @@
     <item>
       <title>美国各州四口之家的生活费——最昂贵的州需要超过 15 万美元</title>
       <link>https://www.cnbc.com/2024/06/20/the-salary-a-family-of-4-needs-to-get-by-in-every-us-state.html</link>
-      <description><![CDATA[在大多数州，一个四口之家需要赚超过 85,000 美元才能满足食物和住房等必需品。]]></description>
+      <description><![CDATA[在大多数州，一个四口之家需要赚取超过 85,000 美元才能满足食品和住房等必需品。]]></description>
       <guid>https://www.cnbc.com/2024/06/20/the-salary-a-family-of-4-needs-to-get-by-in-every-us-state.html</guid>
       <pubDate>Thu, 20 Jun 2024 13:00:01 GMT</pubDate>
     </item>
@@ -81,20 +95,6 @@
       <description><![CDATA[该制药商周四表示，正在起诉另外六家实体，包括医疗水疗中心和健康中心，因为它们出售声称含有替泽帕肽的产品。]]></description>
       <guid>https://www.cnbc.com/2024/06/20/lilly-files-more-lawsuits-to-curb-sales-of-counterfeit-mounjaro.html</guid>
       <pubDate>Thu, 20 Jun 2024 11:50:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管 Olive Garden 和高级餐饮销售表现不佳，但 Darden 的盈利仍超出预期</title>
-      <link>https://www.cnbc.com/2024/06/20/darden-restaurants-dri-q4-2024-earnings.html</link>
-      <description><![CDATA[Olive Garden 的所有者 Darden Restaurants 报告称，其最新季度同店销售额持平。]]></description>
-      <guid>https://www.cnbc.com/2024/06/20/darden-restaurants-dri-q4-2024-earnings.html</guid>
-      <pubDate>Thu, 20 Jun 2024 11:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管利率降至 3 月份以来的最低水平，但抵押贷款需求仍趋于平稳</title>
-      <link>https://www.cnbc.com/2024/06/19/mortgage-demand-flattens-even-as-interest-rates-hit-the-lowest-level-since-march.html</link>
-      <description><![CDATA[本周购房抵押贷款申请量增加了 2%，比去年同期下降了 12%。]]></description>
-      <guid>https://www.cnbc.com/2024/06/19/mortgage-demand-flattens-even-as-interest-rates-hit-the-lowest-level-since-march.html</guid>
-      <pubDate>Thu, 20 Jun 2024 11:47:32 GMT</pubDate>
     </item>
     <item>
       <title>真主党领导人警告以色列，战争“没有红线”，威胁塞浦路斯</title>
