@@ -3,8 +3,36 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 21 Jun 2024 14:10:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 21 Jun 2024 14:34:00 GMT</lastBuildDate>
+    <item>
+      <title>投资者对杜氏肌营养不良症基因疗法的广泛应用感到高兴，Sarepta 股价飙升近 40%</title>
+      <link>https://www.cnbc.com/2024/06/20/fda-approves-expanded-use-of-sareptas-duchenne-gene-therapy.html</link>
+      <description><![CDATA[美国 FDA 周四批准将 Sarepta 的基因疗法扩大用于所有四岁及以上的杜氏肌营养不良症患者。]]></description>
+      <guid>https://www.cnbc.com/2024/06/20/fda-approves-expanded-use-of-sareptas-duchenne-gene-therapy.html</guid>
+      <pubDate>Fri, 21 Jun 2024 14:33:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 形成“看跌吞没”股票图表模式，有时可能标志着暂时的顶部</title>
+      <link>https://www.cnbc.com/2024/06/21/nvidia-forms-bearish-engulfing-stock-chart-pattern-that-can-sometimes-mark-a-temporary-top.html</link>
+      <description><![CDATA[周四的下跌标志着所谓的看跌吞没形态，这通常预示着之前的上涨势头正在减弱。]]></description>
+      <guid>https://www.cnbc.com/2024/06/21/nvidia-forms-bearish-engulfing-stock-chart-pattern-that-can-sometimes-mark-a-temporary-top.html</guid>
+      <pubDate>Fri, 21 Jun 2024 14:23:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>普京称俄罗斯正在加强其核武库，并愿意与北约国家进行安全会谈</title>
+      <link>https://www.cnbc.com/2024/06/21/russia-open-to-security-talks-with-us-if-ukraine-on-table-kremlin.html</link>
+      <description><![CDATA[俄罗斯总统普京表示，俄罗斯已准备好与北约国家举行安全会谈，同时确认了莫斯科增强国家核武库的计划。]]></description>
+      <guid>https://www.cnbc.com/2024/06/21/russia-open-to-security-talks-with-us-if-ukraine-on-table-kremlin.html</guid>
+      <pubDate>Fri, 21 Jun 2024 14:17:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国运通以 4 亿美元收购餐厅预订平台 Tock</title>
+      <link>https://www.cnbc.com/2024/06/21/american-express-to-buy-reservation-platform-tock-for-400-million.html</link>
+      <description><![CDATA[这家信用卡巨头表示将以现金方式收购预订、候补和桌位管理服务。]]></description>
+      <guid>https://www.cnbc.com/2024/06/21/american-express-to-buy-reservation-platform-tock-for-400-million.html</guid>
+      <pubDate>Fri, 21 Jun 2024 14:16:50 GMT</pubDate>
+    </item>
     <item>
       <title>5 月份房价创历史新高，但销售停滞</title>
       <link>https://www.cnbc.com/2024/06/21/home-prices-hit-record-high-in-may-as-sales-stall.html</link>
@@ -20,20 +48,6 @@
       <pubDate>Fri, 21 Jun 2024 14:09:37 GMT</pubDate>
     </item>
     <item>
-      <title>美国运通以 4 亿美元收购餐厅预订平台 Tock</title>
-      <link>https://www.cnbc.com/2024/06/21/american-express-to-buy-reservation-platform-tock-for-400-million.html</link>
-      <description><![CDATA[这家信用卡巨头表示将以现金方式收购预订、候补和桌位管理服务。]]></description>
-      <guid>https://www.cnbc.com/2024/06/21/american-express-to-buy-reservation-platform-tock-for-400-million.html</guid>
-      <pubDate>Fri, 21 Jun 2024 14:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 形成“看跌吞没”股票图表模式，有时可能标志着暂时的顶部</title>
-      <link>https://www.cnbc.com/2024/06/21/nvidia-forms-bearish-engulfing-stock-chart-pattern-that-can-sometimes-mark-a-temporary-top.html</link>
-      <description><![CDATA[周四的下跌标志着所谓的看跌吞没形态，这通常预示着之前的上涨势头正在减弱。]]></description>
-      <guid>https://www.cnbc.com/2024/06/21/nvidia-forms-bearish-engulfing-stock-chart-pattern-that-can-sometimes-mark-a-temporary-top.html</guid>
-      <pubDate>Fri, 21 Jun 2024 14:05:07 GMT</pubDate>
-    </item>
-    <item>
       <title>Stifel 表示，比特币近期的疲软预示着标准普尔 500 指数即将出现回调</title>
       <link>https://www.cnbc.com/2024/06/21/bitcoins-recent-weakness-signals-an-imminent-sp-500-correction-according-to-stifel.html</link>
       <description><![CDATA[周四，标准普尔 500 指数在本周早些时候创下最新收盘纪录后，一度首次突破 5,500 点。]]></description>
@@ -46,13 +60,6 @@
       <description><![CDATA[Forever 21 正在寻求租金优惠，因为它正努力与更精明的新贵竞争并管理其门店组合。]]></description>
       <guid>https://www.cnbc.com/2024/06/21/forever-21-seeks-rent-concessions-facing-financial-struggles.html</guid>
       <pubDate>Fri, 21 Jun 2024 13:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>普京称俄罗斯正在加强其核武库，并愿意与北约国家进行安全会谈</title>
-      <link>https://www.cnbc.com/2024/06/21/russia-open-to-security-talks-with-us-if-ukraine-on-table-kremlin.html</link>
-      <description><![CDATA[克里姆林宫领导人弗拉基米尔·普京表示，俄罗斯准备与北约国家举行安全会谈，同时确认莫斯科增强国家核武库的计划。]]></description>
-      <guid>https://www.cnbc.com/2024/06/21/russia-open-to-security-talks-with-us-if-ukraine-on-table-kremlin.html</guid>
-      <pubDate>Fri, 21 Jun 2024 13:31:26 GMT</pubDate>
     </item>
     <item>
       <title>耗资20亿美元的巴尔的摩大桥重建是新一轮全国基础设施支出辩论的试验案例</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[这是法国总统盖茨首次支持总统候选人。]]></description>
       <guid>https://www.cnbc.com/2024/06/20/melinda-french-gates-endorses-joe-biden.html</guid>
       <pubDate>Fri, 21 Jun 2024 11:26:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>杜氏肌营养不良症基因疗法应用范围扩大 投资者欢呼 Sarepta 股价飙升</title>
-      <link>https://www.cnbc.com/2024/06/20/fda-approves-expanded-use-of-sareptas-duchenne-gene-therapy.html</link>
-      <description><![CDATA[美国 FDA 周四批准将 Sarepta 的基因疗法扩大用于所有四岁及以上的杜氏肌营养不良症患者。]]></description>
-      <guid>https://www.cnbc.com/2024/06/20/fda-approves-expanded-use-of-sareptas-duchenne-gene-therapy.html</guid>
-      <pubDate>Fri, 21 Jun 2024 11:06:09 GMT</pubDate>
     </item>
     <item>
       <title>从人权律师到政治改革者：英国新任首相候选人凯尔·斯塔默是谁</title>
