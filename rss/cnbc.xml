@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
     <lastBuildDate>Fri, 21 Jun 2024 22:05:00 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉内部数据显示，该公司今年已裁员至少 14%</title>
+      <link>https://www.cnbc.com/2024/06/21/tesla-has-downsized-by-at-least-14percent-this-year-internal-number-shows.html</link>
+      <description><![CDATA[CNBC 查看的特斯拉内部记录显示，该公司雇佣了超过 121,000 名员工，包括临时工。]]></description>
+      <guid>https://www.cnbc.com/2024/06/21/tesla-has-downsized-by-at-least-14percent-this-year-internal-number-shows.html</guid>
+      <pubDate>Fri, 21 Jun 2024 23:03:39 GMT</pubDate>
+    </item>
     <item>
       <title>自特朗普有罪判决以来，道琼工业指数股价下跌近 50%</title>
       <link>https://www.cnbc.com/2024/06/21/trump-media-freefall-continues-djt-stock-down-6percent.html</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[尽管要求解冻因 Synapse 倒闭而冻结的所有银行账户的压力越来越大，但混乱的记录使得何时能解冻变得不确定。]]></description>
       <guid>https://www.cnbc.com/2024/06/21/synapse-collapse-nearly-109m-in-yotta-customer-deposits-vanish.html</guid>
       <pubDate>Fri, 21 Jun 2024 21:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克表示裁员人数将超过 10% 后，特斯拉今年的规模已至少缩减 14%</title>
-      <link>https://www.cnbc.com/2024/06/21/tesla-has-downsized-by-at-least-14percent-this-year-internal-number-shows.html</link>
-      <description><![CDATA[CNBC 查看的特斯拉内部记录显示，该公司雇佣了超过 121,000 名员工，包括临时工。]]></description>
-      <guid>https://www.cnbc.com/2024/06/21/tesla-has-downsized-by-at-least-14percent-this-year-internal-number-shows.html</guid>
-      <pubDate>Fri, 21 Jun 2024 20:52:02 GMT</pubDate>
     </item>
     <item>
       <title>礼来公司预计 FDA 最早将于今年年底就减肥药 Zepbound 做出决定</title>
