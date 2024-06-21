@@ -3,42 +3,49 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 21 Jun 2024 15:32:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 21 Jun 2024 16:18:00 GMT</lastBuildDate>
     <item>
-      <title>这款智能洒水器利用人工智能将草坪上的用水量减少一半</title>
-      <link>https://www.cnbc.com/2024/06/17/irrigreen-smart-sprinkler-ai.html</link>
-      <description><![CDATA[Rain Bird、Rachio 和位于明尼苏达州的 Irrigreen 等公司推出的新技术旨在使灌溉更加精准。]]></description>
-      <guid>https://www.cnbc.com/2024/06/17/irrigreen-smart-sprinkler-ai.html</guid>
-      <pubDate>Fri, 21 Jun 2024 15:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院维持家庭暴力枪支限制</title>
-      <link>https://www.cnbc.com/2024/06/21/supreme-court-upholds-domestic-violence-gun-restriction.html</link>
-      <description><![CDATA[此案是对法院保守派多数派在 2022 年做出重大裁决后愿意在多大程度上支持枪支权利的一次考验。]]></description>
-      <guid>https://www.cnbc.com/2024/06/21/supreme-court-upholds-domestic-violence-gun-restriction.html</guid>
-      <pubDate>Fri, 21 Jun 2024 15:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽油需求激增 美国原油有望连续第二周上涨</title>
-      <link>https://www.cnbc.com/2024/06/21/crude-oil-prices-today.html</link>
-      <description><![CDATA[摩根大通表示，上周汽油需求飙升至疫情结束以来的最高水平。]]></description>
-      <guid>https://www.cnbc.com/2024/06/21/crude-oil-prices-today.html</guid>
-      <pubDate>Fri, 21 Jun 2024 15:23:55 GMT</pubDate>
+      <title>OpenAI 收购数据库分析公司 Rockset</title>
+      <link>https://www.cnbc.com/2024/06/21/openai-acquires-database-analytics-firm-rockset.html</link>
+      <description><![CDATA[Rockset 表示，它将为 ChatGPT 制造商的检索基础设施提供支持，可能会提高 AI 模型的响应速度和准确性。]]></description>
+      <guid>https://www.cnbc.com/2024/06/21/openai-acquires-database-analytics-firm-rockset.html</guid>
+      <pubDate>Fri, 21 Jun 2024 16:17:14 GMT</pubDate>
     </item>
     <item>
       <title>银行称，金融科技公司 Yotta 的客户近 1.09 亿美元存款在 Synapse 倒闭后不翼而飞</title>
       <link>https://www.cnbc.com/2024/06/21/synapse-collapse-nearly-109m-in-yotta-customer-deposits-vanish.html</link>
       <description><![CDATA[尽管要求解冻因 Synapse 倒闭而冻结的所有银行账户的压力越来越大，但混乱的记录使得何时能解冻变得不确定。]]></description>
       <guid>https://www.cnbc.com/2024/06/21/synapse-collapse-nearly-109m-in-yotta-customer-deposits-vanish.html</guid>
-      <pubDate>Fri, 21 Jun 2024 15:23:51 GMT</pubDate>
+      <pubDate>Fri, 21 Jun 2024 16:17:11 GMT</pubDate>
     </item>
     <item>
       <title>标普 500 指数在持平线附近徘徊，英伟达连续第二天陷入困境：实时更新</title>
       <link>https://www.cnbc.com/2024/06/20/stock-market-today-live-updates.html</link>
       <description><![CDATA[标准普尔 500 指数周四收盘走低，但在盘中短暂突破 5,500 点。]]></description>
       <guid>https://www.cnbc.com/2024/06/20/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 21 Jun 2024 15:23:09 GMT</pubDate>
+      <pubDate>Fri, 21 Jun 2024 16:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院维持家庭暴力枪支限制</title>
+      <link>https://www.cnbc.com/2024/06/21/supreme-court-upholds-domestic-violence-gun-restriction.html</link>
+      <description><![CDATA[此案是对法院保守派多数派在 2022 年做出重大裁决后愿意在多大程度上支持枪支权利的一次考验。]]></description>
+      <guid>https://www.cnbc.com/2024/06/21/supreme-court-upholds-domestic-violence-gun-restriction.html</guid>
+      <pubDate>Fri, 21 Jun 2024 16:06:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国正在建设更多用于出租的独栋住宅。</title>
+      <link>https://www.cnbc.com/2024/06/21/housing-affordability-more-single-family-rentals-being-built-in-us.html</link>
+      <description><![CDATA[越来越多的单户出租房屋正在建设中。如果您需要更多空间但又买不起，可以考虑以下几点。]]></description>
+      <guid>https://www.cnbc.com/2024/06/21/housing-affordability-more-single-family-rentals-being-built-in-us.html</guid>
+      <pubDate>Fri, 21 Jun 2024 16:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普媒体自由落体持续，道琼工业指数股价下跌 6%</title>
+      <link>https://www.cnbc.com/2024/06/21/trump-media-freefall-continues-djt-stock-down-6percent.html</link>
+      <description><![CDATA[自纽约陪审团判定特朗普犯有 34 项伪造商业记录的重罪以来，特朗普媒体（股票代码为 DJT）的市值已缩水一半以上。]]></description>
+      <guid>https://www.cnbc.com/2024/06/21/trump-media-freefall-continues-djt-stock-down-6percent.html</guid>
+      <pubDate>Fri, 21 Jun 2024 15:58:44 GMT</pubDate>
     </item>
     <item>
       <title>政府赤字激增引发经济学家对长期经济衰退和市场困境的担忧</title>
@@ -71,7 +78,7 @@
     <item>
       <title>普京称俄罗斯正在加强其核武库，并愿意与北约国家进行安全会谈</title>
       <link>https://www.cnbc.com/2024/06/21/russia-open-to-security-talks-with-us-if-ukraine-on-table-kremlin.html</link>
-      <description><![CDATA[俄罗斯总统普京表示，俄罗斯已准备好与北约国家举行安全会谈，同时肯定了莫斯科增强国家核武库的计划。]]></description>
+      <description><![CDATA[俄罗斯总统普京表示，俄罗斯已准备好与北约国家举行安全会谈，同时确认了莫斯科增强国家核武库的计划。]]></description>
       <guid>https://www.cnbc.com/2024/06/21/russia-open-to-security-talks-with-us-if-ukraine-on-table-kremlin.html</guid>
       <pubDate>Fri, 21 Jun 2024 14:17:21 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[这是法国总统盖茨首次支持总统候选人。]]></description>
       <guid>https://www.cnbc.com/2024/06/20/melinda-french-gates-endorses-joe-biden.html</guid>
       <pubDate>Fri, 21 Jun 2024 11:26:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>从人权律师到政治改革者：英国新任首相候选人凯尔·斯塔默是谁</title>
-      <link>https://www.cnbc.com/2024/06/21/labour-keir-starmer-the-uks-new-would-be-prime-minister.html</link>
-      <description><![CDATA[工党领袖基尔·斯塔默 (Keir Starmer) 有望赢得英国 7 月 4 日的大选。]]></description>
-      <guid>https://www.cnbc.com/2024/06/21/labour-keir-starmer-the-uks-new-would-be-prime-minister.html</guid>
-      <pubDate>Fri, 21 Jun 2024 05:10:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
