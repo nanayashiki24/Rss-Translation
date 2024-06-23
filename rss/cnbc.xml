@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sun, 23 Jun 2024 04:42:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Sun, 23 Jun 2024 11:33:00 GMT</lastBuildDate>
+    <item>
+      <title>特朗普在候选人对决前几天预测辩论中将对拜登经济发起攻击</title>
+      <link>https://www.cnbc.com/2024/06/23/trump-debate-preview-biden-economy-faith-freedom-convention.html</link>
+      <description><![CDATA[唐纳德·特朗普和拜登总统将于 6 月 27 日在 11 月大选的首场总统辩论中展开对决。]]></description>
+      <guid>https://www.cnbc.com/2024/06/23/trump-debate-preview-biden-economy-faith-freedom-convention.html</guid>
+      <pubDate>Sun, 23 Jun 2024 11:33:11 GMT</pubDate>
+    </item>
     <item>
       <title>泰勒·斯威夫特 (Taylor Swift) 开启英国时代 (UK Eras) 演唱会，一些粉丝想知道这位歌手是否准备好说“再见，伦敦”</title>
       <link>https://www.cnbc.com/2024/06/23/taylor-swift-uk-eras-tour-show-kicks-off-in-londons-wembley-stadium.html</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[混合酒精饮料已经成为一种值得企业利用的文化元素。]]></description>
       <guid>https://www.cnbc.com/2024/06/22/how-the-vodka-soda-became-gay-water.html</guid>
       <pubDate>Sat, 22 Jun 2024 14:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 的“免消费月”活动可能会给你带来什么后果</title>
-      <link>https://www.cnbc.com/2024/06/22/no-spend-month-the-pitfalls-of-this-viral-savings-challenge.html</link>
-      <description><![CDATA[财务专家表示，制定一个可以长期维持的预算是无可替代的。]]></description>
-      <guid>https://www.cnbc.com/2024/06/22/no-spend-month-the-pitfalls-of-this-viral-savings-challenge.html</guid>
-      <pubDate>Sat, 22 Jun 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
       <title>尽管市值一度超过苹果和微软，但 Nvidia 仍然是一个鲜为人知的品牌</title>
@@ -71,7 +71,7 @@
     <item>
       <title>Fundstrat 的 Tom Lee 不断做出大胆的股票预测并取得成功</title>
       <link>https://www.cnbc.com/2024/06/22/fundstrats-tom-lee-keeps-making-bold-stock-calls-and-nailing-them.html</link>
-      <description><![CDATA[这家独立金融研究精品店的联合创始人并不期望自己总是正确，而是依靠历史和概率做出判断。]]></description>
+      <description><![CDATA[这家独立金融研究机构的联合创始人并不期望自己总是正确，而是依靠历史和概率做出判断。]]></description>
       <guid>https://www.cnbc.com/2024/06/22/fundstrats-tom-lee-keeps-making-bold-stock-calls-and-nailing-them.html</guid>
       <pubDate>Sat, 22 Jun 2024 10:55:49 GMT</pubDate>
     </item>
