@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 26 Jun 2024 22:09:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 26 Jun 2024 22:48:00 GMT</lastBuildDate>
     <item>
-      <title>玻利维亚发生政变，总统呼吁民众动员起来反对</title>
-      <link>https://www.cnbc.com/2024/06/26/coup-attempt-underway-in-bolivia-as-president-urges-people-to-mobilize-against-it.html</link>
-      <description><![CDATA[星期三，当玻利维亚总统路易斯·阿尔塞表示该国面临政变企图时，装甲车撞进了玻利维亚政府宫的大门。]]></description>
-      <guid>https://www.cnbc.com/2024/06/26/coup-attempt-underway-in-bolivia-as-president-urges-people-to-mobilize-against-it.html</guid>
-      <pubDate>Wed, 26 Jun 2024 22:24:17 GMT</pubDate>
+      <title>SpaceX 正在建造一艘 NASA 飞船，用于在退役后故意摧毁国际空间站</title>
+      <link>https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html</link>
+      <description><![CDATA[美国宇航局将使用埃隆马斯克的 SpaceX 公司的一艘航天器指导国际空间站退役后的销毁。]]></description>
+      <guid>https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html</guid>
+      <pubDate>Wed, 26 Jun 2024 23:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>美光营收预测未达预期，股价下跌</title>
+      <link>https://www.cnbc.com/2024/06/26/micron-shares-slide-after-revenue-forecast-fails-to-top-estimates.html</link>
+      <description><![CDATA[美光科技周三公布的业绩好于预期，但由于预测结果仅与估计相符，该公司股价下跌。]]></description>
+      <guid>https://www.cnbc.com/2024/06/26/micron-shares-slide-after-revenue-forecast-fails-to-top-estimates.html</guid>
+      <pubDate>Wed, 26 Jun 2024 22:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登内阁官员在特朗普辩论前推出削减生活成本的新计划</title>
+      <link>https://www.cnbc.com/2024/06/26/biden-cabinet-economy-publicity-trump-debate-election.html</link>
+      <description><![CDATA[财政部长珍妮特·耶伦和其他十几名白宫内阁成员在拜登与特朗普辩论前在美国各地停留。]]></description>
+      <guid>https://www.cnbc.com/2024/06/26/biden-cabinet-economy-publicity-trump-debate-election.html</guid>
+      <pubDate>Wed, 26 Jun 2024 22:29:30 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊市值首次达到 2 万亿美元</title>
@@ -20,9 +34,9 @@
       <pubDate>Wed, 26 Jun 2024 22:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>尽管牛仔热潮席卷全球，但牛仔裤制造商 Levi's 的销量令人失望，其股价下跌 12%</title>
+      <title>尽管牛仔热潮席卷全球，但牛仔裤制造商 Levi's 的销量却令人失望，其股价下跌 12%</title>
       <link>https://www.cnbc.com/2024/06/26/levi-levi-earnings-q2-2024.html</link>
-      <description><![CDATA[Levi&#39;s 一直在致力于打造自己的网站和商店，虽然该策略提高了利润，但销售额并没有太大变化。]]></description>
+      <description><![CDATA[Levi&#39;s 一直致力于打造自己的网站和商店，虽然该策略提高了利润，但销售额并没有太大变化。]]></description>
       <guid>https://www.cnbc.com/2024/06/26/levi-levi-earnings-q2-2024.html</guid>
       <pubDate>Wed, 26 Jun 2024 21:47:17 GMT</pubDate>
     </item>
@@ -32,13 +46,6 @@
       <description><![CDATA[今年的压力测试包括摩根大通和高盛、美国运通等信用卡公司以及 Truist 等地区性贷款机构。]]></description>
       <guid>https://www.cnbc.com/2024/06/26/fed-banks-stress-test-2024.html</guid>
       <pubDate>Wed, 26 Jun 2024 21:26:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>美光营收预测未达预期，股价下跌</title>
-      <link>https://www.cnbc.com/2024/06/26/micron-shares-slide-after-revenue-forecast-fails-to-top-estimates.html</link>
-      <description><![CDATA[美光科技周三公布的业绩好于预期，但由于预测结果仅与估计相符，该公司股价下跌。]]></description>
-      <guid>https://www.cnbc.com/2024/06/26/micron-shares-slide-after-revenue-forecast-fails-to-top-estimates.html</guid>
-      <pubDate>Wed, 26 Jun 2024 21:05:21 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊计划推出折扣店，以抵御 Temu 和 Shein</title>
@@ -53,13 +60,6 @@
       <description><![CDATA[根据2023年INRIX的报告，纽约人在交通拥堵中损失了101个小时。]]></description>
       <guid>https://www.cnbc.com/2024/06/26/most-congested-united-states-cities-inrix-2023-report.html</guid>
       <pubDate>Wed, 26 Jun 2024 20:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌正在西雅图附近的一个站点测试面部识别技术用于校园安全</title>
-      <link>https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html</link>
-      <description><![CDATA[据内部文件显示，谷歌正在华盛顿州柯克兰的一个站点测试面部识别技术。]]></description>
-      <guid>https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html</guid>
-      <pubDate>Wed, 26 Jun 2024 19:58:03 GMT</pubDate>
     </item>
     <item>
       <title>英伟达股价历史性飙升后，首席执行官黄仁勋在股东大会上谈到日益激烈的竞争</title>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 26 Jun 2024 18:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>贝莱德看到了市政债券的机会</title>
+      <title>贝莱德在市政债券中看到了机遇</title>
       <link>https://www.cnbc.com/2024/06/26/heres-where-blackrock-sees-opportunity-in-municipal-bonds-.html</link>
       <description><![CDATA[贝莱德表示，市政债券是获得税收优惠收入的好方法。]]></description>
       <guid>https://www.cnbc.com/2024/06/26/heres-where-blackrock-sees-opportunity-in-municipal-bonds-.html</guid>
