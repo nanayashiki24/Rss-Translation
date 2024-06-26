@@ -3,14 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 26 Jun 2024 15:17:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 26 Jun 2024 15:25:00 GMT</lastBuildDate>
     <item>
-      <title>美国原油和汽油库存增加引发需求担忧，油价小幅下跌</title>
+      <title>美国原油和汽油库存意外增加，油价小幅下跌</title>
       <link>https://www.cnbc.com/2024/06/26/crude-oil-prices-today.html</link>
       <description><![CDATA[美国能源信息署发布的数据显示，上周原油库存增加了360万桶。]]></description>
       <guid>https://www.cnbc.com/2024/06/26/crude-oil-prices-today.html</guid>
-      <pubDate>Wed, 26 Jun 2024 15:17:47 GMT</pubDate>
+      <pubDate>Wed, 26 Jun 2024 15:34:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者 Neil Hennessy 表示，大型科技股交易已“结束”，建议买入这两只股票</title>
+      <link>https://www.cnbc.com/2024/06/26/neil-hennessy-says-to-buy-these-two-stocks-instead-of-mega-cap-tech.html</link>
+      <description><![CDATA[该基金经理表示，投资者现在应该关注价值股。]]></description>
+      <guid>https://www.cnbc.com/2024/06/26/neil-hennessy-says-to-buy-these-two-stocks-instead-of-mega-cap-tech.html</guid>
+      <pubDate>Wed, 26 Jun 2024 15:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗森布拉特称，苹果在人工智能竞赛中击败安卓，股价将上涨至 260 美元</title>
+      <link>https://www.cnbc.com/2024/06/26/apple-shares-to-rally-to-260-as-it-beats-out-android-in-ai-race-rosenblatt-says.html</link>
+      <description><![CDATA[罗森布拉特认为，苹果凭借强大的隐私功能在人工智能竞赛中胜过竞争对手。]]></description>
+      <guid>https://www.cnbc.com/2024/06/26/apple-shares-to-rally-to-260-as-it-beats-out-android-in-ai-race-rosenblatt-says.html</guid>
+      <pubDate>Wed, 26 Jun 2024 15:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院驳回拜登政府强迫社交媒体公司删除内容的指控</title>
+      <link>https://www.cnbc.com/2024/06/26/supreme-court-tosses-out-claim-biden-administration-coerced-social-media-companies-to-remove-content.html</link>
+      <description><![CDATA[法院推翻了一项限制政府官员和社交媒体公司在广泛问题上接触的禁令。]]></description>
+      <guid>https://www.cnbc.com/2024/06/26/supreme-court-tosses-out-claim-biden-administration-coerced-social-media-companies-to-remove-content.html</guid>
+      <pubDate>Wed, 26 Jun 2024 15:20:52 GMT</pubDate>
     </item>
     <item>
       <title>苹果将​​自助维修计划扩展至欧洲</title>
@@ -25,20 +46,6 @@
       <description><![CDATA[此次推出将是对生成式人工智能所取得的生产力提升的一次现实世界考验，生成式人工智能在 2022 年底风靡全球。]]></description>
       <guid>https://www.cnbc.com/2024/06/26/morgan-stanley-openai-powered-assistant-for-wealth-advisors.html</guid>
       <pubDate>Wed, 26 Jun 2024 15:08:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗森布拉特称苹果股价将上涨至 260 美元，因其在人工智能竞赛中击败 Android</title>
-      <link>https://www.cnbc.com/2024/06/26/apple-shares-to-rally-to-260-as-it-beats-out-android-in-ai-race-rosenblatt-says.html</link>
-      <description><![CDATA[罗森布拉特认为，苹果凭借强大的隐私功能在人工智能竞赛中胜过竞争对手。]]></description>
-      <guid>https://www.cnbc.com/2024/06/26/apple-shares-to-rally-to-260-as-it-beats-out-android-in-ai-race-rosenblatt-says.html</guid>
-      <pubDate>Wed, 26 Jun 2024 14:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院驳回拜登政府强迫社交媒体公司删除内容的指控</title>
-      <link>https://www.cnbc.com/2024/06/26/supreme-court-tosses-out-claim-biden-administration-coerced-social-media-companies-to-remove-content.html</link>
-      <description><![CDATA[法院推翻了一项限制政府官员和社交媒体公司在广泛问题上接触的禁令。]]></description>
-      <guid>https://www.cnbc.com/2024/06/26/supreme-court-tosses-out-claim-biden-administration-coerced-social-media-companies-to-remove-content.html</guid>
-      <pubDate>Wed, 26 Jun 2024 14:43:43 GMT</pubDate>
     </item>
     <item>
       <title>Moderna 称其 RSV 疫苗在 18 个月后有效率为 50%</title>
@@ -57,16 +64,9 @@
     <item>
       <title>由于消费者需求担忧加剧，企业顶级首席财务官对经济失去了信心</title>
       <link>https://www.cnbc.com/2024/06/26/where-top-corporate-cfos-see-rates-inflation-consumer-demand-heading.html</link>
-      <description><![CDATA[美国财经频道首席财务官委员会的最新季度调查显示，企业高管对经济的担忧加剧。]]></description>
+      <description><![CDATA[美国全国广播公司财经频道 (CNBC) 首席财务官委员会的最新季度调查显示，企业高管对经济的担忧加剧。]]></description>
       <guid>https://www.cnbc.com/2024/06/26/where-top-corporate-cfos-see-rates-inflation-consumer-demand-heading.html</guid>
       <pubDate>Wed, 26 Jun 2024 14:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>期权交易员告诉你如何做多具有巨大反弹潜力的能源股</title>
-      <link>https://www.cnbc.com/2024/06/26/how-to-get-long-an-energy-stock-with-substantial-comeback-potential-according-to-options-trader.html</link>
-      <description><![CDATA[Tony Zhang 分析了钻井工 SLB 的交易情况。]]></description>
-      <guid>https://www.cnbc.com/2024/06/26/how-to-get-long-an-energy-stock-with-substantial-comeback-potential-according-to-options-trader.html</guid>
-      <pubDate>Wed, 26 Jun 2024 14:27:20 GMT</pubDate>
     </item>
     <item>
       <title>抵押贷款利率和每周抵押贷款需求均保持不变，表明夏季房地产市场放缓</title>
