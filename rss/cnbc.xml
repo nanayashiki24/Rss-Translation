@@ -3,21 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
     <lastBuildDate>Fri, 28 Jun 2024 15:31:00 GMT</lastBuildDate>
+    <item>
+      <title>最高法院推翻 40 年前的判例，打击联邦机构权力</title>
+      <link>https://www.cnbc.com/2024/06/28/supreme-court-delivers-blow-to-power-of-federal-agencies-overturning-40-year-old-precedent.html</link>
+      <description><![CDATA[1984年的重要先例使联邦官僚在法律措辞不明确时可以灵活地解释法律。]]></description>
+      <guid>https://www.cnbc.com/2024/06/28/supreme-court-delivers-blow-to-power-of-federal-agencies-overturning-40-year-old-precedent.html</guid>
+      <pubDate>Fri, 28 Jun 2024 16:17:27 GMT</pubDate>
+    </item>
     <item>
       <title>最高法院裁定 1 月 6 日骚乱者挑战妨碍司法公正指控</title>
       <link>https://www.cnbc.com/2024/06/28/supreme-court-rules-for-jan-6-rioter-challenging-obstruction-charge.html</link>
       <description><![CDATA[这一备受关注的案件重点关注前总统唐纳德·特朗普在干预选举案中面临的指控。]]></description>
       <guid>https://www.cnbc.com/2024/06/28/supreme-court-rules-for-jan-6-rioter-challenging-obstruction-charge.html</guid>
       <pubDate>Fri, 28 Jun 2024 15:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>最高法院推翻 40 年前的判例，打击联邦机构权力</title>
-      <link>https://www.cnbc.com/2024/06/28/supreme-court-delivers-blow-to-power-of-federal-agencies-overturning-40-year-old-precedent.html</link>
-      <description><![CDATA[1984年的重要先例使联邦官僚在法律措辞不明确时能够灵活地解释法律。]]></description>
-      <guid>https://www.cnbc.com/2024/06/28/supreme-court-delivers-blow-to-power-of-federal-agencies-overturning-40-year-old-precedent.html</guid>
-      <pubDate>Fri, 28 Jun 2024 15:32:21 GMT</pubDate>
     </item>
     <item>
       <title>以下是罗森布拉特对下半年人工智能和技术的最佳想法</title>
@@ -41,7 +41,7 @@
       <pubDate>Fri, 28 Jun 2024 15:13:42 GMT</pubDate>
     </item>
     <item>
-      <title>耐克股价暴跌，此前该零售商表示季度销售额将下降 10%，并警告中国市场疲软</title>
+      <title>耐克股价暴跌，此前该公司表示季度销售额将下降 10%，并警告中国市场疲软</title>
       <link>https://www.cnbc.com/2024/06/27/nike-nke-earnings-q4-2024.html</link>
       <description><![CDATA[耐克发现自己陷入了困境，这家运动鞋巨头一直在努力夺回被 On Running 和 Hoka 等新贵抢占的市场份额。]]></description>
       <guid>https://www.cnbc.com/2024/06/27/nike-nke-earnings-q4-2024.html</guid>
@@ -62,7 +62,7 @@
       <pubDate>Fri, 28 Jun 2024 15:07:29 GMT</pubDate>
     </item>
     <item>
-      <title>拜登在特朗普辩论中失利后，道琼工业指数股价大幅上涨，随后回落</title>
+      <title>道琼工业指数 (DJT) 股价在拜登在特朗普辩论中失利后大幅上涨，随后回落</title>
       <link>https://www.cnbc.com/2024/06/28/djt-shares-soar-trump-biden-debate.html</link>
       <description><![CDATA[一些民主党人表示，拜登总统在辩论中表现不佳后，需要退出与特朗普的总统竞选。道琼工业指数股票可能受益。]]></description>
       <guid>https://www.cnbc.com/2024/06/28/djt-shares-soar-trump-biden-debate.html</guid>
