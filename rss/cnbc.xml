@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Fri, 28 Jun 2024 04:19:00 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 经历了一段动荡时期。以下是本周分析师对这家芯片制造商的评价</title>
+      <link>https://www.cnbc.com/2024/06/28/nvidia-has-had-a-big-week-heres-cnbc-pros-top-coverage-of-the-chipmaker.html</link>
+      <description><![CDATA[本周，英伟达股价涨势迅猛。如果您错过了，以下是所有顶级分析师电话会议及其他内容的汇总。]]></description>
+      <guid>https://www.cnbc.com/2024/06/28/nvidia-has-had-a-big-week-heres-cnbc-pros-top-coverage-of-the-chipmaker.html</guid>
+      <pubDate>Fri, 28 Jun 2024 05:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>拜登辩论表现不佳，民主党顶级筹款人发出警告</title>
       <link>https://www.cnbc.com/2024/06/28/biden-democratic-fundraisers-sound-alarm-on-debate.html</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[中国智能手机公司荣耀首席执行官赵明表示，如果用户数据得不到保护，人工智能的变革能力就毫无价值。]]></description>
       <guid>https://www.cnbc.com/2024/06/28/chinese-phone-maker-honor-ais-power-is-worthless-without-data-privacy.html</guid>
       <pubDate>Fri, 28 Jun 2024 03:42:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 本周表现不俗。以下是 CNBC Pro 对这家芯片制造商的顶级报道</title>
-      <link>https://www.cnbc.com/2024/06/28/nvidia-has-had-a-big-week-heres-cnbc-pros-top-coverage-of-the-chipmaker.html</link>
-      <description><![CDATA[本周，英伟达股价涨势迅猛。如果您错过了，以下是迄今为止 CNBC Pro 对英伟达相关内容的总结。]]></description>
-      <guid>https://www.cnbc.com/2024/06/28/nvidia-has-had-a-big-week-heres-cnbc-pros-top-coverage-of-the-chipmaker.html</guid>
-      <pubDate>Fri, 28 Jun 2024 03:19:24 GMT</pubDate>
     </item>
     <item>
       <title>中国正在测试美菲重要防御协议的底线——华盛顿会做出回应吗？</title>
@@ -69,7 +69,7 @@
       <pubDate>Thu, 27 Jun 2024 23:14:39 GMT</pubDate>
     </item>
     <item>
-      <title>耐克股价暴跌，此前该公司表示季度销售额将下降 10%，并警告中国市场疲软</title>
+      <title>耐克股价暴跌，此前该零售商表示季度销售额将下降 10%，并警告中国市场疲软</title>
       <link>https://www.cnbc.com/2024/06/27/nike-nke-earnings-q4-2024.html</link>
       <description><![CDATA[耐克发现自己陷入了困境，这家运动鞋巨头一直在努力夺回被 On Running 和 Hoka 等新贵抢占的市场份额。]]></description>
       <guid>https://www.cnbc.com/2024/06/27/nike-nke-earnings-q4-2024.html</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>周五美联储将公布通胀数据。以下是预期数据</title>
       <link>https://www.cnbc.com/2024/06/27/theres-a-big-fed-inflation-reading-coming-friday-heres-what-to-expect.html</link>
-      <description><![CDATA[美国商务部周五发布的重要经济报告可能带来一些关于通胀的利好消息。]]></description>
+      <description><![CDATA[美国商务部周五发布的重要经济报告可能带来一些关于通胀的相当不错的消息。]]></description>
       <guid>https://www.cnbc.com/2024/06/27/theres-a-big-fed-inflation-reading-coming-friday-heres-what-to-expect.html</guid>
       <pubDate>Thu, 27 Jun 2024 20:28:43 GMT</pubDate>
     </item>
