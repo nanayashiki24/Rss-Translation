@@ -4,20 +4,20 @@
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 28 Jun 2024 23:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 01:19:00 GMT</lastBuildDate>
+    <item>
+      <title>随着微软云计算的普及，亚马逊将为一些初创公司在 AWS 上开发服务的信用额度增加一倍</title>
+      <link>https://www.cnbc.com/2024/06/28/amazon-doubling-value-of-credits-for-startups-to-build-on-aws-cloud.html</link>
+      <description><![CDATA[随着微软的人工智能技术吸引更多企业家加入其云端，亚马逊希望确保创始人能够继续在 AWS 上进行开发。]]></description>
+      <guid>https://www.cnbc.com/2024/06/28/amazon-doubling-value-of-credits-for-startups-to-build-on-aws-cloud.html</guid>
+      <pubDate>Sat, 29 Jun 2024 01:58:14 GMT</pubDate>
+    </item>
     <item>
       <title>《纽约时报》编辑委员会敦促拜登退出总统竞选</title>
       <link>https://www.cnbc.com/2024/06/28/new-york-times-editorial-board-urges-biden-to-drop-out-of-presidential-race.html</link>
       <description><![CDATA[总统乔·拜登让许多民主党人担心，他并不是他们在 2024 年大选中击败唐纳德·特朗普的最佳机会。]]></description>
       <guid>https://www.cnbc.com/2024/06/28/new-york-times-editorial-board-urges-biden-to-drop-out-of-presidential-race.html</guid>
       <pubDate>Sat, 29 Jun 2024 00:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊加强人工智能开发，聘请初创公司 Adept 的高管并授权其技术</title>
-      <link>https://www.cnbc.com/2024/06/28/amazon-hires-execs-from-ai-startup-adept-and-licenses-its-technology.html</link>
-      <description><![CDATA[作为交易的一部分，亚马逊将获得 Adept 的技术许可，包括其部分人工智能模型和数据集。]]></description>
-      <guid>https://www.cnbc.com/2024/06/28/amazon-hires-execs-from-ai-startup-adept-and-licenses-its-technology.html</guid>
-      <pubDate>Fri, 28 Jun 2024 23:32:43 GMT</pubDate>
     </item>
     <item>
       <title>摩根大通和摩根士丹利增加股票回购和派息，而花旗集团和美国银行则采取较小的举措</title>
@@ -29,7 +29,7 @@
     <item>
       <title>数百万借款人暂停偿还学生贷款</title>
       <link>https://www.cnbc.com/2024/06/28/biden-student-loan-payment-pause.html</link>
-      <description><![CDATA[拜登政府将对约 300 万参加其新 SAVE 还款计划的学生贷款借款人实行宽限期，同时在法庭上为该计划辩护。]]></description>
+      <description><![CDATA[拜登政府将对约 300 万参加新 SAVE 还款计划的学生贷款借款人实行宽限期，同时在法庭上为该计划辩护。]]></description>
       <guid>https://www.cnbc.com/2024/06/28/biden-student-loan-payment-pause.html</guid>
       <pubDate>Fri, 28 Jun 2024 21:38:18 GMT</pubDate>
     </item>
@@ -41,13 +41,6 @@
       <pubDate>Fri, 28 Jun 2024 21:30:57 GMT</pubDate>
     </item>
     <item>
-      <title>福特首席执行官表示，两年半内将推出一款售价 3 万美元的盈利型电动汽车</title>
-      <link>https://www.cnbc.com/2024/06/28/ford-ceo-30000-ev-coming-in-two-and-a-half-years-at-a-profit.html</link>
-      <description><![CDATA[法利表示，预计其主要竞争对手将是比亚迪等中国汽车制造商，以及美国电动汽车领导者特斯拉即将推出的入门级汽车。]]></description>
-      <guid>https://www.cnbc.com/2024/06/28/ford-ceo-30000-ev-coming-in-two-and-a-half-years-at-a-profit.html</guid>
-      <pubDate>Fri, 28 Jun 2024 21:30:54 GMT</pubDate>
-    </item>
-    <item>
       <title>耐克首席执行官约翰·多纳霍因股价创下历史新低而受到批评</title>
       <link>https://www.cnbc.com/2024/06/28/nike-ceo-john-donahoe-under-fire-from-wall-street.html</link>
       <description><![CDATA[耐克首席执行官约翰·多纳霍 (John Donahoe) 已执掌这家运动鞋巨头近五年，但在他的带领下，耐克股价表现不佳，市场份额也下降。]]></description>
@@ -55,7 +48,7 @@
       <pubDate>Fri, 28 Jun 2024 21:04:39 GMT</pubDate>
     </item>
     <item>
-      <title>调查发现，市场长期低迷后，科技公司创始人纷纷回避 IPO</title>
+      <title>调查发现，市场长期低迷后，科技创始人纷纷回避 IPO</title>
       <link>https://www.cnbc.com/2024/06/28/tech-founders-are-shunning-ipos-after-extended-market-lull-techstars.html</link>
       <description><![CDATA[Techstars 调查的 1,550 名企业家中，只有 15% 表示他们的长期目标是 IPO。]]></description>
       <guid>https://www.cnbc.com/2024/06/28/tech-founders-are-shunning-ipos-after-extended-market-lull-techstars.html</guid>
@@ -71,7 +64,7 @@
     <item>
       <title>拜登在特朗普总统辩论中失利后，道琼工业指数收盘下跌近 11%</title>
       <link>https://www.cnbc.com/2024/06/28/djt-shares-soar-trump-biden-debate.html</link>
-      <description><![CDATA[一些民主党人表示，拜登总统在辩论中表现不佳后，需要退出与特朗普的总统竞选。道琼工业指数股票可能受益。]]></description>
+      <description><![CDATA[一些民主党人表示，拜登总统在辩论中表现不佳后，需要退出与特朗普的总统竞选。道琼工业指数的股票可能受益。]]></description>
       <guid>https://www.cnbc.com/2024/06/28/djt-shares-soar-trump-biden-debate.html</guid>
       <pubDate>Fri, 28 Jun 2024 20:32:14 GMT</pubDate>
     </item>
@@ -95,6 +88,13 @@
       <description><![CDATA[CNBC Pro 筛选出以折扣价交易的派息股票，并且至少 60% 的股票分析师将其评级为买入或增持。]]></description>
       <guid>https://www.cnbc.com/2024/06/28/cheap-dividend-paying-stocks-that-are-beloved-by-wall-street.html</guid>
       <pubDate>Fri, 28 Jun 2024 18:06:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院推翻 40 年前的判例，打击联邦机构权力</title>
+      <link>https://www.cnbc.com/2024/06/28/supreme-court-delivers-blow-to-power-of-federal-agencies-overturning-40-year-old-precedent.html</link>
+      <description><![CDATA[1984年的重要先例使联邦官僚在法律措辞不明确时可以灵活地解释法律。]]></description>
+      <guid>https://www.cnbc.com/2024/06/28/supreme-court-delivers-blow-to-power-of-federal-agencies-overturning-40-year-old-precedent.html</guid>
+      <pubDate>Fri, 28 Jun 2024 16:17:27 GMT</pubDate>
     </item>
     <item>
       <title>农村零售商 Tractor Supply 取消了 DEI 职位、Pride 支持和碳排放目标</title>
