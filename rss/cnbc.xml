@@ -3,10 +3,17 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 01 Jul 2024 20:48:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 01 Jul 2024 21:21:00 GMT</lastBuildDate>
     <item>
-      <title>派拉蒙正在寻找流媒体合作伙伴，可能会引发一波交易</title>
+      <title>星巴克计划为顾客和咖啡师改善门店环境</title>
+      <link>https://www.cnbc.com/2024/07/01/inside-starbucks-plans-to-improve-stores.html</link>
+      <description><![CDATA[星巴克正在对咖啡师的工作流程进行改变，以减少顾客等待时间。]]></description>
+      <guid>https://www.cnbc.com/2024/07/01/inside-starbucks-plans-to-improve-stores.html</guid>
+      <pubDate>Mon, 01 Jul 2024 21:19:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>派拉蒙正在寻找流媒体合作伙伴，可能引发一波交易</title>
       <link>https://www.cnbc.com/2024/07/01/paramount-streaming-merger-talks.html</link>
       <description><![CDATA[华纳兄弟探索频道有意合并 Max 和 Paramount+，因为派拉蒙希望就其亏损的流媒体服务达成协议。]]></description>
       <guid>https://www.cnbc.com/2024/07/01/paramount-streaming-merger-talks.html</guid>
@@ -74,13 +81,6 @@
       <description><![CDATA[前总统唐纳德·特朗普被指控非法密谋推翻他在 2020 年总统大选中输给总统乔·拜登的判决。]]></description>
       <guid>https://www.cnbc.com/2024/07/01/donald-trump-immunity-supreme-court-ruling.html</guid>
       <pubDate>Mon, 01 Jul 2024 19:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>星巴克计划为顾客和咖啡师改善门店环境</title>
-      <link>https://www.cnbc.com/2024/07/01/inside-starbucks-plans-to-improve-stores.html</link>
-      <description><![CDATA[星巴克正在对咖啡师的工作流程进行改变，以减少顾客等待时间。]]></description>
-      <guid>https://www.cnbc.com/2024/07/01/inside-starbucks-plans-to-improve-stores.html</guid>
-      <pubDate>Mon, 01 Jul 2024 18:54:57 GMT</pubDate>
     </item>
     <item>
       <title>快速增长的缓冲基金可以帮助投资者对冲选举风险</title>
