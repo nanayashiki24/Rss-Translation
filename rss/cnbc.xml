@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 01 Jul 2024 22:06:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Mon, 01 Jul 2024 22:30:00 GMT</lastBuildDate>
+    <item>
+      <title>Salesforce 股东拒绝首席执行官马克·贝尼奥夫和其他高管的薪酬计划</title>
+      <link>https://www.cnbc.com/2024/07/01/salesforce-shareholders-vote-against-compensation-for-top-executives.html</link>
+      <description><![CDATA[股东咨询公司对以股权赠予形式向首席执行官马克·贝尼奥夫（Marc Benioff）支付的额外薪酬表示担忧。]]></description>
+      <guid>https://www.cnbc.com/2024/07/01/salesforce-shareholders-vote-against-compensation-for-top-executives.html</guid>
+      <pubDate>Mon, 01 Jul 2024 22:28:21 GMT</pubDate>
+    </item>
     <item>
       <title>标普 500 指数在 2024 年下半年开始上涨，股指期货几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/07/01/stock-market-today-live-updates.html</link>
@@ -27,13 +34,6 @@
       <pubDate>Mon, 01 Jul 2024 20:57:17 GMT</pubDate>
     </item>
     <item>
-      <title>美国国税局关于加密税收报告的新指南对投资者意味着什么</title>
-      <link>https://www.cnbc.com/2024/07/01/irs-crypto-tax-reporting-guidance.html</link>
-      <description><![CDATA[美国财政部和国税局周五发布了针对数字资产经纪商的最终纳税申报规则。以下是加密货币投资者需要了解的内容。]]></description>
-      <guid>https://www.cnbc.com/2024/07/01/irs-crypto-tax-reporting-guidance.html</guid>
-      <pubDate>Mon, 01 Jul 2024 20:39:31 GMT</pubDate>
-    </item>
-    <item>
       <title>波士顿凯尔特人队的大股东在 NBA 总冠军几周后提出出售球队</title>
       <link>https://www.cnbc.com/2024/07/01/boston-celtics-for-sale-after-nba-championship.html</link>
       <description><![CDATA[波士顿凯尔特人队夺得 NBA 总冠军数周后，球队所有权集团将该球队挂牌出售。]]></description>
@@ -50,7 +50,7 @@
     <item>
       <title>“啃老族”和“新失业者”——为什么有些年轻人不工作</title>
       <link>https://www.cnbc.com/2024/07/01/neets-and-new-unemployables-why-fewer-young-adults-are-working.html</link>
-      <description><![CDATA[尽管总体失业率仅为 4%，但无论是自愿还是被迫，失业的年轻人比例却在不断增长。]]></description>
+      <description><![CDATA[尽管总体失业率仅为4%，但无论是自愿还是被迫，失业的年轻人比例却在不断增长。]]></description>
       <guid>https://www.cnbc.com/2024/07/01/neets-and-new-unemployables-why-fewer-young-adults-are-working.html</guid>
       <pubDate>Mon, 01 Jul 2024 19:50:28 GMT</pubDate>
     </item>
