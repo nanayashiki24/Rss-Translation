@@ -3,35 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 01 Jul 2024 13:16:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 01 Jul 2024 13:29:00 GMT</lastBuildDate>
+    <item>
+      <title>特朗普豁免裁决将在最高法院最终裁决日公布</title>
+      <link>https://www.cnbc.com/2024/07/01/donald-trump-immunity-supreme-court-ruling.html</link>
+      <description><![CDATA[前总统唐纳德·特朗普被指控非法密谋推翻他在 2020 年总统大选中输给总统乔·拜登的判决。]]></description>
+      <guid>https://www.cnbc.com/2024/07/01/donald-trump-immunity-supreme-court-ruling.html</guid>
+      <pubDate>Mon, 01 Jul 2024 13:37:26 GMT</pubDate>
+    </item>
     <item>
       <title>联邦上诉法院裁定拜登学生贷款偿还计划将在法律挑战下恢复</title>
       <link>https://www.cnbc.com/2024/07/01/biden-student-loan-plan-to-resume-amid-legal-challenge-appeals-court.html</link>
       <description><![CDATA[随着针对拜登学生贷款还款计划的法律挑战不断展开，联邦上诉法院将允许恢复该计划的一个关键部分。]]></description>
       <guid>https://www.cnbc.com/2024/07/01/biden-student-loan-plan-to-resume-amid-legal-challenge-appeals-court.html</guid>
-      <pubDate>Mon, 01 Jul 2024 13:18:33 GMT</pubDate>
+      <pubDate>Mon, 01 Jul 2024 13:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>SEC 文件披露“咆哮的小猫”Keith Gill 持有 Chewy 6.6% 的股份后，Chewy 股价上涨 8%</title>
+      <link>https://www.cnbc.com/2024/07/01/chewy-shares-rally-20percent-after-sec-filing-reveals-roaring-kitty-keith-gill-has-6point6percent-stake.html</link>
+      <description><![CDATA[文件显示，Roaring Kitty（法定名称为 Keith Gill）购买了超过 900 万股股票，占公司 6.6% 的股份。]]></description>
+      <guid>https://www.cnbc.com/2024/07/01/chewy-shares-rally-20percent-after-sec-filing-reveals-roaring-kitty-keith-gill-has-6point6percent-stake.html</guid>
+      <pubDate>Mon, 01 Jul 2024 13:31:33 GMT</pubDate>
     </item>
     <item>
       <title>以下是周一最大的分析师电话会议：特斯拉、Nvidia、Verizon、苹果、麦当劳、Birkenstock、AT&T、Meta 等</title>
       <link>https://www.cnbc.com/2024/07/01/mondays-biggest-analyst-calls-like-nvidia.html</link>
       <description><![CDATA[以下是周一华尔街最大的电话会议。]]></description>
       <guid>https://www.cnbc.com/2024/07/01/mondays-biggest-analyst-calls-like-nvidia.html</guid>
-      <pubDate>Mon, 01 Jul 2024 13:10:37 GMT</pubDate>
+      <pubDate>Mon, 01 Jul 2024 13:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普豁免裁决将在最高法院最终裁决日公布</title>
-      <link>https://www.cnbc.com/2024/07/01/donald-trump-immunity-supreme-court-ruling.html</link>
-      <description><![CDATA[前总统唐纳德·特朗普被指控非法密谋推翻他在 2020 年总统大选中输给总统乔·拜登的判决。]]></description>
-      <guid>https://www.cnbc.com/2024/07/01/donald-trump-immunity-supreme-court-ruling.html</guid>
-      <pubDate>Mon, 01 Jul 2024 13:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>SEC 文件披露“咆哮的小猫”Keith Gill 持有 Chewy 6.6% 的股份后，Chewy 股价上涨逾 10%</title>
-      <link>https://www.cnbc.com/2024/07/01/chewy-shares-rally-20percent-after-sec-filing-reveals-roaring-kitty-keith-gill-has-6point6percent-stake.html</link>
-      <description><![CDATA[文件显示，Roaring Kitty（法定名称为 Keith Gill）购买了超过 900 万股股票，占公司 6.6% 的股份。]]></description>
-      <guid>https://www.cnbc.com/2024/07/01/chewy-shares-rally-20percent-after-sec-filing-reveals-roaring-kitty-keith-gill-has-6point6percent-stake.html</guid>
-      <pubDate>Mon, 01 Jul 2024 12:58:18 GMT</pubDate>
+      <title>周一股市值得关注的 10 件事，包括对雅培实验室的辩护</title>
+      <link>https://www.cnbc.com/2024/07/01/10-things-to-watch-in-the-stock-market-monday-including-a-defense-of-abbott-labs.html</link>
+      <description><![CDATA[华尔街希望以更高的业绩开启第三季度。]]></description>
+      <guid>https://www.cnbc.com/2024/07/01/10-things-to-watch-in-the-stock-market-monday-including-a-defense-of-abbott-labs.html</guid>
+      <pubDate>Mon, 01 Jul 2024 13:23:31 GMT</pubDate>
     </item>
     <item>
       <title>汤姆·李 (Tom Lee) 坚持 15 万美元的比特币预测，称 10 年的 Mt. Gox 悬念将在下半年消失</title>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 01 Jul 2024 12:12:21 GMT</pubDate>
     </item>
     <item>
-      <title>法国右翼势力崛起后，各方争相阻止国民联盟获胜</title>
+      <title>在法国右翼势力崛起后，各党派似乎都在争相阻止国民联盟获胜</title>
       <link>https://www.cnbc.com/2024/07/01/-after-frances-right-wing-surge-parties-scramble-to-block-national-rally-win.html</link>
       <description><![CDATA[法国左翼和中间派政党正在争相阻止极右翼国民联盟赢得正在进行的议会提前选举。]]></description>
       <guid>https://www.cnbc.com/2024/07/01/-after-frances-right-wing-surge-parties-scramble-to-block-national-rally-win.html</guid>
@@ -81,13 +88,6 @@
       <description><![CDATA[拜登总统和唐纳德·特朗普定于 9 月 10 日举行第二场辩论，但目前尚不清楚两位候选人是否会坚持到底。]]></description>
       <guid>https://www.cnbc.com/2024/06/30/democrats-defend-biden-debate-flop-voter-poll.html</guid>
       <pubDate>Sun, 30 Jun 2024 16:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能活多久是退休计划中最大的未知数之一。专家建议如何获得最佳估计</title>
-      <link>https://www.cnbc.com/2024/06/30/how-life-expectancy-figures-into-retirement-planning.html</link>
-      <description><![CDATA[有效的退休计划很大程度上取决于一个问题的答案：我能活多久？然而没有人真正知道答案。]]></description>
-      <guid>https://www.cnbc.com/2024/06/30/how-life-expectancy-figures-into-retirement-planning.html</guid>
-      <pubDate>Sun, 30 Jun 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
       <title>越来越多的公司在骄傲节期间保持沉默，但资金仍在流向 LGBTQ+ 事业</title>
