@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 02 Jul 2024 00:56:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 02 Jul 2024 04:01:00 GMT</lastBuildDate>
+    <item>
+      <title>随着房地产价格下跌和库存上升，曼哈顿现在已成为“买方市场”</title>
+      <link>https://www.cnbc.com/2024/07/02/manhattan-is-buyers-market-as-real-estate-prices-fall-inventory-rises-.html</link>
+      <description><![CDATA[根据道格拉斯艾丽曼和米勒塞缪尔的报告，曼哈顿的平均房地产销售价格下跌 3%，至略高于 200 万美元。]]></description>
+      <guid>https://www.cnbc.com/2024/07/02/manhattan-is-buyers-market-as-real-estate-prices-fall-inventory-rises-.html</guid>
+      <pubDate>Tue, 02 Jul 2024 04:00:55 GMT</pubDate>
+    </item>
     <item>
       <title>够了就是够了：日本航空公司严厉打击滥用行为的旅客</title>
       <link>https://www.cnbc.com/2024/07/02/japanese-airlines-issue-policies-on-customer-harrassment-and-abuse.html</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[在美上市的纯电动汽车中，中国电动汽车公司Zeekr是上半年交付汽车最多的中国公司。]]></description>
       <guid>https://www.cnbc.com/2024/07/02/chinese-ev-companies-zeekr-and-nio-report-record-deliveries-in-june.html</guid>
       <pubDate>Tue, 02 Jul 2024 00:41:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>加密货币与 SEC 的斗争直接针对拜登和特朗普</title>
-      <link>https://www.cnbc.com/2024/07/01/donald-trump-crypto-take-aim-at-sec-as-biden-allies-raise-alarms.html</link>
-      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 与加密货币高管聚在一起，瞄准美国证券交易委员会 (Securities and Exchange Commission)，而乔·拜登 (Joe Biden) 的盟友则发出了警报。]]></description>
-      <guid>https://www.cnbc.com/2024/07/01/donald-trump-crypto-take-aim-at-sec-as-biden-allies-raise-alarms.html</guid>
-      <pubDate>Tue, 02 Jul 2024 00:29:55 GMT</pubDate>
     </item>
     <item>
       <title>全球 Z 世代的债务不断增加，但中国年轻人却在“报复性储蓄”</title>
