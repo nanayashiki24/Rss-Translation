@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 03 Jul 2024 11:03:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 03 Jul 2024 11:25:00 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉盘前交易中上涨 3%，因交付报告好于预期</title>
+      <link>https://www.cnbc.com/2024/07/03/tesla-tsla-shares-rally-after-better-than-expected-deliveries-report.html</link>
+      <description><![CDATA[特斯拉股价在上一交易日上涨 10% 之后，周三盘前交易中进一步上涨。]]></description>
+      <guid>https://www.cnbc.com/2024/07/03/tesla-tsla-shares-rally-after-better-than-expected-deliveries-report.html</guid>
+      <pubDate>Wed, 03 Jul 2024 11:30:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>西南航空采用“毒丸”策略抵御激进投资者埃利奥特管理公司</title>
+      <link>https://www.cnbc.com/2024/07/03/southwest-luv-activist-elliott-poison-pill.html</link>
+      <description><![CDATA[西南航空采取了一项股东权利计划，以抵御激进投资者埃利奥特管理公司 (Elliott Management) 罢免首席执行官鲍勃乔丹 (Bob Jordan) 和董事长加里凯利 (Gary Kelly) 的企图。]]></description>
+      <guid>https://www.cnbc.com/2024/07/03/southwest-luv-activist-elliott-poison-pill.html</guid>
+      <pubDate>Wed, 03 Jul 2024 11:24:31 GMT</pubDate>
+    </item>
     <item>
       <title>数以千计的美国人如何陷入金融科技的虚假承诺并失去银行账户的使用权</title>
       <link>https://www.cnbc.com/2024/07/02/synapse-fintech-fdic-false-promise.html</link>
       <description><![CDATA[Synapse 的倒闭表明，金融科技的安全承诺只是幻象。超过 10 万美国人的账户被冻结，存款总额达 2.65 亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/07/02/synapse-fintech-fdic-false-promise.html</guid>
-      <pubDate>Wed, 03 Jul 2024 11:13:53 GMT</pubDate>
+      <pubDate>Wed, 03 Jul 2024 11:22:15 GMT</pubDate>
     </item>
     <item>
       <title>人工智能免下车订餐服务正在兴起——但可能需要数年时间才能解决其缺陷</title>
@@ -20,13 +34,6 @@
       <pubDate>Wed, 03 Jul 2024 11:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉盘前交易中上涨 3%，因交付报告好于预期</title>
-      <link>https://www.cnbc.com/2024/07/03/tesla-tsla-shares-rally-after-better-than-expected-deliveries-report.html</link>
-      <description><![CDATA[特斯拉股价在上一交易日上涨 10% 之后，周三盘前交易中进一步上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/07/03/tesla-tsla-shares-rally-after-better-than-expected-deliveries-report.html</guid>
-      <pubDate>Wed, 03 Jul 2024 10:55:01 GMT</pubDate>
-    </item>
-    <item>
       <title>天然气正开始像石油一样成为一种全球性大宗商品——为什么它如此重要以及如何利用它</title>
       <link>https://www.cnbc.com/2024/07/03/natural-gas-is-starting-to-resemble-oil-as-a-commodity-why-that-matters.html</link>
       <description><![CDATA[全球液化天然气市场正在迅速增长，而切尼尔能源公司已成为强大的出口商。]]></description>
@@ -34,14 +41,14 @@
       <pubDate>Wed, 03 Jul 2024 10:54:12 GMT</pubDate>
     </item>
     <item>
-      <title>以下是美国银行第三季度的首选多头仓位和一只空头仓位</title>
+      <title>以下是美国银行第三季度的头号多头仓位和一只空头仓位</title>
       <link>https://www.cnbc.com/2024/07/03/here-are-bofas-top-long-picks-and-one-short-for-the-third-quarter.html</link>
       <description><![CDATA[随着下半年的开始，美国银行重点介绍了第三季度的首选多头仓位和一只空头仓位。]]></description>
       <guid>https://www.cnbc.com/2024/07/03/here-are-bofas-top-long-picks-and-one-short-for-the-third-quarter.html</guid>
       <pubDate>Wed, 03 Jul 2024 10:46:48 GMT</pubDate>
     </item>
     <item>
-      <title>军队中赌博成瘾现象日益令人担忧</title>
+      <title>军队中赌博成瘾现象令人担忧</title>
       <link>https://www.cnbc.com/2024/07/03/concerns-grow-over-gambling-addiction-in-the-military-.html</link>
       <description><![CDATA[据退伍军人事务部称，现役军人和退伍军人中患有病态赌博障碍的诊断率正在飙升。]]></description>
       <guid>https://www.cnbc.com/2024/07/03/concerns-grow-over-gambling-addiction-in-the-military-.html</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>Skydance 和 National Amusement 接近达成 Paramount 协议，特别委员会将审查协议条款</title>
       <link>https://www.cnbc.com/2024/07/02/paramount-shares-pop-9percent-on-news-of-preliminary-skydance-media-deal.html</link>
-      <description><![CDATA[美国国家娱乐公司同意了一项初步协议，将派拉蒙的控制权移交给大卫·埃里森 (David Ellison) 的天舞传媒 (Skydance Media)，这是混乱的销售过程中的最新一步。]]></description>
+      <description><![CDATA[国家娱乐公司同意了一项初步协议，将派拉蒙的控制权移交给大卫·埃里森 (David Ellison) 的天舞传媒 (Skydance Media)，这是混乱的销售过程中的最新进展。]]></description>
       <guid>https://www.cnbc.com/2024/07/02/paramount-shares-pop-9percent-on-news-of-preliminary-skydance-media-deal.html</guid>
       <pubDate>Tue, 02 Jul 2024 23:49:00 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 02 Jul 2024 20:46:06 GMT</pubDate>
     </item>
     <item>
-      <title>持有过多现金是错误吗？专家说，这就是为什么持有过多现金可能会后悔</title>
+      <title>持有过多现金是错误吗？专家称，持有过多现金可能会后悔</title>
       <link>https://www.cnbc.com/2024/07/02/holding-too-much-cash-can-be-a-mistake-experts-say.html</link>
       <description><![CDATA[专家表示，创纪录的现金回报率可能会分散投资者对股票更高潜在收益的注意力。以下是如何取得平衡。]]></description>
       <guid>https://www.cnbc.com/2024/07/02/holding-too-much-cash-can-be-a-mistake-experts-say.html</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[Peloton 即将面临的债务问题引发了人们对该公司可能破产的担忧。现在 Peloton 已经进行了再融资，但它仍需调整其战略。]]></description>
       <guid>https://www.cnbc.com/2024/07/02/peloton-staves-off-liquidity-crunch-in-global-refinance.html</guid>
       <pubDate>Tue, 02 Jul 2024 16:19:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>鲍威尔称美联储在通胀方面取得了“相当大的进展”，但在降息前需要更多的信心</title>
-      <link>https://www.cnbc.com/2024/07/02/powell-says-fed-has-made-quite-a-bit-of-progress-on-inflation-but-needs-more-confidence-before-cutting.html</link>
-      <description><![CDATA[鲍威尔在葡萄牙辛特拉的一个中央银行论坛上表示：“我们已经取得了相当大的进展，并将通胀率降至目标水平。”]]></description>
-      <guid>https://www.cnbc.com/2024/07/02/powell-says-fed-has-made-quite-a-bit-of-progress-on-inflation-but-needs-more-confidence-before-cutting.html</guid>
-      <pubDate>Tue, 02 Jul 2024 15:59:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
