@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Wed, 03 Jul 2024 20:16:00 GMT</lastBuildDate>
+    <item>
+      <title>微软就因员工休受保护假而受到惩罚的指控在加州达成和解</title>
+      <link>https://www.cnbc.com/2024/07/03/microsoft-to-settle-case-on-protected-leave-for-california-employees.html</link>
+      <description><![CDATA[微软已同意支付 1440 万美元，以解决有关该公司不公平对待享受保护假的加州员工的指控。]]></description>
+      <guid>https://www.cnbc.com/2024/07/03/microsoft-to-settle-case-on-protected-leave-for-california-employees.html</guid>
+      <pubDate>Wed, 03 Jul 2024 21:15:15 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年退选压力加大，拜登试图安抚民主党人：“我不会离开”</title>
       <link>https://www.cnbc.com/2024/07/03/biden-tries-to-calm-democrats-as-2024-drop-out-pressure-mounts.html</link>
       <description><![CDATA[上周，拜登总统在与唐纳德·特朗普的辩论中表现不佳，他的竞选团队在接下来的几天里努力扭转局面。]]></description>
       <guid>https://www.cnbc.com/2024/07/03/biden-tries-to-calm-democrats-as-2024-drop-out-pressure-mounts.html</guid>
-      <pubDate>Wed, 03 Jul 2024 20:05:32 GMT</pubDate>
+      <pubDate>Wed, 03 Jul 2024 21:00:51 GMT</pubDate>
     </item>
     <item>
       <title>CNBC Crypto World：现货以太币 ETF 获批将如何影响加密货币价格</title>
@@ -62,13 +69,6 @@
       <pubDate>Wed, 03 Jul 2024 17:27:20 GMT</pubDate>
     </item>
     <item>
-      <title>微软就因员工休受保护假而受到惩罚的指控在加州达成和解</title>
-      <link>https://www.cnbc.com/2024/07/03/microsoft-to-settle-case-on-protected-leave-for-california-employees.html</link>
-      <description><![CDATA[微软已同意支付 1440 万美元，以解决有关该公司不公平对待享受保护假的加州员工的指控。]]></description>
-      <guid>https://www.cnbc.com/2024/07/03/microsoft-to-settle-case-on-protected-leave-for-california-employees.html</guid>
-      <pubDate>Wed, 03 Jul 2024 17:25:13 GMT</pubDate>
-    </item>
-    <item>
       <title>经济数据疲软导致 10 年期美国国债收益率下跌</title>
       <link>https://www.cnbc.com/2024/07/03/us-treasurys-ahead-of-key-economic-data-fed-meeting-minutes-.html</link>
       <description><![CDATA[用于定价从抵押贷款到信用卡等各种资产的 10 年期基准收益率连续第二个交易日下滑。]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>通货膨胀是拜登或特朗普的错吗？经济学家说答案并不那么简单</title>
       <link>https://www.cnbc.com/2024/07/03/is-inflation-bidens-or-trumps-fault-the-answer-isnt-so-simple.html</link>
-      <description><![CDATA[拜登和特朗普在首次辩论中就美国经济状况互相指责。但谁或什么才是造成通货膨胀的真正原因？]]></description>
+      <description><![CDATA[拜登和特朗普在首次辩论中就美国经济状况互相指责。但谁或什么才是造成通货膨胀的真正原因呢？]]></description>
       <guid>https://www.cnbc.com/2024/07/03/is-inflation-bidens-or-trumps-fault-the-answer-isnt-so-simple.html</guid>
       <pubDate>Wed, 03 Jul 2024 14:58:37 GMT</pubDate>
     </item>
