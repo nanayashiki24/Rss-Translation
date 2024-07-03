@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 03 Jul 2024 13:19:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 03 Jul 2024 13:24:00 GMT</lastBuildDate>
     <item>
       <title>福特第二季度销量上涨 1%，卡车销量领先</title>
       <link>https://www.cnbc.com/2024/07/03/ford-sales-q2-2024.html</link>
       <description><![CDATA[福特卡车销量为 308,920 辆，这是该公司自 2019 年以来第二季度该汽车类别的最佳表现。]]></description>
       <guid>https://www.cnbc.com/2024/07/03/ford-sales-q2-2024.html</guid>
-      <pubDate>Wed, 03 Jul 2024 13:18:41 GMT</pubDate>
+      <pubDate>Wed, 03 Jul 2024 13:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>西南航空采用“毒丸”策略抵御激进投资者埃利奥特管理公司</title>
+      <link>https://www.cnbc.com/2024/07/03/southwest-luv-activist-elliott-poison-pill.html</link>
+      <description><![CDATA[西南航空采取了一项股东权利计划，以抵御激进投资者埃利奥特管理公司 (Elliott Management) 罢免首席执行官鲍勃乔丹 (Bob Jordan) 和董事长加里凯利 (Gary Kelly) 的企图。]]></description>
+      <guid>https://www.cnbc.com/2024/07/03/southwest-luv-activist-elliott-poison-pill.html</guid>
+      <pubDate>Wed, 03 Jul 2024 13:31:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们正在从这家啤酒制造商获利，并购买更多最新库存</title>
+      <link>https://www.cnbc.com/2024/07/03/were-taking-profits-in-this-beer-maker-buying-more-of-our-newest-stock.html</link>
+      <description><![CDATA[我们将在销售中实现两位数的收益，并将其中的一半投入到我们最新的投资组合中。]]></description>
+      <guid>https://www.cnbc.com/2024/07/03/were-taking-profits-in-this-beer-maker-buying-more-of-our-newest-stock.html</guid>
+      <pubDate>Wed, 03 Jul 2024 13:21:36 GMT</pubDate>
     </item>
     <item>
       <title>Z 世代和千禧一代在 7 月 4 日那周“安静地度假”，而不是休 PTO</title>
@@ -18,13 +32,6 @@
       <description><![CDATA[新研究表明，年轻员工在夏季选择“安静地度假”，以应对带薪休假的限制以及日益增加的倦怠感。]]></description>
       <guid>https://www.cnbc.com/2024/07/03/gen-zers-millennials-quiet-vacation-during-fourth-of-july-week.html</guid>
       <pubDate>Wed, 03 Jul 2024 13:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>西南航空采用“毒丸”策略抵御激进投资者埃利奥特管理公司</title>
-      <link>https://www.cnbc.com/2024/07/03/southwest-luv-activist-elliott-poison-pill.html</link>
-      <description><![CDATA[西南航空采取了一项股东权利计划，以抵御激进投资者埃利奥特管理公司 (Elliott Management) 罢免首席执行官鲍勃乔丹 (Bob Jordan) 和董事长加里凯利 (Gary Kelly) 的企图。]]></description>
-      <guid>https://www.cnbc.com/2024/07/03/southwest-luv-activist-elliott-poison-pill.html</guid>
-      <pubDate>Wed, 03 Jul 2024 13:08:52 GMT</pubDate>
     </item>
     <item>
       <title>6 月份私营企业就业人数仅增加 15 万，低于预期</title>
@@ -41,13 +48,6 @@
       <pubDate>Wed, 03 Jul 2024 12:54:50 GMT</pubDate>
     </item>
     <item>
-      <title>标普 500 指数创下收盘纪录后，周三股市有 10 件事值得关注</title>
-      <link>https://www.cnbc.com/2024/07/03/10-things-to-watch-in-the-stock-market-wednesday.html</link>
-      <description><![CDATA[标准普尔指数周二首次收于 5,500 点上方后，美国股指期货几乎没有变化。]]></description>
-      <guid>https://www.cnbc.com/2024/07/03/10-things-to-watch-in-the-stock-market-wednesday.html</guid>
-      <pubDate>Wed, 03 Jul 2024 12:42:31 GMT</pubDate>
-    </item>
-    <item>
       <title>飓风贝丽尔横扫加勒比海，破坏力创下纪录</title>
       <link>https://www.cnbc.com/2024/07/03/hurricane-beryl-breaks-records-as-it-wreaks-havoc-through-caribbean.html</link>
       <description><![CDATA[专家称，这场飓风创下了一系列与气候变化有关的纪录，因为它在今年形成得更快、更早。]]></description>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 03 Jul 2024 12:31:05 GMT</pubDate>
     </item>
     <item>
-      <title>军队中赌博成瘾现象令人担忧</title>
+      <title>军队中赌博成瘾现象日益令人担忧</title>
       <link>https://www.cnbc.com/2024/07/03/concerns-grow-over-gambling-addiction-in-the-military-.html</link>
       <description><![CDATA[据退伍军人事务部称，现役军人和退伍军人中患有病态赌博障碍的诊断率正在飙升。]]></description>
       <guid>https://www.cnbc.com/2024/07/03/concerns-grow-over-gambling-addiction-in-the-military-.html</guid>
