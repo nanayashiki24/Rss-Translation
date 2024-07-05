@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 05 Jul 2024 16:16:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 05 Jul 2024 16:34:00 GMT</lastBuildDate>
+    <item>
+      <title>从图表来看，消费类股票存在长期看涨趋势，这是买入机会</title>
+      <link>https://www.cnbc.com/2024/07/05/a-buying-opportunity-in-a-consumer-stock-with-a-long-term-bullish-trend-according-to-the-charts.html</link>
+      <description><![CDATA[David Keller 对 Crocs 的排行榜进行了分析。]]></description>
+      <guid>https://www.cnbc.com/2024/07/05/a-buying-opportunity-in-a-consumer-stock-with-a-long-term-bullish-trend-according-to-the-charts.html</guid>
+      <pubDate>Fri, 05 Jul 2024 16:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>标普 500 指数创下新高，基准指数本周有望获胜：实时更新</title>
       <link>https://www.cnbc.com/2024/07/04/stock-market-today-live-updates.html</link>
@@ -76,13 +83,6 @@
       <pubDate>Fri, 05 Jul 2024 14:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>由于估值担忧，英伟达罕见遭华尔街下调评级</title>
-      <link>https://www.cnbc.com/2024/07/05/nvidia-gets-rare-wall-street-downgrade-on-valuation-concerns.html</link>
-      <description><![CDATA[在人工智能芯片巨头英伟达股价 6 月份上涨之后，New Street 对其股价发出了警告。]]></description>
-      <guid>https://www.cnbc.com/2024/07/05/nvidia-gets-rare-wall-street-downgrade-on-valuation-concerns.html</guid>
-      <pubDate>Fri, 05 Jul 2024 13:49:34 GMT</pubDate>
-    </item>
-    <item>
       <title>英国工党仅以 34% 的全国选票赢得大选</title>
       <link>https://www.cnbc.com/2024/07/05/uk-election-2024-britains-labour-pulled-off-a-thumping-election-victory.html</link>
       <description><![CDATA[与其他投票系统不同，选举中没有第二轮投票，也没有第一和第二选择候选人的排名。]]></description>
@@ -97,11 +97,11 @@
       <pubDate>Fri, 05 Jul 2024 13:32:09 GMT</pubDate>
     </item>
     <item>
-      <title>诺和诺德公司对减肥药与罕见眼部疾病相关研究的担忧不以为然</title>
-      <link>https://www.cnbc.com/2024/07/04/novo-nordisk-weight-loss-drugs-linked-to-rare-eye-condition-study.html</link>
-      <description><![CDATA[周四，哈佛大学发布了一份批评性报告，将减肥药与一种罕见的眼部疾病联系起来，但诺和诺德的投资者似乎对此不以为然。]]></description>
-      <guid>https://www.cnbc.com/2024/07/04/novo-nordisk-weight-loss-drugs-linked-to-rare-eye-condition-study.html</guid>
-      <pubDate>Fri, 05 Jul 2024 13:09:26 GMT</pubDate>
+      <title>《塞尔玛》中描绘的语音诈骗电话是真实存在的，而且在人工智能时代威胁越来越大</title>
+      <link>https://www.cnbc.com/2024/07/05/ai-voice-scam-call-movie-thelma-growing-threat.html</link>
+      <description><![CDATA[随着人工智能的进步，诈骗者可以轻松且合法地克隆亲人的声音，因此冒名顶替诈骗电话变得越来越普遍。]]></description>
+      <guid>https://www.cnbc.com/2024/07/05/ai-voice-scam-call-movie-thelma-growing-threat.html</guid>
+      <pubDate>Fri, 05 Jul 2024 13:29:20 GMT</pubDate>
     </item>
     <item>
       <title>Mt. Gox 交易所倒闭十年后开始向债权人偿还比特币——这意味着什么</title>
