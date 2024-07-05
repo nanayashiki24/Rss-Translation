@@ -3,21 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Fri, 05 Jul 2024 19:17:00 GMT</lastBuildDate>
+    <item>
+      <title>标普 500 指数和纳斯达克指数周五创下收盘新高，因就业报告引发美联储降息希望：实时​​更新</title>
+      <link>https://www.cnbc.com/2024/07/04/stock-market-today-live-updates.html</link>
+      <description><![CDATA[三大股指以积极态势结束了因假期缩短的一周。]]></description>
+      <guid>https://www.cnbc.com/2024/07/04/stock-market-today-live-updates.html</guid>
+      <pubDate>Fri, 05 Jul 2024 20:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>午盘涨幅最大的股票：梅西百货、MicroStrategy、Coinbase、Nvidia 等</title>
+      <link>https://www.cnbc.com/2024/07/05/stocks-making-the-biggest-moves-midday-m-inst-nvo-and-more.html</link>
+      <description><![CDATA[这些是午盘交易中波动最大的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/07/05/stocks-making-the-biggest-moves-midday-m-inst-nvo-and-more.html</guid>
+      <pubDate>Fri, 05 Jul 2024 20:09:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登连任之路岌岌可危，他准备接受 ABC 新闻采访</title>
+      <link>https://www.cnbc.com/2024/07/05/biden-trump-election-updates.html</link>
+      <description><![CDATA[总统乔·拜登计划在威斯康星州麦迪逊的竞选之旅中与美国广播公司新闻主播乔治·斯蒂芬诺普洛斯进行交谈。]]></description>
+      <guid>https://www.cnbc.com/2024/07/05/biden-trump-election-updates.html</guid>
+      <pubDate>Fri, 05 Jul 2024 19:53:43 GMT</pubDate>
+    </item>
     <item>
       <title>随着芯片需求飙升，GlobalFoundries 竞相寻找半导体人才</title>
       <link>https://www.cnbc.com/2024/07/05/globalfoundries-hiring-as-semiconductor-chip-demand-rises.html</link>
       <description><![CDATA[随着《芯片信息处理与处理标准法案》资金和人工智能的推动，芯片需求猛增，GlobalFoundries 和其他半导体公司正在寻找员工。]]></description>
       <guid>https://www.cnbc.com/2024/07/05/globalfoundries-hiring-as-semiconductor-chip-demand-rises.html</guid>
-      <pubDate>Fri, 05 Jul 2024 19:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>标普 500 指数创下新高，基准指数本周有望获胜：实时更新</title>
-      <link>https://www.cnbc.com/2024/07/04/stock-market-today-live-updates.html</link>
-      <description><![CDATA[三大股指有望以上涨结束缩短的交易周。]]></description>
-      <guid>https://www.cnbc.com/2024/07/04/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 05 Jul 2024 19:29:38 GMT</pubDate>
+      <pubDate>Fri, 05 Jul 2024 19:45:34 GMT</pubDate>
     </item>
     <item>
       <title>CNBC Crypto World：Mt. Gox 开始偿还债权人，比特币价格暴跌</title>
@@ -25,13 +39,6 @@
       <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释和不断变化的加密行业的独特故事让观众了解未来情况。在今天的节目中，Worldcoin 建造者 Tools for Humanity 的新任首席隐私官 Damien Kieran 讨论了他计划如何与世界各地的监管机构合作，以解决与 Worldcoin 虹膜扫描技术相关的隐私问题。]]></description>
       <guid>https://www.cnbc.com/video/2024/07/05/bitcoin-tanks-as-mt-gox-begins-repaying-creditors-cnbc-crypto-world.html</guid>
       <pubDate>Fri, 05 Jul 2024 19:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登在 ABC 新闻采访前展开竞选活动，他的连任之路岌岌可危</title>
-      <link>https://www.cnbc.com/2024/07/05/biden-trump-election-updates.html</link>
-      <description><![CDATA[总统乔·拜登计划在威斯康星州麦迪逊的竞选之旅中与美国广播公司新闻主播乔治·斯蒂芬诺普洛斯进行交谈。]]></description>
-      <guid>https://www.cnbc.com/2024/07/05/biden-trump-election-updates.html</guid>
-      <pubDate>Fri, 05 Jul 2024 18:56:51 GMT</pubDate>
     </item>
     <item>
       <title>迪士尼继承人、富有的民主党捐助者表示，在乔·拜登退出之前，他们不会为该党提供资金</title>
@@ -50,7 +57,7 @@
     <item>
       <title>随着股市试图维持历史高位，通胀将成为未来一周的焦点</title>
       <link>https://www.cnbc.com/2024/07/05/inflation-will-be-in-focus-in-the-week-ahead-as-stocks-attempt-to-sustain-all-time-highs-.html</link>
-      <description><![CDATA[最近通胀形势的改善令投资者充满希望，美联储可能最早在9月份开始降息。]]></description>
+      <description><![CDATA[最近通胀形势的改善令投资者充满希望，美联储最早将于9月份开始降息。]]></description>
       <guid>https://www.cnbc.com/2024/07/05/inflation-will-be-in-focus-in-the-week-ahead-as-stocks-attempt-to-sustain-all-time-highs-.html</guid>
       <pubDate>Fri, 05 Jul 2024 18:35:11 GMT</pubDate>
     </item>
@@ -74,13 +81,6 @@
       <description><![CDATA[研究发现，如果你是一位年轻、富有的投资者，传统的股票和债券可能并不是你的首选投资对象。]]></description>
       <guid>https://www.cnbc.com/2024/07/05/young-wealthy-investors-are-turning-to-alternative-investments.html</guid>
       <pubDate>Fri, 05 Jul 2024 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>午盘涨幅最大的股票：梅西百货、MicroStrategy、Coinbase、Nvidia 等</title>
-      <link>https://www.cnbc.com/2024/07/05/stocks-making-the-biggest-moves-midday-m-inst-nvo-and-more.html</link>
-      <description><![CDATA[这些是午盘交易中波动最大的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/07/05/stocks-making-the-biggest-moves-midday-m-inst-nvo-and-more.html</guid>
-      <pubDate>Fri, 05 Jul 2024 17:45:44 GMT</pubDate>
     </item>
     <item>
       <title>Mt. Gox 交易所倒闭十年后开始向债权人偿还比特币。这意味着什么</title>
