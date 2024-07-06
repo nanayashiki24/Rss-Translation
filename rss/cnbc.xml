@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Sat, 06 Jul 2024 01:01:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Sat, 06 Jul 2024 06:37:00 GMT</lastBuildDate>
+    <item>
+      <title>伊朗在总统决选中选出改革派马苏德·佩泽什基安</title>
+      <link>https://www.cnbc.com/2024/07/06/iran-elections-reformist-masoud-pezeshkian-elected-president.html</link>
+      <description><![CDATA[这位 69 岁的前部长将担任伊朗伊斯兰共和国政府首脑四年，面临着诸多挑战。]]></description>
+      <guid>https://www.cnbc.com/2024/07/06/iran-elections-reformist-masoud-pezeshkian-elected-president.html</guid>
+      <pubDate>Sat, 06 Jul 2024 06:35:59 GMT</pubDate>
+    </item>
     <item>
       <title>众议院民主党人将于周末举行会议，拜登为心理健康辩护，誓言继续参选</title>
       <link>https://www.cnbc.com/2024/07/05/biden-trump-election-updates.html</link>
@@ -27,13 +34,6 @@
       <pubDate>Fri, 05 Jul 2024 21:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>随着股市试图维持历史高位，通胀将成为未来一周的焦点</title>
-      <link>https://www.cnbc.com/2024/07/05/inflation-will-be-in-focus-in-the-week-ahead-as-stocks-attempt-to-sustain-all-time-highs-.html</link>
-      <description><![CDATA[最近通胀形势的改善令投资者充满希望，美联储可能最早在9月份开始降息。]]></description>
-      <guid>https://www.cnbc.com/2024/07/05/inflation-will-be-in-focus-in-the-week-ahead-as-stocks-attempt-to-sustain-all-time-highs-.html</guid>
-      <pubDate>Fri, 05 Jul 2024 20:20:26 GMT</pubDate>
-    </item>
-    <item>
       <title>随着芯片需求飙升，GlobalFoundries 竞相寻找半导体人才</title>
       <link>https://www.cnbc.com/2024/07/05/globalfoundries-hiring-as-semiconductor-chip-demand-rises.html</link>
       <description><![CDATA[随着《芯片信息处理与处理标准法案》资金和人工智能的推动，芯片需求猛增，GlobalFoundries 和其他半导体公司正在寻找员工。]]></description>
@@ -46,13 +46,6 @@
       <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释和不断变化的加密行业的独特故事让观众了解未来情况。在今天的节目中，Worldcoin 建造者 Tools for Humanity 的新任首席隐私官 Damien Kieran 讨论了他计划如何与世界各地的监管机构合作，以解决与 Worldcoin 虹膜扫描技术相关的隐私问题。]]></description>
       <guid>https://www.cnbc.com/video/2024/07/05/bitcoin-tanks-as-mt-gox-begins-repaying-creditors-cnbc-crypto-world.html</guid>
       <pubDate>Fri, 05 Jul 2024 19:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>热带风暴贝丽尔袭击加勒比地区，随后又袭击墨西哥顶级海滩附近海岸</title>
-      <link>https://www.cnbc.com/2024/07/04/hurricane-beryl-roars-toward-mexico.html</link>
-      <description><![CDATA[二级飓风贝丽尔于周五凌晨登陆墨西哥主要旅游胜地，引发该地区红色预警。]]></description>
-      <guid>https://www.cnbc.com/2024/07/04/hurricane-beryl-roars-toward-mexico.html</guid>
-      <pubDate>Fri, 05 Jul 2024 18:10:36 GMT</pubDate>
     </item>
     <item>
       <title>失业率意外上升导致 10 年期美国国债收益率下跌</title>
@@ -81,6 +74,13 @@
       <description><![CDATA[白人、黑人和西班牙裔女性的失业率上升，但男性的失业率下降。]]></description>
       <guid>https://www.cnbc.com/2024/07/05/jobless-rates-rise-in-june-for-white-black-and-hispanic-women-but-fall-for-men-in-the-three-racial-groups.html</guid>
       <pubDate>Fri, 05 Jul 2024 16:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>以色列的“铁穹”防御系统会被攻破吗？与真主党开战的风险不断上升，系统能力成为焦点</title>
+      <link>https://www.cnbc.com/2024/07/05/israel-hezbollah-war-risk-rises-can-iron-dome-be-overrun.html</link>
+      <description><![CDATA[军事专家警告称，由于以色列面临与哈马斯和真主党两线作战的前景，其先进的铁穹防御系统可能不堪重负。]]></description>
+      <guid>https://www.cnbc.com/2024/07/05/israel-hezbollah-war-risk-rises-can-iron-dome-be-overrun.html</guid>
+      <pubDate>Fri, 05 Jul 2024 15:39:23 GMT</pubDate>
     </item>
     <item>
       <title>美国6月就业岗位增加20.6万个，失业率升至4.1%</title>
