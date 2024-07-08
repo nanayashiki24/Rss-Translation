@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 08 Jul 2024 09:11:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 08 Jul 2024 09:35:00 GMT</lastBuildDate>
     <item>
-      <title>飓风贝里尔袭击德克萨斯州海岸，强度再创新高</title>
+      <title>美国国家气象局称，飓风贝丽尔在德克萨斯州马塔戈达附近海岸登陆</title>
       <link>https://www.cnbc.com/2024/07/08/texas-residents-told-to-expect-power-outages-flooding-as-beryl-moves-closer-to-landfall.html</link>
-      <description><![CDATA[周日，贝里尔开始袭击德克萨斯州沿海地区，降雨和强风不断，当地居民纷纷用木板封住窗户，疏散海滨城镇，准备迎接风暴。]]></description>
+      <description><![CDATA[飓风贝丽尔在马塔哥达附近的德克萨斯州中部海岸登陆，带来危险的风暴潮和强风。]]></description>
       <guid>https://www.cnbc.com/2024/07/08/texas-residents-told-to-expect-power-outages-flooding-as-beryl-moves-closer-to-landfall.html</guid>
-      <pubDate>Mon, 08 Jul 2024 09:01:51 GMT</pubDate>
+      <pubDate>Mon, 08 Jul 2024 09:22:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国悬浮议会对市场意味着什么</title>
+      <link>https://www.cnbc.com/2024/07/07/what-a-hung-parliament-in-france-could-mean-for-markets.html</link>
+      <description><![CDATA[周日晚间法国议会决选投票的初步迹象显示，情况出现了一些重大意外。]]></description>
+      <guid>https://www.cnbc.com/2024/07/07/what-a-hung-parliament-in-france-could-mean-for-markets.html</guid>
+      <pubDate>Mon, 08 Jul 2024 08:45:45 GMT</pubDate>
     </item>
     <item>
       <title>丹麦啤酒制造商嘉士伯提高报价，以 40 亿美元收购软饮料制造商 Britvic</title>
@@ -43,16 +50,9 @@
     <item>
       <title>Airbnb 拒绝的痛苦：房东解释他们拒绝各种旅行者的原因</title>
       <link>https://www.cnbc.com/2024/07/08/why-did-airbnb-host-reject-me-hosts-are-looking-up-travelers-online.html</link>
-      <description><![CDATA[社交媒体、与预订姓名不符的信用卡，甚至 4.5 星评论都可能导致短期租赁房东直接拒绝旅行者。]]></description>
+      <description><![CDATA[社交媒体、与预订姓名不符的信用卡、甚至 4.5 星评论都可能导致短期租赁房东直接拒绝旅行者。]]></description>
       <guid>https://www.cnbc.com/2024/07/08/why-did-airbnb-host-reject-me-hosts-are-looking-up-travelers-online.html</guid>
       <pubDate>Mon, 08 Jul 2024 05:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>东南亚 IPO 市场上半年大幅下跌，但人工智能上市或将重振市场</title>
-      <link>https://www.cnbc.com/2024/07/08/southeast-asia-ipo-market-fell-significantly-in-h2-2024-deloitte.html</link>
-      <description><![CDATA[德勤报告显示，2024 年前六个月东南亚 IPO 市值同比下降 71% 至 58 亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/07/08/southeast-asia-ipo-market-fell-significantly-in-h2-2024-deloitte.html</guid>
-      <pubDate>Mon, 08 Jul 2024 04:40:44 GMT</pubDate>
     </item>
     <item>
       <title>派拉蒙与天舞同意合并，结束红石时代</title>
@@ -90,25 +90,25 @@
       <pubDate>Sun, 07 Jul 2024 23:21:58 GMT</pubDate>
     </item>
     <item>
-      <title>国会中又有四名民主党人呼吁拜登退出 2024 年大选</title>
-      <link>https://www.cnbc.com/2024/07/07/four-more-democrats-in-congress-call-for-biden-to-step-aside-in-2024-race.html</link>
-      <description><![CDATA[在黄金时段的一次采访未能缓解民主党人对拜登的普遍担忧之后，要求总统放弃竞选连任的呼声越来越大。]]></description>
-      <guid>https://www.cnbc.com/2024/07/07/four-more-democrats-in-congress-call-for-biden-to-step-aside-in-2024-race.html</guid>
-      <pubDate>Sun, 07 Jul 2024 21:51:22 GMT</pubDate>
+      <title>以下是 30 多岁美国人 401(k) 账户中的资金情况</title>
+      <link>https://www.cnbc.com/2024/07/07/median-401k-account-balances-for-americans-in-their-30s.html</link>
+      <description><![CDATA[大多数千禧一代年龄在 30 多岁，他们设定了相当高的退休储蓄目标。根据富达的数据，按年龄划分，美国人的 401(k) 储蓄额是多少。]]></description>
+      <guid>https://www.cnbc.com/2024/07/07/median-401k-account-balances-for-americans-in-their-30s.html</guid>
+      <pubDate>Sun, 07 Jul 2024 13:40:01 GMT</pubDate>
     </item>
     <item>
-      <title>墨菲参议员称拜登面临“关键的一周”来说服选民他能击败特朗普</title>
-      <link>https://www.cnbc.com/2024/07/07/biden-vital-week-voters-beat-trump-chris-murphy.html</link>
-      <description><![CDATA[到目前为止，已有五名众议院民主党人公开呼吁拜登总统退出 2024 年与唐纳德·特朗普的竞选。]]></description>
-      <guid>https://www.cnbc.com/2024/07/07/biden-vital-week-voters-beat-trump-chris-murphy.html</guid>
-      <pubDate>Sun, 07 Jul 2024 15:56:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年，人工智能助推求职诈骗激增 118%。以下是阻止此类诈骗的方法</title>
+      <title>2023 年，人工智能助推求职诈骗激增 118%。以下是阻止求职诈骗的方法</title>
       <link>https://www.cnbc.com/2024/07/07/job-scams-surged-118percent-in-2023-aided-by-ai-heres-how-to-stop-them.html</link>
       <description><![CDATA[人工智能的创新和远程工作的兴起引发了虚假求职和招聘广告的激增。]]></description>
       <guid>https://www.cnbc.com/2024/07/07/job-scams-surged-118percent-in-2023-aided-by-ai-heres-how-to-stop-them.html</guid>
       <pubDate>Sun, 07 Jul 2024 13:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>这只 ETF 试图满足人们对减肥股票的兴趣</title>
+      <link>https://www.cnbc.com/2024/07/06/weight-loss-stocks-should-grab-big-gains-tema-etfs-ceo-suggests.html</link>
+      <description><![CDATA[Tema ETFs 是 GLP-1、肥胖和心脏代谢 ETF (HRTS) 的幕后推手，自去年 11 月成立以来已上涨 26%。]]></description>
+      <guid>https://www.cnbc.com/2024/07/06/weight-loss-stocks-should-grab-big-gains-tema-etfs-ceo-suggests.html</guid>
+      <pubDate>Sat, 06 Jul 2024 15:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
