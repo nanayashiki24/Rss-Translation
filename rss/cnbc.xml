@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 08 Jul 2024 00:00:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Mon, 08 Jul 2024 01:33:00 GMT</lastBuildDate>
+    <item>
+      <title>印度莫迪将在莫斯科会见普京，双方寻求建立更深层次的关系</title>
+      <link>https://www.cnbc.com/2024/07/08/india-pm-narendra-modi-meeting-russian-president-vladimir-putin-in-moscow.html</link>
+      <description><![CDATA[这次会晤意义重大，因为这是印度总理纳伦德拉·莫迪自今年 6 月罕见地​​连任第三任期以来首次出访海外进行双边访问。]]></description>
+      <guid>https://www.cnbc.com/2024/07/08/india-pm-narendra-modi-meeting-russian-president-vladimir-putin-in-moscow.html</guid>
+      <pubDate>Mon, 08 Jul 2024 01:28:58 GMT</pubDate>
+    </item>
     <item>
       <title>法国左翼联盟在议会决选中击败极右翼</title>
       <link>https://www.cnbc.com/2024/07/07/left-wing-new-popular-front-coalition-leads-in-french-parliamentary-run-off-vote-early-data-shows.html</link>
@@ -22,7 +29,7 @@
     <item>
       <title>Airbnb 拒绝的痛苦：房东解释他们拒绝各种旅行者的原因</title>
       <link>https://www.cnbc.com/2024/07/08/why-did-airbnb-host-reject-me-hosts-are-looking-up-travelers-online.html</link>
-      <description><![CDATA[社交媒体、与预订姓名不符的信用卡、甚至 4.5 星评论都可能导致短期租赁房东直接拒绝旅行者。]]></description>
+      <description><![CDATA[社交媒体、与预订姓名不符的信用卡，甚至 4.5 星评论都可能导致短期租赁房东直接拒绝旅行者。]]></description>
       <guid>https://www.cnbc.com/2024/07/08/why-did-airbnb-host-reject-me-hosts-are-looking-up-travelers-online.html</guid>
       <pubDate>Mon, 08 Jul 2024 00:48:53 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>2023 年，人工智能助推求职诈骗激增 118%。以下是阻止此类诈骗的方法</title>
       <link>https://www.cnbc.com/2024/07/07/job-scams-surged-118percent-in-2023-aided-by-ai-heres-how-to-stop-them.html</link>
-      <description><![CDATA[人工智能的创新和远程工作的兴起导致虚假求职和招聘广告激增。]]></description>
+      <description><![CDATA[人工智能的创新和远程工作的兴起引发了虚假求职和招聘广告的激增。]]></description>
       <guid>https://www.cnbc.com/2024/07/07/job-scams-surged-118percent-in-2023-aided-by-ai-heres-how-to-stop-them.html</guid>
       <pubDate>Sun, 07 Jul 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>因豁免权问题，法官艾琳·坎农批准特朗普请求暂停机密文件案的部分审理期限</title>
-      <link>https://www.cnbc.com/2024/07/06/judge-aileen-cannon-grants-trump-deadline-request-in-documents-case.html</link>
-      <description><![CDATA[该命令是最高法院周一做出的总统豁免权裁决的最新后果。]]></description>
-      <guid>https://www.cnbc.com/2024/07/06/judge-aileen-cannon-grants-trump-deadline-request-in-documents-case.html</guid>
-      <pubDate>Sat, 06 Jul 2024 20:18:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
