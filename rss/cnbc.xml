@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 09 Jul 2024 17:56:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 09 Jul 2024 18:33:00 GMT</lastBuildDate>
+    <item>
+      <title>UiPath 将在公司重组中裁员 10%</title>
+      <link>https://www.cnbc.com/2024/07/09/uipath-layoffs-company-to-cut-10percent-of-workforce.html</link>
+      <description><![CDATA[作为公司广泛重组的一部分，软件开发商 UiPath 将裁员 10%，即约 420 人。]]></description>
+      <guid>https://www.cnbc.com/2024/07/09/uipath-layoffs-company-to-cut-10percent-of-workforce.html</guid>
+      <pubDate>Tue, 09 Jul 2024 18:23:36 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普辩论后分歧加深，民主党就拜登举行关键会议</title>
       <link>https://www.cnbc.com/2024/07/09/biden-campaign-democrats-updates.html</link>
@@ -20,18 +27,11 @@
       <pubDate>Tue, 09 Jul 2024 17:42:02 GMT</pubDate>
     </item>
     <item>
-      <title>参议员寻求特别顾问对最高法院法官克拉伦斯·托马斯进行调查</title>
+      <title>参议员寻求对最高法院法官克拉伦斯·托马斯进行特别顾问调查</title>
       <link>https://www.cnbc.com/2024/07/09/justice-clarence-thomas-senate-special-counsel-probe-sought.html</link>
       <description><![CDATA[民主党参议员表示，有证据显示，最高法院大法官克拉伦斯·托马斯“秘密接受了可能价值数百万美元的礼物和收入”。]]></description>
       <guid>https://www.cnbc.com/2024/07/09/justice-clarence-thomas-senate-special-counsel-probe-sought.html</guid>
       <pubDate>Tue, 09 Jul 2024 17:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>朋友生日晚餐太贵？礼仪专家告诉你如何庆祝而不至于花光积蓄或显得小气</title>
-      <link>https://www.cnbc.com/2024/07/09/how-to-handle-a-pricey-birthday-dinner-without-looking-cheap.html</link>
-      <description><![CDATA[礼仪专家伊莱恩·斯旺 (Elaine Swann) 表示，生日晚宴等让人感觉必须参加的昂贵外出活动有时会引发怨恨：“它可能会引起一些焦虑。”]]></description>
-      <guid>https://www.cnbc.com/2024/07/09/how-to-handle-a-pricey-birthday-dinner-without-looking-cheap.html</guid>
-      <pubDate>Tue, 09 Jul 2024 17:39:08 GMT</pubDate>
     </item>
     <item>
       <title>疫情帮助增加了对保障收入的支持。随后出现了强烈反应</title>
@@ -64,7 +64,7 @@
     <item>
       <title>希腊为新的六天工作周立法辩护，称这是一项“特殊措施”</title>
       <link>https://www.cnbc.com/2024/07/09/greece-defends-six-day-work-week-says-it-is-an-exceptional-measure.html</link>
-      <description><![CDATA[希腊因实行新的六天工作制而遭到强烈反对，之后该国为该政策进行辩护，称这将是一项“特殊措施”。]]></description>
+      <description><![CDATA[希腊因实行新的六天工作制而遭到强烈反对，之后希腊为该政策进行辩护，称这将是一项“特殊措施”。]]></description>
       <guid>https://www.cnbc.com/2024/07/09/greece-defends-six-day-work-week-says-it-is-an-exceptional-measure.html</guid>
       <pubDate>Tue, 09 Jul 2024 16:13:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>“没人接电话”：辩论后拜登筹款面临新障碍</title>
       <link>https://www.cnbc.com/2024/07/08/joe-biden-fundraising-debate.html</link>
-      <description><![CDATA[尽管总统乔·拜登坚持要继续竞选，但他的筹款活动还是显露出一些困难的迹象。]]></description>
+      <description><![CDATA[尽管总统乔·拜登坚持要继续竞选，但他的筹款工作还是显露出一些困难的迹象。]]></description>
       <guid>https://www.cnbc.com/2024/07/08/joe-biden-fundraising-debate.html</guid>
       <pubDate>Tue, 09 Jul 2024 03:24:11 GMT</pubDate>
     </item>
