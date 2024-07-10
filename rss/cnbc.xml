@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 10 Jul 2024 06:51:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 10 Jul 2024 07:57:00 GMT</lastBuildDate>
+    <item>
+      <title>晨星称中国 ETF 市场呈现“爆炸式”增长，三年内流入量增长 5 倍</title>
+      <link>https://www.cnbc.com/2024/07/10/chinese-etf-inflows-jump-5-fold-in-three-years-says-morningstar.html</link>
+      <description><![CDATA[晨星公司的数据显示，过去几年，中国交易所交易基金实现了“惊人”的增长，流入资金不断创下新高。]]></description>
+      <guid>https://www.cnbc.com/2024/07/10/chinese-etf-inflows-jump-5-fold-in-three-years-says-morningstar.html</guid>
+      <pubDate>Wed, 10 Jul 2024 08:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>调查显示，中国在 GenAI 实验方面处于领先地位，但在实施方面落后于美国</title>
+      <link>https://www.cnbc.com/2024/07/10/china-is-global-leader-in-genai-experimentation-but-lags-us-in-implementation.html</link>
+      <description><![CDATA[一项新调查发现，中国企业在生成式人工智能的总体应用方面处于世界领先地位，但在全面实施方面仍然落后于美国。]]></description>
+      <guid>https://www.cnbc.com/2024/07/10/china-is-global-leader-in-genai-experimentation-but-lags-us-in-implementation.html</guid>
+      <pubDate>Wed, 10 Jul 2024 07:49:13 GMT</pubDate>
+    </item>
     <item>
       <title>标普 500 指数再创收盘纪录后，股指期货几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/07/09/stock-market-today-live-updates.html</link>
@@ -29,7 +43,7 @@
     <item>
       <title>资深投资者称，在经济僵局下，法国借贷成本仍将“井喷”</title>
       <link>https://www.cnbc.com/2024/07/10/blowout-in-french-borrowing-costs-still-to-come-david-roche.html</link>
-      <description><![CDATA[大卫·罗奇在接受 CNBC 采访时表示：“法国的政治瘫痪就是法国的经济瘫痪。”]]></description>
+      <description><![CDATA[大卫·罗奇对 CNBC 表示：“法国的政治瘫痪就是法国的经济瘫痪。”]]></description>
       <guid>https://www.cnbc.com/2024/07/10/blowout-in-french-borrowing-costs-still-to-come-david-roche.html</guid>
       <pubDate>Wed, 10 Jul 2024 05:25:06 GMT</pubDate>
     </item>
@@ -55,13 +69,6 @@
       <pubDate>Wed, 10 Jul 2024 02:20:07 GMT</pubDate>
     </item>
     <item>
-      <title>晨星称中国 ETF 市场呈现“爆炸式”增长，三年内流入量增长 5 倍</title>
-      <link>https://www.cnbc.com/2024/07/10/chinese-etf-inflows-jump-5-fold-in-three-years-says-morningstar.html</link>
-      <description><![CDATA[晨星公司的数据显示，过去几年，中国交易所交易基金实现了“惊人”的增长，流入资金不断创下新高。]]></description>
-      <guid>https://www.cnbc.com/2024/07/10/chinese-etf-inflows-jump-5-fold-in-three-years-says-morningstar.html</guid>
-      <pubDate>Wed, 10 Jul 2024 00:05:45 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普辩论余波扰乱竞选活动，又有民主党人敦促拜登退出</title>
       <link>https://www.cnbc.com/2024/07/09/biden-campaign-democrats-updates.html</link>
       <description><![CDATA[这是自总统乔·拜登在与前总统唐纳德·特朗普的辩论中表现不佳并引发竞选危机以来的首次民主党核心小组会议。]]></description>
@@ -76,7 +83,7 @@
       <pubDate>Tue, 09 Jul 2024 23:19:12 GMT</pubDate>
     </item>
     <item>
-      <title>美银美林：苹果 4 家供应商将在 iPhone 16 系列发布会上亮相</title>
+      <title>苹果四家供应商将在 iPhone 16 系列发布会上亮相：美国银行</title>
       <link>https://www.cnbc.com/2024/07/10/the-apple-suppliers-set-to-pop-on-iphone-16-series-launch-bofa.html</link>
       <description><![CDATA[美国银行已经确定了几只将从最新 iPhone 系列中获益的股票。]]></description>
       <guid>https://www.cnbc.com/2024/07/10/the-apple-suppliers-set-to-pop-on-iphone-16-series-launch-bofa.html</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>这些软件股兼具“两全其美”的特点，既能提供强劲的增长，又能提供稳健的资产负债表</title>
       <link>https://www.cnbc.com/2024/07/09/these-software-stocks-offer-solid-balance-sheets-and-strong-growth-.html</link>
-      <description><![CDATA[随着人工智能热潮的不断发展，Canaccord Genuity 认为，尽管利率较高，但这些软件公司的基本面仍然强劲。]]></description>
+      <description><![CDATA[随着人工智能热潮的不断发展，Canaccord Genuity认为，尽管利率较高，但这些软件公司的基本面仍然强劲。]]></description>
       <guid>https://www.cnbc.com/2024/07/09/these-software-stocks-offer-solid-balance-sheets-and-strong-growth-.html</guid>
       <pubDate>Tue, 09 Jul 2024 19:40:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[央行行长在为期两天的国会演讲中表示，经济和劳动力市场依然强劲。]]></description>
       <guid>https://www.cnbc.com/2024/07/09/fed-chief-powell-says-holding-rates-high-for-too-long-could-jeopardize-economic-growth.html</guid>
       <pubDate>Tue, 09 Jul 2024 17:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>希腊为新的六天工作周立法辩护，称这是一项“特殊措施”</title>
-      <link>https://www.cnbc.com/2024/07/09/greece-defends-six-day-work-week-says-it-is-an-exceptional-measure.html</link>
-      <description><![CDATA[希腊因实行新的六天工作制而遭到强烈反对，之后希腊为该政策进行辩护，称这将是一项“特殊措施”。]]></description>
-      <guid>https://www.cnbc.com/2024/07/09/greece-defends-six-day-work-week-says-it-is-an-exceptional-measure.html</guid>
-      <pubDate>Tue, 09 Jul 2024 16:13:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
