@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 10 Jul 2024 01:59:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 10 Jul 2024 03:51:00 GMT</lastBuildDate>
+    <item>
+      <title>“别累”：三星电子工人无限期罢工，称芯片生产中断</title>
+      <link>https://www.cnbc.com/2024/07/10/samsung-electronics-workers-declare-a-second-strike-in-south-korea.html</link>
+      <description><![CDATA[据当地媒体报道，这是三星电子55年历史上工会首次罢工。]]></description>
+      <guid>https://www.cnbc.com/2024/07/10/samsung-electronics-workers-declare-a-second-strike-in-south-korea.html</guid>
+      <pubDate>Wed, 10 Jul 2024 03:59:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国通胀数据低于预期，6 月份上涨 0.2%</title>
       <link>https://www.cnbc.com/2024/07/10/chinas-inflation-numbers-miss-expectations-to-rise-0point2percent-in-june.html</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 09 Jul 2024 23:19:12 GMT</pubDate>
     </item>
     <item>
-      <title>美银美林：苹果 4 家供应商将在 iPhone 16 系列发布会上亮相</title>
+      <title>苹果四家供应商将在 iPhone 16 系列发布会上亮相：美国银行</title>
       <link>https://www.cnbc.com/2024/07/10/the-apple-suppliers-set-to-pop-on-iphone-16-series-launch-bofa.html</link>
       <description><![CDATA[美国银行已经确定了几只将从最新 iPhone 系列中获益的股票。]]></description>
       <guid>https://www.cnbc.com/2024/07/10/the-apple-suppliers-set-to-pop-on-iphone-16-series-launch-bofa.html</guid>
@@ -60,13 +67,6 @@
       <description><![CDATA[通货膨胀正在放缓，但价格仍然高企且可能持续保持高位，给一些家庭带来压力。]]></description>
       <guid>https://www.cnbc.com/2024/07/09/why-more-americans-are-struggling-even-as-inflation-cools.html</guid>
       <pubDate>Tue, 09 Jul 2024 21:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>参议员寻求对最高法院法官克拉伦斯·托马斯进行特别顾问调查</title>
-      <link>https://www.cnbc.com/2024/07/09/justice-clarence-thomas-senate-special-counsel-probe-sought.html</link>
-      <description><![CDATA[民主党参议员表示，有证据表明，大法官克拉伦斯·托马斯“秘密接受了可能价值数百万美元的礼物和收入”。]]></description>
-      <guid>https://www.cnbc.com/2024/07/09/justice-clarence-thomas-senate-special-counsel-probe-sought.html</guid>
-      <pubDate>Tue, 09 Jul 2024 21:18:15 GMT</pubDate>
     </item>
     <item>
       <title>突然间，似乎有太多房屋待售。以下是原因所在</title>
@@ -92,7 +92,7 @@
     <item>
       <title>这些软件股兼具“两全其美”的特点，既能提供强劲的增长，又能提供稳健的资产负债表</title>
       <link>https://www.cnbc.com/2024/07/09/these-software-stocks-offer-solid-balance-sheets-and-strong-growth-.html</link>
-      <description><![CDATA[随着人工智能热潮的不断发展，Canaccord Genuity 认为，尽管利率较高，但这些软件公司的基本面仍然强劲。]]></description>
+      <description><![CDATA[随着人工智能热潮的不断发展，Canaccord Genuity认为，尽管利率较高，但这些软件公司的基本面仍然强劲。]]></description>
       <guid>https://www.cnbc.com/2024/07/09/these-software-stocks-offer-solid-balance-sheets-and-strong-growth-.html</guid>
       <pubDate>Tue, 09 Jul 2024 19:40:42 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>希腊为新的六天工作周立法辩护，称这是一项“特殊措施”</title>
       <link>https://www.cnbc.com/2024/07/09/greece-defends-six-day-work-week-says-it-is-an-exceptional-measure.html</link>
-      <description><![CDATA[希腊因实行新的六天工作制而遭到强烈反对，之后希腊为该政策进行辩护，称这将是一项“特殊措施”。]]></description>
+      <description><![CDATA[希腊因实行新的六天工作制而遭到强烈反对，之后该国为该政策进行辩护，称这将是一项“特殊措施”。]]></description>
       <guid>https://www.cnbc.com/2024/07/09/greece-defends-six-day-work-week-says-it-is-an-exceptional-measure.html</guid>
       <pubDate>Tue, 09 Jul 2024 16:13:00 GMT</pubDate>
     </item>
