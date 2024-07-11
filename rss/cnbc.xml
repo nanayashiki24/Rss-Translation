@@ -3,8 +3,43 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Thu, 11 Jul 2024 13:14:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Thu, 11 Jul 2024 13:33:00 GMT</lastBuildDate>
+    <item>
+      <title>6 月份通胀率较上月下降 0.1%，有助于降低利率</title>
+      <link>https://www.cnbc.com/2024/07/11/cpi-inflation-report-june-2024.html</link>
+      <description><![CDATA[月度通胀率四年多来首次下降，为美联储在今年晚些时候开始降息提供了进一步的保障。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/cpi-inflation-report-june-2024.html</guid>
+      <pubDate>Thu, 11 Jul 2024 13:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管需求旺盛，但航班过剩导致票价下降，达美航空股价下跌</title>
+      <link>https://www.cnbc.com/2024/07/11/delta-air-lines-dal-earnings-q2-2024.html</link>
+      <description><![CDATA[达美航空周四开启了航空业盈利季，该公司的飞机客流量巨大，但由于成本上升和运力增加对票价造成影响，其利润面临压力。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/delta-air-lines-dal-earnings-q2-2024.html</guid>
+      <pubDate>Thu, 11 Jul 2024 13:31:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃德·亚德尼上调标普预测，称“咆哮的 2020 年代”到来的速度甚至比他预期的还要快</title>
+      <link>https://www.cnbc.com/2024/07/11/ed-yardeni-says-roaring-2020s-happening-faster-than-he-expected.html</link>
+      <description><![CDATA[这位华尔街策略师预测，标准普尔 500 指数将在 2024 年及未来十年继续上涨。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/ed-yardeni-says-roaring-2020s-happening-faster-than-he-expected.html</guid>
+      <pubDate>Thu, 11 Jul 2024 13:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>MicroStrategy 在比特币达到峰值四个月后实施 10 比 1 的股票分割</title>
+      <link>https://www.cnbc.com/2024/07/11/microstrategy-sets-10-for-1-stock-split-four-months-after-bitcoin-peak.html</link>
+      <description><![CDATA[最大的比特币企业持有者 MicroStrategy 周四宣布进行 10 比 1 的股票分割。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/microstrategy-sets-10-for-1-stock-split-four-months-after-bitcoin-peak.html</guid>
+      <pubDate>Thu, 11 Jul 2024 13:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>夏威夷成为 2024 年美国最不适合经商的州，成本高得惊人，气候风险不断上升</title>
+      <link>https://www.cnbc.com/2024/07/11/hawaii-americas-worst-state-business-costs-climate-risks-rising.html</link>
+      <description><![CDATA[夏威夷是 2024 年美国经商环境最差的州，其生活成本（包括儿童保育费用）位居全国最高，气候灾害风险也随之增加。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/hawaii-americas-worst-state-business-costs-climate-risks-rising.html</guid>
+      <pubDate>Thu, 11 Jul 2024 13:14:59 GMT</pubDate>
+    </item>
     <item>
       <title>弗吉尼亚州是 2024 年美国最佳经商州，拥有全美最好的学校和坚实的基础设施</title>
       <link>https://www.cnbc.com/2024/07/11/virginia-americas-top-state-for-business-nations-best-schools-solid-infrastructure.html</link>
@@ -18,13 +53,6 @@
       <description><![CDATA[标准普尔 500 指数和纳斯达克指数均已连续七个交易日上涨，但在创下更多纪录后走低。]]></description>
       <guid>https://www.cnbc.com/2024/07/11/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html</guid>
       <pubDate>Thu, 11 Jul 2024 13:13:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管需求旺盛，但航班过剩导致票价下降，达美航空股价下跌</title>
-      <link>https://www.cnbc.com/2024/07/11/delta-air-lines-dal-earnings-q2-2024.html</link>
-      <description><![CDATA[达美航空周四开启了航空业盈利季，该公司的飞机客流量巨大，但由于成本上升和运力增加对票价造成影响，其利润面临压力。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/delta-air-lines-dal-earnings-q2-2024.html</guid>
-      <pubDate>Thu, 11 Jul 2024 13:08:30 GMT</pubDate>
     </item>
     <item>
       <title>百事可乐盈利超出预期，但美国需求减弱</title>
@@ -46,27 +74,6 @@
       <description><![CDATA[美国财政部和国税局宣布了一项“重大里程碑”，向百万富翁征收了超过 10 亿美元的欠税。]]></description>
       <guid>https://www.cnbc.com/2024/07/11/irs-says-its-collected-1-billion-in-past-due-taxes-from-millionaires.html</guid>
       <pubDate>Thu, 11 Jul 2024 12:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>MicroStrategy 在比特币达到峰值四个月后实施 10 比 1 的股票分割</title>
-      <link>https://www.cnbc.com/2024/07/11/microstrategy-sets-10-for-1-stock-split-four-months-after-bitcoin-peak.html</link>
-      <description><![CDATA[最大的比特币企业持有者 MicroStrategy 周四宣布进行 10 比 1 的股票分割。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/microstrategy-sets-10-for-1-stock-split-four-months-after-bitcoin-peak.html</guid>
-      <pubDate>Thu, 11 Jul 2024 12:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 月份通胀率较上月下降 0.1%，有助于降低利率</title>
-      <link>https://www.cnbc.com/2024/07/11/cpi-inflation-report-june-2024.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/cpi-inflation-report-june-2024.html</guid>
-      <pubDate>Thu, 11 Jul 2024 12:48:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>住房价格通胀仍居高不下的原因如下</title>
-      <link>https://www.cnbc.com/2024/07/11/heres-why-housing-inflation-is-still-stubbornly-high.html</link>
-      <description><![CDATA[住房通胀是消费者价格指数达到目标水平的主要障碍。住房通胀的放缓速度比经济学家预期的要慢。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/heres-why-housing-inflation-is-still-stubbornly-high.html</guid>
-      <pubDate>Thu, 11 Jul 2024 12:35:38 GMT</pubDate>
     </item>
     <item>
       <title>2024 年美国最佳经商州：完整排名</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[该公司计划在今年下半年开展对该药物多种剂量的评估研究。]]></description>
       <guid>https://www.cnbc.com/2024/07/11/pfizer-weight-loss-pill-moves-forward.html</guid>
       <pubDate>Thu, 11 Jul 2024 11:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>今年夏天市场势头强劲，但买家需谨慎</title>
-      <link>https://www.cnbc.com/2024/07/11/momentum-rules-the-market-this-summer-but-let-the-buyer-beware.html</link>
-      <description><![CDATA[坚持持有那些大型科技公司的赢家是今年的制胜法宝，但依靠势头发展可能会是一种冒险的做法。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/momentum-rules-the-market-this-summer-but-let-the-buyer-beware.html</guid>
-      <pubDate>Thu, 11 Jul 2024 11:01:34 GMT</pubDate>
     </item>
     <item>
       <title>美国城市正在下沉。这对房主意味着什么</title>
