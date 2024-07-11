@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Thu, 11 Jul 2024 09:20:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Thu, 11 Jul 2024 09:37:00 GMT</lastBuildDate>
     <item>
       <title>苹果与欧盟监管机构达成协议，向竞争对手开放移动支付系统</title>
       <link>https://www.cnbc.com/2024/07/11/apple-reaches-deal-with-eu-to-open-up-mobile-payments-system-to-rivals.html</link>
       <description><![CDATA[欧盟反垄断负责人玛格丽特·维斯塔格表示，欧盟委员会接受了苹果公司的承诺，即向竞争对手开放其“即拍即付”技术。]]></description>
       <guid>https://www.cnbc.com/2024/07/11/apple-reaches-deal-with-eu-to-open-up-mobile-payments-system-to-rivals.html</guid>
-      <pubDate>Thu, 11 Jul 2024 09:18:34 GMT</pubDate>
+      <pubDate>Thu, 11 Jul 2024 09:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>北约谴责中国是俄罗斯乌克兰战争的“决定性推动者”，这是迄今为止最严厉的谴责</title>
+      <link>https://www.cnbc.com/2024/07/11/nato-condemns-china-as-a-decisive-enabler-of-russias-war-in-ukraine.html</link>
+      <description><![CDATA[北约将北京列为俄罗斯发动乌克兰战争的“决定性推动者”，并对北京对北约安全构成的“系统性挑战”表示担忧。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/nato-condemns-china-as-a-decisive-enabler-of-russias-war-in-ukraine.html</guid>
+      <pubDate>Thu, 11 Jul 2024 09:27:39 GMT</pubDate>
     </item>
     <item>
       <title>财政部和国税局宣布向百万富翁征收 10 亿美元逾期税款，创“重大里程碑”</title>
@@ -20,25 +27,18 @@
       <pubDate>Thu, 11 Jul 2024 09:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>英国经济 5 月恢复增长，超出预期，英镑创四个月新高</title>
-      <link>https://www.cnbc.com/2024/07/11/uk-economic-growth-may-2024.html</link>
-      <description><![CDATA[英国五月份国内生产总值数据于周四公布。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/uk-economic-growth-may-2024.html</guid>
-      <pubDate>Thu, 11 Jul 2024 07:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩根大通看好这个东南亚国家，称其在数据中心领域有发展机遇</title>
-      <link>https://www.cnbc.com/2024/07/11/jpmorgan-upgrades-malaysia-citing-data-centers-and-policy-reforms.html</link>
-      <description><![CDATA[该投资银行上周将马来西亚的评级从“减持”上调至“中性”，并上调了吉隆坡综合指数的目标。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/jpmorgan-upgrades-malaysia-citing-data-centers-and-policy-reforms.html</guid>
-      <pubDate>Thu, 11 Jul 2024 07:28:46 GMT</pubDate>
-    </item>
-    <item>
       <title>驻东京专家称，日本担心特朗普再次担任“交易型”总统</title>
       <link>https://www.cnbc.com/2024/07/11/japan-worried-about-transactional-trump-presidency-pesek-says.html</link>
       <description><![CDATA[日本政府“非常肯定拜登能很好地掌控局势”。然而，执政的自民党现在正在重新评估“特朗普 2.0 总统任期”的可能性。]]></description>
       <guid>https://www.cnbc.com/2024/07/11/japan-worried-about-transactional-trump-presidency-pesek-says.html</guid>
       <pubDate>Thu, 11 Jul 2024 06:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉姆·克莱默 (Jim Cramer) 评价 Hims & Hers Health 股票：“我敢打赌，这家公司业务会保持强劲”</title>
+      <link>https://www.cnbc.com/2024/07/10/jim-cramer-on-hims-hers-health-stock.html</link>
+      <description><![CDATA[美国全国广播公司财经频道 (CNBC) 的吉姆·克莱默 (Jim Cramer) 周三发表了他对数字健康和保健平台 Hims &amp; Hers Health 的看法。]]></description>
+      <guid>https://www.cnbc.com/2024/07/10/jim-cramer-on-hims-hers-health-stock.html</guid>
+      <pubDate>Wed, 10 Jul 2024 23:58:12 GMT</pubDate>
     </item>
     <item>
       <title>三星今年将推出升级版语音助手 Bixby，搭载自家 AI 技术</title>
@@ -48,13 +48,6 @@
       <pubDate>Wed, 10 Jul 2024 23:23:26 GMT</pubDate>
     </item>
     <item>
-      <title>花旗将全球被低估的人工智能股票列为有望重新评级的股票，其中两只上涨空间达 50%</title>
-      <link>https://www.cnbc.com/2024/07/11/citi-names-undervalued-ai-stocks-poised-for-rerating.html</link>
-      <description><![CDATA[这家华尔街银行所选的股票盈利预期有所改善，但市盈率并未出现大幅上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/citi-names-undervalued-ai-stocks-poised-for-rerating.html</guid>
-      <pubDate>Wed, 10 Jul 2024 23:20:32 GMT</pubDate>
-    </item>
-    <item>
       <title>马斯克表示，尽管第一位患者出现了问题，但下一款 Neuralink 大脑植入物很快就会问世</title>
       <link>https://www.cnbc.com/2024/07/10/musk-says-next-neuralink-brain-implant-expected-in-next-week-or-so.html</link>
       <description><![CDATA[尽管第一位患者面临硬件挑战，Neuralink 仍准备为第二位人类患者植入机器人。]]></description>
@@ -62,11 +55,11 @@
       <pubDate>Wed, 10 Jul 2024 23:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>吉姆·克莱默 (Jim Cramer) 评选了 8 家市值可能突破 1 万亿美元的公司</title>
-      <link>https://www.cnbc.com/2024/07/10/jim-cramer-reviews-8-companies-that-could-top-1-trillion-market-cap.html</link>
-      <description><![CDATA[美国全国广播公司财经频道 (CNBC) 的吉姆·克莱默 (Jim Cramer) 周三评测了八只可能加入令人垂涎的“万亿美元股票俱乐部”的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/07/10/jim-cramer-reviews-8-companies-that-could-top-1-trillion-market-cap.html</guid>
-      <pubDate>Wed, 10 Jul 2024 22:46:30 GMT</pubDate>
+      <title>消息人士称，联邦贸易委员会将就胰岛素等药品价格起诉药品中间商</title>
+      <link>https://www.cnbc.com/2024/07/10/ftc-to-sue-pbms-over-drug-prices-including-insulin.html</link>
+      <description><![CDATA[据报道，联合健康集团 (UnitedHealth Group) 的 Optum Rx、CVS Health 的 Caremark 和 Cigna 的 Express Scripts 将成为 FTC 诉讼的目标。]]></description>
+      <guid>https://www.cnbc.com/2024/07/10/ftc-to-sue-pbms-over-drug-prices-including-insulin.html</guid>
+      <pubDate>Wed, 10 Jul 2024 22:08:13 GMT</pubDate>
     </item>
     <item>
       <title>美国宇航局仍预计波音公司的星际客机将把宇航员从国际空间站带回，但指出 SpaceX 有备用方案</title>
@@ -97,6 +90,13 @@
       <pubDate>Wed, 10 Jul 2024 20:04:42 GMT</pubDate>
     </item>
     <item>
+      <title>高盛表示投资者应开始抛售现金。高盛认为机会就在这里</title>
+      <link>https://www.cnbc.com/2024/07/10/where-goldman-sees-opportunity-to-start-switching-out-of-cash-.html</link>
+      <description><![CDATA[高盛认为，美联储9月份开始降息“确实有可能”。]]></description>
+      <guid>https://www.cnbc.com/2024/07/10/where-goldman-sees-opportunity-to-start-switching-out-of-cash-.html</guid>
+      <pubDate>Wed, 10 Jul 2024 19:48:10 GMT</pubDate>
+    </item>
+    <item>
       <title>金融专家称总统选举不应该影响你的投资方式</title>
       <link>https://www.cnbc.com/2024/07/10/dont-make-investing-moves-based-on-the-election-experts-say.html</link>
       <description><![CDATA[从历史上看，美国总统大选很少对股市产生影响。金融专家预计今年也不会例外。]]></description>
@@ -104,11 +104,11 @@
       <pubDate>Wed, 10 Jul 2024 18:47:35 GMT</pubDate>
     </item>
     <item>
-      <title>乔治克鲁尼呼吁拜登退出竞选</title>
-      <link>https://www.cnbc.com/2024/07/10/george-clooney-calls-on-biden-to-drop-out-of-presidential-race.html</link>
-      <description><![CDATA[总统乔·拜登面临着来自长期盟友、好莱坞演员乔治·克鲁尼的新压力，要求他下台。]]></description>
-      <guid>https://www.cnbc.com/2024/07/10/george-clooney-calls-on-biden-to-drop-out-of-presidential-race.html</guid>
-      <pubDate>Wed, 10 Jul 2024 17:39:43 GMT</pubDate>
+      <title>参议员达成两党协议，禁止国会议员进行股票交易</title>
+      <link>https://www.cnbc.com/2024/07/10/senators-strike-bipartisan-deal-for-a-ban-on-stock-trading-by-members-of-congress.html</link>
+      <description><![CDATA[南希·佩洛西 (Nancy Pelosi) 放弃了对立法者在 2022 年提出的股票交易禁令的抵制，这使得该政策在国会山的推动力进一步增强。]]></description>
+      <guid>https://www.cnbc.com/2024/07/10/senators-strike-bipartisan-deal-for-a-ban-on-stock-trading-by-members-of-congress.html</guid>
+      <pubDate>Wed, 10 Jul 2024 18:17:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
