@@ -3,28 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 11 Jul 2024 17:13:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 11 Jul 2024 17:37:00 GMT</lastBuildDate>
     <item>
-      <title>健康回报：制药商竞相开发更方便的减肥药</title>
-      <link>https://www.cnbc.com/2024/07/11/healthy-returns-drugmakers-are-racing-to-develop-weight-loss-pills.html</link>
-      <description><![CDATA[诺和诺德、礼来和辉瑞正在开发减肥药。与此同时，一份报告称，数字医疗资金今年显示出“稳步增长的势头”。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/healthy-returns-drugmakers-are-racing-to-develop-weight-loss-pills.html</guid>
-      <pubDate>Thu, 11 Jul 2024 17:11:00 GMT</pubDate>
+      <title>摩根大通将于周五开盘前公布财报。华尔街关注的焦点</title>
+      <link>https://www.cnbc.com/2024/07/11/jpmorgan-reports-before-the-bell-friday-what-wall-street-is-watching.html</link>
+      <description><![CDATA[随着摩根大通周五公布业绩，第二季度财报季非正式拉开帷幕。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/jpmorgan-reports-before-the-bell-friday-what-wall-street-is-watching.html</guid>
+      <pubDate>Thu, 11 Jul 2024 17:36:07 GMT</pubDate>
     </item>
     <item>
       <title>标普 500 指数从纪录高位回落，因投资者撤出 2024 年科技股赢家：实时更新</title>
       <link>https://www.cnbc.com/2024/07/10/stock-market-today-live-updates.html</link>
       <description><![CDATA[投资者纷纷撤离在 2024 年大部分时间支撑市场上涨的大型科技股。]]></description>
       <guid>https://www.cnbc.com/2024/07/10/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 11 Jul 2024 17:04:14 GMT</pubDate>
+      <pubDate>Thu, 11 Jul 2024 17:28:57 GMT</pubDate>
     </item>
     <item>
-      <title>“参与这项努力的人都不认为他有出路”：拜登内部人士称，结果已成定局</title>
-      <link>https://www.cnbc.com/2024/07/11/no-one-involved-in-the-effort-thinks-he-has-a-path-biden-insiders-say-the-writing-is-on-the-wall.html</link>
-      <description><![CDATA[认为他应该重新考虑是否继续参选的民主党人越来越多，其中包括助手、特工和负责指导他取得胜利的官员。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/no-one-involved-in-the-effort-thinks-he-has-a-path-biden-insiders-say-the-writing-is-on-the-wall.html</guid>
-      <pubDate>Thu, 11 Jul 2024 17:01:14 GMT</pubDate>
+      <title>尽管需求旺盛，但航班过剩导致票价下降，达美航空股价下跌</title>
+      <link>https://www.cnbc.com/2024/07/11/delta-air-lines-dal-earnings-q2-2024.html</link>
+      <description><![CDATA[达美航空周四开启了航空业盈利季，该公司的飞机客流量巨大，但由于成本上升和运力增加对票价造成影响，其利润面临压力。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/delta-air-lines-dal-earnings-q2-2024.html</guid>
+      <pubDate>Thu, 11 Jul 2024 17:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉股价下跌 6%，因有报道称自动驾驶出租车发布延迟</title>
+      <link>https://www.cnbc.com/2024/07/11/tesla-shares-fall-6percent-after-report-of-robotaxi-unveiling-delay.html</link>
+      <description><![CDATA[据报道，特斯拉将把其自动驾驶出租车的发布时间从8月份推迟到10月份。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/tesla-shares-fall-6percent-after-report-of-robotaxi-unveiling-delay.html</guid>
+      <pubDate>Thu, 11 Jul 2024 17:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>健康回报：制药商竞相开发更方便的减肥药</title>
+      <link>https://www.cnbc.com/2024/07/11/healthy-returns-drugmakers-are-racing-to-develop-weight-loss-pills.html</link>
+      <description><![CDATA[诺和诺德、礼来和辉瑞正在开发减肥药。与此同时，一份报告称，数字医疗资金今年显示出“稳步增长的势头”。]]></description>
+      <guid>https://www.cnbc.com/2024/07/11/healthy-returns-drugmakers-are-racing-to-develop-weight-loss-pills.html</guid>
+      <pubDate>Thu, 11 Jul 2024 17:11:00 GMT</pubDate>
     </item>
     <item>
       <title>午盘涨幅最大的股票：达美航空、SoundHound AI、WD-40、特斯拉等</title>
@@ -74,20 +88,6 @@
       <description><![CDATA[根据周四发布的政府通胀数据的新估计，明年社会保障生活成本调整幅度可能为 2.7%。]]></description>
       <guid>https://www.cnbc.com/2024/07/11/inflation-points-to-lower-social-security-cost-of-living-adjustment-in-2025.html</guid>
       <pubDate>Thu, 11 Jul 2024 15:52:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析师称，投资者低估了这只大型科技股的人工智能能力</title>
-      <link>https://www.cnbc.com/2024/07/11/investors-are-underestimating-the-ai-capabilities-of-this-big-cap-tech-stock-analysts-say.html</link>
-      <description><![CDATA[一些华尔街分析师表示，这只大型科技股提供了一种成功的人工智能战略。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/investors-are-underestimating-the-ai-capabilities-of-this-big-cap-tech-stock-analysts-say.html</guid>
-      <pubDate>Thu, 11 Jul 2024 15:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管需求旺盛，但航班过剩导致票价下降，达美航空股价下跌</title>
-      <link>https://www.cnbc.com/2024/07/11/delta-air-lines-dal-earnings-q2-2024.html</link>
-      <description><![CDATA[达美航空周四开启了航空业盈利季，该公司的飞机客流量巨大，但由于成本上升和运力增加对票价造成影响，其利润面临压力。]]></description>
-      <guid>https://www.cnbc.com/2024/07/11/delta-air-lines-dal-earnings-q2-2024.html</guid>
-      <pubDate>Thu, 11 Jul 2024 14:38:38 GMT</pubDate>
     </item>
     <item>
       <title>以下是 2024 年 6 月的通胀明细——一张图表</title>
