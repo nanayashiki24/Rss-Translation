@@ -3,12 +3,12 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 15 Jul 2024 02:14:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Mon, 15 Jul 2024 02:44:00 GMT</lastBuildDate>
     <item>
       <title>特朗普枪击现场更新：拜登称政治绝不能成为“杀戮场”</title>
       <link>https://www.cnbc.com/2024/07/14/trump-shooting-live-updates.html</link>
-      <description><![CDATA[在暗杀前总统唐纳德·特朗普的事件中遭枪击的两人目前仍处于危急但稳定状态。]]></description>
+      <description><![CDATA[在暗杀前总统唐纳德·特朗普的事件中遭枪击的两人目前仍处于危急但稳定的状态。]]></description>
       <guid>https://www.cnbc.com/2024/07/14/trump-shooting-live-updates.html</guid>
       <pubDate>Mon, 15 Jul 2024 02:27:48 GMT</pubDate>
     </item>
@@ -41,6 +41,13 @@
       <pubDate>Mon, 15 Jul 2024 01:16:39 GMT</pubDate>
     </item>
     <item>
+      <title>“政治绝不能成为真正的战场”：拜登总统在致命的特朗普集会上发表讲话</title>
+      <link>https://www.cnbc.com/video/2024/07/14/apolitics-must-never-be-a-literal-battlefielda-pres-biden-addressed-nation-after-former-pres-trump-assassination-attempt.html</link>
+      <description><![CDATA[宾夕法尼亚州一场集会上，一名枪手试图暗杀前总统特朗普。随后，拜登总统在椭圆形办公室向全国发表讲话。周六的枪击事件导致一名参加者和枪手死亡，另有两名参加者仍处于危急状态。特朗普被子弹擦伤，在当地一家医院接受治疗，但已于周六深夜出院。]]></description>
+      <guid>https://www.cnbc.com/video/2024/07/14/apolitics-must-never-be-a-literal-battlefielda-pres-biden-addressed-nation-after-former-pres-trump-assassination-attempt.html</guid>
+      <pubDate>Mon, 15 Jul 2024 00:26:22 GMT</pubDate>
+    </item>
+    <item>
       <title>随着饮酒者转向高端，中国全球最大啤酒市场将迎来反弹</title>
       <link>https://www.cnbc.com/2024/07/15/china-beer-consumption-expected-to-recover-in-the-second-half-.html</link>
       <description><![CDATA[CGS International 预计，今年上半年啤酒消费量可能较 2023 年有所下降，但下半年将会复苏。]]></description>
@@ -60,13 +67,6 @@
       <description><![CDATA[《华尔街日报》周日报道称，谷歌正就以 230 亿美元收购网络安全公司 Wiz 进行深入谈判。]]></description>
       <guid>https://www.cnbc.com/2024/07/14/google-wiz-cybersecurity-deal-largest-ever.html</guid>
       <pubDate>Sun, 14 Jul 2024 17:32:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么当前的就业市场对大学学位和应届毕业生的匹配度如此之低</title>
-      <link>https://www.cnbc.com/2024/07/14/current-job-openings-labor-market-college-degree-recent-grads.html</link>
-      <description><![CDATA[最近的大学毕业生在强劲的劳动力市场中努力寻找工作，但学位价值的下降并不像看起来那么简单。]]></description>
-      <guid>https://www.cnbc.com/2024/07/14/current-job-openings-labor-market-college-degree-recent-grads.html</guid>
-      <pubDate>Sun, 14 Jul 2024 15:24:14 GMT</pubDate>
     </item>
     <item>
       <title>这个城市的通货膨胀率是美国最高的城市之一——它不是纽约、加利福尼亚或佛罗里达</title>
@@ -104,7 +104,7 @@
       <pubDate>Sat, 13 Jul 2024 13:08:02 GMT</pubDate>
     </item>
     <item>
-      <title>在法律挑战中，学生贷款借款人至少目前仍然可以依赖以下一些救济措施</title>
+      <title>在法律挑战中，学生贷款借款人至少目前仍然可以依赖以下一些救济</title>
       <link>https://www.cnbc.com/2024/07/13/what-relief-student-loan-borrowers-can-count-on-amid-legal-challenges.html</link>
       <description><![CDATA[拜登政府为学生贷款借款人制定的新的可负担还款计划及其债务取消方案面临法律攻击的风险。]]></description>
       <guid>https://www.cnbc.com/2024/07/13/what-relief-student-loan-borrowers-can-count-on-amid-legal-challenges.html</guid>
