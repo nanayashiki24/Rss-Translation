@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 15 Jul 2024 09:17:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 15 Jul 2024 09:35:00 GMT</lastBuildDate>
+    <item>
+      <title>特朗普枪击现场更新：拜登称政治绝不能成为“杀戮场”</title>
+      <link>https://www.cnbc.com/2024/07/14/trump-shooting-live-updates.html</link>
+      <description><![CDATA[在暗杀前总统唐纳德·特朗普的事件中遭枪击的两人目前仍处于危急但稳定状态。]]></description>
+      <guid>https://www.cnbc.com/2024/07/14/trump-shooting-live-updates.html</guid>
+      <pubDate>Mon, 15 Jul 2024 09:23:30 GMT</pubDate>
+    </item>
     <item>
       <title>奢侈品巨头 Burberry 发布盈利预警并更换首席执行官后股价下跌 15%</title>
       <link>https://www.cnbc.com/2024/07/15/burberry-replaces-ceo-suspends-dividend.html</link>
@@ -13,16 +20,9 @@
       <pubDate>Mon, 15 Jul 2024 08:56:26 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普枪击现场更新：拜登称政治绝不能成为“杀戮场”</title>
-      <link>https://www.cnbc.com/2024/07/14/trump-shooting-live-updates.html</link>
-      <description><![CDATA[在暗杀前总统唐纳德·特朗普的事件中遭枪击的两人目前仍处于危急但稳定的状态。]]></description>
-      <guid>https://www.cnbc.com/2024/07/14/trump-shooting-live-updates.html</guid>
-      <pubDate>Mon, 15 Jul 2024 07:39:23 GMT</pubDate>
-    </item>
-    <item>
       <title>斯沃琪销售额和利润受中国需求疲软影响</title>
       <link>https://www.cnbc.com/2024/07/15/swatch-sales-fall-14point3percent-in-first-half-of-2024.html</link>
-      <description><![CDATA[全球最大的钟表制造商斯沃琪集团周一公布上半年销售额和收益大幅下滑，原因是中国市场需求疲软。]]></description>
+      <description><![CDATA[全球最大的钟表制造商斯沃琪集团 (Swatch Group) 周一公布上半年销售额和收益大幅下滑，因受中国市场需求疲软影响。]]></description>
       <guid>https://www.cnbc.com/2024/07/15/swatch-sales-fall-14point3percent-in-first-half-of-2024.html</guid>
       <pubDate>Mon, 15 Jul 2024 07:16:45 GMT</pubDate>
     </item>
@@ -62,13 +62,6 @@
       <pubDate>Sun, 14 Jul 2024 17:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>照片显示特朗普在集会上遭到枪击后满脸鲜血</title>
-      <link>https://www.cnbc.com/2024/07/13/photos-show-trump-with-blood-on-his-face-at-rally.html</link>
-      <description><![CDATA[特朗普在宾夕法尼亚州集会期间，台上突然传来巨大的破裂声，随后他被赶了出去。]]></description>
-      <guid>https://www.cnbc.com/2024/07/13/photos-show-trump-with-blood-on-his-face-at-rally.html</guid>
-      <pubDate>Sun, 14 Jul 2024 16:04:37 GMT</pubDate>
-    </item>
-    <item>
       <title>为什么当前的就业市场对大学学位和应届毕业生的匹配度如此之低</title>
       <link>https://www.cnbc.com/2024/07/14/current-job-openings-labor-market-college-degree-recent-grads.html</link>
       <description><![CDATA[最近的大学毕业生在强劲的劳动力市场中努力寻找工作，但学位价值的下降并不像看起来那么简单。]]></description>
@@ -90,6 +83,13 @@
       <pubDate>Sun, 14 Jul 2024 10:32:30 GMT</pubDate>
     </item>
     <item>
+      <title>以下是特朗普的巨额捐赠者、副总统候选人和共和党全国大会的头条人物</title>
+      <link>https://www.cnbc.com/2024/07/13/trump-megadonors-vp-hopefuls-headline-republican-national-convention.html</link>
+      <description><![CDATA[唐纳德·特朗普将在密尔沃基共和党全国代表大会上获得 2024 年共和党总统候选人的正式提名。]]></description>
+      <guid>https://www.cnbc.com/2024/07/13/trump-megadonors-vp-hopefuls-headline-republican-national-convention.html</guid>
+      <pubDate>Sat, 13 Jul 2024 21:07:49 GMT</pubDate>
+    </item>
+    <item>
       <title>在耗资 4300 万美元的退伍军人事务模拟医院内，医生们正在试用新技术</title>
       <link>https://www.cnbc.com/2024/07/13/inside-simvet-a-43-million-veterans-affairs-simulation-hospital.html</link>
       <description><![CDATA[医护人员正在退伍军人事务部投资 4300 万美元的 SimVET 设施内测试技术并模拟程序。]]></description>
@@ -104,11 +104,11 @@
       <pubDate>Sat, 13 Jul 2024 13:26:41 GMT</pubDate>
     </item>
     <item>
-      <title>6 张图表解读房地产市场</title>
-      <link>https://www.cnbc.com/2024/07/13/the-housing-market-explained-in-6-charts.html</link>
-      <description><![CDATA[这些数据有助于说明为何房地产市场与几年前相比有如此大的不同。]]></description>
-      <guid>https://www.cnbc.com/2024/07/13/the-housing-market-explained-in-6-charts.html</guid>
-      <pubDate>Sat, 13 Jul 2024 13:08:02 GMT</pubDate>
+      <title>塔吉特折扣失误导致亚马逊卖家在 Prime Day 前失去梦寐以求的 Buy Box</title>
+      <link>https://www.cnbc.com/2024/07/13/amazon-sellers-get-dinged-after-target-discount-snafu.html</link>
+      <description><![CDATA[塔吉特本周的折扣活动给一些第三方商家带来了严重影响，他们表示，由于促销价格的方式，他们在亚马逊上损失了销售额。]]></description>
+      <guid>https://www.cnbc.com/2024/07/13/amazon-sellers-get-dinged-after-target-discount-snafu.html</guid>
+      <pubDate>Sat, 13 Jul 2024 12:30:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
