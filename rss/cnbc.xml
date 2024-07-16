@@ -3,28 +3,49 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 16 Jul 2024 13:14:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 16 Jul 2024 13:36:00 GMT</lastBuildDate>
     <item>
-      <title>美国银行投资银行业务好于预期，盈利超出预期</title>
-      <link>https://www.cnbc.com/2024/07/16/bank-of-america-bac-earnings-q2-2024.html</link>
-      <description><![CDATA[美国银行披露新指引，称银行的关键指标——净利息收入将在今年第四季度增至约 145 亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/bank-of-america-bac-earnings-q2-2024.html</guid>
-      <pubDate>Tue, 16 Jul 2024 13:15:05 GMT</pubDate>
+      <title>微软从人工智能初创公司 Inflection 招聘员工一事被提交英国并购调查</title>
+      <link>https://www.cnbc.com/2024/07/16/microsoft-hiring-of-ai-inflection-staff-referred-for-uk-merger-probe.html</link>
+      <description><![CDATA[微软从人工智能初创公司 Inflection 招聘员工一事已被英国提交初步合并调查。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/microsoft-hiring-of-ai-inflection-staff-referred-for-uk-merger-probe.html</guid>
+      <pubDate>Tue, 16 Jul 2024 13:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利因交易和投资银行业务好于预期而超出预期</title>
-      <link>https://www.cnbc.com/2024/07/16/morgan-stanley-ms-earnings-q2-2024.html</link>
-      <description><![CDATA[摩根士丹利本季度受益于以华尔街为中心的模式，交易和投资银行业务的反弹提振了业绩。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/morgan-stanley-ms-earnings-q2-2024.html</guid>
-      <pubDate>Tue, 16 Jul 2024 13:03:33 GMT</pubDate>
+      <title>美国银行称这只芯片股是其首选的人工智能股票，且“没有需求放缓的迹象”</title>
+      <link>https://www.cnbc.com/2024/07/16/bank-of-america-calls-this-chip-stock-its-top-ai-pick-.html</link>
+      <description><![CDATA[该公司周一表示，这只关键的人工智能股票可能还有进一步上涨的空间。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/bank-of-america-calls-this-chip-stock-its-top-ai-pick-.html</guid>
+      <pubDate>Tue, 16 Jul 2024 13:34:58 GMT</pubDate>
     </item>
     <item>
       <title>小盘股是目前股市中最热门的交易，周二它们又上涨了</title>
       <link>https://www.cnbc.com/2024/07/16/small-caps-are-the-hottest-trade-going-in-the-stock-market-right-now-and-theyre-up-again-tuesday.html</link>
       <description><![CDATA[小型股目前正在飙升，因为它们接过了大型科技股的接力棒，引领市场上涨。]]></description>
       <guid>https://www.cnbc.com/2024/07/16/small-caps-are-the-hottest-trade-going-in-the-stock-market-right-now-and-theyre-up-again-tuesday.html</guid>
-      <pubDate>Tue, 16 Jul 2024 13:03:21 GMT</pubDate>
+      <pubDate>Tue, 16 Jul 2024 13:34:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根士丹利财富管理业务因利息收入暴跌而表现不佳，股价下跌</title>
+      <link>https://www.cnbc.com/2024/07/16/morgan-stanley-ms-earnings-q2-2024.html</link>
+      <description><![CDATA[摩根士丹利财富管理部门利息收入大幅下降导致业绩不及预期，导致其股价下跌。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/morgan-stanley-ms-earnings-q2-2024.html</guid>
+      <pubDate>Tue, 16 Jul 2024 13:27:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析师称特朗普2.0可能对全球通胀造成坏消息</title>
+      <link>https://www.cnbc.com/2024/07/16/trump-2point0-could-be-bad-news-for-global-inflation-analysts-say.html</link>
+      <description><![CDATA[分析人士警告称，特朗普再次担任总统可能会重新引发全球通胀，因为他的“美国优先”政策将推高全球成本。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/trump-2point0-could-be-bad-news-for-global-inflation-analysts-say.html</guid>
+      <pubDate>Tue, 16 Jul 2024 13:23:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国银行投资银行业务好于预期，盈利超出预期</title>
+      <link>https://www.cnbc.com/2024/07/16/bank-of-america-bac-earnings-q2-2024.html</link>
+      <description><![CDATA[美国银行披露新指引，称银行的关键指标——净利息收入将在今年第四季度增至约 145 亿美元。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/bank-of-america-bac-earnings-q2-2024.html</guid>
+      <pubDate>Tue, 16 Jul 2024 13:15:05 GMT</pubDate>
     </item>
     <item>
       <title>New Balance 与 WNBA 合作，寻求在女子体育领域发展</title>
@@ -41,32 +62,11 @@
       <pubDate>Tue, 16 Jul 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>盘前涨幅最大的股票：摩根士丹利、联合健康、美国银行等</title>
-      <link>https://www.cnbc.com/2024/07/16/stocks-making-the-biggest-moves-premarket-ms-unh-bac.html</link>
-      <description><![CDATA[这些是盘前交易中波动最大的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/stocks-making-the-biggest-moves-premarket-ms-unh-bac.html</guid>
-      <pubDate>Tue, 16 Jul 2024 12:47:34 GMT</pubDate>
-    </item>
-    <item>
       <title>特朗普在共和党大会上受到称赞，这是他遭遇暗杀后首次公开露面</title>
       <link>https://www.cnbc.com/2024/07/15/live-updates-trump-officially-becomes-the-republican-nominee-as-delegates-vote.html</link>
       <description><![CDATA[特朗普的右耳上缠着绷带，但看起来精神很好。当他走进大会时，共和党人群爆发出欢呼声。]]></description>
       <guid>https://www.cnbc.com/2024/07/15/live-updates-trump-officially-becomes-the-republican-nominee-as-delegates-vote.html</guid>
       <pubDate>Tue, 16 Jul 2024 12:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是周二最大的分析师电话会议：Nvidia、Tesla、Meta、Shopify、Broadcom、IBM、Microsoft 等</title>
-      <link>https://www.cnbc.com/2024/07/16/tuesdays-top-analyst-calls-on-wall-street-like-nvidia.html</link>
-      <description><![CDATA[以下是周二华尔街最大的电话会议。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/tuesdays-top-analyst-calls-on-wall-street-like-nvidia.html</guid>
-      <pubDate>Tue, 16 Jul 2024 12:33:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软从人工智能初创公司 Inflection 招聘员工一事被提交英国并购调查</title>
-      <link>https://www.cnbc.com/2024/07/16/microsoft-hiring-of-ai-inflection-staff-referred-for-uk-merger-probe.html</link>
-      <description><![CDATA[微软从人工智能初创公司 Inflection 招聘员工一事已被英国提交初步合并调查。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/microsoft-hiring-of-ai-inflection-staff-referred-for-uk-merger-probe.html</guid>
-      <pubDate>Tue, 16 Jul 2024 12:19:58 GMT</pubDate>
     </item>
     <item>
       <title>为什么社会保障局可能希望你在线更新个人账户</title>
