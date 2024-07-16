@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 16 Jul 2024 22:10:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 16 Jul 2024 23:17:00 GMT</lastBuildDate>
     <item>
-      <title>道琼斯指数创下 2023 年 6 月以来最佳单日表现后，股指期货几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/07/16/stock-market-today-live-updates.html</link>
-      <description><![CDATA[标准普尔 500 指数和道琼斯工业平均指数周二均创下收盘新高。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 16 Jul 2024 22:30:33 GMT</pubDate>
+      <title>RNC 第二天实时更新：妮基·黑利、萨凡纳·克里斯利、马可·卢比奥将登台</title>
+      <link>https://www.cnbc.com/2024/07/16/rnc-day-2-live-updates.html</link>
+      <description><![CDATA[密尔沃基共和党全国代表大会的第二天将有参议院候选人和特朗普以前的初选对手出席。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/rnc-day-2-live-updates.html</guid>
+      <pubDate>Tue, 16 Jul 2024 23:20:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>市长候选人称旧金山市中心是一座需要复兴的“鬼城”</title>
+      <link>https://www.cnbc.com/2024/07/16/san-francisco-downtown-is-ghost-town-mayor-candidate-mark-farrell.html</link>
+      <description><![CDATA[前旧金山临时市长、民主党人马克·法雷尔提出了一项 20 年振兴旧金山市中心的愿景。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/san-francisco-downtown-is-ghost-town-mayor-candidate-mark-farrell.html</guid>
+      <pubDate>Tue, 16 Jul 2024 22:33:51 GMT</pubDate>
     </item>
     <item>
       <title>精神航空预计季度亏损将扩大，因为收入低于预期</title>
@@ -25,13 +32,6 @@
       <description><![CDATA[在得知伊朗阴谋数周后，特勤局因托马斯·克鲁克斯企图暗杀唐纳德·特朗普而受到批评。]]></description>
       <guid>https://www.cnbc.com/2024/07/16/trump-iran-kill-plot-secret-service.html</guid>
       <pubDate>Tue, 16 Jul 2024 21:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>皇家加勒比邮轮公司倾向于短途航行和更多体验来满足旅游需求</title>
-      <link>https://www.cnbc.com/2024/07/16/royal-caribbean-leans-into-shorter-cruises-more-experiences.html</link>
-      <description><![CDATA[该邮轮公司即将把世界第二大邮轮“乌托邦”号推向市场，该邮轮最大载客量接近 5,800 名乘客。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/royal-caribbean-leans-into-shorter-cruises-more-experiences.html</guid>
-      <pubDate>Tue, 16 Jul 2024 21:24:39 GMT</pubDate>
     </item>
     <item>
       <title>盘后涨幅最大的股票：Five Below、Interactive Brokers、J.B. Hunt 等</title>
@@ -69,6 +69,13 @@
       <pubDate>Tue, 16 Jul 2024 20:13:22 GMT</pubDate>
     </item>
     <item>
+      <title>小盘股是目前股市中最热门的交易，周二小盘股又上涨了 3%</title>
+      <link>https://www.cnbc.com/2024/07/16/small-caps-are-the-hottest-trade-going-in-the-stock-market-right-now-and-theyre-up-again-tuesday.html</link>
+      <description><![CDATA[小型股目前正在飙升，因为它们接过了大型科技股的接力棒，引领市场上涨。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/small-caps-are-the-hottest-trade-going-in-the-stock-market-right-now-and-theyre-up-again-tuesday.html</guid>
+      <pubDate>Tue, 16 Jul 2024 20:01:41 GMT</pubDate>
+    </item>
+    <item>
       <title>摩根大通顶级科技分析师看好亚马逊和其他两只即将盈利的股票</title>
       <link>https://www.cnbc.com/2024/07/16/jpmorgan-tech-analyst-likes-uber-and-2-other-stocks-ahead-of-earnings.html</link>
       <description><![CDATA[该华尔街银行还将 Uber 评为首选股，原因是该公司产品发布迅速，且在拼车和食品配送业务中占据市场领先地位。]]></description>
@@ -90,13 +97,6 @@
       <pubDate>Tue, 16 Jul 2024 17:38:10 GMT</pubDate>
     </item>
     <item>
-      <title>脑植入患者称 OpenAI 的技术帮助他与家人沟通</title>
-      <link>https://www.cnbc.com/2024/07/16/neuralink-rival-synchron-is-using-openai-models-to-power-chat-feature.html</link>
-      <description><![CDATA[神经科技初创公司 Synchron 利用 OpenAI 的最新模型为其患者构建了新的聊天功能。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/neuralink-rival-synchron-is-using-openai-models-to-power-chat-feature.html</guid>
-      <pubDate>Tue, 16 Jul 2024 17:02:24 GMT</pubDate>
-    </item>
-    <item>
       <title>安德森·霍洛维茨创始人计划向支持特朗普的超级政治行动委员会捐款</title>
       <link>https://www.cnbc.com/2024/07/16/andreessen-horowitz-founders-plan-to-donate-to-pro-trump-pacs.html</link>
       <description><![CDATA[风险投资公司 Andreessen Horowitz 的联合创始人马克·安德森 (Marc Andreessen) 和本·霍洛维茨 (Ben Horowitz) 计划向支持唐纳德·特朗普 (Donald Trump) 竞选的政治行动委员会捐款。]]></description>
@@ -104,11 +104,11 @@
       <pubDate>Tue, 16 Jul 2024 17:01:33 GMT</pubDate>
     </item>
     <item>
-      <title>为什么社会保障局可能希望你在线更新个人账户</title>
-      <link>https://www.cnbc.com/2024/07/16/social-security-administration-wants-you-to-update-your-online-account.html</link>
-      <description><![CDATA[社会保障局正在升级其在线服务，这将要求一些用户更新他们的个人账户。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/social-security-administration-wants-you-to-update-your-online-account.html</guid>
-      <pubDate>Tue, 16 Jul 2024 15:08:23 GMT</pubDate>
+      <title>交易员认为美联储 9 月份降息的可能性为 100%</title>
+      <link>https://www.cnbc.com/2024/07/16/traders-see-the-odds-of-a-fed-rate-cut-by-september-at-100percent.html</link>
+      <description><![CDATA[这些概率基于芝加哥商品交易所 (CME) 联邦基金期货合约的交易。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/traders-see-the-odds-of-a-fed-rate-cut-by-september-at-100percent.html</guid>
+      <pubDate>Tue, 16 Jul 2024 15:58:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
