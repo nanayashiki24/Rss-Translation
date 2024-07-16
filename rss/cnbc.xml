@@ -3,28 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 16 Jul 2024 14:32:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 16 Jul 2024 15:14:00 GMT</lastBuildDate>
     <item>
       <title>道琼斯指数上涨 500 点，创历史新高，罗素 2000 指数上涨近 2%：实时更新</title>
       <link>https://www.cnbc.com/2024/07/15/stock-market-today-live-updates.html</link>
       <description><![CDATA[小型股依然是热门交易。]]></description>
       <guid>https://www.cnbc.com/2024/07/15/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 16 Jul 2024 14:37:33 GMT</pubDate>
+      <pubDate>Tue, 16 Jul 2024 15:13:13 GMT</pubDate>
     </item>
     <item>
-      <title>微软从人工智能初创公司 Inflection 招聘员工一事被提交英国并购调查</title>
-      <link>https://www.cnbc.com/2024/07/16/microsoft-hiring-of-ai-inflection-staff-referred-for-uk-merger-probe.html</link>
-      <description><![CDATA[微软从人工智能初创公司 Inflection 招聘员工一事已被英国提交初步合并调查。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/microsoft-hiring-of-ai-inflection-staff-referred-for-uk-merger-probe.html</guid>
-      <pubDate>Tue, 16 Jul 2024 14:34:43 GMT</pubDate>
+      <title>为什么社会保障局可能希望你在线更新个人账户</title>
+      <link>https://www.cnbc.com/2024/07/16/social-security-administration-wants-you-to-update-your-online-account.html</link>
+      <description><![CDATA[社会保障局正在升级其在线服务，这将要求一些用户更新他们的个人账户。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/social-security-administration-wants-you-to-update-your-online-account.html</guid>
+      <pubDate>Tue, 16 Jul 2024 15:08:23 GMT</pubDate>
     </item>
     <item>
       <title>美联储准备降息 黄金收盘创历史新高</title>
       <link>https://www.cnbc.com/2024/07/16/gold-heads-for-record-high-close-on-view-the-fed-poised-to-cut-rates-.html</link>
       <description><![CDATA[最新通胀数据公布后，对九月份降息的预期上升，提振了金条的需求。]]></description>
       <guid>https://www.cnbc.com/2024/07/16/gold-heads-for-record-high-close-on-view-the-fed-poised-to-cut-rates-.html</guid>
-      <pubDate>Tue, 16 Jul 2024 14:31:42 GMT</pubDate>
+      <pubDate>Tue, 16 Jul 2024 14:51:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根士丹利因交易和投资银行业务强于预期而超出预期</title>
+      <link>https://www.cnbc.com/2024/07/16/morgan-stanley-ms-earnings-q2-2024.html</link>
+      <description><![CDATA[摩根士丹利本季度受益于以华尔街为中心的业务模式，交易和投资银行业务的反弹推动了业绩增长。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/morgan-stanley-ms-earnings-q2-2024.html</guid>
+      <pubDate>Tue, 16 Jul 2024 14:43:04 GMT</pubDate>
     </item>
     <item>
       <title>美国银行称净利息收入即将反弹，股价上涨 4%</title>
@@ -55,13 +62,6 @@
       <pubDate>Tue, 16 Jul 2024 14:22:47 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利因交易和投资银行业务强于预期而超出预期</title>
-      <link>https://www.cnbc.com/2024/07/16/morgan-stanley-ms-earnings-q2-2024.html</link>
-      <description><![CDATA[摩根士丹利本季度受益于以华尔街为中心的业务模式，交易和投资银行业务的反弹推动了业绩增长。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/morgan-stanley-ms-earnings-q2-2024.html</guid>
-      <pubDate>Tue, 16 Jul 2024 14:20:37 GMT</pubDate>
-    </item>
-    <item>
       <title>参议院调查发现，亚马逊 Prime Day 是导致工人受伤的“主要”原因</title>
       <link>https://www.cnbc.com/2024/07/16/amazons-prime-day-causes-worker-injuries-senate-probe-finds.html</link>
       <description><![CDATA[国会调查发现，周二开始的 48 小时折扣活动“亚马逊 Prime Day”是导致工人受伤的“主要”原因。]]></description>
@@ -71,7 +71,7 @@
     <item>
       <title>从“安静辞职”到“咖啡徽章”——员工为何对工作不那么感兴趣</title>
       <link>https://www.cnbc.com/2024/07/16/quiet-quitting-and-coffee-badging-why-employees-dont-want-to-work.html</link>
-      <description><![CDATA[员工在办公室签到然后很快又签退，这是员工敬业度日益下降的最新症状。]]></description>
+      <description><![CDATA[员工在办公室签到然后很快又签退是员工敬业度不断上升的最新症状。]]></description>
       <guid>https://www.cnbc.com/2024/07/16/quiet-quitting-and-coffee-badging-why-employees-dont-want-to-work.html</guid>
       <pubDate>Tue, 16 Jul 2024 13:52:47 GMT</pubDate>
     </item>
@@ -90,11 +90,11 @@
       <pubDate>Tue, 16 Jul 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>为什么社会保障局可能希望你在线更新个人账户</title>
-      <link>https://www.cnbc.com/2024/07/16/social-security-administration-wants-you-to-update-your-online-account.html</link>
-      <description><![CDATA[社会保障局正在升级其在线服务，这将要求一些用户更新他们的个人账户。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/social-security-administration-wants-you-to-update-your-online-account.html</guid>
-      <pubDate>Tue, 16 Jul 2024 12:00:01 GMT</pubDate>
+      <title>自称是比特币发明者的男子因涉嫌伪证罪被英国检察官起诉</title>
+      <link>https://www.cnbc.com/2024/07/16/self-proclaimed-bitcoin-inventor-craig-wright-referred-to-prosecutors.html</link>
+      <description><![CDATA[英国一名法官周二将针对澳大利亚企业家克雷格·赖特声称自己是比特币发明者的案件提交给皇家检察署。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/self-proclaimed-bitcoin-inventor-craig-wright-referred-to-prosecutors.html</guid>
+      <pubDate>Tue, 16 Jul 2024 11:52:23 GMT</pubDate>
     </item>
     <item>
       <title>拜登称“是时候把特朗普放在靶心了”的言论是个错误，加倍努力争取连任</title>
