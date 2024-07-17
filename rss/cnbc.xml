@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 17 Jul 2024 05:33:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 17 Jul 2024 06:09:00 GMT</lastBuildDate>
+    <item>
+      <title>英国通胀率稳定在英国央行 2% 的目标水平，高于预期</title>
+      <link>https://www.cnbc.com/2024/07/17/uk-inflation-may-2024.html</link>
+      <description><![CDATA[英国国家统计局周三公布了六月份的通胀数据。]]></description>
+      <guid>https://www.cnbc.com/2024/07/17/uk-inflation-may-2024.html</guid>
+      <pubDate>Wed, 17 Jul 2024 06:12:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能芯片需求推动 ASML 关键半导体工具采购量激增</title>
+      <link>https://www.cnbc.com/2024/07/17/asml-earnings-report-q2-2024.html</link>
+      <description><![CDATA[由于对人工智能芯片的兴趣推动了对该公司半导体制造设备的需求，ASML 公布第二季度收益和销售额超出预期。]]></description>
+      <guid>https://www.cnbc.com/2024/07/17/asml-earnings-report-q2-2024.html</guid>
+      <pubDate>Wed, 17 Jul 2024 05:57:29 GMT</pubDate>
+    </item>
     <item>
       <title>工党在伦敦的胜利让私募股权寻求退出——该国</title>
       <link>https://www.cnbc.com/2024/07/17/labours-gains-in-london-have-private-equity-looking-to-exit-country-.html</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[尽管国际货币基金组织对中国和印度的经济前景持乐观态度，但美国的增长势头可能放缓。]]></description>
       <guid>https://www.cnbc.com/2024/07/17/imf-raises-china-india-economic-outlook-us-and-global-growth-lackluster.html</guid>
       <pubDate>Wed, 17 Jul 2024 05:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着 Z 世代选择利用占星术来选股，专家警告称这“既不是最佳选择也不是理想选择”</title>
-      <link>https://www.cnbc.com/2024/07/17/this-25-year-old-made-31000-using-astrology-to-play-the-market.html</link>
-      <description><![CDATA[斯蒂芬妮亚·诺瓦 (Stefaniya Nova) 是众多利用 TikTok 来分享自己对财务存放方式看法的占星学家之一。]]></description>
-      <guid>https://www.cnbc.com/2024/07/17/this-25-year-old-made-31000-using-astrology-to-play-the-market.html</guid>
-      <pubDate>Wed, 17 Jul 2024 04:26:15 GMT</pubDate>
     </item>
     <item>
       <title>回顾：共和党全国代表大会 2024 第二天，黑莉、德桑蒂斯、卢比奥、克鲁兹屈膝</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[该华尔街银行还将 Uber 评为首选股，原因是该公司产品发布迅速，且在拼车和食品配送业务中占据市场领先地位。]]></description>
       <guid>https://www.cnbc.com/2024/07/16/jpmorgan-tech-analyst-likes-uber-and-2-other-stocks-ahead-of-earnings.html</guid>
       <pubDate>Tue, 16 Jul 2024 19:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>交易员认为美联储 9 月份降息的可能性为 100%</title>
-      <link>https://www.cnbc.com/2024/07/16/traders-see-the-odds-of-a-fed-rate-cut-by-september-at-100percent.html</link>
-      <description><![CDATA[这些概率基于芝加哥商品交易所 (CME) 联邦基金期货合约的交易。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/traders-see-the-odds-of-a-fed-rate-cut-by-september-at-100percent.html</guid>
-      <pubDate>Tue, 16 Jul 2024 15:58:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
