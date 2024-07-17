@@ -3,26 +3,47 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 17 Jul 2024 11:04:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 17 Jul 2024 11:34:00 GMT</lastBuildDate>
     <item>
-      <title>随着抵押贷款利率下降，抵押贷款再融资需求跃升至两年来的最高水平</title>
-      <link>https://www.cnbc.com/2024/07/17/mortgage-refinance-demand-jumps-to-a-2-year-high-as-mortgage-rates-drop.html</link>
-      <description><![CDATA[上周抵押贷款利率降至3月份以来的最低水平，引发再融资需求激增。]]></description>
-      <guid>https://www.cnbc.com/2024/07/17/mortgage-refinance-demand-jumps-to-a-2-year-high-as-mortgage-rates-drop.html</guid>
-      <pubDate>Wed, 17 Jul 2024 11:00:02 GMT</pubDate>
+      <title>标普 500 指数期货下跌 1%，因投资者继续抛售 Nvidia 等科技股：实时更新</title>
+      <link>https://www.cnbc.com/2024/07/16/stock-market-today-live-updates.html</link>
+      <description><![CDATA[道琼斯工业平均指数周二收盘创下新高。]]></description>
+      <guid>https://www.cnbc.com/2024/07/16/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 17 Jul 2024 11:37:53 GMT</pubDate>
     </item>
     <item>
       <title>周三分析师电话会议：Rivian 目标价上调，UnitedHealth 上调</title>
       <link>https://www.cnbc.com/2024/07/17/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</link>
       <description><![CDATA[一家电动汽车制造商和一家健康保险巨头是分析师周三讨论的股票之一。]]></description>
       <guid>https://www.cnbc.com/2024/07/17/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</guid>
-      <pubDate>Wed, 17 Jul 2024 10:46:59 GMT</pubDate>
+      <pubDate>Wed, 17 Jul 2024 11:36:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着利率下降，抵押贷款再融资需求跃升至两年来最高水平</title>
+      <link>https://www.cnbc.com/2024/07/17/mortgage-refinance-demand-jumps-to-a-2-year-high-as-mortgage-rates-drop.html</link>
+      <description><![CDATA[上周抵押贷款利率降至3月份以来的最低水平，引发再融资需求激增。]]></description>
+      <guid>https://www.cnbc.com/2024/07/17/mortgage-refinance-demand-jumps-to-a-2-year-high-as-mortgage-rates-drop.html</guid>
+      <pubDate>Wed, 17 Jul 2024 11:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国工党誓言计划改革和清洁能源转型，国王演讲透露关键政策</title>
+      <link>https://www.cnbc.com/2024/07/17/kings-speech-2024-uk-labour-policies.html</link>
+      <description><![CDATA[英国新工党政府周三提出了一系列立法提案，其中包括铁路运营商国有化。]]></description>
+      <guid>https://www.cnbc.com/2024/07/17/kings-speech-2024-uk-labour-policies.html</guid>
+      <pubDate>Wed, 17 Jul 2024 11:29:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>龙卷风袭击印第安纳州仓库，利洁时婴儿配方奶粉销量受损</title>
+      <link>https://www.cnbc.com/2024/07/17/reckitts-baby-formula-sales-to-suffer-after-tornado-damages-warehouse.html</link>
+      <description><![CDATA[龙卷风损坏了美国一家第三方仓库，利洁时旗下美赞臣婴儿配方奶粉的销量可能在短期内受到打击。]]></description>
+      <guid>https://www.cnbc.com/2024/07/17/reckitts-baby-formula-sales-to-suffer-after-tornado-damages-warehouse.html</guid>
+      <pubDate>Wed, 17 Jul 2024 11:18:44 GMT</pubDate>
     </item>
     <item>
       <title>罗氏公司推出新型减肥药试验，诺和诺德与礼来股价下跌</title>
       <link>https://www.cnbc.com/2024/07/17/novo-nordisk-eli-lilly-shares-slide-on-roches-obesity-drug-trial-.html</link>
-      <description><![CDATA[受罗氏最新减肥药候选药物早期试验数据乐观影响，诺和诺德和礼来股价周三下跌。]]></description>
+      <description><![CDATA[诺和诺德和礼来股价周三下跌，原因是罗氏最新的减肥药候选药物的早期试验数据令人乐观。]]></description>
       <guid>https://www.cnbc.com/2024/07/17/novo-nordisk-eli-lilly-shares-slide-on-roches-obesity-drug-trial-.html</guid>
       <pubDate>Wed, 17 Jul 2024 10:42:52 GMT</pubDate>
     </item>
@@ -41,25 +62,11 @@
       <pubDate>Wed, 17 Jul 2024 10:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>工党在伦敦的胜利让私募股权寻求退出——该国</title>
-      <link>https://www.cnbc.com/2024/07/17/labours-gains-in-london-have-private-equity-looking-to-exit-country-.html</link>
-      <description><![CDATA[英国新议会正在开会，工党承诺对私募股权进行积极改革。]]></description>
-      <guid>https://www.cnbc.com/2024/07/17/labours-gains-in-london-have-private-equity-looking-to-exit-country-.html</guid>
-      <pubDate>Wed, 17 Jul 2024 05:30:19 GMT</pubDate>
-    </item>
-    <item>
       <title>“我无时无刻不在看到它们”：艺术市场的假货问题</title>
       <link>https://www.cnbc.com/2024/07/17/fake-art-how-much-of-a-problem-is-it.html</link>
       <description><![CDATA[业内人士表示，伪造的艺术品通常不会被曝光，因为这会给相关画廊或拍卖行的声誉带来风险。]]></description>
       <guid>https://www.cnbc.com/2024/07/17/fake-art-how-much-of-a-problem-is-it.html</guid>
       <pubDate>Wed, 17 Jul 2024 05:19:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>回顾：共和党全国代表大会 2024 第二天，黑莉、德桑蒂斯、卢比奥、克鲁兹屈膝</title>
-      <link>https://www.cnbc.com/2024/07/16/rnc-day-2-live-updates.html</link>
-      <description><![CDATA[密尔沃基共和党全国代表大会的第二天，参议院候选人和特朗普以前的初选对手都出席了会议。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/rnc-day-2-live-updates.html</guid>
-      <pubDate>Wed, 17 Jul 2024 03:36:14 GMT</pubDate>
     </item>
     <item>
       <title>伊隆·马斯克称 SpaceX 和 X 总部将迁往德克萨斯州，归咎于加州跨性别学生隐私法</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[在得知伊朗阴谋数周后，特勤局因托马斯·克鲁克斯企图暗杀唐纳德·特朗普而受到批评。]]></description>
       <guid>https://www.cnbc.com/2024/07/16/trump-iran-kill-plot-secret-service.html</guid>
       <pubDate>Tue, 16 Jul 2024 21:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党参议员鲍勃·梅内德斯被判所有腐败指控罪名成立</title>
-      <link>https://www.cnbc.com/2024/07/16/democratic-sen-bob-menendez-found-guilty-on-all-counts-in-corruption-charges.html</link>
-      <description><![CDATA[梅内德斯将以独立人士身份竞选新泽西州议员连任。他的定罪并不妨碍他继续担任参议员，但许多民主党人已经要求他辞职。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/democratic-sen-bob-menendez-found-guilty-on-all-counts-in-corruption-charges.html</guid>
-      <pubDate>Tue, 16 Jul 2024 19:12:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
