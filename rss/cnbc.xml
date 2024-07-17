@@ -3,21 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 17 Jul 2024 10:14:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 17 Jul 2024 10:32:00 GMT</lastBuildDate>
     <item>
-      <title>英伟达、阿斯麦等全球芯片股受地缘政治和特朗普言论影响下跌</title>
-      <link>https://www.cnbc.com/2024/07/17/global-chip-stocks-from-nvidia-to-asml-fall-as-geopolitics-trump-weigh.html</link>
-      <description><![CDATA[受美国收紧出口限制的报道和唐纳德·特朗普的言论影响，全球芯片股大幅下跌，ASML、Nvidia 和台积电受到冲击。]]></description>
-      <guid>https://www.cnbc.com/2024/07/17/global-chip-stocks-from-nvidia-to-asml-fall-as-geopolitics-trump-weigh.html</guid>
-      <pubDate>Wed, 17 Jul 2024 10:07:31 GMT</pubDate>
+      <title>投资者在购买下一家热门 IPO 之前可能需要三思而行。原因如下</title>
+      <link>https://www.cnbc.com/2024/07/17/investors-may-want-to-think-twice-before-buying-that-next-hot-ipo.html</link>
+      <description><![CDATA[随着私募市场逐渐成为首次公开募股的替代方案，企业保持私有化的时间也越来越长。]]></description>
+      <guid>https://www.cnbc.com/2024/07/17/investors-may-want-to-think-twice-before-buying-that-next-hot-ipo.html</guid>
+      <pubDate>Wed, 17 Jul 2024 10:30:42 GMT</pubDate>
     </item>
     <item>
       <title>周三分析师电话会议：Rivian 目标价上调，UnitedHealth 上调</title>
       <link>https://www.cnbc.com/2024/07/17/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</link>
       <description><![CDATA[一家电动汽车制造商和一家健康保险巨头是分析师周三讨论的股票之一。]]></description>
       <guid>https://www.cnbc.com/2024/07/17/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</guid>
-      <pubDate>Wed, 17 Jul 2024 10:01:41 GMT</pubDate>
+      <pubDate>Wed, 17 Jul 2024 10:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗氏公司推出新型减肥药试验，诺和诺德与礼来股价下跌</title>
+      <link>https://www.cnbc.com/2024/07/17/novo-nordisk-eli-lilly-shares-slide-on-roches-obesity-drug-trial-.html</link>
+      <description><![CDATA[诺和诺德和礼来股价周三下跌，原因是罗氏最新的减肥药候选药物的早期试验数据令人乐观。]]></description>
+      <guid>https://www.cnbc.com/2024/07/17/novo-nordisk-eli-lilly-shares-slide-on-roches-obesity-drug-trial-.html</guid>
+      <pubDate>Wed, 17 Jul 2024 10:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达、阿斯麦等全球芯片股受地缘政治和特朗普言论影响下跌</title>
+      <link>https://www.cnbc.com/2024/07/17/global-chip-stocks-from-nvidia-to-asml-fall-as-geopolitics-trump-weigh.html</link>
+      <description><![CDATA[受美国收紧出口限制的报道和唐纳德·特朗普的言论影响，全球芯片股大幅下跌，ASML、Nvidia 和台积电受到冲击。]]></description>
+      <guid>https://www.cnbc.com/2024/07/17/global-chip-stocks-from-nvidia-to-asml-fall-as-geopolitics-trump-weigh.html</guid>
+      <pubDate>Wed, 17 Jul 2024 10:07:31 GMT</pubDate>
     </item>
     <item>
       <title>上调 2024 年业绩预期后，阿迪达斯股价上涨 4%</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[由于对人工智能芯片的兴趣推动了对该公司半导体制造设备的需求，ASML 公布第二季度收益和销售额超出预期。]]></description>
       <guid>https://www.cnbc.com/2024/07/17/asml-earnings-report-q2-2024.html</guid>
       <pubDate>Wed, 17 Jul 2024 07:19:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>工党在伦敦的胜利让私募股权寻求退出——该国</title>
-      <link>https://www.cnbc.com/2024/07/17/labours-gains-in-london-have-private-equity-looking-to-exit-country-.html</link>
-      <description><![CDATA[英国新议会正在开会，工党承诺对私募股权进行积极改革。]]></description>
-      <guid>https://www.cnbc.com/2024/07/17/labours-gains-in-london-have-private-equity-looking-to-exit-country-.html</guid>
-      <pubDate>Wed, 17 Jul 2024 05:30:19 GMT</pubDate>
     </item>
     <item>
       <title>“我无时无刻不在看到它们”：艺术市场的假货问题</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[在得知伊朗阴谋数周后，特勤局因托马斯·克鲁克斯企图暗杀唐纳德·特朗普而受到批评。]]></description>
       <guid>https://www.cnbc.com/2024/07/16/trump-iran-kill-plot-secret-service.html</guid>
       <pubDate>Tue, 16 Jul 2024 21:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>众议院民主党人散发信函，敦促民主党全国委员会不要仓促提名拜登</title>
-      <link>https://www.cnbc.com/2024/07/16/house-democrats-letter-dnc-biden-nomination.html</link>
-      <description><![CDATA[拜登总统在六月份与唐纳德·特朗普的辩论中失败后，面临越来越大的退出竞选的压力。]]></description>
-      <guid>https://www.cnbc.com/2024/07/16/house-democrats-letter-dnc-biden-nomination.html</guid>
-      <pubDate>Tue, 16 Jul 2024 20:26:02 GMT</pubDate>
     </item>
     <item>
       <title>民主党参议员鲍勃·梅内德斯被判所有腐败指控罪名成立</title>
