@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 18 Jul 2024 08:01:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 18 Jul 2024 08:37:00 GMT</lastBuildDate>
+    <item>
+      <title>特朗普威胁下英国首相斯塔默计划改革欧盟关系</title>
+      <link>https://www.cnbc.com/2024/07/18/uks-starmer-aims-to-overhaul-eu-relations-as-trump-spectre-looms.html</link>
+      <description><![CDATA[英国新任工党首相基尔·斯塔默 (Keir Starmer) 在峰会上接待了 45 多位国家元首，寻求重建与欧洲破裂的关系。]]></description>
+      <guid>https://www.cnbc.com/2024/07/18/uks-starmer-aims-to-overhaul-eu-relations-as-trump-spectre-looms.html</guid>
+      <pubDate>Thu, 18 Jul 2024 08:36:54 GMT</pubDate>
+    </item>
     <item>
       <title>新加坡资深外交官比拉哈里·考斯坎 (Bilahari Kausikan) 表示，中美紧张关系不是“新冷战”</title>
       <link>https://www.cnbc.com/2024/07/18/us-china-tensions-are-not-a-new-cold-war-bilahari-kausikan.html</link>
@@ -27,11 +34,11 @@
       <pubDate>Thu, 18 Jul 2024 07:42:55 GMT</pubDate>
     </item>
     <item>
-      <title>美国可能考虑贸易限制的消息导致亚洲芯片股暴跌</title>
-      <link>https://www.cnbc.com/2024/07/18/asia-chip-stocks-tumble-amid-news-the-us-may-consider-trade-curbs-.html</link>
-      <description><![CDATA[有报道称美国可能考虑收紧出口限制，导致华尔街科技股遭遇抛售，亚洲芯片股周四暴跌。]]></description>
-      <guid>https://www.cnbc.com/2024/07/18/asia-chip-stocks-tumble-amid-news-the-us-may-consider-trade-curbs-.html</guid>
-      <pubDate>Thu, 18 Jul 2024 06:32:12 GMT</pubDate>
+      <title>CNBC 每日公开赛：地缘政治风险上升</title>
+      <link>https://www.cnbc.com/2024/07/18/cnbc-daily-open-emea-rising-geopolitical-risk.html</link>
+      <description><![CDATA[据报道，贸易限制措施愈发严厉，导致半导体行业承压，纳斯达克综合指数暴跌近 3%。]]></description>
+      <guid>https://www.cnbc.com/2024/07/18/cnbc-daily-open-emea-rising-geopolitical-risk.html</guid>
+      <pubDate>Thu, 18 Jul 2024 07:02:53 GMT</pubDate>
     </item>
     <item>
       <title>纳斯达克经历了 2022 年以来最糟糕的一天后，股指期货小幅上涨：实时更新</title>
@@ -57,16 +64,9 @@
     <item>
       <title>共和党全国代表大会第三天回顾：JD Vance 接受提名；Kai Trump、Peter Navarro 留下难忘回忆</title>
       <link>https://www.cnbc.com/2024/07/17/rnc-day-3-live-updates.html</link>
-      <description><![CDATA[俄亥俄州参议员 JD Vance 作为前总统唐纳德·特朗普的竞选搭档发表了首次正式讲话。]]></description>
+      <description><![CDATA[俄亥俄州参议员 JD Vance 作为前总统唐纳德·特朗普的竞选伙伴发表了首次正式讲话。]]></description>
       <guid>https://www.cnbc.com/2024/07/17/rnc-day-3-live-updates.html</guid>
       <pubDate>Thu, 18 Jul 2024 03:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>工会称华盛顿州波音工厂工人投票支持罢工授权</title>
-      <link>https://www.cnbc.com/2024/07/18/boeing-factory-workers-in-washington-vote-in-favor-of-strike-mandate-union.html</link>
-      <description><![CDATA[波音公司华盛顿州工厂工人以超过 99% 的投票支持罢工授权，因为他们要求加薪 40%。]]></description>
-      <guid>https://www.cnbc.com/2024/07/18/boeing-factory-workers-in-washington-vote-in-favor-of-strike-mandate-union.html</guid>
-      <pubDate>Thu, 18 Jul 2024 03:04:06 GMT</pubDate>
     </item>
     <item>
       <title>特朗普再次当选总统对中国意味着什么？高盛发表看法</title>
@@ -85,7 +85,7 @@
     <item>
       <title>拜登新冠病毒检测呈阳性，取消拉斯维加斯演讲</title>
       <link>https://www.cnbc.com/2024/07/17/president-biden-tests-positive-for-covid-unidosus-leader-says.html</link>
-      <description><![CDATA[白宫新闻秘书卡琳娜·让·皮埃尔表示，正在拉斯维加斯发表演讲的拜登“出现轻微症状”。]]></description>
+      <description><![CDATA[白宫新闻秘书卡琳娜·让·皮埃尔说，正在拉斯维加斯发表演讲的拜登“出现轻微症状”。]]></description>
       <guid>https://www.cnbc.com/2024/07/17/president-biden-tests-positive-for-covid-unidosus-leader-says.html</guid>
       <pubDate>Wed, 17 Jul 2024 23:34:02 GMT</pubDate>
     </item>
