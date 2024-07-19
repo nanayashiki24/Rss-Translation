@@ -3,21 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Fri, 19 Jul 2024 16:06:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Fri, 19 Jul 2024 16:27:00 GMT</lastBuildDate>
     <item>
       <title>道琼斯指数下跌 300 点，标准普尔 500 指数创三个月来最差一周：实时更新</title>
       <link>https://www.cnbc.com/2024/07/18/stock-market-today-live-updates.html</link>
       <description><![CDATA[在市场轮动下，标准普尔 500 指数创下 4 月份以来表现最差的一周。]]></description>
       <guid>https://www.cnbc.com/2024/07/18/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 19 Jul 2024 16:20:18 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 16:41:51 GMT</pubDate>
     </item>
     <item>
-      <title>“史上最大规模 IT 中断”让世界震惊</title>
+      <title>大规模中断袭击全球企业后，CrowdStrike 股价下跌超过 10%</title>
+      <link>https://www.cnbc.com/2024/07/19/microsoft-crowdstrike-shares-fall-after-major-it-outage.html</link>
+      <description><![CDATA[网络安全公司 CrowdStrike 周五股价暴跌，原因是更新导致严重中断，影响了全球企业。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/microsoft-crowdstrike-shares-fall-after-major-it-outage.html</guid>
+      <pubDate>Fri, 19 Jul 2024 16:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft-CrowdStrike 问题导致“历史上最大的 IT 中断”——实时更新</title>
       <link>https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html</link>
       <description><![CDATA[大规模 IT 故障导致飞机停飞，广播公司也被迫停止播出。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html</guid>
-      <pubDate>Fri, 19 Jul 2024 16:17:48 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 16:38:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登竞选团队联合主席：总统“应该权衡……谁是 11 月大选的最佳候选人”</title>
+      <link>https://www.cnbc.com/2024/07/19/biden-election-democrats-election-trump.html</link>
+      <description><![CDATA[数周以来，总统乔·拜登一直拒绝让位给另一位民主党人，与共和党候选人唐纳德·特朗普争夺总统职位的呼声。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/biden-election-democrats-election-trump.html</guid>
+      <pubDate>Fri, 19 Jul 2024 16:32:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>暂停“特朗普交易”：如果乔·拜登退出大选，股市将受到怎样的影响</title>
+      <link>https://www.cnbc.com/2024/07/19/a-pause-to-the-trump-trade-the-stock-market-impact-if-joe-biden-drops-out-of-election.html</link>
+      <description><![CDATA[一位分析师表示，总统决定不再寻求连任可能会导致“特朗普交易”暂停。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/a-pause-to-the-trump-trade-the-stock-market-impact-if-joe-biden-drops-out-of-election.html</guid>
+      <pubDate>Fri, 19 Jul 2024 16:26:33 GMT</pubDate>
     </item>
     <item>
       <title>CrowdStrike IT 中断影响全球供应链，空运需要数天或数周才能恢复</title>
@@ -32,13 +53,6 @@
       <description><![CDATA[随着涨势超越大型科技巨头，一些小型股的涨幅可能会超过其他股票。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/these-small-cap-stocks-are-cheap-and-expected-to-do-well-from-here.html</guid>
       <pubDate>Fri, 19 Jul 2024 16:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>又有六名民主党人敦促拜登退出，竞选团队称“总统参与了这场竞选”</title>
-      <link>https://www.cnbc.com/2024/07/19/biden-election-democrats-election-trump.html</link>
-      <description><![CDATA[数周以来，总统乔·拜登一直拒绝让位给另一位民主党人，与共和党候选人唐纳德·特朗普争夺总统职位的呼声。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/biden-election-democrats-election-trump.html</guid>
-      <pubDate>Fri, 19 Jul 2024 16:03:29 GMT</pubDate>
     </item>
     <item>
       <title>全球 IT 中断导致航班停飞，乘客收到延误警告</title>
@@ -83,13 +97,6 @@
       <pubDate>Fri, 19 Jul 2024 15:16:52 GMT</pubDate>
     </item>
     <item>
-      <title>CrowdStrike 股价因全球企业遭遇严重中断而下跌超过 8%</title>
-      <link>https://www.cnbc.com/2024/07/19/microsoft-crowdstrike-shares-fall-after-major-it-outage.html</link>
-      <description><![CDATA[网络安全公司 CrowdStrike 周五股价暴跌，原因是更新导致严重中断，影响了全球企业。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/microsoft-crowdstrike-shares-fall-after-major-it-outage.html</guid>
-      <pubDate>Fri, 19 Jul 2024 14:53:11 GMT</pubDate>
-    </item>
-    <item>
       <title>由于公司暂停租赁、安装和发货，SunPower 股价跌至 1 美元以下</title>
       <link>https://www.cnbc.com/2024/07/19/sunpower-stock-collapses-to-nearly-1-as-company-halts-leases-installations-and-shipments.html</link>
       <description><![CDATA[SunPower 的股价本周已下跌逾 40%，该公司的运营业务可能已接近尾声。]]></description>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 19 Jul 2024 14:38:53 GMT</pubDate>
     </item>
     <item>
-      <title>微软用户在大规模中断后遭遇“蓝屏死机”</title>
+      <title>微软用户遭遇大规模停电，遭遇“蓝屏死机”</title>
       <link>https://www.cnbc.com/2024/07/19/microsoft-says-it-restored-cloud-services-after-they-suffered-outage.html</link>
       <description><![CDATA[由于大面积技术故障持续发生，全球各地的微软用户都遇到了被称为“死机蓝屏”的错误屏幕。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/microsoft-says-it-restored-cloud-services-after-they-suffered-outage.html</guid>
       <pubDate>Fri, 19 Jul 2024 13:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>零售犯罪“女王”面临五年监禁，赔偿数百万美元</title>
-      <link>https://www.cnbc.com/2024/07/19/michelle-mack-retail-crime-queenpin-sentenced.html</link>
-      <description><![CDATA[根据加州公路巡逻队的调查，麦克监督了一起价值数百万美元的盗窃行动，窃贼从 Ulta 和其他零售商那里偷走了商品。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/michelle-mack-retail-crime-queenpin-sentenced.html</guid>
-      <pubDate>Fri, 19 Jul 2024 11:55:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
