@@ -3,35 +3,70 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 19 Jul 2024 12:31:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 19 Jul 2024 13:18:00 GMT</lastBuildDate>
+    <item>
+      <title>美国记者埃文·格什科维奇被俄罗斯法院判处16年监禁</title>
+      <link>https://www.cnbc.com/2024/07/19/us-journalist-evan-gershkovich-jailed-for-16-years-by-court-in-russia.html</link>
+      <description><![CDATA[《华尔街日报》记者否认有任何不当行为，并表示对他的指控是虚假的。拜登政府认为他被错误拘留。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/us-journalist-evan-gershkovich-jailed-for-16-years-by-court-in-russia.html</guid>
+      <pubDate>Fri, 19 Jul 2024 13:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>高盛对股市持谨慎态度，认为夏末回调存在风险</title>
+      <link>https://www.cnbc.com/2024/07/19/goldman-sachs-gets-cautious-on-stocks-sees-risk-of-a-late-summer-correction.html</link>
+      <description><![CDATA[由于经济增长放缓和政治风险上升，高盛警告客户股市将在今年夏季出现回调。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/goldman-sachs-gets-cautious-on-stocks-sees-risk-of-a-late-summer-correction.html</guid>
+      <pubDate>Fri, 19 Jul 2024 13:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>盘前涨幅最大的股票：CrowdStrike、美国运通、SLB、Travelers 等</title>
+      <link>https://www.cnbc.com/2024/07/19/stocks-making-the-biggest-premarket-moves-.html</link>
+      <description><![CDATA[这些是盘前波动最大的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/stocks-making-the-biggest-premarket-moves-.html</guid>
+      <pubDate>Fri, 19 Jul 2024 13:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国证券交易所称市场运行正常，未受到 CrowdStrike 中断的影响</title>
+      <link>https://www.cnbc.com/2024/07/19/us-stock-exchanges-say-markets-are-operating-normally-not-impacted-by-crowdstrike-outage.html</link>
+      <description><![CDATA[造成全球混乱的大规模信息技术中断显然不会影响金融市场的正常业务。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/us-stock-exchanges-say-markets-are-operating-normally-not-impacted-by-crowdstrike-outage.html</guid>
+      <pubDate>Fri, 19 Jul 2024 13:07:27 GMT</pubDate>
+    </item>
     <item>
       <title>“史上最大规模 IT 中断”让世界震惊</title>
       <link>https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html</link>
       <description><![CDATA[大规模 IT 故障导致飞机停飞，广播公司也被迫停止播出。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html</guid>
-      <pubDate>Fri, 19 Jul 2024 12:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球 IT 中断导致航班停飞，乘客收到延误警告</title>
-      <link>https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html</link>
-      <description><![CDATA[许多航空公司表示，今年最繁忙的航班日之一的运营将受到影响。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html</guid>
-      <pubDate>Fri, 19 Jul 2024 12:29:19 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 13:00:29 GMT</pubDate>
     </item>
     <item>
       <title>华尔街有望摆脱周四市场下滑的影响，股指期货几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/07/18/stock-market-today-live-updates.html</link>
       <description><![CDATA[道琼斯工业平均指数周四下跌逾 500 点，但本周仍上涨。]]></description>
       <guid>https://www.cnbc.com/2024/07/18/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 19 Jul 2024 12:29:01 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 12:45:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软用户在大规模中断后遭遇“蓝屏死机”</title>
+      <link>https://www.cnbc.com/2024/07/19/microsoft-says-it-restored-cloud-services-after-they-suffered-outage.html</link>
+      <description><![CDATA[由于大面积技术故障持续发生，全球各地的微软用户都遇到了被称为“死机蓝屏”的错误屏幕。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/microsoft-says-it-restored-cloud-services-after-they-suffered-outage.html</guid>
+      <pubDate>Fri, 19 Jul 2024 12:43:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球 IT 中断导致航班停飞，乘客收到延误警告</title>
+      <link>https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html</link>
+      <description><![CDATA[许多航空公司表示，今年最繁忙的航班日之一的运营将受到影响。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html</guid>
+      <pubDate>Fri, 19 Jul 2024 12:38:30 GMT</pubDate>
     </item>
     <item>
       <title>由于公司暂停租赁、安装和发货，SunPower 股价暴跌至近 1 美元</title>
       <link>https://www.cnbc.com/2024/07/19/sunpower-stock-collapses-to-nearly-1-as-company-halts-leases-installations-and-shipments.html</link>
       <description><![CDATA[SunPower 的股价本周已下跌逾 40%，该公司的运营业务可能已接近尾声。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/sunpower-stock-collapses-to-nearly-1-as-company-halts-leases-installations-and-shipments.html</guid>
-      <pubDate>Fri, 19 Jul 2024 12:23:09 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 12:37:48 GMT</pubDate>
     </item>
     <item>
       <title>软件更新如何导致全球最大的 IT 停电之一</title>
@@ -55,13 +90,6 @@
       <pubDate>Fri, 19 Jul 2024 12:12:41 GMT</pubDate>
     </item>
     <item>
-      <title>CFPB 严厉打击流行的工资预支计划。这对工人意味着什么</title>
-      <link>https://www.cnbc.com/2024/07/19/what-cfpbs-rule-on-paycheck-advance-programs-means-for-workers.html</link>
-      <description><![CDATA[该监管机构提出了一项规则，将工资获取计划列为贷款。费用需要以 APR 形式表示，就像信用卡一样。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/what-cfpbs-rule-on-paycheck-advance-programs-means-for-workers.html</guid>
-      <pubDate>Fri, 19 Jul 2024 12:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>教育部在法律纠纷中暂停数百万学生贷款支付</title>
       <link>https://www.cnbc.com/2024/07/19/education-department-to-pause-save-student-loan-payments-amid-legal-battle.html</link>
       <description><![CDATA[美国教育部表示，将暂停数百万学生贷款借款人的还款，同时捍卫其 SAVE 还款计划免受法律挑战。]]></description>
@@ -81,34 +109,6 @@
       <description><![CDATA[信用卡巨头美国运通周五上调了全年利润预期，并公布第二季度利润好于预期。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/american-express-axp-q2-earnings.html</guid>
       <pubDate>Fri, 19 Jul 2024 11:50:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软用户在大规模中断后遭遇“蓝屏死机”</title>
-      <link>https://www.cnbc.com/2024/07/19/microsoft-says-it-restored-cloud-services-after-they-suffered-outage.html</link>
-      <description><![CDATA[由于大面积技术故障持续发生，全球各地的微软用户都遇到了被称为“死机蓝屏”的错误屏幕。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/microsoft-says-it-restored-cloud-services-after-they-suffered-outage.html</guid>
-      <pubDate>Fri, 19 Jul 2024 11:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普共和党全国委员会演讲详述暗杀企图：“我今晚不应该在这里”</title>
-      <link>https://www.cnbc.com/2024/07/18/trump-convention-speech-recounts-assassination-attempt.html</link>
-      <description><![CDATA[特朗普只几次提到了总统乔·拜登的名字——这与他政治演讲中通常出现的人身攻击截然不同。]]></description>
-      <guid>https://www.cnbc.com/2024/07/18/trump-convention-speech-recounts-assassination-attempt.html</guid>
-      <pubDate>Fri, 19 Jul 2024 04:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘉信理财首席执行官为公司辩护，因盈利后股价暴跌</title>
-      <link>https://www.cnbc.com/2024/07/18/charles-schwab-ceo-defends-business-as-shares-tank-after-earnings.html</link>
-      <description><![CDATA[在周四接受 CNBC 的吉姆克莱默 (Jim Cramer) 采访时，嘉信理财首席执行官沃尔特贝廷格 (Walt Bettinger) 反驳了华尔街对其公司的负面情绪。]]></description>
-      <guid>https://www.cnbc.com/2024/07/18/charles-schwab-ceo-defends-business-as-shares-tank-after-earnings.html</guid>
-      <pubDate>Thu, 18 Jul 2024 23:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>台积电称 AI 芯片需求依然强劲，英伟达股价反弹</title>
-      <link>https://www.cnbc.com/2024/07/18/nvidia-rebounds-after-tsmc-says-ai-chip-demand-remains-strong.html</link>
-      <description><![CDATA[此前台积电周四表示，高端 AI 芯片的需求仍然很高，而供应仍然受限，随后英伟达的股价出现上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/07/18/nvidia-rebounds-after-tsmc-says-ai-chip-demand-remains-strong.html</guid>
-      <pubDate>Thu, 18 Jul 2024 20:28:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
