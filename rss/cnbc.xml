@@ -3,21 +3,49 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 19 Jul 2024 14:16:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 19 Jul 2024 14:33:00 GMT</lastBuildDate>
     <item>
-      <title>道琼斯指数下跌 200 点，标普 500 指数创三个月来最差一周：实时更新</title>
+      <title>越南最高领导人阮富仲在长期统治后去世，享年 80 岁</title>
+      <link>https://www.cnbc.com/2024/07/19/vietnam-communist-party-chief-trong-dies-at-80-state-media-says.html</link>
+      <description><![CDATA[越南执政党共产党总书记阮富仲周五去世，他担任该国最高权力职位长达 13 年。享年 80 岁。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/vietnam-communist-party-chief-trong-dies-at-80-state-media-says.html</guid>
+      <pubDate>Fri, 19 Jul 2024 14:37:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于公司暂停租赁、安装和发货，SunPower 股价跌至 1 美元以下</title>
+      <link>https://www.cnbc.com/2024/07/19/sunpower-stock-collapses-to-nearly-1-as-company-halts-leases-installations-and-shipments.html</link>
+      <description><![CDATA[SunPower 的股价本周已下跌逾 40%，该公司的运营业务可能已接近尾声。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/sunpower-stock-collapses-to-nearly-1-as-company-halts-leases-installations-and-shipments.html</guid>
+      <pubDate>Fri, 19 Jul 2024 14:35:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>道琼斯指数下跌近 300 点，标普 500 指数创三个月来最差一周：实时更新</title>
       <link>https://www.cnbc.com/2024/07/18/stock-market-today-live-updates.html</link>
       <description><![CDATA[在市场轮动下，标准普尔 500 指数创下 4 月份以来表现最差的一周。]]></description>
       <guid>https://www.cnbc.com/2024/07/18/stock-market-today-live-updates.html</guid>
-      <pubDate>Fri, 19 Jul 2024 14:15:23 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 14:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>“史上最大规模 IT 中断”让世界震惊</title>
+      <link>https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html</link>
+      <description><![CDATA[大规模 IT 故障导致飞机停飞，广播公司也被迫停止播出。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html</guid>
+      <pubDate>Fri, 19 Jul 2024 14:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球 IT 中断导致航班停飞，乘客收到延误警告</title>
+      <link>https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html</link>
+      <description><![CDATA[许多航空公司表示，今年最繁忙的航班日之一的运营将受到影响。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html</guid>
+      <pubDate>Fri, 19 Jul 2024 14:28:22 GMT</pubDate>
     </item>
     <item>
       <title>记者埃文·格什科维奇因美国指责其行为虚假而被俄罗斯法院判处 16 年监禁</title>
       <link>https://www.cnbc.com/2024/07/19/us-journalist-evan-gershkovich-jailed-for-16-years-by-court-in-russia.html</link>
       <description><![CDATA[《华尔街日报》记者否认有任何不当行为，并表示对他的指控是虚假的。拜登政府认为他被错误拘留。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/us-journalist-evan-gershkovich-jailed-for-16-years-by-court-in-russia.html</guid>
-      <pubDate>Fri, 19 Jul 2024 14:14:39 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 14:26:45 GMT</pubDate>
     </item>
     <item>
       <title>美国证券交易所称市场运行正常，未受到 CrowdStrike 中断的影响</title>
@@ -41,20 +69,6 @@
       <pubDate>Fri, 19 Jul 2024 14:07:26 GMT</pubDate>
     </item>
     <item>
-      <title>全球 IT 中断导致航班停飞，乘客收到延误警告</title>
-      <link>https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html</link>
-      <description><![CDATA[许多航空公司表示，今年最繁忙的航班日之一的运营将受到影响。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/flights-grounded-passengers-to-see-delays-amid-unprecedented-it-outage.html</guid>
-      <pubDate>Fri, 19 Jul 2024 14:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>“史上最大规模 IT 中断”让世界震惊</title>
-      <link>https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html</link>
-      <description><![CDATA[大规模 IT 故障导致飞机停飞，广播公司也被迫停止播出。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/latest-live-updates-on-a-major-it-outage-spreading-worldwide.html</guid>
-      <pubDate>Fri, 19 Jul 2024 14:00:12 GMT</pubDate>
-    </item>
-    <item>
       <title>拜登家人开始讨论他退出 2024 年大选的可能计划</title>
       <link>https://www.cnbc.com/2024/07/19/bidens-family-starts-discussing-his-possible-exit-plan-from-the-2024-race.html</link>
       <description><![CDATA[总统的家人已经讨论了他如何按照自己的时间安排并制定精心策划的计划来结束他的连任竞选。]]></description>
@@ -76,13 +90,6 @@
       <pubDate>Fri, 19 Jul 2024 13:16:10 GMT</pubDate>
     </item>
     <item>
-      <title>由于公司暂停租赁、安装和发货，SunPower 股价暴跌至近 1 美元</title>
-      <link>https://www.cnbc.com/2024/07/19/sunpower-stock-collapses-to-nearly-1-as-company-halts-leases-installations-and-shipments.html</link>
-      <description><![CDATA[SunPower 的股价本周已下跌逾 40%，该公司的运营业务可能已接近尾声。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/sunpower-stock-collapses-to-nearly-1-as-company-halts-leases-installations-and-shipments.html</guid>
-      <pubDate>Fri, 19 Jul 2024 12:37:48 GMT</pubDate>
-    </item>
-    <item>
       <title>教育部在法律纠纷中暂停数百万学生贷款支付</title>
       <link>https://www.cnbc.com/2024/07/19/education-department-to-pause-save-student-loan-payments-amid-legal-battle.html</link>
       <description><![CDATA[美国教育部表示，将暂停数百万学生贷款借款人的还款，同时捍卫其 SAVE 还款计划免受法律挑战。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[信用卡巨头美国运通周五上调了全年利润预期，并公布第二季度利润好于预期。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/american-express-axp-q2-earnings.html</guid>
       <pubDate>Fri, 19 Jul 2024 11:50:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 7 月 19 日星期五：吉姆·克莱默 (Jim Cramer) 讨论投资俱乐部的下一步行动</title>
-      <link>https://www.cnbc.com/search/?query=Friday,%20July%2019,%202024:%20Jim%20Cramer%20discusses%20his%20next%20moves%20for%20the%20Investing%20Club</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.cnbc.com/search/?query=Friday,%20July%2019,%202024:%20Jim%20Cramer%20discusses%20his%20next%20moves%20for%20the%20Investing%20Club</guid>
-      <pubDate>Mon, 15 Jul 2024 01:49:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
