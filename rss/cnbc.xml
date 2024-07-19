@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Fri, 19 Jul 2024 19:45:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Fri, 19 Jul 2024 21:30:00 GMT</lastBuildDate>
+    <item>
+      <title>副总统卡马拉·哈里斯与民主党捐助者讨论竞选中的“紧急、新兴需求”，拜登竞选陷入危机</title>
+      <link>https://www.cnbc.com/2024/07/19/harris-donor-call-biden-crisis.html</link>
+      <description><![CDATA[如果拜登退出竞选，许多人认为哈里斯最有可能成为民主党总统候选人。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/harris-donor-call-biden-crisis.html</guid>
+      <pubDate>Fri, 19 Jul 2024 21:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登竞选团队在新备忘录中坚称，拜登不会退出</title>
+      <link>https://www.cnbc.com/2024/07/19/biden-wont-drop-out-campaign-insists-in-new-memo-.html</link>
+      <description><![CDATA[参议员乔恩·泰斯特 (Jon Tester) 周四成为第二位呼吁拜登 (目前因感染新冠肺炎而隔离) 放弃竞选连任的民主党参议员。]]></description>
+      <guid>https://www.cnbc.com/2024/07/19/biden-wont-drop-out-campaign-insists-in-new-memo-.html</guid>
+      <pubDate>Fri, 19 Jul 2024 21:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>越来越多的民主党人和前国家安全官员敦促拜登退出</title>
       <link>https://www.cnbc.com/2024/07/19/biden-election-democrats-election-trump.html</link>
       <description><![CDATA[数周以来，总统乔·拜登一直拒绝让位给另一位民主党人，与共和党候选人唐纳德·特朗普争夺总统职位的呼声。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/biden-election-democrats-election-trump.html</guid>
-      <pubDate>Fri, 19 Jul 2024 21:09:51 GMT</pubDate>
+      <pubDate>Fri, 19 Jul 2024 21:18:38 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft-CrowdStrike 问题导致“历史上最大的 IT 中断”——实时更新</title>
@@ -50,16 +64,9 @@
     <item>
       <title>CrowdStrike 股价因全球企业遭遇严重中断而下跌 11%</title>
       <link>https://www.cnbc.com/2024/07/19/microsoft-crowdstrike-shares-fall-after-major-it-outage.html</link>
-      <description><![CDATA[网络安全公司 CrowdStrike 周五股价暴跌，原因是更新导致严重中断，影响了全球企业。]]></description>
+      <description><![CDATA[网络安全公司 CrowdStrike 周五因更新导致严重停电，影响全球企业，股价暴跌。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/microsoft-crowdstrike-shares-fall-after-major-it-outage.html</guid>
       <pubDate>Fri, 19 Jul 2024 20:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软、CrowdStrike IT 中断影响全球供应链，空运需要数天或数周才能恢复</title>
-      <link>https://www.cnbc.com/2024/07/19/crowdstrike-it-outage-spreads-global-supply-chain.html</link>
-      <description><![CDATA[Crowdstrike 全球 IT 中断影响了全球供应链的核心，导致美国及其他地区的空运、铁路、港口和卡车运输陷入瘫痪。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/crowdstrike-it-outage-spreads-global-supply-chain.html</guid>
-      <pubDate>Fri, 19 Jul 2024 19:52:41 GMT</pubDate>
     </item>
     <item>
       <title>CNBC 报道：在加密货币大涨的背景下，比特币周涨幅达 15%</title>
@@ -76,16 +83,9 @@
       <pubDate>Fri, 19 Jul 2024 19:23:59 GMT</pubDate>
     </item>
     <item>
-      <title>拜登竞选团队在新备忘录中坚称，拜登不会退出</title>
-      <link>https://www.cnbc.com/2024/07/19/biden-wont-drop-out-campaign-insists-in-new-memo-.html</link>
-      <description><![CDATA[参议员乔恩·泰斯特 (Jon Tester) 周四成为第二位呼吁拜登（目前正在因感染新冠肺炎而隔离）放弃竞选连任的民主党参议员。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/biden-wont-drop-out-campaign-insists-in-new-memo-.html</guid>
-      <pubDate>Fri, 19 Jul 2024 19:01:40 GMT</pubDate>
-    </item>
-    <item>
       <title>福特汽车是本周标普 500 指数中超买最严重的股票之一。其他股票如下</title>
       <link>https://www.cnbc.com/2024/07/19/ford-motor-is-among-the-most-overbought-stocks-in-the-sp-500-this-week-here-are-the-others.html</link>
-      <description><![CDATA[尽管本周大盘下跌，但市场的大幅轮动导致一些股票更容易受到回调的影响。]]></description>
+      <description><![CDATA[尽管本周大盘下跌，但市场的大幅波动导致一些股票更容易受到回调的影响。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/ford-motor-is-among-the-most-overbought-stocks-in-the-sp-500-this-week-here-are-the-others.html</guid>
       <pubDate>Fri, 19 Jul 2024 17:58:44 GMT</pubDate>
     </item>
