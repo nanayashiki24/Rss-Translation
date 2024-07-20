@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Sat, 20 Jul 2024 16:35:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Sat, 20 Jul 2024 17:26:00 GMT</lastBuildDate>
+    <item>
+      <title>微软称约有 850 万台设备受到 CrowdStrike 相关中断的影响</title>
+      <link>https://www.cnbc.com/2024/07/20/microsoft-says-about-8point5-million-of-its-devices-affected-by-crowdstrike-related-outage.html</link>
+      <description><![CDATA[微软在周六的一篇博客文章中表示，此次全球技术故障“影响了 850 万台 Windows 设备，占所有 Windows 设备的不到 1％”。]]></description>
+      <guid>https://www.cnbc.com/2024/07/20/microsoft-says-about-8point5-million-of-its-devices-affected-by-crowdstrike-related-outage.html</guid>
+      <pubDate>Sat, 20 Jul 2024 17:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>IT 中断后航班取消情况有所缓解，但中断情况仍然存在</title>
       <link>https://www.cnbc.com/2024/07/20/flight-cancellations-ease-after-it-outage-but-some-disruptions-linger.html</link>
@@ -20,7 +27,7 @@
       <pubDate>Sat, 20 Jul 2024 16:34:35 GMT</pubDate>
     </item>
     <item>
-      <title>“只买，买，买”：近期小盘股繁荣反映出的风险偏好</title>
+      <title>“只买，买，买”：近期小盘股热潮反映出的风险偏好</title>
       <link>https://www.cnbc.com/2024/07/20/buying-buying-buying-what-recent-small-cap-rally-says-about-risk.html</link>
       <description><![CDATA[流入小盘股的资金可能不是来自成功的成长型交易的轮换。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/buying-buying-buying-what-recent-small-cap-rally-says-about-risk.html</guid>
@@ -46,13 +53,6 @@
       <description><![CDATA[周五，CrowdStrike 对其广泛使用的网络安全软件进行例行更新，导致全球客户的计算机系统崩溃。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say.html</guid>
       <pubDate>Sat, 20 Jul 2024 13:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些百岁老人表示，退休后继续工作是他们继续前进的动力：“只要我能，我就会一直工作下去”</title>
-      <link>https://www.cnbc.com/2024/07/20/100-year-olds-not-retiring-is-what-keeps-us-going.html</link>
-      <description><![CDATA[终生工作听起来可能没有什么吸引力，但世界各地的百岁老人都表示，不退休让他们感到年轻和充实。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/100-year-olds-not-retiring-is-what-keeps-us-going.html</guid>
-      <pubDate>Sat, 20 Jul 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
       <title>摩根士丹利在财报公布前大力推崇苹果等股票</title>
