@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 13:54:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Sun, 21 Jul 2024 14:59:00 GMT</lastBuildDate>
+    <item>
+      <title>特勤局称拒绝了特朗普一些加强安保的请求，并驳回了之前的报道</title>
+      <link>https://www.cnbc.com/2024/07/21/trump-shooting-secret-service-denied-security.html</link>
+      <description><![CDATA[唐纳德·特朗普在集会上遭遇暗杀，一名参加者死亡，另两人受重伤，特朗普耳朵受了轻伤。]]></description>
+      <guid>https://www.cnbc.com/2024/07/21/trump-shooting-secret-service-denied-security.html</guid>
+      <pubDate>Sun, 21 Jul 2024 15:12:35 GMT</pubDate>
+    </item>
     <item>
       <title>参议员乔·曼钦呼吁拜登退出总统竞选</title>
       <link>https://www.cnbc.com/2024/07/21/sen-joe-manchin-calls-on-biden-to-drop-out-of-presidential-race.html</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[防范下一次 CrowdStrike 的最佳措施是要求逐步推出软件更新并在系统中建立冗余。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/the-crowdstrike-fail-and-next-global-it-meltdown-already-in-the-making.html</guid>
       <pubDate>Sat, 20 Jul 2024 17:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩根士丹利在财报公布前大力推崇苹果等股票</title>
-      <link>https://www.cnbc.com/2024/07/20/stocks-to-buy-ahead-of-earnings-like-apple.html</link>
-      <description><![CDATA[该公司列出了季度业绩公布前最值得购买的一些股票。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/stocks-to-buy-ahead-of-earnings-like-apple.html</guid>
-      <pubDate>Sat, 20 Jul 2024 12:53:13 GMT</pubDate>
     </item>
     <item>
       <title>经济学家戴维·罗森伯格表示，本周的“疯狂市场”走势与 2000 年的互联网泡沫破灭非常相似</title>
