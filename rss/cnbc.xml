@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 12:39:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Sun, 21 Jul 2024 13:34:00 GMT</lastBuildDate>
+    <item>
+      <title>参议员乔·曼钦呼吁拜登退出总统竞选</title>
+      <link>https://www.cnbc.com/2024/07/21/sen-joe-manchin-calls-on-biden-to-drop-out-of-presidential-race.html</link>
+      <description><![CDATA[自六月与特朗普的辩论惨败以来，拜登总统面临越来越大的退出压力。]]></description>
+      <guid>https://www.cnbc.com/2024/07/21/sen-joe-manchin-calls-on-biden-to-drop-out-of-presidential-race.html</guid>
+      <pubDate>Sun, 21 Jul 2024 13:32:53 GMT</pubDate>
+    </item>
     <item>
       <title>华尔街顶级分析师对这三只股票的潜力充满信心</title>
       <link>https://www.cnbc.com/2024/07/21/top-wall-street-analysts-are-confident-about-the-potential-behind-these-3-stocks.html</link>
@@ -22,7 +29,7 @@
     <item>
       <title>伯克希尔已销毁 10% 的流通股，因为巴菲特看重回购的持久力</title>
       <link>https://www.cnbc.com/2024/07/21/berkshire-has-eliminated-10percent-of-outstanding-shares-as-buffett-values-the-enduring-power-of-buybacks.html</link>
-      <description><![CDATA[一位分析师表示，在过去五年半的时间里，伯克希尔回购了价值近 750 亿美元的股票，消除了 10% 的流通股。]]></description>
+      <description><![CDATA[一位分析师表示，在过去五年半的时间里，伯克希尔回购了价值近 750 亿美元的股票，减少了 10% 的流通股。]]></description>
       <guid>https://www.cnbc.com/2024/07/21/berkshire-has-eliminated-10percent-of-outstanding-shares-as-buffett-values-the-enduring-power-of-buybacks.html</guid>
       <pubDate>Sun, 21 Jul 2024 11:37:37 GMT</pubDate>
     </item>
@@ -81,13 +88,6 @@
       <description><![CDATA[防范下一次 CrowdStrike 的最佳措施是要求逐步推出软件更新并在系统中建立冗余。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/the-crowdstrike-fail-and-next-global-it-meltdown-already-in-the-making.html</guid>
       <pubDate>Sat, 20 Jul 2024 17:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软称约有 850 万台设备受到 CrowdStrike 相关中断的影响</title>
-      <link>https://www.cnbc.com/2024/07/20/microsoft-says-about-8point5-million-of-its-devices-affected-by-crowdstrike-related-outage.html</link>
-      <description><![CDATA[微软在周六的一篇博客文章中表示，此次全球技术故障“影响了 850 万台 Windows 设备，占所有 Windows 设备的不到 1％”。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/microsoft-says-about-8point5-million-of-its-devices-affected-by-crowdstrike-related-outage.html</guid>
-      <pubDate>Sat, 20 Jul 2024 17:25:07 GMT</pubDate>
     </item>
     <item>
       <title>摩根士丹利在财报公布前大力推崇苹果等股票</title>
