@@ -3,8 +3,36 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 07:03:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Sun, 21 Jul 2024 08:20:00 GMT</lastBuildDate>
+    <item>
+      <title>波音公司预计 787 供应商将在年底前赶上进度，恢复产量</title>
+      <link>https://www.cnbc.com/2024/07/21/boeing-expects-787-suppliers-to-catch-up-by-years-end-restoring-output.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/07/21/boeing-expects-787-suppliers-to-catch-up-by-years-end-restoring-output.html</guid>
+      <pubDate>Sun, 21 Jul 2024 08:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件显示，伯克希尔出售约 14.8 亿美元的美国银行股票</title>
+      <link>https://www.cnbc.com/2024/07/21/berkshire-sells-around-1point48-billion-bank-of-america-shares-filing-shows.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/07/21/berkshire-sells-around-1point48-billion-bank-of-america-shares-filing-shows.html</guid>
+      <pubDate>Sun, 21 Jul 2024 08:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“荒谬”：捐款者在与卡马拉·哈里斯通话后感到沮丧和恼火</title>
+      <link>https://www.cnbc.com/2024/07/21/ludicrous-donors-leave-call-with-kamala-harris-frustrated-and-annoyed.html</link>
+      <description><![CDATA[约 300 名捐赠者的聚集本意是为了平息人们的担忧，但却让一些人感到不满，他们认为这次活动组织得很糟糕，但并不责怪哈里斯本人。]]></description>
+      <guid>https://www.cnbc.com/2024/07/21/ludicrous-donors-leave-call-with-kamala-harris-frustrated-and-annoyed.html</guid>
+      <pubDate>Sun, 21 Jul 2024 07:56:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>特拉维夫袭击事件后，以色列战机袭击也门胡塞武装目标</title>
+      <link>https://www.cnbc.com/2024/07/21/israeli-jets-strike-houthi-targets-in-yemen-after-tel-aviv-attack.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.cnbc.com/2024/07/21/israeli-jets-strike-houthi-targets-in-yemen-after-tel-aviv-attack.html</guid>
+      <pubDate>Sun, 21 Jul 2024 07:43:42 GMT</pubDate>
+    </item>
     <item>
       <title>“准备好挺身而出”：拜登因感染新冠病毒而隔离，副总统哈里斯赢得国会山欢呼</title>
       <link>https://www.cnbc.com/2024/07/20/mark-takano-biden-election-harris-nominee.html</link>
@@ -20,18 +48,18 @@
       <pubDate>Sat, 20 Jul 2024 20:52:50 GMT</pubDate>
     </item>
     <item>
-      <title>IT 中断后航班取消情况有所缓解，但中断情况仍然存在</title>
-      <link>https://www.cnbc.com/2024/07/20/flight-cancellations-ease-after-it-outage-but-some-disruptions-linger.html</link>
-      <description><![CDATA[Crowdstrike-Mircosoft 中断导致数千个航班取消和延误。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/flight-cancellations-ease-after-it-outage-but-some-disruptions-linger.html</guid>
-      <pubDate>Sat, 20 Jul 2024 20:17:16 GMT</pubDate>
-    </item>
-    <item>
       <title>恶意行为者试图利用全球技术中断来谋取私利</title>
       <link>https://www.cnbc.com/2024/07/20/malicious-actors-trying-to-exploit-global-tech-outage-for-their-own-gain.html</link>
       <description><![CDATA[全球各地的政府网络安全机构均发出警告，称针对受此次网络故障影响的企业和个人，存在新的网络钓鱼计划。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/malicious-actors-trying-to-exploit-global-tech-outage-for-their-own-gain.html</guid>
       <pubDate>Sat, 20 Jul 2024 19:34:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike 失败，下一次全球 IT 危机即将来临</title>
+      <link>https://www.cnbc.com/2024/07/20/the-crowdstrike-fail-and-next-global-it-meltdown-already-in-the-making.html</link>
+      <description><![CDATA[防范下一次 CrowdStrike 的最佳措施是要求逐步推出软件更新并在系统中建立冗余。]]></description>
+      <guid>https://www.cnbc.com/2024/07/20/the-crowdstrike-fail-and-next-global-it-meltdown-already-in-the-making.html</guid>
+      <pubDate>Sat, 20 Jul 2024 17:49:59 GMT</pubDate>
     </item>
     <item>
       <title>微软称约有 850 万台设备受到 CrowdStrike 相关中断的影响</title>
@@ -41,32 +69,11 @@
       <pubDate>Sat, 20 Jul 2024 17:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>“只买，买，买”：近期小盘股繁荣反映出的风险偏好</title>
+      <title>“只买，买，买”：近期小盘股热潮反映出的风险偏好</title>
       <link>https://www.cnbc.com/2024/07/20/buying-buying-buying-what-recent-small-cap-rally-says-about-risk.html</link>
       <description><![CDATA[流入小盘股的资金可能不是来自成功的成长型交易的轮换。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/buying-buying-buying-what-recent-small-cap-rally-says-about-risk.html</guid>
       <pubDate>Sat, 20 Jul 2024 15:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新研究显示，单身婚礼宾客的花费比夫妻多 273 美元：“我还是会送 100 美元的礼物”</title>
-      <link>https://www.cnbc.com/2024/07/20/single-wedding-guests-spend-more-than-couples-study-shows.html</link>
-      <description><![CDATA[参加婚礼的相关费用——礼物、住宿、聚会——不会根据您的关系状态而改变。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/single-wedding-guests-spend-more-than-couples-study-shows.html</guid>
-      <pubDate>Sat, 20 Jul 2024 15:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司获得 E-7 供应，这是认罪协议以来的首场重大胜利</title>
-      <link>https://www.cnbc.com/2024/07/20/boeing-to-supply-e-7-in-first-major-win-since-plea-deal.html</link>
-      <description><![CDATA[这份与美国空军签订的交易是波音公司本月初承认刑事欺诈共谋指控以来的第一份重要合同。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/boeing-to-supply-e-7-in-first-major-win-since-plea-deal.html</guid>
-      <pubDate>Sat, 20 Jul 2024 14:40:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家称导致全球中断的 CrowdStrike 更新可能跳过了检查</title>
-      <link>https://www.cnbc.com/2024/07/20/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say.html</link>
-      <description><![CDATA[周五，CrowdStrike 对其广泛使用的网络安全软件进行例行更新，导致全球客户的计算机系统崩溃。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/crowdstrike-update-that-caused-global-outage-likely-skipped-checks-experts-say.html</guid>
-      <pubDate>Sat, 20 Jul 2024 13:09:06 GMT</pubDate>
     </item>
     <item>
       <title>激进投资者 Starboard 入股 Match。以下是投资者可能采取的措施，以帮助提升股价</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[过去一周股市的动荡走势让人回想起 2000 年的黑暗岁月。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/this-weeks-manic-market-action-looks-a-lot-like-the-dot-com-bust.html</guid>
       <pubDate>Sat, 20 Jul 2024 12:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普第二任期内，2025 项目将如何影响你的税率和资本利得</title>
-      <link>https://www.cnbc.com/2024/07/20/how-project-2025-could-impact-your-taxes-under-a-second-trump-term.html</link>
-      <description><![CDATA[2025 项目可能会在特朗普第二任期内带来全面的税收改革。以下是有关拟议税率、资本利得税率等信息。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/how-project-2025-could-impact-your-taxes-under-a-second-trump-term.html</guid>
-      <pubDate>Sat, 20 Jul 2024 12:30:01 GMT</pubDate>
     </item>
     <item>
       <title>副总统卡马拉·哈里斯与民主党捐助者讨论竞选中的“紧急、新兴需求”，拜登竞选陷入危机</title>
