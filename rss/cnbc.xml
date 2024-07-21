@@ -3,8 +3,8 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sat, 20 Jul 2024 21:06:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Sun, 21 Jul 2024 07:03:00 GMT</lastBuildDate>
     <item>
       <title>“准备好挺身而出”：拜登因感染新冠病毒而隔离，副总统哈里斯赢得国会山欢呼</title>
       <link>https://www.cnbc.com/2024/07/20/mark-takano-biden-election-harris-nominee.html</link>
@@ -41,7 +41,7 @@
       <pubDate>Sat, 20 Jul 2024 17:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>“只买，买，买”：近期小盘股热潮反映出的风险偏好</title>
+      <title>“只买，买，买”：近期小盘股繁荣反映出的风险偏好</title>
       <link>https://www.cnbc.com/2024/07/20/buying-buying-buying-what-recent-small-cap-rally-says-about-risk.html</link>
       <description><![CDATA[流入小盘股的资金可能不是来自成功的成长型交易的轮换。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/buying-buying-buying-what-recent-small-cap-rally-says-about-risk.html</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>波音公司获得 E-7 供应，这是认罪协议以来的首场重大胜利</title>
       <link>https://www.cnbc.com/2024/07/20/boeing-to-supply-e-7-in-first-major-win-since-plea-deal.html</link>
-      <description><![CDATA[这份与美国空军达成的交易是波音公司本月初承认刑事欺诈共谋指控以来的第一份重要合同。]]></description>
+      <description><![CDATA[这份与美国空军签订的交易是波音公司本月初承认刑事欺诈共谋指控以来的第一份重要合同。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/boeing-to-supply-e-7-in-first-major-win-since-plea-deal.html</guid>
       <pubDate>Sat, 20 Jul 2024 14:40:20 GMT</pubDate>
     </item>
@@ -97,18 +97,18 @@
       <pubDate>Sat, 20 Jul 2024 12:38:45 GMT</pubDate>
     </item>
     <item>
+      <title>特朗普第二任期内，2025 项目将如何影响你的税率和资本利得</title>
+      <link>https://www.cnbc.com/2024/07/20/how-project-2025-could-impact-your-taxes-under-a-second-trump-term.html</link>
+      <description><![CDATA[2025 项目可能会在特朗普第二任期内带来全面的税收改革。以下是有关拟议税率、资本利得税率等信息。]]></description>
+      <guid>https://www.cnbc.com/2024/07/20/how-project-2025-could-impact-your-taxes-under-a-second-trump-term.html</guid>
+      <pubDate>Sat, 20 Jul 2024 12:30:01 GMT</pubDate>
+    </item>
+    <item>
       <title>副总统卡马拉·哈里斯与民主党捐助者讨论竞选中的“紧急、新兴需求”，拜登竞选陷入危机</title>
       <link>https://www.cnbc.com/2024/07/19/harris-donor-call-biden-crisis.html</link>
       <description><![CDATA[如果拜登退出竞选，许多人认为哈里斯最有可能成为民主党总统候选人。]]></description>
       <guid>https://www.cnbc.com/2024/07/19/harris-donor-call-biden-crisis.html</guid>
       <pubDate>Fri, 19 Jul 2024 21:46:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络公司 CrowdStrike 的软件更新如何导致全球最大规模的 IT 停电之一</title>
-      <link>https://www.cnbc.com/2024/07/19/what-is-crowdstrike-crwd-and-how-did-it-cause-global-it-outages.html</link>
-      <description><![CDATA[周五，网络安全公司 CrowdStrike 发布的更新出现故障，导致全球 IT 系统发生连锁反应。]]></description>
-      <guid>https://www.cnbc.com/2024/07/19/what-is-crowdstrike-crwd-and-how-did-it-cause-global-it-outages.html</guid>
-      <pubDate>Fri, 19 Jul 2024 15:42:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
