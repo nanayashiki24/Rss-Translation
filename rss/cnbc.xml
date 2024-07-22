@@ -3,14 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sun, 21 Jul 2024 22:44:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Mon, 22 Jul 2024 00:01:00 GMT</lastBuildDate>
     <item>
-      <title>拜登退出竞选后，卡马拉·哈里斯获得大笔资金支持激增</title>
+      <title>拜登放弃竞选总统，亚洲股市下跌；本周关注通胀和 GDP 数据</title>
+      <link>https://www.cnbc.com/2024/07/22/asia-stock-markets-biden-drops-out-china-lpr.html</link>
+      <description><![CDATA[拜登在一封信中写道：“辞职并专心履行总统职责最符合我党和国家的利益。”]]></description>
+      <guid>https://www.cnbc.com/2024/07/22/asia-stock-markets-biden-drops-out-china-lpr.html</guid>
+      <pubDate>Mon, 22 Jul 2024 00:52:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登退出竞选后，卡马拉·哈里斯获得大笔资金支持</title>
       <link>https://www.cnbc.com/2024/07/21/kamala-harris-fundraising-surge.html</link>
       <description><![CDATA[副总统卡马拉·哈里斯在退出 2024 年大选后已经接管了乔·拜登庞大的竞选资金。]]></description>
       <guid>https://www.cnbc.com/2024/07/21/kamala-harris-fundraising-surge.html</guid>
-      <pubDate>Sun, 21 Jul 2024 23:24:55 GMT</pubDate>
+      <pubDate>Mon, 22 Jul 2024 00:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着超级富豪纷纷涌入另类投资领域，一位顶级投资经理透露了其他人也可以采取的措施</title>
+      <link>https://www.cnbc.com/2024/07/22/how-to-invest-in-private-markets-like-the-super-rich-hamilton-lanes-juan-delgado-moreira.html</link>
+      <description><![CDATA[汉密尔顿巷公司的胡安·德尔加多·莫雷拉表示，私人市场使富人能够“提高回报并增加财富”。]]></description>
+      <guid>https://www.cnbc.com/2024/07/22/how-to-invest-in-private-markets-like-the-super-rich-hamilton-lanes-juan-delgado-moreira.html</guid>
+      <pubDate>Sun, 21 Jul 2024 23:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国银行策略师表示现在是看跌的时候了</title>
+      <link>https://www.cnbc.com/2024/07/22/bank-of-america-strategist-says-its-time-to-get-bearish.html</link>
+      <description><![CDATA[这家华尔街银行的策略师表示，他预计某个地区的股市将下跌 15%。]]></description>
+      <guid>https://www.cnbc.com/2024/07/22/bank-of-america-strategist-says-its-time-to-get-bearish.html</guid>
+      <pubDate>Sun, 21 Jul 2024 23:36:50 GMT</pubDate>
     </item>
     <item>
       <title>拜登退出 2024 年总统大选，支持卡马拉·哈里斯为民主党候选人</title>
@@ -69,20 +90,6 @@
       <pubDate>Sun, 21 Jul 2024 11:39:14 GMT</pubDate>
     </item>
     <item>
-      <title>伯克希尔已销毁 10% 的流通股，因为巴菲特看重回购的持久力</title>
-      <link>https://www.cnbc.com/2024/07/21/berkshire-has-eliminated-10percent-of-outstanding-shares-as-buffett-values-the-enduring-power-of-buybacks.html</link>
-      <description><![CDATA[一位分析师表示，在过去五年半的时间里，伯克希尔回购了价值近 750 亿美元的股票，减少了 10% 的流通股。]]></description>
-      <guid>https://www.cnbc.com/2024/07/21/berkshire-has-eliminated-10percent-of-outstanding-shares-as-buffett-values-the-enduring-power-of-buybacks.html</guid>
-      <pubDate>Sun, 21 Jul 2024 11:37:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Zyn 到电子烟：烟草巨头进一步推动香烟替代品。以下是可能胜出的公司</title>
-      <link>https://www.cnbc.com/2024/07/21/tobacco-companies-are-ramping-up-their-cigarette-alternatives-.html</link>
-      <description><![CDATA[分析师布雷特·库珀说，烟草产品的演变往往比较慢，但这是消费者需求不断改变的必然结果。]]></description>
-      <guid>https://www.cnbc.com/2024/07/21/tobacco-companies-are-ramping-up-their-cigarette-alternatives-.html</guid>
-      <pubDate>Sun, 21 Jul 2024 11:35:34 GMT</pubDate>
-    </item>
-    <item>
       <title>盈利策略：Alphabet 和 Tesla 等公司盈利繁忙的一周指南</title>
       <link>https://www.cnbc.com/2024/07/21/earnings-playbook-your-guide-to-a-busy-week-of-earnings-including-alphabet-and-tesla.html</link>
       <description><![CDATA[本周华尔街将首次看到大型科技公司的盈利情况。]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[防范下一次 CrowdStrike 的最佳措施是要求逐步推出软件更新并在系统中建立冗余。]]></description>
       <guid>https://www.cnbc.com/2024/07/20/the-crowdstrike-fail-and-next-global-it-meltdown-already-in-the-making.html</guid>
       <pubDate>Sat, 20 Jul 2024 17:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>经济学家戴维·罗森伯格表示，本周的“疯狂市场”走势与 2000 年的互联网泡沫破灭非常相似</title>
-      <link>https://www.cnbc.com/2024/07/20/this-weeks-manic-market-action-looks-a-lot-like-the-dot-com-bust.html</link>
-      <description><![CDATA[过去一周股市的动荡走势让人回想起 2000 年的黑暗岁月。]]></description>
-      <guid>https://www.cnbc.com/2024/07/20/this-weeks-manic-market-action-looks-a-lot-like-the-dot-com-bust.html</guid>
-      <pubDate>Sat, 20 Jul 2024 12:38:45 GMT</pubDate>
     </item>
     <item>
       <title>网络公司 CrowdStrike 的软件更新如何导致全球最大规模的 IT 停电之一</title>
