@@ -3,14 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 24 Jul 2024 14:33:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 24 Jul 2024 15:19:00 GMT</lastBuildDate>
     <item>
-      <title>特斯拉和 Alphabet 业绩令人失望，拖累科技股下跌：实时更新</title>
+      <title>纳斯达克下跌 2%，因特斯拉和 Alphabet 的业绩令人失望，导致科技股走低：实时更新</title>
       <link>https://www.cnbc.com/2024/07/23/stock-market-today-live-updates.html</link>
       <description><![CDATA[由于投资者对大型科技公司 Alphabet 和 Tesla 的季度报告感到失望，股市周三下跌。]]></description>
       <guid>https://www.cnbc.com/2024/07/23/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 24 Jul 2024 14:37:44 GMT</pubDate>
+      <pubDate>Wed, 24 Jul 2024 15:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街分析师认为特斯拉未来还有更多下行空间，因为最新盈利报告缺乏“亮点”</title>
+      <link>https://www.cnbc.com/2024/07/24/wall-street-analysts-see-more-downside-ahead-for-tesla-as-latest-earnings-report-lacks-razzle-dazzle.html</link>
+      <description><![CDATA[由于第二季度业绩不佳，华尔街预计特斯拉股价将面临艰难的走势。]]></description>
+      <guid>https://www.cnbc.com/2024/07/24/wall-street-analysts-see-more-downside-ahead-for-tesla-as-latest-earnings-report-lacks-razzle-dazzle.html</guid>
+      <pubDate>Wed, 24 Jul 2024 15:17:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉姆·克莱默表示，埃隆·马斯克的盈利后“宣言”标志着购买特斯拉股票的机会</title>
+      <link>https://www.cnbc.com/2024/07/24/cramer-elon-musk-post-earnings-manifesto-signals-chance-to-buy-tesla-plunge.html</link>
+      <description><![CDATA[吉姆克莱默 (Jim Cramer) 每天都会快速关注 CNBC 投资俱乐部投资组合之外的新闻股票。]]></description>
+      <guid>https://www.cnbc.com/2024/07/24/cramer-elon-musk-post-earnings-manifesto-signals-chance-to-buy-tesla-plunge.html</guid>
+      <pubDate>Wed, 24 Jul 2024 15:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国国王查尔斯获利，皇家地产利润飙升至 14 亿美元以上</title>
+      <link>https://www.cnbc.com/2024/07/24/king-charles-cashes-in-as-crown-estate-profits-surge-to-1point4-billion.html</link>
+      <description><![CDATA[据官方记录显示，英国国王查尔斯的公共财产利润增长一倍多，因此其薪水将增加 4500 万英镑（5800 万美元）。]]></description>
+      <guid>https://www.cnbc.com/2024/07/24/king-charles-cashes-in-as-crown-estate-profits-surge-to-1point4-billion.html</guid>
+      <pubDate>Wed, 24 Jul 2024 14:50:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用期权来管理微软下周收益的风险</title>
+      <link>https://www.cnbc.com/2024/07/24/using-options-to-manage-risk-heading-into-microsoft-earnings-next-week.html</link>
+      <description><![CDATA[该公司在人工智能和云计算领域的领先地位使其成为下周引人注目的收益交易。]]></description>
+      <guid>https://www.cnbc.com/2024/07/24/using-options-to-manage-risk-heading-into-microsoft-earnings-next-week.html</guid>
+      <pubDate>Wed, 24 Jul 2024 14:43:54 GMT</pubDate>
     </item>
     <item>
       <title>通货膨胀和 2000 美元的夏令营费用给在职父母带来了夏季危机：“这简直是一团糟”</title>
@@ -41,13 +69,6 @@
       <pubDate>Wed, 24 Jul 2024 13:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>高盛表示，这家音频流媒体巨头有望上涨近 30%</title>
-      <link>https://www.cnbc.com/2024/07/24/goldman-sachs-says-this-audio-streaming-giant-is-primed-to-rally-nearly-30percent.html</link>
-      <description><![CDATA[分析师 Eric Sheridan 认为 Spotify 正在实现强劲的营业利润率并建立其自由现金流势头。]]></description>
-      <guid>https://www.cnbc.com/2024/07/24/goldman-sachs-says-this-audio-streaming-giant-is-primed-to-rally-nearly-30percent.html</guid>
-      <pubDate>Wed, 24 Jul 2024 13:56:03 GMT</pubDate>
-    </item>
-    <item>
       <title>CrowdStrike 称质量控制流程中的错误导致更新失败</title>
       <link>https://www.cnbc.com/2024/07/24/crowdstrike-says-bug-in-quality-control-process-led-to-botched-update.html</link>
       <description><![CDATA[CrowdStrike 表示：“由于内容验证器存在错误，两个模板实例中的一个尽管包含有问题的内容数据，但仍通过了验证。”]]></description>
@@ -62,25 +83,11 @@
       <pubDate>Wed, 24 Jul 2024 13:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>这就是为什么你明年的加薪幅度可能会较小</title>
-      <link>https://www.cnbc.com/2024/07/24/why-you-may-get-a-smaller-pay-raise-in-2025.html</link>
-      <description><![CDATA[一项民意调查显示，公司预计到 2025 年普通工人的年薪涨幅将从 4.5% 降至 4.1%。]]></description>
-      <guid>https://www.cnbc.com/2024/07/24/why-you-may-get-a-smaller-pay-raise-in-2025.html</guid>
-      <pubDate>Wed, 24 Jul 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>全球两天内第二次打破高温纪录</title>
       <link>https://www.cnbc.com/2024/07/24/climate-crisis-world-shatters-heat-record-for-second-consecutive-day.html</link>
       <description><![CDATA[根据欧盟气候监测机构最新收集的数据，全球在短短两天内第二次经历了有记录以来的最热一天。]]></description>
       <guid>https://www.cnbc.com/2024/07/24/climate-crisis-world-shatters-heat-record-for-second-consecutive-day.html</guid>
       <pubDate>Wed, 24 Jul 2024 12:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国国王查尔斯获利，皇家地产利润飙升至 14 亿美元以上</title>
-      <link>https://www.cnbc.com/2024/07/24/king-charles-cashes-in-as-crown-estate-profits-surge-to-1point4-billion.html</link>
-      <description><![CDATA[据官方记录显示，英国国王查尔斯的公共财产利润增长一倍多，因此其薪水将增加 4500 万英镑（5800 万美元）。]]></description>
-      <guid>https://www.cnbc.com/2024/07/24/king-charles-cashes-in-as-crown-estate-profits-surge-to-1point4-billion.html</guid>
-      <pubDate>Wed, 24 Jul 2024 12:46:21 GMT</pubDate>
     </item>
     <item>
       <title>伊隆·马斯克希望特斯拉向其最新创业公司 xAI 投资 50 亿美元——前提是股东批准</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[上周抵押贷款利率略有下降，但不足以让今天的潜在购房者放心。]]></description>
       <guid>https://www.cnbc.com/2024/07/24/mortgage-demand-drops-as-homebuyers-wait-for-lower-rates.html</guid>
       <pubDate>Wed, 24 Jul 2024 11:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>回顾：哈里斯在民意调查中与特朗普势均力敌，威斯康星州集会吸引了 3,000 名支持者</title>
-      <link>https://www.cnbc.com/2024/07/23/live-updates-harris-nomination-biden-endorsements-trump.html</link>
-      <description><![CDATA[美国副总统卡马拉·哈里斯在民意调查中对唐纳德·特朗普的支持率正在上升，她正在寻找竞选搭档。]]></description>
-      <guid>https://www.cnbc.com/2024/07/23/live-updates-harris-nomination-biden-endorsements-trump.html</guid>
-      <pubDate>Tue, 23 Jul 2024 22:28:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
