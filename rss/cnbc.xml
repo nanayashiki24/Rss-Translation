@@ -4,7 +4,7 @@
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 24 Jul 2024 09:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 09:27:00 GMT</lastBuildDate>
     <item>
       <title>全球最大奢侈品集团 LVMH 第二季度营收低于预期，股价下跌 4%</title>
       <link>https://www.cnbc.com/2024/07/24/worlds-largest-luxury-group-lvmh-slumps-5percent-after-reporting-revenue-miss.html</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Alphabet 和特斯拉公布业绩后纳斯达克期货下跌：实时更新</title>
       <link>https://www.cnbc.com/2024/07/23/stock-market-today-live-updates.html</link>
-      <description><![CDATA[这两家科技巨头公布季度财报后，Alphabet 和特斯拉的股价在盘后交易中走低。]]></description>
+      <description><![CDATA[这两家科技巨头公布季度财报后，其股价在盘后交易中走低。]]></description>
       <guid>https://www.cnbc.com/2024/07/23/stock-market-today-live-updates.html</guid>
       <pubDate>Wed, 24 Jul 2024 09:02:02 GMT</pubDate>
     </item>
@@ -39,13 +39,6 @@
       <description><![CDATA[根据欧盟气候监测机构的数据，周日全球平均气温升至有记录以来的最高水平。]]></description>
       <guid>https://www.cnbc.com/2024/07/23/climate-crisis-world-logs-hottest-day-since-records-began.html</guid>
       <pubDate>Wed, 24 Jul 2024 08:06:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克表示，预计中国将在今年年底前批准特斯拉的全自动驾驶</title>
-      <link>https://www.cnbc.com/2024/07/24/musk-says-he-expects-china-to-approve-full-self-driving-by-year-end.html</link>
-      <description><![CDATA[在报告令人失望的收益后，特斯拉首席执行官埃隆马斯克再次宣称即将在中国推出先进的驾驶辅助软件。]]></description>
-      <guid>https://www.cnbc.com/2024/07/24/musk-says-he-expects-china-to-approve-full-self-driving-by-year-end.html</guid>
-      <pubDate>Wed, 24 Jul 2024 07:29:57 GMT</pubDate>
     </item>
     <item>
       <title>西班牙桑坦德银行零售业务表现亮眼，净利润上涨 20%</title>
@@ -78,7 +71,7 @@
     <item>
       <title>美泰首席执行官回避收购报告，称他对玩具制造商作为“独立公司”的战略充满信心</title>
       <link>https://www.cnbc.com/2024/07/23/mattel-ceos-confident-in-strategy-amid-takeover-rumors.html</link>
-      <description><![CDATA[美泰公司首席执行官伊农·克瑞兹 (Ynon Kreiz) 在周二接受 CNBC 的吉姆·克莱默 (Jim Cramer) 采访时表示，他对芭比娃娃制造商作为一家独立公司所取得的成功持乐观态度。]]></description>
+      <description><![CDATA[美泰公司首席执行官伊诺·克瑞兹 (Ynon Kreiz) 在周二接受 CNBC 的吉姆·克莱默 (Jim Cramer) 采访时表示，他对芭比娃娃制造商作为一家独立公司所取得的成功持乐观态度。]]></description>
       <guid>https://www.cnbc.com/2024/07/23/mattel-ceos-confident-in-strategy-amid-takeover-rumors.html</guid>
       <pubDate>Tue, 23 Jul 2024 23:01:31 GMT</pubDate>
     </item>
@@ -97,6 +90,13 @@
       <pubDate>Tue, 23 Jul 2024 22:20:19 GMT</pubDate>
     </item>
     <item>
+      <title>Lyft 总裁 Kristin Sverchek 将于 8 月离职20</title>
+      <link>https://www.cnbc.com/2024/07/23/lyft-president-kristin-sverchek-to-exit-on-aug-20.html</link>
+      <description><![CDATA[该叫车公司表示，斯维尔切克的离职并非由于公司、董事会或管理层内部存在分歧。]]></description>
+      <guid>https://www.cnbc.com/2024/07/23/lyft-president-kristin-sverchek-to-exit-on-aug-20.html</guid>
+      <pubDate>Tue, 23 Jul 2024 22:08:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Alphabet 盈利符合预期，但 YouTube 广告收入未达预期</title>
       <link>https://www.cnbc.com/2024/07/23/alphabet-set-to-report-q2-earnings-results-after-the-bell.html</link>
       <description><![CDATA[谷歌母公司 Alphabet 在盘后公布了业绩。]]></description>
@@ -104,11 +104,11 @@
       <pubDate>Tue, 23 Jul 2024 21:59:57 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 重新任命顶级人工智能安全主管 Aleksandr Madry 担任专注于人工智能推理的职务</title>
-      <link>https://www.cnbc.com/2024/07/23/openai-removes-ai-safety-executive-aleksander-madry-from-role.html</link>
-      <description><![CDATA[据消息人士透露，OpenAI 上周将公司高级安全主管之一亚历山大·马德里 (Aleksander Madry) 的职务解除，并将他调往人工智能推理部门。]]></description>
-      <guid>https://www.cnbc.com/2024/07/23/openai-removes-ai-safety-executive-aleksander-madry-from-role.html</guid>
-      <pubDate>Tue, 23 Jul 2024 21:48:15 GMT</pubDate>
+      <title>美国国税局发布继承 IRA 的最终规则 — 但专业人士称许多人在税收方面“错失良机”</title>
+      <link>https://www.cnbc.com/2024/07/23/irs-final-rules-inherited-ira-withdrawals.html</link>
+      <description><![CDATA[美国国税局已最终确定了某些继承的个人退休账户和其他计划的强制提款规则。以下是它可能对您的税收产生的影响。]]></description>
+      <guid>https://www.cnbc.com/2024/07/23/irs-final-rules-inherited-ira-withdrawals.html</guid>
+      <pubDate>Tue, 23 Jul 2024 21:17:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
