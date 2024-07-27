@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Sat, 27 Jul 2024 16:39:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Sat, 27 Jul 2024 16:54:00 GMT</lastBuildDate>
+    <item>
+      <title>美国司法部称 TikTok 收集了美国用户对堕胎和枪支管制等问题的看法</title>
+      <link>https://www.cnbc.com/2024/07/27/justice-dept-asks-court-to-reject-tiktok-challenge-to-crackdown-law.html</link>
+      <description><![CDATA[美国司法部周五请求联邦上诉法院维持 4 月份的一项法律，该法律要求字节跳动在 1 月 19 日之前出售 TikTok 的美国资产，否则将面临禁令。]]></description>
+      <guid>https://www.cnbc.com/2024/07/27/justice-dept-asks-court-to-reject-tiktok-challenge-to-crackdown-law.html</guid>
+      <pubDate>Sat, 27 Jul 2024 16:53:53 GMT</pubDate>
+    </item>
     <item>
       <title>随着哈里斯势头增强，特朗普的比特币演讲旨在锁定加密货币支持</title>
       <link>https://www.cnbc.com/2024/07/27/trump-bitcoin-conference-harris.html</link>
@@ -43,7 +50,7 @@
     <item>
       <title>这些是今天华尔街最大的空头，包括这只悲观的汽车股</title>
       <link>https://www.cnbc.com/2024/07/27/these-are-the-biggest-shorts-on-wall-street-today-including-this-downbeat-auto-stock.html</link>
-      <description><![CDATA[过去一个月，空头持仓量小幅上升。]]></description>
+      <description><![CDATA[过去一个月，空头仓位略有增加。]]></description>
       <guid>https://www.cnbc.com/2024/07/27/these-are-the-biggest-shorts-on-wall-street-today-including-this-downbeat-auto-stock.html</guid>
       <pubDate>Sat, 27 Jul 2024 12:50:36 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>卡马拉·哈里斯的最新财务披露揭示了她的投资组合</title>
       <link>https://www.cnbc.com/2024/07/26/what-kamala-harris-financial-disclosure-reveals-about-her-investments.html</link>
-      <description><![CDATA[金融专家用一个词来总结副总统卡玛拉·哈里斯最近披露的个人资产：无聊。但这并不是一件坏事。]]></description>
+      <description><![CDATA[金融专家用一个词来总结副总统卡马拉·哈里斯最近披露的个人资产：无聊。但这并不是一件坏事。]]></description>
       <guid>https://www.cnbc.com/2024/07/26/what-kamala-harris-financial-disclosure-reveals-about-her-investments.html</guid>
       <pubDate>Fri, 26 Jul 2024 21:47:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[起诉书指控卖空者安德鲁·莱夫特 (Andrew Left) 犯有与 Nvidia 交易相关的罪行，以及隐瞒其与 Citron Capital 的关系。]]></description>
       <guid>https://www.cnbc.com/2024/07/26/short-seller-andrew-left-charged-with-fraud-by-prosecutors-sec.html</guid>
       <pubDate>Fri, 26 Jul 2024 16:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普出席纳什维尔会议 比特币飙升</title>
-      <link>https://www.cnbc.com/video/2024/07/26/bitcoin-surges-as-conference-welcomes-donald-trump-to-nashville.html</link>
-      <description><![CDATA[CNBC 的麦肯齐·西加洛斯 (MacKenzie Sigalos) 在纳什维尔报道了共和党总统候选人和加密投票集团之间新形成的联盟。]]></description>
-      <guid>https://www.cnbc.com/video/2024/07/26/bitcoin-surges-as-conference-welcomes-donald-trump-to-nashville.html</guid>
-      <pubDate>Fri, 26 Jul 2024 11:10:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
