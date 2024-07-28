@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sun, 28 Jul 2024 16:31:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Sun, 28 Jul 2024 17:13:00 GMT</lastBuildDate>
+    <item>
+      <title>足球场上火箭弹致 12 人死亡 以色列誓言打击真主党</title>
+      <link>https://www.cnbc.com/2024/07/28/israel-vows-to-hit-hezbollah-after-rocket-kills-12-on-football-field.html</link>
+      <description><![CDATA[真主党否认对迈季代勒沙姆斯袭击事件负责，这是自 10 月 7 日哈马斯袭击以来，以色列或以色列吞并领土上发生的最惨重袭击事件。]]></description>
+      <guid>https://www.cnbc.com/2024/07/28/israel-vows-to-hit-hezbollah-after-rocket-kills-12-on-football-field.html</guid>
+      <pubDate>Sun, 28 Jul 2024 16:51:01 GMT</pubDate>
+    </item>
     <item>
       <title>《死侍与金刚狼》首映票房达 2.05 亿美元，创 R 级电影首映票房最高纪录</title>
       <link>https://www.cnbc.com/2024/07/28/deadpool-and-wolverine-box-office-opening-tops-205-million.html</link>
@@ -20,17 +27,17 @@
       <pubDate>Sun, 28 Jul 2024 13:35:01 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能需要大量的电力和水，而老化的美国电网无法承受这种负荷</title>
-      <link>https://www.cnbc.com/2024/07/28/how-the-massive-power-draw-of-generative-ai-is-overtaxing-our-grid.html</link>
-      <description><![CDATA[为了支持生成式人工智能，数据中心正在快速建设，人们越来越担心我们是否能够产生足够的电力来推动这一增长。]]></description>
-      <guid>https://www.cnbc.com/2024/07/28/how-the-massive-power-draw-of-generative-ai-is-overtaxing-our-grid.html</guid>
-      <pubDate>Sun, 28 Jul 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>这位传记作者在监狱里与伯尼·麦道夫互发电子邮件长达十年。以下是他了解到的情况</title>
       <link>https://www.cnbc.com/2024/07/28/richard-behar-exchanged-emails-with-bernie-madoff-for-a-decade.html</link>
       <description><![CDATA[理查德·贝哈尔的新传记《麦道夫：最后的话》带领读者回顾了这位诈骗犯在监狱的最后几年以及之前发生的一切。]]></description>
       <guid>https://www.cnbc.com/2024/07/28/richard-behar-exchanged-emails-with-bernie-madoff-for-a-decade.html</guid>
+      <pubDate>Sun, 28 Jul 2024 13:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成式人工智能需要大量的电力和水，而老化的美国电网无法承受这种负荷</title>
+      <link>https://www.cnbc.com/2024/07/28/how-the-massive-power-draw-of-generative-ai-is-overtaxing-our-grid.html</link>
+      <description><![CDATA[为了支持生成式人工智能，数据中心正在快速建设，人们越来越担心我们是否能够产生足够的电力来推动这一增长。]]></description>
+      <guid>https://www.cnbc.com/2024/07/28/how-the-massive-power-draw-of-generative-ai-is-overtaxing-our-grid.html</guid>
       <pubDate>Sun, 28 Jul 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
@@ -83,13 +90,6 @@
       <pubDate>Sat, 27 Jul 2024 19:15:17 GMT</pubDate>
     </item>
     <item>
-      <title>气候变化正在使社区变得绅士化。在迈阿密，居民担心高昂的价格——以及迷失的灵魂</title>
-      <link>https://www.cnbc.com/2024/07/27/climate-gentrification-fuels-higher-prices-for-longtime-miami-residents.html</link>
-      <description><![CDATA[迈阿密以前不受房地产开发商青睐的街区，由于气候风险较低而变得受欢迎，从而推高了房价。]]></description>
-      <guid>https://www.cnbc.com/2024/07/27/climate-gentrification-fuels-higher-prices-for-longtime-miami-residents.html</guid>
-      <pubDate>Sat, 27 Jul 2024 17:55:05 GMT</pubDate>
-    </item>
-    <item>
       <title>美国对熟练电工的需求正进入繁荣周期</title>
       <link>https://www.cnbc.com/2024/07/27/americas-demand-skilled-electricians-boom.html</link>
       <description><![CDATA[人工智能数据中心、电动汽车、芯片、可再生能源和气候电网升级将使电工成为未来几年美国需求量很大的职业。]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>卡马拉·哈里斯的最新财务披露揭示了她的投资组合</title>
       <link>https://www.cnbc.com/2024/07/26/what-kamala-harris-financial-disclosure-reveals-about-her-investments.html</link>
-      <description><![CDATA[金融专家用一个词来总结副总统卡马拉·哈里斯最近披露的个人资产：无聊。但这并不是一件坏事。]]></description>
+      <description><![CDATA[金融专家用一个词来总结副总统卡玛拉·哈里斯最近披露的个人资产：无聊。但这并不是一件坏事。]]></description>
       <guid>https://www.cnbc.com/2024/07/26/what-kamala-harris-financial-disclosure-reveals-about-her-investments.html</guid>
       <pubDate>Fri, 26 Jul 2024 21:47:22 GMT</pubDate>
     </item>
