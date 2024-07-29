@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
     <lastBuildDate>Mon, 29 Jul 2024 04:54:00 GMT</lastBuildDate>
     <item>
-      <title>委内瑞拉总统尼古拉斯·马杜罗赢得第三任期，选举当局称，与出口民意调查结果相矛盾</title>
+      <title>科技股收益激增，股指期货小幅上涨</title>
+      <link>https://www.cnbc.com/2024/07/28/stock-futures-are-little-changed-ahead-of-loaded-week-for-tech-earnings.html</link>
+      <description><![CDATA[苹果和微软的业绩以及美联储会议是未来一周的关键事件。]]></description>
+      <guid>https://www.cnbc.com/2024/07/28/stock-futures-are-little-changed-ahead-of-loaded-week-for-tech-earnings.html</guid>
+      <pubDate>Mon, 29 Jul 2024 06:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>委内瑞拉马杜罗和反对派均宣布赢得总统选举</title>
       <link>https://www.cnbc.com/2024/07/29/maduro-wins-third-term-contradicting-exit-polls.html</link>
-      <description><![CDATA[委内瑞拉选举管理部门周一宣布，已对 80% 的选票进行统计，委内瑞拉总统尼古拉斯·马杜罗以 51% 的得票率赢得第三个任期。]]></description>
+      <description><![CDATA[选举当局表示，尽管多个出口民调显示反对派获胜，但马杜罗已以 51% 的得票率赢得第三个任期。]]></description>
       <guid>https://www.cnbc.com/2024/07/29/maduro-wins-third-term-contradicting-exit-polls.html</guid>
-      <pubDate>Mon, 29 Jul 2024 04:52:33 GMT</pubDate>
+      <pubDate>Mon, 29 Jul 2024 06:09:51 GMT</pubDate>
     </item>
     <item>
       <title>麦当劳即将公布财报。以下是预期内容</title>
@@ -46,13 +53,6 @@
       <description><![CDATA[本周美国股市的波动是否是买入机会？投资者如何交易标普 500 指数？两位投资组合经理和一位策略师给出了答案。]]></description>
       <guid>https://www.cnbc.com/2024/07/29/how-to-trade-the-sp-500-after-the-sell-off-according-to-the-pros.html</guid>
       <pubDate>Sun, 28 Jul 2024 23:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技股收益激增，股指期货小幅上涨</title>
-      <link>https://www.cnbc.com/2024/07/28/stock-futures-are-little-changed-ahead-of-loaded-week-for-tech-earnings.html</link>
-      <description><![CDATA[苹果和微软的业绩以及美联储会议是未来一周的关键事件。]]></description>
-      <guid>https://www.cnbc.com/2024/07/28/stock-futures-are-little-changed-ahead-of-loaded-week-for-tech-earnings.html</guid>
-      <pubDate>Sun, 28 Jul 2024 22:56:57 GMT</pubDate>
     </item>
     <item>
       <title>特朗普未建立比特币战略储备</title>
