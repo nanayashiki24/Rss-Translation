@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 09:16:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 30 Jul 2024 09:35:00 GMT</lastBuildDate>
     <item>
-      <title>欧元区经济第二季度增长 0.3%，尽管德国经济萎缩，但仍高于预期</title>
+      <title>欧元区第二季度经济增长 0.3% 高于预期，尽管德国经济萎缩</title>
       <link>https://www.cnbc.com/2024/07/30/euro-zone-gdp-q2-2024.html</link>
       <description><![CDATA[欧盟统计局周二公布的初值显示，2024年第二季度欧元区经济增长超过预期。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/euro-zone-gdp-q2-2024.html</guid>
-      <pubDate>Tue, 30 Jul 2024 09:09:11 GMT</pubDate>
+      <pubDate>Tue, 30 Jul 2024 09:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>尊尼获加制造商帝亚吉欧因全年销售额下滑而下跌 10%，但吉尼斯成为亮点</title>
+      <link>https://www.cnbc.com/2024/07/30/diageo-plunges-10percent-on-sales-decline-but-guinness-a-bright-spot.html</link>
+      <description><![CDATA[烈酒巨头帝亚吉欧 (Diageo) 的股价周二上午暴跌，此前该公司公布了自疫情爆发以来的首次销售下滑。]]></description>
+      <guid>https://www.cnbc.com/2024/07/30/diageo-plunges-10percent-on-sales-decline-but-guinness-a-bright-spot.html</guid>
+      <pubDate>Tue, 30 Jul 2024 09:23:38 GMT</pubDate>
     </item>
     <item>
       <title>关键企业财报公布前，股指期货小幅走高：实时更新</title>
@@ -18,20 +25,6 @@
       <description><![CDATA[投资者等待多份关键业绩报告以及美联储政策会议的开始。]]></description>
       <guid>https://www.cnbc.com/2024/07/29/stock-market-today-live-updates.html</guid>
       <pubDate>Tue, 30 Jul 2024 09:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>尊尼获加制造商帝亚吉欧因全年销售额下滑而下跌 10%，但吉尼斯成为亮点</title>
-      <link>https://www.cnbc.com/2024/07/30/diageo-plunges-10percent-on-sales-decline-but-guinness-a-bright-spot.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.cnbc.com/2024/07/30/diageo-plunges-10percent-on-sales-decline-but-guinness-a-bright-spot.html</guid>
-      <pubDate>Tue, 30 Jul 2024 08:51:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>马杜罗宣布赢得有争议的选举结果后，委内瑞拉爆发抗议活动</title>
-      <link>https://www.cnbc.com/2024/07/30/venezuela-protests-erupt-after-maduro-claims-victory-in-disputed-vote.html</link>
-      <description><![CDATA[周一，数千名抗议者走上加拉加斯街头，谴责马杜罗声称将获得第三个六年任期。]]></description>
-      <guid>https://www.cnbc.com/2024/07/30/venezuela-protests-erupt-after-maduro-claims-victory-in-disputed-vote.html</guid>
-      <pubDate>Tue, 30 Jul 2024 08:45:04 GMT</pubDate>
     </item>
     <item>
       <title>石油巨头 BP 提高股息，因第二季度利润超出预期</title>
@@ -48,6 +41,13 @@
       <pubDate>Tue, 30 Jul 2024 02:31:42 GMT</pubDate>
     </item>
     <item>
+      <title>特朗普在哈里斯辩论中摇摆不定，称他可以“提出理由”跳过辩论</title>
+      <link>https://www.cnbc.com/2024/07/29/harris-trump-debate-abc-fox.html</link>
+      <description><![CDATA[前总统唐纳德·特朗普表示，虽然他“很可能”会与副总统卡马拉·哈里斯进行辩论，但他“也可能提出理由”拒绝这样做。]]></description>
+      <guid>https://www.cnbc.com/2024/07/29/harris-trump-debate-abc-fox.html</guid>
+      <pubDate>Tue, 30 Jul 2024 01:46:20 GMT</pubDate>
+    </item>
+    <item>
       <title>基金经理称，这 4 家公司（包括一家由沃伦·巴菲特支持的公司）可以利用其独家数据来利用人工智能</title>
       <link>https://www.cnbc.com/2024/07/30/these-4-companies-can-leverage-ai-with-exclusive-data-fund-manager.html</link>
       <description><![CDATA[Tema ETFs 的 Yuri Khodjamirian 表示，人工智能的下一轮增长将来自拥有“高质量、值得信赖、精心整合”数据的公司。]]></description>
@@ -62,11 +62,18 @@
       <pubDate>Tue, 30 Jul 2024 00:15:13 GMT</pubDate>
     </item>
     <item>
-      <title>经济放缓期间中国超级富豪把财富藏在哪里？</title>
-      <link>https://www.cnbc.com/2024/07/30/where-are-chinas-ultra-rich-parking-their-wealth-amid-a-slowing-economy.html</link>
-      <description><![CDATA[预计到 2028 年，中国超级富豪人数将从 2023 年的 98,551 人增至 144,897 人，他们将把财富存放在哪里呢？]]></description>
-      <guid>https://www.cnbc.com/2024/07/30/where-are-chinas-ultra-rich-parking-their-wealth-amid-a-slowing-economy.html</guid>
-      <pubDate>Mon, 29 Jul 2024 23:13:40 GMT</pubDate>
+      <title>哈里斯副总裁候选人名单上挤满了能够筹集大笔资金的竞争者</title>
+      <link>https://www.cnbc.com/2024/07/29/harris-vp-shortlist-can-raise-big-money.html</link>
+      <description><![CDATA[副总统卡马拉·哈里斯必须想办法继续筹集大量资金，以与前总统唐纳德·特朗普抗衡。]]></description>
+      <guid>https://www.cnbc.com/2024/07/29/harris-vp-shortlist-can-raise-big-money.html</guid>
+      <pubDate>Mon, 29 Jul 2024 23:12:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>卖空者安德鲁·莱夫特在洛杉矶认罪证券欺诈指控，将在法庭上接受审判</title>
+      <link>https://www.cnbc.com/2024/07/29/andrew-left-citron-capital-securities-fraud-los-angeles.html</link>
+      <description><![CDATA[安德鲁·莱夫特 (Andrew Left) 的律师预测，针对香橼资本老板的证券欺诈起诉将会失败，原因有很多。]]></description>
+      <guid>https://www.cnbc.com/2024/07/29/andrew-left-citron-capital-securities-fraud-los-angeles.html</guid>
+      <pubDate>Mon, 29 Jul 2024 22:48:12 GMT</pubDate>
     </item>
     <item>
       <title>Diamond Sports 与康卡斯特达成协议，将 Bally 地区体育赛事返还给有线电视客户</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[在经历了一系列的影院失误之后，漫威影业试图扭转局面，《死侍与金刚狼》打破了票房纪录。]]></description>
       <guid>https://www.cnbc.com/2024/07/29/disney-marvel-deadpool-wolverine-new-direction.html</guid>
       <pubDate>Mon, 29 Jul 2024 20:42:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果发布了备受期待的 iPhone AI 的首个预览版</title>
-      <link>https://www.cnbc.com/2024/07/29/apple-releases-apple-intelligence-its-long-awaited-ai-features.html</link>
-      <description><![CDATA[苹果周一发布了 Apple Intelligence 的首个版本。]]></description>
-      <guid>https://www.cnbc.com/2024/07/29/apple-releases-apple-intelligence-its-long-awaited-ai-features.html</guid>
-      <pubDate>Mon, 29 Jul 2024 17:43:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
