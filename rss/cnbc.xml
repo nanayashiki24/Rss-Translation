@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 21:53:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 30 Jul 2024 22:36:00 GMT</lastBuildDate>
     <item>
       <title>微软股价下跌，因为云计算业绩不及预期掩盖了好于预期的收入和收益</title>
       <link>https://www.cnbc.com/2024/07/30/microsoft-msft-q4-earnings-report-2024.html</link>
       <description><![CDATA[微软表示，向云客户提供人工智能服务方面仍面临供应限制。但高管们呼吁加速云业务。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/microsoft-msft-q4-earnings-report-2024.html</guid>
-      <pubDate>Tue, 30 Jul 2024 22:14:15 GMT</pubDate>
+      <pubDate>Tue, 30 Jul 2024 22:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街等​​待美联储决议，标普 500 指数期货基本持平：实时更新</title>
+      <link>https://www.cnbc.com/2024/07/30/stock-market-today-live-updates.html</link>
+      <description><![CDATA[微软股价在盘后交易中暴跌，交易员等待美联储的利率政策决定。]]></description>
+      <guid>https://www.cnbc.com/2024/07/30/stock-market-today-live-updates.html</guid>
+      <pubDate>Tue, 30 Jul 2024 22:35:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 称数据中心销售额一年内增长一倍以上</title>
+      <link>https://www.cnbc.com/2024/07/30/amd-earnings-report-q2-2024.html</link>
+      <description><![CDATA[尽管 AMD 是仅次于 Nvidia 的第二大数据中心 GPU 供应商，但今年迄今为止其股价仍下跌了约 7%。]]></description>
+      <guid>https://www.cnbc.com/2024/07/30/amd-earnings-report-q2-2024.html</guid>
+      <pubDate>Tue, 30 Jul 2024 22:26:45 GMT</pubDate>
     </item>
     <item>
       <title>星巴克收入不及预期，同店销售额连续第二个季度下滑</title>
@@ -25,13 +39,6 @@
       <description><![CDATA[Fundstrat 研究主管预计小型股将领涨。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/fundstrats-tom-lee-makes-a-bold-call-calling-for-big-rally-post-fed.html</guid>
       <pubDate>Tue, 30 Jul 2024 22:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 称数据中心销售额一年内增长一倍以上</title>
-      <link>https://www.cnbc.com/2024/07/30/amd-earnings-report-q2-2024.html</link>
-      <description><![CDATA[尽管 AMD 是仅次于 Nvidia 的第二大数据中心 GPU 供应商，但到 2024 年，其股价仍下跌了约 7%。]]></description>
-      <guid>https://www.cnbc.com/2024/07/30/amd-earnings-report-q2-2024.html</guid>
-      <pubDate>Tue, 30 Jul 2024 21:59:57 GMT</pubDate>
     </item>
     <item>
       <title>First Solar 第二季度业绩超出预期，但由于选举不确定性维持预测不变</title>
@@ -60,13 +67,6 @@
       <description><![CDATA[这些是盘后交易中波动最大的股票。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/stocks-making-the-biggest-moves-after-hours-msft-anet-amd-sbux.html</guid>
       <pubDate>Tue, 30 Jul 2024 21:12:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>标普 500 指数和纳斯达克指数周二收低，因投资者在重大收益报告公布前抛售科技股：实时更新</title>
-      <link>https://www.cnbc.com/2024/07/29/stock-market-today-live-updates.html</link>
-      <description><![CDATA[投资者消化了多份关键的盈利报告，并期待美联储政策会议的开始。]]></description>
-      <guid>https://www.cnbc.com/2024/07/29/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 30 Jul 2024 21:10:05 GMT</pubDate>
     </item>
     <item>
       <title>卫材研究称，服用阿尔茨海默病药物 Leqembi 的患者在三年内获得益处</title>
@@ -99,7 +99,7 @@
     <item>
       <title>卖家重返 Nvidia 之际需要关注的关键价格支撑位</title>
       <link>https://www.cnbc.com/2024/07/30/the-key-price-support-levels-to-watch-as-sellers-return-to-nvidia.html</link>
-      <description><![CDATA[托德·戈登 (Todd Gordon) 对本月大获成功的曾经的人工智能宠儿的排行榜进行了分析。]]></description>
+      <description><![CDATA[托德·戈登 (Todd Gordon) 对曾经的人工智能宠儿本月大获成功的排行榜进行了分析。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/the-key-price-support-levels-to-watch-as-sellers-return-to-nvidia.html</guid>
       <pubDate>Tue, 30 Jul 2024 16:58:04 GMT</pubDate>
     </item>
