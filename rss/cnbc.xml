@@ -3,14 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 30 Jul 2024 14:15:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 30 Jul 2024 14:31:00 GMT</lastBuildDate>
     <item>
-      <title>捷蓝航空意外盈利 30 亿美元飞机支出推迟 股价上涨 17%</title>
+      <title>Meta 同意就德克萨斯州生物特征数据诉讼达成 14 亿美元和解</title>
+      <link>https://www.cnbc.com/2024/07/30/meta-agrees-to-1point4-billion-settlement-in-texas-biometric-data-lawsuit.html</link>
+      <description><![CDATA[德克萨斯州对 Meta 提起的诉讼涉及 Facebook 所有者未经授权获取和使用照片和视频中的生物特征数据。]]></description>
+      <guid>https://www.cnbc.com/2024/07/30/meta-agrees-to-1point4-billion-settlement-in-texas-biometric-data-lawsuit.html</guid>
+      <pubDate>Tue, 30 Jul 2024 14:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>标普 500 指数上涨，因交易员权衡最新收益、美联储决策迫在眉睫：实时更新</title>
+      <link>https://www.cnbc.com/2024/07/29/stock-market-today-live-updates.html</link>
+      <description><![CDATA[投资者消化了多份关键的盈利报告，并期待美联储政策会议的开始。]]></description>
+      <guid>https://www.cnbc.com/2024/07/29/stock-market-today-live-updates.html</guid>
+      <pubDate>Tue, 30 Jul 2024 14:36:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>捷蓝航空意外盈利 30 亿美元飞机支出推迟 股价上涨 20%</title>
       <link>https://www.cnbc.com/2024/07/30/jetblue-shares-second-quarter-surprise-profit.html</link>
       <description><![CDATA[捷蓝航空推迟交付更多空客飞机以节省成本]]></description>
       <guid>https://www.cnbc.com/2024/07/30/jetblue-shares-second-quarter-surprise-profit.html</guid>
-      <pubDate>Tue, 30 Jul 2024 14:08:51 GMT</pubDate>
+      <pubDate>Tue, 30 Jul 2024 14:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦监管机构称亚马逊可能对其市场上销售的有缺陷商品承担责任</title>
+      <link>https://www.cnbc.com/2024/07/30/cpsc-says-amazon-responsible-for-faulty-goods-sold-on-its-marketplace.html</link>
+      <description><![CDATA[一位法官表示，亚马逊针对卖家的履行计划赋予了其对其平台上销售的产品“广泛控制权”。]]></description>
+      <guid>https://www.cnbc.com/2024/07/30/cpsc-says-amazon-responsible-for-faulty-goods-sold-on-its-marketplace.html</guid>
+      <pubDate>Tue, 30 Jul 2024 14:24:34 GMT</pubDate>
     </item>
     <item>
       <title>美国银行将高盛列为首选金融股，并给出了推动该股上涨的三个催化剂</title>
@@ -27,14 +48,7 @@
       <pubDate>Tue, 30 Jul 2024 14:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>标普 500 指数上涨，因交易员权衡最新收益、美联储决策迫在眉睫：实时更新</title>
-      <link>https://www.cnbc.com/2024/07/29/stock-market-today-live-updates.html</link>
-      <description><![CDATA[投资者消化了多份关键的盈利报告，并期待美联储政策会议的开始。]]></description>
-      <guid>https://www.cnbc.com/2024/07/29/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 30 Jul 2024 13:55:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>比尔·阿克曼寻求通过潘兴广场基金 IPO 筹集 20 亿美元，低于最初的预期</title>
+      <title>比尔·阿克曼寻求通过潘兴广场基金 IPO 筹集 20 亿美元，低于最初预期</title>
       <link>https://www.cnbc.com/2024/07/30/bill-ackman-seeking-to-raise-2-billion-in-pershing-square-fund-ipo-lower-than-original-expectations.html</link>
       <description><![CDATA[Pershing Square USA 的 IPO 将以封闭式基金的形式进行，预计将持有与阿克曼的其他投资工具相同的许多仓位。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/bill-ackman-seeking-to-raise-2-billion-in-pershing-square-fund-ipo-lower-than-original-expectations.html</guid>
@@ -48,13 +62,6 @@
       <pubDate>Tue, 30 Jul 2024 13:03:29 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯面临持续制裁，考虑将加密货币合法化用于全球支付</title>
-      <link>https://www.cnbc.com/2024/07/30/russia-considers-legalizing-crypto-as-a-form-of-payment-amid-sanctions.html</link>
-      <description><![CDATA[俄罗斯央行行长表示，俄罗斯议会将考虑一项允许通过加密货币进行国际支付的法律。]]></description>
-      <guid>https://www.cnbc.com/2024/07/30/russia-considers-legalizing-crypto-as-a-form-of-payment-amid-sanctions.html</guid>
-      <pubDate>Tue, 30 Jul 2024 12:56:18 GMT</pubDate>
-    </item>
-    <item>
       <title>在今年最大的航空展上，波音和空客的订单量都很低。供应链担忧并没有</title>
       <link>https://www.cnbc.com/2024/07/30/farnborough-air-show-boeing-airbus-orders-supply-chain-woes.html</link>
       <description><![CDATA[本周将发布未来几个月的生产路线图，届时空客将于周二公布季度业绩，波音将于周三公布业绩。]]></description>
@@ -64,7 +71,7 @@
     <item>
       <title>辉瑞盈利超出预期，因制药商削减成本上调全年业绩预期</title>
       <link>https://www.cnbc.com/2024/07/30/pfizer-pfe-earnings-q2-2024.html</link>
-      <description><![CDATA[在辉瑞公司新冠产品需求急剧下降之后，该公司正努力稳定业务并重新赢得华尔街的青睐。]]></description>
+      <description><![CDATA[在辉瑞公司新冠产品需求急剧下降之后，辉瑞公司正努力稳定业务并重新赢得华尔街的青睐。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/pfizer-pfe-earnings-q2-2024.html</guid>
       <pubDate>Tue, 30 Jul 2024 12:49:40 GMT</pubDate>
     </item>
@@ -81,13 +88,6 @@
       <description><![CDATA[Neuralink 竞争对手 Synchron 宣布与 Apple Vision Pro 整合。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/neuralink-rival-synchron-offers-thought-control-with-apple-vision-pro-.html</guid>
       <pubDate>Tue, 30 Jul 2024 12:41:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普在哈里斯辩论中摇摆不定，称他可以“提出理由”跳过辩论</title>
-      <link>https://www.cnbc.com/2024/07/29/harris-trump-debate-abc-fox.html</link>
-      <description><![CDATA[前总统唐纳德·特朗普表示，虽然他“很可能”会与副总统卡马拉·哈里斯进行辩论，但他“也可以提出理由”拒绝这样做。]]></description>
-      <guid>https://www.cnbc.com/2024/07/29/harris-trump-debate-abc-fox.html</guid>
-      <pubDate>Tue, 30 Jul 2024 12:22:58 GMT</pubDate>
     </item>
     <item>
       <title>美国原油跌破每桶 76 美元，为 6 月初以来的最低水平</title>
