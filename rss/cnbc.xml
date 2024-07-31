@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 31 Jul 2024 09:10:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 31 Jul 2024 09:30:00 GMT</lastBuildDate>
+    <item>
+      <title>即使通胀达到目标，英国央行降息仍是难得的机会</title>
+      <link>https://www.cnbc.com/2024/07/31/bank-of-englands-rate-cut-is-on-a-knife-edge.html</link>
+      <description><![CDATA[央行货币政策委员会投票成员意见分歧。]]></description>
+      <guid>https://www.cnbc.com/2024/07/31/bank-of-englands-rate-cut-is-on-a-knife-edge.html</guid>
+      <pubDate>Wed, 31 Jul 2024 09:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>有报道称美国将免除盟友对中国芯片的新限制，ASML 股价上涨 7%</title>
+      <link>https://www.cnbc.com/2024/07/31/us-reportedly-will-exempt-allies-from-china-chip-controls-asml-shares-rise.html</link>
+      <description><![CDATA[据路透社报道，美国正考虑扩大对中国的芯片出口限制，但荷兰、日本等国家将被排除在外。]]></description>
+      <guid>https://www.cnbc.com/2024/07/31/us-reportedly-will-exempt-allies-from-china-chip-controls-asml-shares-rise.html</guid>
+      <pubDate>Wed, 31 Jul 2024 09:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>欧元区 7 月通胀率升至 2.6%，高于预期</title>
       <link>https://www.cnbc.com/2024/07/31/euro-zone-inflation-july-2024.html</link>
       <description><![CDATA[欧盟统计机构周三公布，6月份欧元区整体通胀率意外升至2.6%。]]></description>
       <guid>https://www.cnbc.com/2024/07/31/euro-zone-inflation-july-2024.html</guid>
-      <pubDate>Wed, 31 Jul 2024 09:08:09 GMT</pubDate>
+      <pubDate>Wed, 31 Jul 2024 09:22:05 GMT</pubDate>
     </item>
     <item>
       <title>查看你的电子邮件：美国政府正在向数百万人发送有关学生贷款减免资格的通知</title>
@@ -20,25 +34,18 @@
       <pubDate>Wed, 31 Jul 2024 09:00:01 GMT</pubDate>
     </item>
     <item>
+      <title>特朗普将在黑人记者大会上发表讲话，哈里斯抹去了他在民调中的领先优势</title>
+      <link>https://www.cnbc.com/2024/07/31/trump-black-journalist-convention-nabj.html</link>
+      <description><![CDATA[此次活动使前总统唐纳德·特朗普在与副总统卡马拉·哈里斯的竞选中有机会直接吸引有色人种选民。]]></description>
+      <guid>https://www.cnbc.com/2024/07/31/trump-black-journalist-convention-nabj.html</guid>
+      <pubDate>Wed, 31 Jul 2024 09:00:01 GMT</pubDate>
+    </item>
+    <item>
       <title>石油分析师指出中东局势“恶化阶段” 布伦特原油突破每桶 80 美元</title>
       <link>https://www.cnbc.com/2024/07/31/brent-tops-80-per-barrel-as-analyst-flags-phase-of-deterioration-in-the-middle-east.html</link>
       <description><![CDATA[伊朗声称哈马斯政治领袖伊斯梅尔·哈尼亚遇刺的消息再度引发中东紧张局势，支撑了油价。]]></description>
       <guid>https://www.cnbc.com/2024/07/31/brent-tops-80-per-barrel-as-analyst-flags-phase-of-deterioration-in-the-middle-east.html</guid>
       <pubDate>Wed, 31 Jul 2024 08:56:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使通胀达到目标，英国央行的降息仍岌岌可危</title>
-      <link>https://www.cnbc.com/2024/07/31/bank-of-englands-rate-cut-is-on-a-knife-edge.html</link>
-      <description><![CDATA[央行货币政策委员会投票成员意见分歧。]]></description>
-      <guid>https://www.cnbc.com/2024/07/31/bank-of-englands-rate-cut-is-on-a-knife-edge.html</guid>
-      <pubDate>Wed, 31 Jul 2024 08:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>有报道称美国将免除盟友对中国芯片的新限制，ASML 股价上涨 7%</title>
-      <link>https://www.cnbc.com/2024/07/31/us-reportedly-will-exempt-allies-from-china-chip-controls-asml-shares-rise.html</link>
-      <description><![CDATA[据路透社报道，美国正考虑扩大对中国的芯片出口限制，但荷兰、日本等国家将被排除在外。]]></description>
-      <guid>https://www.cnbc.com/2024/07/31/us-reportedly-will-exempt-allies-from-china-chip-controls-asml-shares-rise.html</guid>
-      <pubDate>Wed, 31 Jul 2024 08:42:15 GMT</pubDate>
     </item>
     <item>
       <title>梦想的代价：为何成为奥运会运动员如此昂贵</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[本周的美联储会议可能对现在没有太大影响，但可能对未来有很大影响。]]></description>
       <guid>https://www.cnbc.com/2024/07/30/federal-reserve-decision-on-wednesday-what-you-need-to-know.html</guid>
       <pubDate>Tue, 30 Jul 2024 21:25:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝拉·哈迪德对阿迪达斯与 1972 年慕尼黑奥运会相关的广告宣传中“缺乏敏感性”表示“震惊”</title>
-      <link>https://www.cnbc.com/2024/07/30/bella-hadid-breaks-silence-on-adidas-campaign-linked-to-1972-munich-olympics.html</link>
-      <description><![CDATA[哈迪德表示，她不知道1972年慕尼黑奥运会的历史事件，如果她知道的话，她就不会参加这次活动。]]></description>
-      <guid>https://www.cnbc.com/2024/07/30/bella-hadid-breaks-silence-on-adidas-campaign-linked-to-1972-munich-olympics.html</guid>
-      <pubDate>Tue, 30 Jul 2024 15:51:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
