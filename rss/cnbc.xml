@@ -3,8 +3,29 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 20:32:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Mon, 05 Aug 2024 20:38:00 GMT</lastBuildDate>
+    <item>
+      <title>北卡罗来纳州选举委员会在选民数据投诉后调查伊隆马斯克的亲特朗普政治行动委员会</title>
+      <link>https://www.cnbc.com/2024/08/05/trump-elon-musk-pac-election-north-carolina.html</link>
+      <description><![CDATA[埃隆·马斯克称，他创建了美国政治行动委员会 (America PAC)，并支持唐纳德·特朗普。该委员会对不同战场州的网站用户采取不同的对待方式。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/trump-elon-musk-pac-election-north-carolina.html</guid>
+      <pubDate>Mon, 05 Aug 2024 20:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lucid 从沙特股东处获得 15 亿美元现金注入，收入超出预期</title>
+      <link>https://www.cnbc.com/2024/08/05/lucid-gets-1point5-billion-cash-infusion-from-saudi-shareholder-beats-revenue-estimates.html</link>
+      <description><![CDATA[Lucid Group 周一表示，其最大股东沙特阿拉伯公共投资基金将注入 15 亿美元现金，因为这家电动汽车制造商希望在其产品线中增加新车型。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/lucid-gets-1point5-billion-cash-infusion-from-saudi-shareholder-beats-revenue-estimates.html</guid>
+      <pubDate>Mon, 05 Aug 2024 20:40:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palantir 因 AI 实力上调年度营收预期，股价飙升</title>
+      <link>https://www.cnbc.com/2024/08/05/palantir-raises-annual-revenue-forecast-on-ai-strength-shares-surge.html</link>
+      <description><![CDATA[周一，Palantir Technologies 今年第二次上调了年度营收预期，这是生成式人工智能热潮推动其软件服务需求的最新迹象。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/palantir-raises-annual-revenue-forecast-on-ai-strength-shares-surge.html</guid>
+      <pubDate>Mon, 05 Aug 2024 20:37:33 GMT</pubDate>
+    </item>
     <item>
       <title>华尔街的“恐慌指数”——VIX——创下 2020 年疫情导致的市场暴跌以来的最高水平</title>
       <link>https://www.cnbc.com/2024/08/05/wall-streets-fear-gauge-the-vix-rises-to-the-highest-since-2020.html</link>
@@ -15,16 +36,9 @@
     <item>
       <title>道琼斯指数暴跌 1,000 点，标普 500 指数创下 2022 年以来最糟糕的一天，全球市场遭遇抛售：实时更新</title>
       <link>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</link>
-      <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压下跌。纳斯达克综合指数周五进入调整阶段，随后也出现下跌。]]></description>
+      <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压下跌。纳斯达克综合指数周五进入回调阶段，随后美国股市也出现下跌。]]></description>
       <guid>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</guid>
       <pubDate>Mon, 05 Aug 2024 20:34:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lucid 从沙特股东处获得 15 亿美元现金注入，收入超出预期</title>
-      <link>https://www.cnbc.com/2024/08/05/lucid-gets-1point5-billion-cash-infusion-from-saudi-shareholder-beats-revenue-estimates.html</link>
-      <description><![CDATA[Lucid Group 周一表示，其最大股东沙特阿拉伯公共投资基金将注入 15 亿美元现金，因为这家电动汽车制造商希望在其产品线中增加新车型。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/lucid-gets-1point5-billion-cash-infusion-from-saudi-shareholder-beats-revenue-estimates.html</guid>
-      <pubDate>Mon, 05 Aug 2024 20:25:33 GMT</pubDate>
     </item>
     <item>
       <title>嘉信理财和其他经纪公司的一些客户报告称，在市场抛售期间登录时出现问题</title>
@@ -41,7 +55,7 @@
       <pubDate>Mon, 05 Aug 2024 20:19:35 GMT</pubDate>
     </item>
     <item>
-      <title>1万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
+      <title>1 万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
       <link>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</link>
       <description><![CDATA[周一开盘时，美国七家最有价值的科技公司的市值总计蒸发 1 万亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</guid>
@@ -62,25 +76,11 @@
       <pubDate>Mon, 05 Aug 2024 19:35:18 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普将股市崩盘归咎于哈里斯和拜登，此前他曾将股市上涨归功于自己</title>
-      <link>https://www.cnbc.com/2024/08/05/trump-harris-biden-stock-market-election.html</link>
-      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 在一月份表示，股市创下历史新高是因为投资者认为他将击败总统乔·拜登 (Joe Biden)。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/trump-harris-biden-stock-market-election.html</guid>
-      <pubDate>Mon, 05 Aug 2024 19:10:03 GMT</pubDate>
-    </item>
-    <item>
       <title>由于对经济衰退的担忧导致全球市场抛售，比特币大幅下跌：CNBC Crypto World</title>
       <link>https://www.cnbc.com/video/2024/08/05/bitcoin-plunges-recession-fears-global-market-sell-off-crypto-world.html</link>
       <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来的情况。在今天的节目中，Bitwise Asset Management 首席投资官 Matt Hougan 讨论了全球市场抛售期间加密市场的大幅下跌。]]></description>
       <guid>https://www.cnbc.com/video/2024/08/05/bitcoin-plunges-recession-fears-global-market-sell-off-crypto-world.html</guid>
       <pubDate>Mon, 05 Aug 2024 19:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>北卡罗来纳州检察长办公室在选民数据投诉后关注伊隆·马斯克的亲特朗普政治行动委员会</title>
-      <link>https://www.cnbc.com/2024/08/05/trump-elon-musk-pac-election-north-carolina.html</link>
-      <description><![CDATA[埃隆·马斯克称，他创建了美国政治行动委员会 (America PAC)，并支持唐纳德·特朗普。该委员会对不同战场州的网站用户采取不同的对待方式。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/trump-elon-musk-pac-election-north-carolina.html</guid>
-      <pubDate>Mon, 05 Aug 2024 18:55:26 GMT</pubDate>
     </item>
     <item>
       <title>沃伦·巴菲特决定在抛售前出售股票并筹集创纪录的现金，这敲响了警钟</title>
