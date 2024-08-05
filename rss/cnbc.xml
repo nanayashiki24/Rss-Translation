@@ -3,21 +3,77 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 11:15:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Mon, 05 Aug 2024 12:35:00 GMT</lastBuildDate>
     <item>
-      <title>道指期货下跌 800 点，标普期货下跌 3%，因全球市场抛售加剧：实时更新</title>
+      <title>全球股市暴跌加剧，道指期货暴跌 1,200 点：实时更新</title>
       <link>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</link>
       <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压。纳斯达克综合指数周五进入调整阶段，随后美国股市也出现下跌。]]></description>
       <guid>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</guid>
-      <pubDate>Mon, 05 Aug 2024 11:23:59 GMT</pubDate>
+      <pubDate>Mon, 05 Aug 2024 12:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>随着经济衰退担忧加剧，10 年期美国国债收益率跌至一年多以来的最低水平</title>
-      <link>https://www.cnbc.com/2024/08/05/us-treasurys-recession-concerns-take-hold-.html</link>
-      <description><![CDATA[由于担心美国经济衰退可能持续，全球股市出现抛售，投资者纷纷涌向传统上更安全的资产，导致美国国债收益率下降。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/us-treasurys-recession-concerns-take-hold-.html</guid>
-      <pubDate>Mon, 05 Aug 2024 11:21:02 GMT</pubDate>
+      <title>受市场抛售影响，美国原油跌破每桶 72 美元，创六个月新低</title>
+      <link>https://www.cnbc.com/2024/08/05/crude-oil-prices-today.html</link>
+      <description><![CDATA[由于人们越来越担心经济衰退即将来临，美国疲软的经济数据引发了股市的抛售。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/crude-oil-prices-today.html</guid>
+      <pubDate>Mon, 05 Aug 2024 12:32:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>顶级投资者对市场抛售的看法：不要恐慌，危机尚未到来</title>
+      <link>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</link>
+      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市纷纷遭遇抛售。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</guid>
+      <pubDate>Mon, 05 Aug 2024 12:30:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>盘前涨幅最大的股票：Nvidia、Apple、Kellanova 等</title>
+      <link>https://www.cnbc.com/2024/08/05/stocks-making-the-biggest-moves-premarket-nvda-aapl-k.html</link>
+      <description><![CDATA[这些是盘前交易中波动最大的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/stocks-making-the-biggest-moves-premarket-nvda-aapl-k.html</guid>
+      <pubDate>Mon, 05 Aug 2024 12:21:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia、Super Micro Computer 领跌 AI 交易市场，两家公司股价均下跌逾 12%</title>
+      <link>https://www.cnbc.com/2024/08/05/nvidia-super-micro-computer-lead-ai-trade-carnage-with-both-stocks-down-more-than-12percent.html</link>
+      <description><![CDATA[由于对美国经济衰退的担忧引发全球华尔街抛售，推动 2024 年市场大部分上涨的人工智能股周一下跌。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/nvidia-super-micro-computer-lead-ai-trade-carnage-with-both-stocks-down-more-than-12percent.html</guid>
+      <pubDate>Mon, 05 Aug 2024 12:15:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃顿商学院的杰里米·西格尔表示，美联储需要紧急降息</title>
+      <link>https://www.cnbc.com/2024/08/05/whartons-jeremy-siegel-says-fed-needs-to-make-an-emergency-rate-cut.html</link>
+      <description><![CDATA[沃顿商学院的杰里米·西格尔在周五的就业报告发布后呼吁美联储紧急将联邦基金利率下调 75 个基点。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/whartons-jeremy-siegel-says-fed-needs-to-make-an-emergency-rate-cut.html</guid>
+      <pubDate>Mon, 05 Aug 2024 12:14:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>以下是周一最大的分析师电话会议：Nvidia、Netflix、苹果、沃尔玛、迪士尼、波音、Robinhood、伯克希尔哈撒韦等</title>
+      <link>https://www.cnbc.com/2024/08/05/mondays-wall-street-analyst-calls-like-nvidia.html</link>
+      <description><![CDATA[以下是周一华尔街最大的电话会议。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/mondays-wall-street-analyst-calls-like-nvidia.html</guid>
+      <pubDate>Mon, 05 Aug 2024 12:13:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃伦·巴菲特的伯克希尔·哈撒韦公司减持苹果一半股份后，苹果股价下跌 7%</title>
+      <link>https://www.cnbc.com/2024/08/05/apple-shares-drop-7percent-after-warren-buffetts-berkshire-hathaway-slashes-stake-by-half.html</link>
+      <description><![CDATA[伯克希尔哈撒韦公司在其盈利报告中披露，其抛售了略高于 49% 的苹果股份。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/apple-shares-drop-7percent-after-warren-buffetts-berkshire-hathaway-slashes-stake-by-half.html</guid>
+      <pubDate>Mon, 05 Aug 2024 12:05:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰最终派遣 F-16 与俄罗斯交战——但它们可能不会改变局势</title>
+      <link>https://www.cnbc.com/2024/08/05/how-can-f-16s-help-ukraine-fight-russia.html</link>
+      <description><![CDATA[周日乌克兰首次展示了其首架 F-16 战斗机，这对乌克兰来说是一个关键时刻。这架飞机在战斗中将发挥怎样的作用还有待观察。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/how-can-f-16s-help-ukraine-fight-russia.html</guid>
+      <pubDate>Mon, 05 Aug 2024 11:57:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街的“恐慌指数”——VIX——升至 2020 年疫情导致的市场暴跌以来的最高水平</title>
+      <link>https://www.cnbc.com/2024/08/05/wall-streets-fear-gauge-the-vix-rises-to-the-highest-since-2020.html</link>
+      <description><![CDATA[芝加哥期权交易所波动率指数周一上午突破 50，高于周五的 23 左右]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/wall-streets-fear-gauge-the-vix-rises-to-the-highest-since-2020.html</guid>
+      <pubDate>Mon, 05 Aug 2024 11:49:37 GMT</pubDate>
     </item>
     <item>
       <title>比特币自 2 月份以来首次跌破 50,000 美元</title>
@@ -34,20 +90,6 @@
       <pubDate>Mon, 05 Aug 2024 11:12:37 GMT</pubDate>
     </item>
     <item>
-      <title>飓风黛比以一级风暴形式登陆佛罗里达州北部</title>
-      <link>https://www.cnbc.com/2024/08/05/hurricane-debby-to-bring-flooding-to-florida-georgia-south-carolina.html</link>
-      <description><![CDATA[预报员警告称，飓风黛比带来的强降雨可能在佛罗里达州、南卡罗来纳州和佐治亚州引发灾难性的洪水。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/hurricane-debby-to-bring-flooding-to-florida-georgia-south-carolina.html</guid>
-      <pubDate>Mon, 05 Aug 2024 11:12:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街对历史性全球抛售作出反应：市场正处于“积极风险规避”状态</title>
-      <link>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</link>
-      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市正在遭遇抛售。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</guid>
-      <pubDate>Mon, 05 Aug 2024 11:10:53 GMT</pubDate>
-    </item>
-    <item>
       <title>每个人都在谈论 Sahm 衰退指标。以下是您需要了解的内容</title>
       <link>https://www.cnbc.com/2024/08/05/recession-what-is-the-sahm-rule-and-why-is-everyone-talking-about-it.html</link>
       <description><![CDATA[投资者已经转向最久经考验的指标之一来判断美国经济是否陷入衰退。]]></description>
@@ -62,53 +104,11 @@
       <pubDate>Mon, 05 Aug 2024 10:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰最终派遣 F-16 与俄罗斯交战——但它们可能不会改变局势</title>
-      <link>https://www.cnbc.com/2024/08/05/how-can-f-16s-help-ukraine-fight-russia.html</link>
-      <description><![CDATA[周日乌克兰首次展示了其首架 F-16 战斗机，这对乌克兰来说是一个关键时刻。这架飞机在战斗中将发挥怎样的作用还有待观察。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/how-can-f-16s-help-ukraine-fight-russia.html</guid>
-      <pubDate>Mon, 05 Aug 2024 09:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本日经指数创下 1987 年黑色星期一崩盘以来最大单日跌幅</title>
-      <link>https://www.cnbc.com/2024/08/05/asia-markets.html</link>
-      <description><![CDATA[日经指数下跌 12.4%，是自 1987 年“黑色星期一”以来表现最差的一天。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/asia-markets.html</guid>
-      <pubDate>Mon, 05 Aug 2024 07:44:26 GMT</pubDate>
-    </item>
-    <item>
       <title>CrowdStrike 表示，达美航空 7 月航班中断后，其责任不在于自己</title>
       <link>https://www.cnbc.com/2024/08/05/crowdstrike-says-it-isnt-to-blame-for-deltas-flight-cancellations-after-outage.html</link>
       <description><![CDATA[达美航空首席执行官艾德·巴斯蒂安表示，公司计划向微软和 Crowdstrike 寻求赔偿。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/crowdstrike-says-it-isnt-to-blame-for-deltas-flight-cancellations-after-outage.html</guid>
       <pubDate>Mon, 05 Aug 2024 05:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>前特朗普白宫官员、数十名共和党人支持哈里斯</title>
-      <link>https://www.cnbc.com/2024/08/04/trump-white-house-kamala-harris-election.html</link>
-      <description><![CDATA[自总统乔·拜登 7 月退出竞选并支持卡玛拉·哈里斯以来，哈里斯的民意调查支持率飙升。]]></description>
-      <guid>https://www.cnbc.com/2024/08/04/trump-white-house-kamala-harris-election.html</guid>
-      <pubDate>Sun, 04 Aug 2024 15:09:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>科尔维特“教父”退役 推出电动车、衍生车型和高性能 SUV</title>
-      <link>https://www.cnbc.com/2024/08/04/retiring-corvette-godfather-on-evs-spinoff-and-a-performance-suv.html</link>
-      <description><![CDATA[通用汽车现代科尔维特的“教父”塔吉·朱赫特 (Tadge Juechter) 于周三退休，他为通用汽车工作了约 47 年，其中 31 年致力于科尔维特。]]></description>
-      <guid>https://www.cnbc.com/2024/08/04/retiring-corvette-godfather-on-evs-spinoff-and-a-performance-suv.html</guid>
-      <pubDate>Sun, 04 Aug 2024 13:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃伦·巴菲特削减股票持有量后将伯克希尔的现金水平提高至创纪录的 2770 亿美元</title>
-      <link>https://www.cnbc.com/2024/08/03/berkshire-hathaway-earnings-2024-q2.html</link>
-      <description><![CDATA[随着沃伦·巴菲特继续抛售他曾经最喜爱的苹果股票，伯克希尔哈撒韦公司的现金储备激增至创纪录的 2769 亿美元。]]></description>
-      <guid>https://www.cnbc.com/2024/08/03/berkshire-hathaway-earnings-2024-q2.html</guid>
-      <pubDate>Sat, 03 Aug 2024 14:26:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>“套利交易”终结？日元可能如何冲击美国股市</title>
-      <link>https://www.cnbc.com/2024/08/02/carry-trade-how-japans-yen-could-be-ripping-through-us-stocks.html</link>
-      <description><![CDATA[一位金融历史学家表示，全球市场的主要驱动力是日元汇率。]]></description>
-      <guid>https://www.cnbc.com/2024/08/02/carry-trade-how-japans-yen-could-be-ripping-through-us-stocks.html</guid>
-      <pubDate>Fri, 02 Aug 2024 12:35:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
