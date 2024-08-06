@@ -3,14 +3,28 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 06 Aug 2024 05:21:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 06 Aug 2024 05:58:00 GMT</lastBuildDate>
     <item>
-      <title>日本股市在历史性下跌后反弹逾 7%；其他亚洲市场也出现复苏</title>
+      <title>石油巨头沙特阿美第二季度利润因原油产量下降而下降 3%</title>
+      <link>https://www.cnbc.com/2024/08/06/saudi-aramco-second-quarter-profit-dips-amid-lower-production-volumes.html</link>
+      <description><![CDATA[沙特阿美公布第二季度净利润 291 亿美元，较去年同期下降 3.2%，因为产量仍然很低。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/saudi-aramco-second-quarter-profit-dips-amid-lower-production-volumes.html</guid>
+      <pubDate>Tue, 06 Aug 2024 06:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本股市在历史性下跌后反弹 9%；其他亚洲市场也出现复苏</title>
       <link>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</link>
       <description><![CDATA[此次反弹是在美国大幅抛售之后出现的，道琼斯指数和标准普尔 500 指数均创下了 2022 年 9 月以来的最差表现。]]></description>
       <guid>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</guid>
-      <pubDate>Tue, 06 Aug 2024 05:23:26 GMT</pubDate>
+      <pubDate>Tue, 06 Aug 2024 06:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合国教科文组织使用紧急程序将加沙遗址列入“世界遗产”和“濒危”名单</title>
+      <link>https://www.cnbc.com/2024/08/06/unesco-names-gaza-site-to-both-its-world-heritage-and-in-danger-lists.html</link>
+      <description><![CDATA[联合国教科文组织表示，将圣希拉里翁修道院/泰尔乌姆阿梅尔修道院列入两份名录的决定反映了该遗址的固有价值和保护必要性。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/unesco-names-gaza-site-to-both-its-world-heritage-and-in-danger-lists.html</guid>
+      <pubDate>Tue, 06 Aug 2024 05:46:37 GMT</pubDate>
     </item>
     <item>
       <title>标普 500 指数期货在指数创下近两年来最差单日表现后反弹：实时更新</title>
@@ -25,13 +39,6 @@
       <description><![CDATA[莱坊报告预测，未来几年印度有望成为全球超高净值个人数量增长最快的国家。]]></description>
       <guid>https://www.cnbc.com/2024/08/06/indias-ultra-rich-club-is-growing-heres-what-theyre-investing-in.html</guid>
       <pubDate>Tue, 06 Aug 2024 05:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国教科文组织使用紧急程序将加沙遗址列入“世界遗产”和“濒危”名单</title>
-      <link>https://www.cnbc.com/2024/08/06/unesco-names-gaza-site-to-both-its-world-heritage-and-in-danger-lists.html</link>
-      <description><![CDATA[联合国教科文组织表示，将圣希拉里翁修道院/泰尔乌姆阿梅尔修道院列入两份名录的决定反映了该遗址的固有价值和保护必要性。]]></description>
-      <guid>https://www.cnbc.com/2024/08/06/unesco-names-gaza-site-to-both-its-world-heritage-and-in-danger-lists.html</guid>
-      <pubDate>Tue, 06 Aug 2024 04:09:57 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 联合创始人约翰·舒尔曼表示将离职并加入竞争对手 Anthropic</title>
@@ -62,13 +69,6 @@
       <pubDate>Mon, 05 Aug 2024 23:11:39 GMT</pubDate>
     </item>
     <item>
-      <title>官员称，美国驻伊拉克基地遭袭击，造成人员受伤</title>
-      <link>https://www.cnbc.com/2024/08/05/us-personnel-wounded-in-attack-against-base-in-iraq-officials-say.html</link>
-      <description><![CDATA[周一，伊拉克一处军事基地遭到袭击，至少有 5 名美国人员受伤。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/us-personnel-wounded-in-attack-against-base-in-iraq-officials-say.html</guid>
-      <pubDate>Mon, 05 Aug 2024 22:31:12 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌在搜索反垄断诉讼中败诉</title>
       <link>https://www.cnbc.com/2024/08/05/google-loses-antitrust-case-over-search.html</link>
       <description><![CDATA[联邦法官周一裁定，谷歌非法垄断搜索和文字广告]]></description>
@@ -78,7 +78,7 @@
     <item>
       <title>顶级投资者对市场抛售的看法：不要惊慌，但未来还会有更多损失</title>
       <link>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</link>
-      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市纷纷遭遇抛售。]]></description>
+      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市正在遭遇抛售。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</guid>
       <pubDate>Mon, 05 Aug 2024 21:12:42 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 05 Aug 2024 20:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>1 万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
+      <title>1万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
       <link>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</link>
       <description><![CDATA[周一开盘时，美国七家最有价值的科技公司的市值总计蒸发 1 万亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</guid>
