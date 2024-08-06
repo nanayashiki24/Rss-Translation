@@ -3,12 +3,40 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 05 Aug 2024 23:16:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 06 Aug 2024 01:09:00 GMT</lastBuildDate>
+    <item>
+      <title>日本股市在历史性下跌后反弹逾 10%；其他亚洲市场也出现复苏</title>
+      <link>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</link>
+      <description><![CDATA[此次反弹是在美国大幅抛售之后出现的，道琼斯指数和标准普尔 500 指数均创下了 2022 年 9 月以来的最差表现。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</guid>
+      <pubDate>Tue, 06 Aug 2024 01:17:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Robinhood 表示，由于第三方场所的问题，周一将不会进行 24 小时交易</title>
+      <link>https://www.cnbc.com/2024/08/05/robinhood-no-24-hour-trading-monday-due-to-issue-at-third-party-venue.html</link>
+      <description><![CDATA[该经纪公司表示，与其合作进行全天候交易的第三方公司 Blue Ocean ATS 已暂停隔夜市场。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/robinhood-no-24-hour-trading-monday-due-to-issue-at-third-party-venue.html</guid>
+      <pubDate>Tue, 06 Aug 2024 00:12:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>现金流出？这些是今年迄今为止表现最好的固定收益基金</title>
+      <link>https://www.cnbc.com/2024/08/06/moving-out-of-cash-the-top-performing-fixed-income-funds-this-year.html</link>
+      <description><![CDATA[抛售现金——自今年早些时候降息预期开始上升以来，许多华尔街人士就一直在说这句话。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/moving-out-of-cash-the-top-performing-fixed-income-funds-this-year.html</guid>
+      <pubDate>Mon, 05 Aug 2024 23:13:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>“热钱正在说再见”：日本基金经理在抛售中指出表现优异的板块值得买入</title>
+      <link>https://www.cnbc.com/2024/08/06/japan-fund-manager-names-outperforming-sector-to-buy-amid-sell-off.html</link>
+      <description><![CDATA[该基金经理所提名的ETF和股票均表现出色。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/japan-fund-manager-names-outperforming-sector-to-buy-amid-sell-off.html</guid>
+      <pubDate>Mon, 05 Aug 2024 23:11:39 GMT</pubDate>
+    </item>
     <item>
       <title>周二的重大股票新闻：什么可能会在下一个交易日影响市场</title>
       <link>https://www.cnbc.com/2024/08/05/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html</link>
-      <description><![CDATA[以下是周一股市暴跌之后 CNBC 电视台在周二交易时段关注的焦点。]]></description>
+      <description><![CDATA[以下是周一股市暴跌之后，CNBC 电视台在周二交易时段关注的焦点。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html</guid>
       <pubDate>Mon, 05 Aug 2024 22:46:34 GMT</pubDate>
     </item>
@@ -18,13 +46,6 @@
       <description><![CDATA[上个月大规模全球计算机中断导致网络安全公司 CrowdStrike 的法律麻烦在周一进一步加深，因为这家网络安全公司被航班延误或取消的旅客起诉。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/crowdstrike-is-sued-by-fliers-after-massive-outage-disrupts-air-travel.html</guid>
       <pubDate>Mon, 05 Aug 2024 22:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>前特朗普竞选律师詹娜·埃利斯配合亚利桑那州假选举人案的起诉</title>
-      <link>https://www.cnbc.com/2024/08/05/former-trump-campaign-lawyer-jenna-ellis-cooperating-with-prosecutors-in-arizona-fake-electors-case.html</link>
-      <description><![CDATA[亚利桑那州假选举人案的被告包括特朗普盟友鲁迪·朱利安尼、马克·梅多斯和约翰·伊斯特曼。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/former-trump-campaign-lawyer-jenna-ellis-cooperating-with-prosecutors-in-arizona-fake-electors-case.html</guid>
-      <pubDate>Mon, 05 Aug 2024 22:35:55 GMT</pubDate>
     </item>
     <item>
       <title>官员称，美国驻伊拉克基地遭袭击，造成人员受伤</title>
@@ -43,7 +64,7 @@
     <item>
       <title>道琼斯指数暴跌 1,000 点，标普 500 指数创下 2022 年以来最糟糕的一天，全球市场遭遇抛售：实时更新</title>
       <link>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</link>
-      <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压下跌。纳斯达克综合指数周五进入回调阶段，随后美国股市也出现下跌。]]></description>
+      <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压下跌。纳斯达克综合指数周五进入调整阶段，随后也出现下跌。]]></description>
       <guid>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</guid>
       <pubDate>Mon, 05 Aug 2024 21:33:42 GMT</pubDate>
     </item>
@@ -57,23 +78,9 @@
     <item>
       <title>顶级投资者对市场抛售的看法：不要惊慌，但未来还会有更多损失</title>
       <link>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</link>
-      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市纷纷遭遇抛售。]]></description>
+      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市正在遭遇抛售。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</guid>
       <pubDate>Mon, 05 Aug 2024 21:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lucid 从沙特股东处获得 15 亿美元现金注入，收入超出预期</title>
-      <link>https://www.cnbc.com/2024/08/05/lucid-gets-1point5-billion-cash-infusion-from-saudi-shareholder-beats-revenue-estimates.html</link>
-      <description><![CDATA[Lucid Group 周一表示，其最大股东沙特阿拉伯公共投资基金将注入 15 亿美元现金，因为这家电动汽车制造商希望在其产品线中增加新车型。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/lucid-gets-1point5-billion-cash-infusion-from-saudi-shareholder-beats-revenue-estimates.html</guid>
-      <pubDate>Mon, 05 Aug 2024 20:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Palantir 因 AI 实力上调年度营收预期，股价飙升</title>
-      <link>https://www.cnbc.com/2024/08/05/palantir-raises-annual-revenue-forecast-on-ai-strength-shares-surge.html</link>
-      <description><![CDATA[周一，Palantir Technologies 今年第二次上调了年度营收预期，这是生成式人工智能热潮推动其软件服务需求的最新迹象。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/palantir-raises-annual-revenue-forecast-on-ai-strength-shares-surge.html</guid>
-      <pubDate>Mon, 05 Aug 2024 20:37:33 GMT</pubDate>
     </item>
     <item>
       <title>华尔街的“恐慌指数”——VIX——创下 2020 年疫情导致的市场暴跌以来的最高水平</title>
@@ -83,18 +90,11 @@
       <pubDate>Mon, 05 Aug 2024 20:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>1 万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
+      <title>1万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
       <link>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</link>
       <description><![CDATA[周一开盘时，美国七家最有价值的科技公司的市值总计蒸发 1 万亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</guid>
       <pubDate>Mon, 05 Aug 2024 20:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资者希望美联储拯救市场，但紧急降息可能会让情况变得更糟</title>
-      <link>https://www.cnbc.com/2024/08/05/investors-want-the-fed-to-save-the-market-but-an-emergency-cut-could-make-things-worse.html</link>
-      <description><![CDATA[美联储降息可能给日元“套利交易”带来更大压力，这被视为股市下跌的一个关键原因。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/investors-want-the-fed-to-save-the-market-but-an-emergency-cut-could-make-things-worse.html</guid>
-      <pubDate>Mon, 05 Aug 2024 19:50:54 GMT</pubDate>
     </item>
     <item>
       <title>由于市场对衰退的担忧导致抛售，美国原油跌至六个月低点</title>
@@ -104,11 +104,11 @@
       <pubDate>Mon, 05 Aug 2024 19:26:57 GMT</pubDate>
     </item>
     <item>
-      <title>由于对经济衰退的担忧导致全球市场抛售，比特币大幅下跌：CNBC Crypto World</title>
-      <link>https://www.cnbc.com/video/2024/08/05/bitcoin-plunges-recession-fears-global-market-sell-off-crypto-world.html</link>
-      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来的情况。在今天的节目中，Bitwise Asset Management 首席投资官 Matt Hougan 讨论了全球市场抛售期间加密市场的大幅下跌。]]></description>
-      <guid>https://www.cnbc.com/video/2024/08/05/bitcoin-plunges-recession-fears-global-market-sell-off-crypto-world.html</guid>
-      <pubDate>Mon, 05 Aug 2024 19:00:01 GMT</pubDate>
+      <title>无需护照：新加坡在樟宜机场启用生物识别移民处理系统</title>
+      <link>https://www.cnbc.com/2024/08/05/no-passports-needed-singapore-launches-biometric-processing-at-airport.html</link>
+      <description><![CDATA[新加坡在樟宜机场启动旅客入境检查试点，使用生物特征数据代替护照检查。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/no-passports-needed-singapore-launches-biometric-processing-at-airport.html</guid>
+      <pubDate>Mon, 05 Aug 2024 03:58:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
