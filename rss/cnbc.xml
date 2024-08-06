@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 06 Aug 2024 02:04:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 06 Aug 2024 02:33:00 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 联合创始人约翰·舒尔曼表示将离职并加入竞争对手 Anthropic</title>
+      <link>https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html</link>
+      <description><![CDATA[舒尔曼表示，OpenAI 高管仍致力于支持确保人类能够控制高性能人工智能模型的努力。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/openai-co-founder-john-schulman-says-he-will-join-rival-anthropic.html</guid>
+      <pubDate>Tue, 06 Aug 2024 02:33:14 GMT</pubDate>
+    </item>
     <item>
       <title>Robinhood 表示，由于第三方场所的问题，周一将不会进行 24 小时交易</title>
       <link>https://www.cnbc.com/2024/08/05/robinhood-no-24-hour-trading-monday-due-to-issue-at-third-party-venue.html</link>
@@ -57,21 +64,14 @@
     <item>
       <title>道琼斯指数暴跌 1,000 点，标普 500 指数创下 2022 年以来最糟糕的一天，全球市场遭遇抛售：实时更新</title>
       <link>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</link>
-      <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压下跌。纳斯达克综合指数周五进入回调阶段，随后美国股市也出现下跌。]]></description>
+      <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压下跌。纳斯达克综合指数周五进入调整阶段，随后也出现下跌。]]></description>
       <guid>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</guid>
       <pubDate>Mon, 05 Aug 2024 21:33:42 GMT</pubDate>
     </item>
     <item>
-      <title>盘后涨幅最大的股票：Palantir Technologies、Lucid Group、CSX 等</title>
-      <link>https://www.cnbc.com/2024/08/05/stocks-making-the-biggest-moves-after-hours-pltr-lcid-csx.html</link>
-      <description><![CDATA[看看收盘后哪些股票出现大幅波动。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/stocks-making-the-biggest-moves-after-hours-pltr-lcid-csx.html</guid>
-      <pubDate>Mon, 05 Aug 2024 21:26:39 GMT</pubDate>
-    </item>
-    <item>
       <title>顶级投资者对市场抛售的看法：不要惊慌，但未来还会有更多损失</title>
       <link>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</link>
-      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市纷纷遭遇抛售。]]></description>
+      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市正在遭遇抛售。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</guid>
       <pubDate>Mon, 05 Aug 2024 21:12:42 GMT</pubDate>
     </item>
