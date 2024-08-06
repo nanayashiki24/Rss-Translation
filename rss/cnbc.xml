@@ -3,21 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Tue, 06 Aug 2024 15:00:00 GMT</lastBuildDate>
+    <item>
+      <title>道琼斯指数上涨 200 点，标准普尔 500 指数上涨 1%，华尔街从抛售中反弹：实时更新</title>
+      <link>https://www.cnbc.com/2024/08/05/stock-market-today-live-updates.html</link>
+      <description><![CDATA[由于全球市场遭遇抛售，标准普尔 500 指数在创下近两年来最大单日跌幅之后，昨日有所回升。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/stock-market-today-live-updates.html</guid>
+      <pubDate>Tue, 06 Aug 2024 15:35:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克因对英国骚乱发表评论而受到英国政府的猛烈批评</title>
+      <link>https://www.cnbc.com/2024/08/06/uk-slams-elon-musk-after-billionaire-comments-on-riots.html</link>
+      <description><![CDATA[英国亿万富翁埃隆·马斯克对英国各地发生的极右翼骚乱发表有争议的言论后，英国政府进行了反击。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/uk-slams-elon-musk-after-billionaire-comments-on-riots.html</guid>
+      <pubDate>Tue, 06 Aug 2024 15:28:43 GMT</pubDate>
+    </item>
     <item>
       <title>10 年期美国国债收益率触及一年多以来的最低水平后反弹</title>
       <link>https://www.cnbc.com/2024/08/06/us-treasury-yields-in-focus-after-mondays-market-rout.html</link>
       <description><![CDATA[由于投资者密切关注前一天全球市场抛售的逆转，美国国债收益率周二反弹。]]></description>
       <guid>https://www.cnbc.com/2024/08/06/us-treasury-yields-in-focus-after-mondays-market-rout.html</guid>
-      <pubDate>Tue, 06 Aug 2024 15:17:45 GMT</pubDate>
+      <pubDate>Tue, 06 Aug 2024 15:25:34 GMT</pubDate>
     </item>
     <item>
-      <title>道琼斯指数上涨 400 点，标准普尔 500 指数上涨 1%，华尔街从抛售中反弹：实时更新</title>
-      <link>https://www.cnbc.com/2024/08/05/stock-market-today-live-updates.html</link>
-      <description><![CDATA[由于全球市场遭遇抛售，标准普尔 500 指数在创下近两年来最大单日跌幅之后，昨日有所回升。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 06 Aug 2024 15:16:09 GMT</pubDate>
+      <title>比特币上涨，加密货币和其他风险资产有望从抛售中反弹</title>
+      <link>https://www.cnbc.com/2024/08/06/crypto-market-today.html</link>
+      <description><![CDATA[周二，比特币六个月来首次跌破 50,000 美元，加密货币收复了前一天部分失地。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/crypto-market-today.html</guid>
+      <pubDate>Tue, 06 Aug 2024 15:21:54 GMT</pubDate>
     </item>
     <item>
       <title>SunPower 申请破产，计划出售资产 — 股价下跌超过 30%</title>
@@ -39,20 +53,6 @@
       <description><![CDATA[您需要赚取家庭平均收入的六倍才能在加利福尼亚州圣何塞买得起一套中等价位的房子。]]></description>
       <guid>https://www.cnbc.com/2024/08/06/salary-needed-to-buy-a-home-in-the-15-priciest-us-housing-markets.html</guid>
       <pubDate>Tue, 06 Aug 2024 14:48:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克因对英国骚乱发表评论而受到政府猛烈批评</title>
-      <link>https://www.cnbc.com/2024/08/06/uk-slams-elon-musk-after-billionaire-comments-on-riots.html</link>
-      <description><![CDATA[英国亿万富翁埃隆·马斯克对英国各地发生的极右翼骚乱发表有争议的言论后，英国政府进行了反击。]]></description>
-      <guid>https://www.cnbc.com/2024/08/06/uk-slams-elon-musk-after-billionaire-comments-on-riots.html</guid>
-      <pubDate>Tue, 06 Aug 2024 14:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币上涨，加密货币和其他风险资产有望从抛售中反弹</title>
-      <link>https://www.cnbc.com/2024/08/06/crypto-market-today.html</link>
-      <description><![CDATA[周二，比特币六个月来首次跌破 50,000 美元，加密货币收复了前一天部分损失。]]></description>
-      <guid>https://www.cnbc.com/2024/08/06/crypto-market-today.html</guid>
-      <pubDate>Tue, 06 Aug 2024 14:24:32 GMT</pubDate>
     </item>
     <item>
       <title>最新抛售后，科技股复苏，期权交易看涨</title>
@@ -78,7 +78,7 @@
     <item>
       <title>由于经济衰退担忧压倒中东紧张局势加剧，原油期货连续第四天下跌</title>
       <link>https://www.cnbc.com/2024/08/06/crude-oil-prices-today.html</link>
-      <description><![CDATA[尽管以色列正为应对伊朗的袭击做准备，但石油期货仍因对经济衰退的担忧而下跌。]]></description>
+      <description><![CDATA[尽管以色列正在为应对伊朗的袭击做准备，但石油期货仍因对经济衰退的担忧而下跌。]]></description>
       <guid>https://www.cnbc.com/2024/08/06/crude-oil-prices-today.html</guid>
       <pubDate>Tue, 06 Aug 2024 13:37:01 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>投资者认为，对经济放缓的担忧被夸大了，市场反应过度</title>
       <link>https://www.cnbc.com/2024/08/06/investors-believe-the-fears-about-the-slowing-economy-are-overblown.html</link>
-      <description><![CDATA[许多人预计回调可能很快代表着买入机会。]]></description>
+      <description><![CDATA[许多人预计回调可能很快会带来买入机会。]]></description>
       <guid>https://www.cnbc.com/2024/08/06/investors-believe-the-fears-about-the-slowing-economy-are-overblown.html</guid>
       <pubDate>Tue, 06 Aug 2024 11:08:44 GMT</pubDate>
     </item>
