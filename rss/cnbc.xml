@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
     <lastBuildDate>Tue, 06 Aug 2024 07:18:00 GMT</lastBuildDate>
+    <item>
+      <title>标普 500 指数期货在指数创下近两年来最差单日表现后反弹：实时更新</title>
+      <link>https://www.cnbc.com/2024/08/05/stock-market-today-live-updates.html</link>
+      <description><![CDATA[由于全球市场遭遇抛售，标准普尔 500 指数期货在隔夜交易中反弹，此前该指数创下了近两年来的最大单日跌幅。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/stock-market-today-live-updates.html</guid>
+      <pubDate>Tue, 06 Aug 2024 08:19:29 GMT</pubDate>
+    </item>
     <item>
       <title>日本日经指数创下 2008 年 10 月以来最佳单日表现，点数创下单日涨幅纪录</title>
       <link>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[沙特阿美公布第二季度净利润 291 亿美元，较去年同期下降 3%，因为产量仍然很低。]]></description>
       <guid>https://www.cnbc.com/2024/08/06/saudi-aramco-second-quarter-profit-dips-amid-lower-production-volumes.html</guid>
       <pubDate>Tue, 06 Aug 2024 07:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>标普 500 指数期货在指数创下近两年来最差单日表现后反弹：实时更新</title>
-      <link>https://www.cnbc.com/2024/08/05/stock-market-today-live-updates.html</link>
-      <description><![CDATA[由于全球市场遭遇抛售，标准普尔 500 指数期货在隔夜交易中反弹，此前该指数创下了近两年来的最大单日跌幅。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 06 Aug 2024 07:17:43 GMT</pubDate>
     </item>
     <item>
       <title>欧洲股市高开 摆脱全球市场恐慌</title>
@@ -78,7 +78,7 @@
     <item>
       <title>顶级投资者对市场抛售的看法：不要惊慌，但未来还会有更多损失</title>
       <link>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</link>
-      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市正在遭遇抛售。]]></description>
+      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市纷纷遭遇抛售。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</guid>
       <pubDate>Mon, 05 Aug 2024 21:12:42 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 05 Aug 2024 20:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>1万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
+      <title>1 万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
       <link>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</link>
       <description><![CDATA[周一开盘时，美国七家最有价值的科技公司的市值总计蒸发 1 万亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</guid>
