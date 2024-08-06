@@ -3,21 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 06 Aug 2024 01:09:00 GMT</lastBuildDate>
-    <item>
-      <title>日本股市在历史性下跌后反弹逾 10%；其他亚洲市场也出现复苏</title>
-      <link>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</link>
-      <description><![CDATA[此次反弹是在美国大幅抛售之后出现的，道琼斯指数和标准普尔 500 指数均创下了 2022 年 9 月以来的最差表现。]]></description>
-      <guid>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</guid>
-      <pubDate>Tue, 06 Aug 2024 01:17:35 GMT</pubDate>
-    </item>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 06 Aug 2024 02:04:00 GMT</lastBuildDate>
     <item>
       <title>Robinhood 表示，由于第三方场所的问题，周一将不会进行 24 小时交易</title>
       <link>https://www.cnbc.com/2024/08/05/robinhood-no-24-hour-trading-monday-due-to-issue-at-third-party-venue.html</link>
       <description><![CDATA[该经纪公司表示，与其合作进行全天候交易的第三方公司 Blue Ocean ATS 已暂停隔夜市场。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/robinhood-no-24-hour-trading-monday-due-to-issue-at-third-party-venue.html</guid>
-      <pubDate>Tue, 06 Aug 2024 00:12:41 GMT</pubDate>
+      <pubDate>Tue, 06 Aug 2024 02:12:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本股市在历史性下跌后反弹 10%；其他亚洲市场也出现复苏</title>
+      <link>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</link>
+      <description><![CDATA[此次反弹是在美国大幅抛售之后出现的，道琼斯指数和标准普尔 500 指数均创下了 2022 年 9 月以来的最差表现。]]></description>
+      <guid>https://www.cnbc.com/2024/08/06/asia-stock-markets-japan-household-spending-rba-rate-decision.html</guid>
+      <pubDate>Tue, 06 Aug 2024 01:57:46 GMT</pubDate>
     </item>
     <item>
       <title>现金流出？这些是今年迄今为止表现最好的固定收益基金</title>
@@ -32,13 +32,6 @@
       <description><![CDATA[该基金经理所提名的ETF和股票均表现出色。]]></description>
       <guid>https://www.cnbc.com/2024/08/06/japan-fund-manager-names-outperforming-sector-to-buy-amid-sell-off.html</guid>
       <pubDate>Mon, 05 Aug 2024 23:11:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>周二的重大股票新闻：什么可能会在下一个交易日影响市场</title>
-      <link>https://www.cnbc.com/2024/08/05/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html</link>
-      <description><![CDATA[以下是周一股市暴跌之后，CNBC 电视台在周二交易时段关注的焦点。]]></description>
-      <guid>https://www.cnbc.com/2024/08/05/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html</guid>
-      <pubDate>Mon, 05 Aug 2024 22:46:34 GMT</pubDate>
     </item>
     <item>
       <title>大规模停电导致航空旅行中断，CrowdStrike 遭乘客起诉</title>
@@ -64,7 +57,7 @@
     <item>
       <title>道琼斯指数暴跌 1,000 点，标普 500 指数创下 2022 年以来最糟糕的一天，全球市场遭遇抛售：实时更新</title>
       <link>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</link>
-      <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压下跌。纳斯达克综合指数周五进入调整阶段，随后也出现下跌。]]></description>
+      <description><![CDATA[在全球股市普遍下跌的背景下，美国股市承压下跌。纳斯达克综合指数周五进入回调阶段，随后美国股市也出现下跌。]]></description>
       <guid>https://www.cnbc.com/2024/08/04/stock-market-today-live-updates.html</guid>
       <pubDate>Mon, 05 Aug 2024 21:33:42 GMT</pubDate>
     </item>
@@ -78,9 +71,16 @@
     <item>
       <title>顶级投资者对市场抛售的看法：不要惊慌，但未来还会有更多损失</title>
       <link>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</link>
-      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市正在遭遇抛售。]]></description>
+      <description><![CDATA[由于投资者担心在一系列经济数据疲软的背景下美国可能陷入衰退，全球股市纷纷遭遇抛售。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/wall-street-reacts-to-global-market-sell-off.html</guid>
       <pubDate>Mon, 05 Aug 2024 21:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palantir 因 AI 实力上调年度营收预期，股价飙升</title>
+      <link>https://www.cnbc.com/2024/08/05/palantir-raises-annual-revenue-forecast-on-ai-strength-shares-surge.html</link>
+      <description><![CDATA[周一，Palantir Technologies 今年第二次上调了年度营收预期，这是生成式人工智能热潮推动其软件服务需求的最新迹象。]]></description>
+      <guid>https://www.cnbc.com/2024/08/05/palantir-raises-annual-revenue-forecast-on-ai-strength-shares-surge.html</guid>
+      <pubDate>Mon, 05 Aug 2024 20:37:33 GMT</pubDate>
     </item>
     <item>
       <title>华尔街的“恐慌指数”——VIX——创下 2020 年疫情导致的市场暴跌以来的最高水平</title>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 05 Aug 2024 20:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>1万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
+      <title>1 万亿美元市值蒸发：市场暴跌惩罚大型科技股</title>
       <link>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</link>
       <description><![CDATA[周一开盘时，美国七家最有价值的科技公司的市值总计蒸发 1 万亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/08/05/1-trillion-wipeout-market-rout-punishes-mega-cap-tech.html</guid>
