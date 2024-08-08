@@ -3,12 +3,26 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 08 Aug 2024 02:34:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 08 Aug 2024 05:08:00 GMT</lastBuildDate>
+    <item>
+      <title>银行在欧盟面临严格的新安全标准——其技术供应商也受到审查</title>
+      <link>https://www.cnbc.com/2024/08/08/what-is-the-eus-digital-operational-resilience-act-dora-explained.html</link>
+      <description><![CDATA[到 2025 年 1 月，银行及其技术供应商必须遵守欧盟新法律 DORA。该法律有助于防止未来出现重大 IT 中断。]]></description>
+      <guid>https://www.cnbc.com/2024/08/08/what-is-the-eus-digital-operational-resilience-act-dora-explained.html</guid>
+      <pubDate>Thu, 08 Aug 2024 05:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析师称苹果可能会对部分 Apple Intelligence AI 功能收取高达 20 美元的费用</title>
+      <link>https://www.cnbc.com/2024/08/08/apple-could-charge-20-for-some-apple-intelligence-features-analysts.html</link>
+      <description><![CDATA[苹果计划今年晚些时候在其部分设备上推出即将推出的人工智能系统 Apple Intelligence。]]></description>
+      <guid>https://www.cnbc.com/2024/08/08/apple-could-charge-20-for-some-apple-intelligence-features-analysts.html</guid>
+      <pubDate>Thu, 08 Aug 2024 05:02:34 GMT</pubDate>
+    </item>
     <item>
       <title>检察官称罗马尼亚商人雇佣亨特·拜登来寻求影响美国政策</title>
       <link>https://www.cnbc.com/2024/08/08/romanian-seeking-to-influence-us-policy-hired-hunter-biden-prosecutors.html</link>
-      <description><![CDATA[美国针对亨特·拜登的刑事税务案检察官指控他接受了一名罗马尼亚商人的贿赂，此人试图“影响美国政府机构”。]]></description>
+      <description><![CDATA[美国针对亨特·拜登的刑事税务案检察官指控他接受了一名罗马尼亚商人的贿赂，以“影响美国政府机构”。]]></description>
       <guid>https://www.cnbc.com/2024/08/08/romanian-seeking-to-influence-us-policy-hired-hunter-biden-prosecutors.html</guid>
       <pubDate>Thu, 08 Aug 2024 02:33:49 GMT</pubDate>
     </item>
@@ -83,13 +97,6 @@
       <pubDate>Wed, 07 Aug 2024 19:44:33 GMT</pubDate>
     </item>
     <item>
-      <title>哈里斯的竞选搭档蒂姆·沃尔兹削减了他所在州的社会保障税。这与特朗普的提议有何不同</title>
-      <link>https://www.cnbc.com/2024/08/07/tim-walz-cut-social-security-taxes-its-different-from-trumps-plan.html</link>
-      <description><![CDATA[副总统卡马拉·哈里斯的新竞选搭档明尼苏达州州长蒂姆·沃尔兹削减了社会保障的州税。这与特朗普的计划有何不同。]]></description>
-      <guid>https://www.cnbc.com/2024/08/07/tim-walz-cut-social-security-taxes-its-different-from-trumps-plan.html</guid>
-      <pubDate>Wed, 07 Aug 2024 19:31:15 GMT</pubDate>
-    </item>
-    <item>
       <title>BMO 表示，随着利率下降，这些高股息收益率的股票可能会反弹</title>
       <link>https://www.cnbc.com/2024/08/07/these-high-dividend-yielding-stocks-could-see-a-rebound-as-rates-decline-bmo-says.html</link>
       <description><![CDATA[BMO 表示，美联储开始降息后，这些股息股将有望走高。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[截至第二季度末，这家总部位于内布拉斯加州奥马哈的企业集团持有 2,346 亿美元的国库券短期投资。]]></description>
       <guid>https://www.cnbc.com/2024/08/07/warren-buffett-now-owns-more-t-bills-than-the-federal-reserve.html</guid>
       <pubDate>Wed, 07 Aug 2024 18:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪士尼的媒体资产开始比其主题公园更能引起人们的兴趣</title>
-      <link>https://www.cnbc.com/2024/08/07/disneys-media-assets-parks.html</link>
-      <description><![CDATA[两年多以来，迪士尼的媒体资产首次超越了主题公园部门。]]></description>
-      <guid>https://www.cnbc.com/2024/08/07/disneys-media-assets-parks.html</guid>
-      <pubDate>Wed, 07 Aug 2024 16:32:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
