@@ -3,21 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Thu, 08 Aug 2024 22:36:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Thu, 08 Aug 2024 23:16:00 GMT</lastBuildDate>
+    <item>
+      <title>人民币可能成为下一个被平仓的“套利交易”。以下是值得关注的事项</title>
+      <link>https://www.cnbc.com/2024/08/09/the-chinese-yuan-is-poised-to-be-the-next-carry-trade-to-unwind.html</link>
+      <description><![CDATA[澳新银行亚洲研究主管 Khoon Goh 在接受 CNBC 频道的“Squawk Box Asia”节目采访时表示：“我认为下一个可能解除套利交易的货币可能是人民币。”]]></description>
+      <guid>https://www.cnbc.com/2024/08/09/the-chinese-yuan-is-poised-to-be-the-next-carry-trade-to-unwind.html</guid>
+      <pubDate>Thu, 08 Aug 2024 23:16:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>标普 500 指数创 2022 年以来最佳单日表现后，股指期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/08/08/stock-market-today-live-updates.html</link>
+      <description><![CDATA[各大股指周四大幅上涨，收复了本周下跌的失地。不过，三大股指本周均呈下跌趋势。]]></description>
+      <guid>https://www.cnbc.com/2024/08/08/stock-market-today-live-updates.html</guid>
+      <pubDate>Thu, 08 Aug 2024 23:01:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克提起反垄断诉讼后，广告集团暂停了品牌安全部门</title>
+      <link>https://www.cnbc.com/2024/08/08/ad-group-suspends-garm-after-of-x-elon-musks-antitrust-lawsuit-.html</link>
+      <description><![CDATA[世界广告主联合会表示，在埃隆·马斯克的 X 提起反垄断诉讼后，该联合会将暂停其全球负责任媒体联盟的运营。]]></description>
+      <guid>https://www.cnbc.com/2024/08/08/ad-group-suspends-garm-after-of-x-elon-musks-antitrust-lawsuit-.html</guid>
+      <pubDate>Thu, 08 Aug 2024 22:39:25 GMT</pubDate>
+    </item>
     <item>
       <title>克莱默解释了为什么在消费者抵制通胀的情况下，外卖股仍表现良好</title>
       <link>https://www.cnbc.com/2024/08/08/cramer-explains-why-food-delivery-stocks-are-doing-well-despite-inflation.html</link>
       <description><![CDATA[克莱默说：“DoorDash、Uber Eats 和 Instacart 之所以能取得这样的成绩，是因为外卖已经成为了许多消费者根深蒂固的习惯。”]]></description>
       <guid>https://www.cnbc.com/2024/08/08/cramer-explains-why-food-delivery-stocks-are-doing-well-despite-inflation.html</guid>
       <pubDate>Thu, 08 Aug 2024 22:35:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>标普 500 指数期货小幅上涨，该指数创下 2022 年以来最佳单日表现：实时更新</title>
-      <link>https://www.cnbc.com/2024/08/08/stock-market-today-live-updates.html</link>
-      <description><![CDATA[各大股指周四大幅上涨，收复了本周下跌的失地。不过，三大股指本周均呈下跌趋势。]]></description>
-      <guid>https://www.cnbc.com/2024/08/08/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 08 Aug 2024 22:29:20 GMT</pubDate>
     </item>
     <item>
       <title>特朗普和哈里斯同意 9 月 10 日在 ABC 上进行辩论，另外两个日期正在筹备中</title>
@@ -48,13 +62,6 @@
       <pubDate>Thu, 08 Aug 2024 21:47:27 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克提起反垄断诉讼后，广告集团暂停了品牌安全部门</title>
-      <link>https://www.cnbc.com/2024/08/08/ad-group-suspends-garm-after-of-x-elon-musks-antitrust-lawsuit-.html</link>
-      <description><![CDATA[世界广告主联合会表示，在埃隆·马斯克的 X 提起反垄断诉讼后，该联合会将暂停其全球负责任媒体联盟的运营。]]></description>
-      <guid>https://www.cnbc.com/2024/08/08/ad-group-suspends-garm-after-of-x-elon-musks-antitrust-lawsuit-.html</guid>
-      <pubDate>Thu, 08 Aug 2024 21:36:57 GMT</pubDate>
-    </item>
-    <item>
       <title>盘后涨幅最大的股票：派拉蒙 (Paramount)、Expedia、E.l.f. Beauty 等</title>
       <link>https://www.cnbc.com/2024/08/08/stocks-making-the-biggest-moves-after-hours-para-expe-elf.html</link>
       <description><![CDATA[这些是盘后交易中波动最大的股票。]]></description>
@@ -83,16 +90,9 @@
       <pubDate>Thu, 08 Aug 2024 20:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>周四出现不错的反弹，但根据交易员清单，底部尚未到来</title>
-      <link>https://www.cnbc.com/2024/08/08/the-market-hasnt-bottomed-yet-according-to-this-traders-checklist.html</link>
-      <description><![CDATA[据 Strategas Securities 称，市场不太可能触底，因为截至周三收盘，七项必要标准中仅一项得到满足。]]></description>
-      <guid>https://www.cnbc.com/2024/08/08/the-market-hasnt-bottomed-yet-according-to-this-traders-checklist.html</guid>
-      <pubDate>Thu, 08 Aug 2024 20:02:32 GMT</pubDate>
-    </item>
-    <item>
       <title>华纳兄弟探索公司首席执行官戴维·扎斯拉夫面临越来越大的压力，需要为股东创造价值</title>
       <link>https://www.cnbc.com/2024/08/08/warner-bros-discovery-ceo-david-zaslav-to-deliver-value-for-shareholders.html</link>
-      <description><![CDATA[如果扎斯拉夫不能开始为股东带来利益，华纳兄弟探索频道可能会成为激进股东的目标。]]></description>
+      <description><![CDATA[如果扎斯拉夫不能为股东带来利益，华纳兄弟探索频道可能会成为激进股东的目标。]]></description>
       <guid>https://www.cnbc.com/2024/08/08/warner-bros-discovery-ceo-david-zaslav-to-deliver-value-for-shareholders.html</guid>
       <pubDate>Thu, 08 Aug 2024 19:02:10 GMT</pubDate>
     </item>
