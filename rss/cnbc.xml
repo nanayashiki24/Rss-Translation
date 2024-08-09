@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 09 Aug 2024 22:17:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 09 Aug 2024 23:09:00 GMT</lastBuildDate>
+    <item>
+      <title>巴西坠机事件机上 61 名人员全部遇难</title>
+      <link>https://www.cnbc.com/2024/08/09/plane-crash-brazil-sao-paulo-vinhedo.html</link>
+      <description><![CDATA[Voepass Linhas Aéreas 称，这架 2283 号航班坠毁在维涅杜市。坠机原因尚不清楚，目前正在调查中。]]></description>
+      <guid>https://www.cnbc.com/2024/08/09/plane-crash-brazil-sao-paulo-vinhedo.html</guid>
+      <pubDate>Fri, 09 Aug 2024 22:46:23 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普媒体报告季度亏损 1600 万美元，营收下降</title>
       <link>https://www.cnbc.com/2024/08/09/trump-media-reports-16-million-loss-for-quarter-as-revenue-falls.html</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 09 Aug 2024 20:31:59 GMT</pubDate>
     </item>
     <item>
-      <title>因停产 Ram 'Classic' 皮卡，Stellantis 裁员 2,450 名工厂工人</title>
+      <title>因停产 Ram 'Classic' 皮卡，Stellantis 将裁员 2,450 名工厂工人</title>
       <link>https://www.cnbc.com/2024/08/09/stellantis-layoff-workers-ram-pickup-truck.html</link>
       <description><![CDATA[由于将停止生产旧款 Ram 1500 皮卡，Stellantis 将在今年晚些时候无限期裁掉多达 2,450 名美国工厂工人。]]></description>
       <guid>https://www.cnbc.com/2024/08/09/stellantis-layoff-workers-ram-pickup-truck.html</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来的情况。在今天的节目中，IDX Digital Assets 首席投资官 Ben McMillan 对本周的波动进行了评估，Resy 联合创始人 Ben Leventhal 解释了他的新 web3 项目将如何允许食客使用加密货币支付餐费。]]></description>
       <guid>https://www.cnbc.com/video/2024/08/09/bitcoin-bounces-back-above-60000-cryptocurrency-rise-continues-end-week-cnbc-crypto-world.html</guid>
       <pubDate>Fri, 09 Aug 2024 19:21:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>基辅攻势持续，乌克兰对俄罗斯机场发动大规模无人机袭击</title>
-      <link>https://www.cnbc.com/2024/08/09/kyiv-offensive-ukraine-unleashes-drone-attack-on-russian-airfield.html</link>
-      <description><![CDATA[乌克兰无人机袭击了俄罗斯利佩茨克地区一个重要的军用机场，基辅继续在俄罗斯领土上发动自战争开始以来最大规模的攻势。]]></description>
-      <guid>https://www.cnbc.com/2024/08/09/kyiv-offensive-ukraine-unleashes-drone-attack-on-russian-airfield.html</guid>
-      <pubDate>Fri, 09 Aug 2024 17:35:38 GMT</pubDate>
     </item>
     <item>
       <title>MLB 将首次在 NASCAR 赛道举办比赛，旨在打破观众人数纪录</title>
