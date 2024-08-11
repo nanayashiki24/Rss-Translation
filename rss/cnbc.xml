@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sat, 10 Aug 2024 22:02:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Sun, 11 Aug 2024 01:27:00 GMT</lastBuildDate>
+    <item>
+      <title>哈里斯回应特朗普美联储言论，将在未来几天发布经济计划</title>
+      <link>https://www.cnbc.com/2024/08/10/harris-trump-federal-reserve-independence-election.html</link>
+      <description><![CDATA[卡玛拉·哈里斯完全不同意唐纳德·特朗普的观点，即总统应该对美联储的货币政策决策有发言权。]]></description>
+      <guid>https://www.cnbc.com/2024/08/10/harris-trump-federal-reserve-independence-election.html</guid>
+      <pubDate>Sun, 11 Aug 2024 02:24:46 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普前高管否认威利·布朗在直升机事故中在场的说法</title>
       <link>https://www.cnbc.com/2024/08/10/former-trump-executive-disputes-his-claim-that-willie-brown-was-on-board-during-helicopter-incident.html</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[华尔街股市长期缓慢而稳定的上涨趋势已经结束，而且有迹象表明波动尚未结束。]]></description>
       <guid>https://www.cnbc.com/2024/08/10/what-we-learned-from-stocks-most-volatile-week-since-the-pandemic.html</guid>
       <pubDate>Sat, 10 Aug 2024 10:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈马斯控制的媒体办公室称，以色列空袭加沙学校造成 100 多人死亡</title>
-      <link>https://www.cnbc.com/2024/08/10/israel-airstrike-on-gaza-school-kills-more-than-100-hamas-says.html</link>
-      <description><![CDATA[哈马斯控制的加沙政府周六称，以色列袭击了加沙一所收容流离失所者的学校，造成 100 多名巴勒斯坦人死亡。]]></description>
-      <guid>https://www.cnbc.com/2024/08/10/israel-airstrike-on-gaza-school-kills-more-than-100-hamas-says.html</guid>
-      <pubDate>Sat, 10 Aug 2024 07:03:12 GMT</pubDate>
     </item>
     <item>
       <title>CNBC/Generation Lab 调查发现，哈里斯在年轻美国人中经济支持率超过特朗普</title>
