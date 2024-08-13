@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 13 Aug 2024 11:12:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 13 Aug 2024 11:33:00 GMT</lastBuildDate>
+    <item>
+      <title>周二分析师电话会议：华纳兄弟探索频道评级下调，网络安全股票在盈利前值得买入</title>
+      <link>https://www.cnbc.com/2024/08/13/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
+      <description><![CDATA[一家媒体巨头和一家网络安全公司是分析师周二讨论的股票之一。]]></description>
+      <guid>https://www.cnbc.com/2024/08/13/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</guid>
+      <pubDate>Tue, 13 Aug 2024 11:24:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者等待关键通胀数据，标普 500 指数期货小幅上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/08/12/stock-market-today-live-updates.html</link>
+      <description><![CDATA[未来两天将发布的两份有关消费者和生产者价格的通胀报告可能会给不确定的市场提供一些方向。]]></description>
+      <guid>https://www.cnbc.com/2024/08/12/stock-market-today-live-updates.html</guid>
+      <pubDate>Tue, 13 Aug 2024 11:17:34 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰军队进军俄罗斯，羞辱莫斯科，乌克兰希望获得更多谈判权</title>
       <link>https://www.cnbc.com/2024/08/13/what-does-ukraine-want-from-its-incursion-into-russia.html</link>
@@ -18,27 +32,6 @@
       <description><![CDATA[HelloFresh 表示，其即食餐饮配送业务的健康增长为其带来了提振。]]></description>
       <guid>https://www.cnbc.com/2024/08/13/hellofresh-shares-pop-11percent-as-meal-kit-giant-beats-profit-estimates.html</guid>
       <pubDate>Tue, 13 Aug 2024 11:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国电动汽车制造商 Zeekr 表示，其新电池的充电速度比特斯拉更快</title>
-      <link>https://www.cnbc.com/2024/08/13/chinese-ev-company-zeekr-says-its-battery-can-charge-faster-than-tesla.html</link>
-      <description><![CDATA[中国电动汽车品牌 Zeekr 周二发布了新电池，该公司称其可提供世界上最快的充电速度。]]></description>
-      <guid>https://www.cnbc.com/2024/08/13/chinese-ev-company-zeekr-says-its-battery-can-charge-faster-than-tesla.html</guid>
-      <pubDate>Tue, 13 Aug 2024 11:10:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资者等待关键通胀数据，标普 500 指数期货小幅上涨：实时更新</title>
-      <link>https://www.cnbc.com/2024/08/12/stock-market-today-live-updates.html</link>
-      <description><![CDATA[未来两天将发布的两份有关消费者和生产者价格的通胀报告可能会给不确定的市场提供一些方向。]]></description>
-      <guid>https://www.cnbc.com/2024/08/12/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 13 Aug 2024 11:09:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>周二分析师电话会议：华纳兄弟探索频道评级下调，网络安全股票在盈利前值得买入</title>
-      <link>https://www.cnbc.com/2024/08/13/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
-      <description><![CDATA[一家媒体巨头和一家网络安全公司是分析师周二讨论的股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/08/13/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</guid>
-      <pubDate>Tue, 13 Aug 2024 11:04:41 GMT</pubDate>
     </item>
     <item>
       <title>默多克家族之争凸显内华达州秘密信托繁荣</title>
@@ -64,7 +57,7 @@
     <item>
       <title>策略师警告称，大规模“套利交易”平仓远未结束</title>
       <link>https://www.cnbc.com/2024/08/13/carry-trades-why-strategists-believe-a-major-unwind-is-far-from-over.html</link>
-      <description><![CDATA[策略师们警告称，现在就对“套利交易”的快速瓦解发出全面警告还为时过早。]]></description>
+      <description><![CDATA[策略师们警告称，现在就对“套利交易”的快速瓦解发出警告还为时过早。]]></description>
       <guid>https://www.cnbc.com/2024/08/13/carry-trades-why-strategists-believe-a-major-unwind-is-far-from-over.html</guid>
       <pubDate>Tue, 13 Aug 2024 09:59:48 GMT</pubDate>
     </item>
@@ -95,6 +88,13 @@
       <description><![CDATA[社会保障管理局的预算问题导致了“客户服务危机”，一些受益人收到的钱过多或过少。]]></description>
       <guid>https://www.cnbc.com/2024/08/12/improper-social-security-payments-reach-1point1-billion.html</guid>
       <pubDate>Mon, 12 Aug 2024 21:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈里斯的经济政策借鉴了拜登白宫校友布莱恩·迪斯和迈克·派尔的经验</title>
+      <link>https://www.cnbc.com/2024/08/12/harris-economic-policy-plan-trump-election.html</link>
+      <description><![CDATA[卡玛拉·哈里斯正在寻求几位长期担任总统乔·拜登经济顾问的人来帮助制定她的经济政策。]]></description>
+      <guid>https://www.cnbc.com/2024/08/12/harris-economic-policy-plan-trump-election.html</guid>
+      <pubDate>Mon, 12 Aug 2024 21:02:11 GMT</pubDate>
     </item>
     <item>
       <title>401(k) 转存建议规则存在风险。以下是退休储蓄者需要了解的内容</title>
