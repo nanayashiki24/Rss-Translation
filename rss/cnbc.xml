@@ -3,8 +3,8 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 13 Aug 2024 09:20:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 13 Aug 2024 09:32:00 GMT</lastBuildDate>
     <item>
       <title>乌克兰军队进军俄罗斯，羞辱莫斯科，乌克兰希望获得更多谈判权</title>
       <link>https://www.cnbc.com/2024/08/13/what-does-ukraine-want-from-its-incursion-into-russia.html</link>
@@ -69,13 +69,6 @@
       <pubDate>Mon, 12 Aug 2024 21:02:11 GMT</pubDate>
     </item>
     <item>
-      <title>据消息人士称，星巴克和激进主义者埃利奥特上周会面讨论和解事宜</title>
-      <link>https://www.cnbc.com/2024/08/12/starbucks-and-activist-elliott-met-last-week-to-discuss-settlement.html</link>
-      <description><![CDATA[据知情人士透露，激进投资者埃利奥特管理公司 (Elliott Management) 与星巴克董事会正在进行和解谈判。]]></description>
-      <guid>https://www.cnbc.com/2024/08/12/starbucks-and-activist-elliott-met-last-week-to-discuss-settlement.html</guid>
-      <pubDate>Mon, 12 Aug 2024 19:51:41 GMT</pubDate>
-    </item>
-    <item>
       <title>401(k) 转存建议规则存在风险。以下是退休储蓄者需要了解的内容</title>
       <link>https://www.cnbc.com/2024/08/12/labor-department-retirement-fiduciary-rule-401k-ira-rollovers.html</link>
       <description><![CDATA[德克萨斯州两家联邦法院推迟了劳工部新的“受托人”规则，并暗示他们可能认为该规则违法。]]></description>
@@ -99,7 +92,7 @@
     <item>
       <title>纽约联储消费者调查显示三年通胀前景创历史新低</title>
       <link>https://www.cnbc.com/2024/08/12/three-year-inflation-outlook-hits-record-low-in-new-york-fed-consumer-survey.html</link>
-      <description><![CDATA[七月份，消费者更加有信心，未来几年通胀问题将有所缓解。]]></description>
+      <description><![CDATA[七月份消费者更加有信心，未来几年通胀问题将有所缓解。]]></description>
       <guid>https://www.cnbc.com/2024/08/12/three-year-inflation-outlook-hits-record-low-in-new-york-fed-consumer-survey.html</guid>
       <pubDate>Mon, 12 Aug 2024 15:42:18 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[该车具有更坚固的外观设计以及全新的内饰，配备 26 英寸标准信息和控制屏幕。]]></description>
       <guid>https://www.cnbc.com/2024/08/12/gm-redesigned-gmc-suv-entry-level-model.html</guid>
       <pubDate>Mon, 12 Aug 2024 14:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告发现，59% 的美国人错误地认为美国正陷入经济衰退</title>
+      <link>https://www.cnbc.com/2024/08/12/59percent-of-americans-think-the-us-is-in-a-recession-report-finds.html</link>
+      <description><![CDATA[尽管经济在增长，但消费者仍然有些悲观。]]></description>
+      <guid>https://www.cnbc.com/2024/08/12/59percent-of-americans-think-the-us-is-in-a-recession-report-finds.html</guid>
+      <pubDate>Mon, 12 Aug 2024 13:37:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
