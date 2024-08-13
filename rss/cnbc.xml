@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 13 Aug 2024 20:08:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 13 Aug 2024 21:03:00 GMT</lastBuildDate>
+    <item>
+      <title>中东战争加剧威胁 美国批准向以色列出售 200 亿美元武器</title>
+      <link>https://www.cnbc.com/2024/08/13/us-approves-20-billion-in-weapons-sales-to-israel-amid-threat-of-wider-middle-east-war.html</link>
+      <description><![CDATA[美国批准向以色列出售价值 200 亿美元的武器，包括数十架战斗机和先进的空对空导弹。]]></description>
+      <guid>https://www.cnbc.com/2024/08/13/us-approves-20-billion-in-weapons-sales-to-israel-amid-threat-of-wider-middle-east-war.html</guid>
+      <pubDate>Tue, 13 Aug 2024 20:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么华尔街认为布莱恩·尼科尔是重振星巴克并结束霍华德·舒尔茨时代的最佳人选</title>
+      <link>https://www.cnbc.com/2024/08/13/starbucks-ceo-wall-st-cheers-brian-niccol-appointment.html</link>
+      <description><![CDATA[在拉克斯曼·纳拉辛汉 (Laxman Narasimhan) 领导下销售下滑后，星巴克任命布莱恩·尼科尔 (Brian Niccol) 为其最新首席执行官，该任命于 9 月 9 日起生效。]]></description>
+      <guid>https://www.cnbc.com/2024/08/13/starbucks-ceo-wall-st-cheers-brian-niccol-appointment.html</guid>
+      <pubDate>Tue, 13 Aug 2024 20:41:04 GMT</pubDate>
+    </item>
     <item>
       <title>共和党高层呼吁特朗普停止侮辱哈里斯，重新关注政策</title>
       <link>https://www.cnbc.com/2024/08/13/trump-harris-attacks-policy-republicans-election.html</link>
@@ -62,7 +76,7 @@
       <pubDate>Tue, 13 Aug 2024 19:00:54 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌推出首个基于人工智能的 Android 更新和新款 Pixel 9 手机</title>
+      <title>谷歌推出首个基于 AI 的 Android 更新和新款 Pixel 9 手机</title>
       <link>https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html</link>
       <description><![CDATA[该公司正试图向消费者推出更多人工智能功能]]></description>
       <guid>https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html</guid>
@@ -83,20 +97,6 @@
       <pubDate>Tue, 13 Aug 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
-      <title>为什么华尔街认为布莱恩·尼科尔是重振星巴克并结束霍华德·舒尔茨时代的最佳人选</title>
-      <link>https://www.cnbc.com/2024/08/13/starbucks-ceo-wall-st-cheers-brian-niccol-appointment.html</link>
-      <description><![CDATA[在拉克斯曼·纳拉辛汉 (Laxman Narasimhan) 领导下销售下滑后，星巴克任命布莱恩·尼科尔 (Brian Niccol) 为其最新首席执行官，该任命于 9 月 9 日起生效。]]></description>
-      <guid>https://www.cnbc.com/2024/08/13/starbucks-ceo-wall-st-cheers-brian-niccol-appointment.html</guid>
-      <pubDate>Tue, 13 Aug 2024 16:47:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>数字健康公司 Ro 推出 GLP-1 保险覆盖检查器，帮助患者控制费用</title>
-      <link>https://www.cnbc.com/2024/08/13/ro-launches-glp-1-insurance-coverage-checker.html</link>
-      <description><![CDATA[Ro 表示，希望新工具能够帮助患者了解他们的 GLP-1 覆盖选项，以便他们可以决定如何减肥。]]></description>
-      <guid>https://www.cnbc.com/2024/08/13/ro-launches-glp-1-insurance-coverage-checker.html</guid>
-      <pubDate>Tue, 13 Aug 2024 14:00:29 GMT</pubDate>
-    </item>
-    <item>
       <title>默多克家族之争凸显内华达州秘密信托繁荣</title>
       <link>https://www.cnbc.com/2024/08/13/murdoch-battle-nevada-trust-boom.html</link>
       <description><![CDATA[内华达州正处于大量财富涌入资产保护信托的前沿。]]></description>
@@ -104,7 +104,7 @@
       <pubDate>Tue, 13 Aug 2024 11:00:02 GMT</pubDate>
     </item>
     <item>
-      <title>我们试驾了中国电动汽车，看看竞争对手的担忧之所在</title>
+      <title>我们试驾了中国电动汽车，看看竞争对手的担忧之情为何如此强烈</title>
       <link>https://www.cnbc.com/2024/08/13/we-drove-chinese-evs-to-see-why-rival-automakers-are-worried.html</link>
       <description><![CDATA[CNBC 测试了四款中国汽车制造商生产的电动汽车，以了解它们与特斯拉 Model Y 相比如何，以及为何它们会让竞争对手感到恐惧。]]></description>
       <guid>https://www.cnbc.com/2024/08/13/we-drove-chinese-evs-to-see-why-rival-automakers-are-worried.html</guid>
