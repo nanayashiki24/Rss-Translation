@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 12 Aug 2024 23:31:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 13 Aug 2024 00:59:00 GMT</lastBuildDate>
+    <item>
+      <title>埃隆·马斯克和唐纳德·特朗普在 X 上的活动导致网站崩溃，特斯拉首席执行官指责网络攻击</title>
+      <link>https://www.cnbc.com/2024/08/12/elon-musk-donald-trump-event-on-x-crashes-site-tesla-ceo-blames-hackers.html</link>
+      <description><![CDATA[特朗普与马斯克的对话在经过近一个小时的故障排除后开始。]]></description>
+      <guid>https://www.cnbc.com/2024/08/12/elon-musk-donald-trump-event-on-x-crashes-site-tesla-ceo-blames-hackers.html</guid>
+      <pubDate>Tue, 13 Aug 2024 01:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spirit Aero 首席执行官 Shanahan 将获得 2850 万美元的“金色降落伞”</title>
+      <link>https://www.cnbc.com/2024/08/13/spirit-aero-ceo-shanahan-to-get-28point5-million-golden-parachute.html</link>
+      <description><![CDATA[根据周一提交的监管文件显示，Spirit AeroSystems 首席执行官帕特里克·沙纳汉 (Patrick Shanahan) 在与波音公司完成合并后将获得 2850 万美元的报酬。]]></description>
+      <guid>https://www.cnbc.com/2024/08/13/spirit-aero-ceo-shanahan-to-get-28point5-million-golden-parachute.html</guid>
+      <pubDate>Tue, 13 Aug 2024 00:58:19 GMT</pubDate>
+    </item>
     <item>
       <title>周二的重大股票新闻：什么可能会在下一个交易日影响市场</title>
       <link>https://www.cnbc.com/2024/08/12/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[五角大楼下令向该地区派遣一艘导弹潜艇，以及一个配备F-35C战斗机的航母打击群。]]></description>
       <guid>https://www.cnbc.com/2024/08/12/us-sends-more-forces-to-the-middle-east-to-defend-israel.html</guid>
       <pubDate>Mon, 12 Aug 2024 15:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽车发布全新 GMC Terrain 作为品牌入门级车型</title>
-      <link>https://www.cnbc.com/2024/08/12/gm-redesigned-gmc-suv-entry-level-model.html</link>
-      <description><![CDATA[该车具有更坚固的外观设计以及全新的内饰，配备 26 英寸标准信息和控制屏幕。]]></description>
-      <guid>https://www.cnbc.com/2024/08/12/gm-redesigned-gmc-suv-entry-level-model.html</guid>
-      <pubDate>Mon, 12 Aug 2024 14:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hindenburg 指控监管机构后，阿达尼集团股价下跌数十亿美元</title>
-      <link>https://www.cnbc.com/2024/08/12/adani-group-shares-fall-after-hindenburg-allegations-against-regulator.html</link>
-      <description><![CDATA[该集团的旗舰公司阿达尼企业 (Adani Enterprises) 在早盘交易中一度下跌 5%，随后有所收窄。]]></description>
-      <guid>https://www.cnbc.com/2024/08/12/adani-group-shares-fall-after-hindenburg-allegations-against-regulator.html</guid>
-      <pubDate>Mon, 12 Aug 2024 12:30:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
