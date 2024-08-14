@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 14 Aug 2024 02:39:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 14 Aug 2024 03:32:00 GMT</lastBuildDate>
+    <item>
+      <title>德克萨斯州起诉通用汽车涉嫌侵犯司机隐私</title>
+      <link>https://www.cnbc.com/2024/08/14/texas-sues-gm-for-allegedly-violating-drivers-privacy.html</link>
+      <description><![CDATA[通用汽车已被德克萨斯州起诉，该州指控该汽车制造商在未经驾驶员同意的情况下收集和出售驾驶员数据。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/texas-sues-gm-for-allegedly-violating-drivers-privacy.html</guid>
+      <pubDate>Wed, 14 Aug 2024 03:30:58 GMT</pubDate>
+    </item>
     <item>
       <title>日本首相岸田文雄将不参加党内连任</title>
       <link>https://www.cnbc.com/2024/08/14/japan-prime-minister-fumio-kishida-will-not-run-for-party-reelection.html</link>
@@ -29,7 +36,7 @@
     <item>
       <title>伯恩斯坦：这四只日本股票的股价“大幅折价”</title>
       <link>https://www.cnbc.com/2024/08/14/4-japanese-stocks-trading-at-a-deep-discount-bernstein.html</link>
-      <description><![CDATA[伯恩斯坦继续看好日本的前景，推荐了特定的交易策略并列举了增持评级的股票。]]></description>
+      <description><![CDATA[伯恩斯坦继续看好日本的前景，推荐了具体的交易策略并列举了增持评级的股票。]]></description>
       <guid>https://www.cnbc.com/2024/08/14/4-japanese-stocks-trading-at-a-deep-discount-bernstein.html</guid>
       <pubDate>Tue, 13 Aug 2024 23:10:41 GMT</pubDate>
     </item>
@@ -90,18 +97,11 @@
       <pubDate>Tue, 13 Aug 2024 19:30:33 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌推出首个基于人工智能的 Android 更新和新款 Pixel 9 手机</title>
+      <title>谷歌推出首个基于 AI 的 Android 更新和新款 Pixel 9 手机</title>
       <link>https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html</link>
       <description><![CDATA[该公司正试图向消费者推出更多人工智能功能]]></description>
       <guid>https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html</guid>
       <pubDate>Tue, 13 Aug 2024 18:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据生活质量、就业市场等因素，美国最适宜居住的 10 个地方</title>
-      <link>https://www.cnbc.com/2024/08/13/fort-wayne-wichita-10-most-affordable-places-to-live-in-the-us.html</link>
-      <description><![CDATA[《美国新闻与世界报道》根据生活质量、价值、吸引力和当地就业市场的实力对这些城市进行了排名。]]></description>
-      <guid>https://www.cnbc.com/2024/08/13/fort-wayne-wichita-10-most-affordable-places-to-live-in-the-us.html</guid>
-      <pubDate>Tue, 13 Aug 2024 18:09:25 GMT</pubDate>
     </item>
     <item>
       <title>我们试驾了中国电动汽车，看看竞争对手的担忧之情为何如此强烈</title>
