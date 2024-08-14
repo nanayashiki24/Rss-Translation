@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 14 Aug 2024 08:40:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 14 Aug 2024 09:17:00 GMT</lastBuildDate>
+    <item>
+      <title>中国科技巨头腾讯季度利润增长 82%，主要游戏部门加速发展</title>
+      <link>https://www.cnbc.com/2024/08/14/tencent-earnings-q2-2024.html</link>
+      <description><![CDATA[今年以来，腾讯股价上涨了 27%，部分原因是新游戏《地下城与勇士移动版》（DnF Mobile）的热销。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/tencent-earnings-q2-2024.html</guid>
+      <pubDate>Wed, 14 Aug 2024 09:15:54 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能需求推动科技发展，全球最大主权财富基金上半年盈利 1380 亿美元</title>
       <link>https://www.cnbc.com/2024/08/14/worlds-largest-sovereign-wealth-fund-posts-138-billion-in-h1-profit.html</link>
       <description><![CDATA[挪威庞大的主权财富基金周三公布上半年利润为 1.48 万亿克朗（1380 亿美元）。]]></description>
       <guid>https://www.cnbc.com/2024/08/14/worlds-largest-sovereign-wealth-fund-posts-138-billion-in-h1-profit.html</guid>
-      <pubDate>Wed, 14 Aug 2024 08:31:55 GMT</pubDate>
+      <pubDate>Wed, 14 Aug 2024 08:53:22 GMT</pubDate>
     </item>
     <item>
       <title>瑞银第二季度利润超出预期，瑞信整合推动收入增长</title>
@@ -34,13 +41,6 @@
       <pubDate>Wed, 14 Aug 2024 07:59:20 GMT</pubDate>
     </item>
     <item>
-      <title>“廉价”且“持有不足”：尽管美国股市反弹，CIO 仍看好英国股市</title>
-      <link>https://www.cnbc.com/2024/08/14/cio-makes-the-case-for-uk-stocks-despite-us-bounce-back.html</link>
-      <description><![CDATA[金融公司 Wren Sterling 的首席投资官表示，在经历新一轮市场波动之后，英国股票显得尤为有吸引力。]]></description>
-      <guid>https://www.cnbc.com/2024/08/14/cio-makes-the-case-for-uk-stocks-despite-us-bounce-back.html</guid>
-      <pubDate>Wed, 14 Aug 2024 07:56:25 GMT</pubDate>
-    </item>
-    <item>
       <title>“模仿拜登”：日本首相岸田文雄辞职引发的反应</title>
       <link>https://www.cnbc.com/2024/08/14/reactions-to-japans-fumio-kishida-stepping-aside-in-ldp-race.html</link>
       <description><![CDATA[有专家表示，此举让人想起不到一个月前美国总统拜登退出总统竞选。]]></description>
@@ -55,32 +55,25 @@
       <pubDate>Wed, 14 Aug 2024 06:22:49 GMT</pubDate>
     </item>
     <item>
-      <title>在周三关键通胀报告公布之前，股指期货几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/08/13/stock-market-today-live-updates.html</link>
-      <description><![CDATA[在周二股市普遍上涨之后，期货出现小幅波动。]]></description>
-      <guid>https://www.cnbc.com/2024/08/13/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 14 Aug 2024 05:46:08 GMT</pubDate>
+      <title>研究公司称，由于游戏机销售疲软，视频游戏行业在 2024 年面临增长乏力</title>
+      <link>https://www.cnbc.com/2024/08/14/video-game-industry-faces-sluggish-2024-sales-growth-newzoo-says.html</link>
+      <description><![CDATA[市场研究公司 Newzoo 表示，游戏行业预计同比增长 2.1%，低于早先预测的 2.8%。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/video-game-industry-faces-sluggish-2024-sales-growth-newzoo-says.html</guid>
+      <pubDate>Wed, 14 Aug 2024 05:02:25 GMT</pubDate>
     </item>
     <item>
-      <title>据报道，中国华为将发布新的 AI 芯片，在美国制裁下挑战英伟达</title>
-      <link>https://www.cnbc.com/2024/08/14/chinas-huawei-set-to-release-ai-new-chip-to-challenge-nvidia-wsj-says.html</link>
-      <description><![CDATA[据报道，华为计划推出一款新的 AI 芯片，据称其性能可与 Nvidia 的 H100 媲美。]]></description>
-      <guid>https://www.cnbc.com/2024/08/14/chinas-huawei-set-to-release-ai-new-chip-to-challenge-nvidia-wsj-says.html</guid>
-      <pubDate>Wed, 14 Aug 2024 03:42:30 GMT</pubDate>
+      <title>德克萨斯州起诉通用汽车涉嫌侵犯司机隐私</title>
+      <link>https://www.cnbc.com/2024/08/14/texas-sues-gm-for-allegedly-violating-drivers-privacy.html</link>
+      <description><![CDATA[通用汽车已被德克萨斯州起诉，该州指控该汽车制造商在未经驾驶员同意的情况下收集和出售驾驶员数据。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/texas-sues-gm-for-allegedly-violating-drivers-privacy.html</guid>
+      <pubDate>Wed, 14 Aug 2024 03:30:58 GMT</pubDate>
     </item>
     <item>
-      <title>摩纳哥是明星云集的 E1 赛事的六个举办地之一，这项赛事在开始之前被认为是“不可能”的</title>
-      <link>https://www.cnbc.com/2024/08/14/monaco-hosts-e1-a-new-racing-competition-using-all-electric-boats-.html</link>
-      <description><![CDATA[摩纳哥是举办全电动 E1 艇赛的最新地点，参加比赛的船队由汤姆·布雷迪和拉斐尔·纳达尔等明星运动员所拥有。]]></description>
-      <guid>https://www.cnbc.com/2024/08/14/monaco-hosts-e1-a-new-racing-competition-using-all-electric-boats-.html</guid>
-      <pubDate>Wed, 14 Aug 2024 01:50:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>伯恩斯坦：这四只日本股票的股价“大幅折价”</title>
-      <link>https://www.cnbc.com/2024/08/14/4-japanese-stocks-trading-at-a-deep-discount-bernstein.html</link>
-      <description><![CDATA[伯恩斯坦继续看好日本的前景，推荐了具体的交易策略并列举了增持评级的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/08/14/4-japanese-stocks-trading-at-a-deep-discount-bernstein.html</guid>
-      <pubDate>Tue, 13 Aug 2024 23:10:41 GMT</pubDate>
+      <title>埃利奥特准备与西南航空争夺代理权，将提名 10 名董事</title>
+      <link>https://www.cnbc.com/2024/08/13/elliott-southwest-proxy-fight.html</link>
+      <description><![CDATA[西南航空投资者埃利奥特管理公司计划对该航空公司发起代理权争夺战，并将提名最多 10 名董事进入公司董事会。]]></description>
+      <guid>https://www.cnbc.com/2024/08/13/elliott-southwest-proxy-fight.html</guid>
+      <pubDate>Wed, 14 Aug 2024 00:49:30 GMT</pubDate>
     </item>
     <item>
       <title>杰富瑞列出 3 只在抛售后值得买入的芯片股，预计上涨空间均超过 50%</title>
@@ -90,6 +83,13 @@
       <pubDate>Tue, 13 Aug 2024 23:09:50 GMT</pubDate>
     </item>
     <item>
+      <title>蒂姆·沃尔兹在明尼苏达州打过的税务官司，以及他获胜的经过</title>
+      <link>https://www.cnbc.com/2024/08/13/tim-walz-kamala-harris-minnesota-business.html</link>
+      <description><![CDATA[明尼苏达州州长蒂姆·沃尔兹与商界领袖在税收政策上发生冲突。他的观点可能有助于塑造副总统卡马拉·哈里斯的经济优先事项。]]></description>
+      <guid>https://www.cnbc.com/2024/08/13/tim-walz-kamala-harris-minnesota-business.html</guid>
+      <pubDate>Tue, 13 Aug 2024 22:01:43 GMT</pubDate>
+    </item>
+    <item>
       <title>为什么华尔街认为布莱恩·尼科尔是重振星巴克并结束霍华德·舒尔茨时代的最佳人选</title>
       <link>https://www.cnbc.com/2024/08/13/starbucks-ceo-wall-st-cheers-brian-niccol-appointment.html</link>
       <description><![CDATA[在拉克斯曼·纳拉辛汉 (Laxman Narasimhan) 领导下销售下滑后，星巴克任命布莱恩·尼科尔 (Brian Niccol) 为其最新首席执行官，该任命于 9 月 9 日起生效。]]></description>
@@ -97,18 +97,18 @@
       <pubDate>Tue, 13 Aug 2024 20:41:04 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌推出首个基于 AI 的 Android 更新和新款 Pixel 9 手机</title>
+      <title>谷歌推出首个基于人工智能的 Android 更新和新款 Pixel 9 手机</title>
       <link>https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html</link>
       <description><![CDATA[该公司正试图向消费者推出更多人工智能功能]]></description>
       <guid>https://www.cnbc.com/2024/08/13/google-pixel-9-phones-first-ai-powered-android-update-announced.html</guid>
       <pubDate>Tue, 13 Aug 2024 18:54:28 GMT</pubDate>
     </item>
     <item>
-      <title>我们试驾了中国电动汽车，看看竞争对手的担忧之情为何如此强烈</title>
-      <link>https://www.cnbc.com/2024/08/13/we-drove-chinese-evs-to-see-why-rival-automakers-are-worried.html</link>
-      <description><![CDATA[CNBC 测试了四款中国汽车制造商生产的电动汽车，以了解它们与特斯拉 Model Y 相比如何，以及为何它们会让竞争对手感到恐惧。]]></description>
-      <guid>https://www.cnbc.com/2024/08/13/we-drove-chinese-evs-to-see-why-rival-automakers-are-worried.html</guid>
-      <pubDate>Tue, 13 Aug 2024 11:00:02 GMT</pubDate>
+      <title>周三的 CPI 通胀报告可能标志着美联储思维的转变</title>
+      <link>https://www.cnbc.com/2024/08/13/wednesdays-cpi-report-could-mark-a-change-in-thinking-for-the-fed.html</link>
+      <description><![CDATA[周二的消息对通胀有利，投资者希望周三的情况会更好。]]></description>
+      <guid>https://www.cnbc.com/2024/08/13/wednesdays-cpi-report-could-mark-a-change-in-thinking-for-the-fed.html</guid>
+      <pubDate>Tue, 13 Aug 2024 18:42:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
