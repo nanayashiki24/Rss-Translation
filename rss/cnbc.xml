@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Thu, 15 Aug 2024 09:33:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Thu, 15 Aug 2024 10:19:00 GMT</lastBuildDate>
+    <item>
+      <title>白宫称，医保药品协商价格将在第一年为美国节省 60 亿美元，为受益人节省 15 亿美元</title>
+      <link>https://www.cnbc.com/2024/08/15/medicare-releases-prices-for-first-10-drugs-subject-to-negotiations.html</link>
+      <description><![CDATA[这是一个有争议的进程中的里程碑，旨在让老年美国人更能负担得起昂贵的药物，但却遭到制药商的强烈反对。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/medicare-releases-prices-for-first-10-drugs-subject-to-negotiations.html</guid>
+      <pubDate>Thu, 15 Aug 2024 10:14:39 GMT</pubDate>
+    </item>
     <item>
       <title>投资者借本周反弹势头，股指期货周四早盘小幅走高：实时更新</title>
       <link>https://www.cnbc.com/2024/08/14/stock-market-today-live-updates.html</link>
@@ -13,18 +20,18 @@
       <pubDate>Thu, 15 Aug 2024 09:11:04 GMT</pubDate>
     </item>
     <item>
-      <title>拜登政府将公布具有里程碑意义的医疗保险谈判中涉及的前 10 种药品的价格</title>
-      <link>https://www.cnbc.com/2024/08/15/medicare-releases-prices-for-first-10-drugs-subject-to-negotiations.html</link>
-      <description><![CDATA[这是一个有争议的进程中的里程碑，旨在让老年美国人更能负担得起昂贵的药物，但却遭到制药商的强烈反对。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/medicare-releases-prices-for-first-10-drugs-subject-to-negotiations.html</guid>
-      <pubDate>Thu, 15 Aug 2024 09:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>乌克兰必须决定如何结束俄罗斯的入侵——继续前进还是撤退，以免为时已晚</title>
       <link>https://www.cnbc.com/2024/08/15/how-will-ukraines-incursion-into-russia-end.html</link>
       <description><![CDATA[乌克兰必须决定是否试图阻止或推进入侵，或者在俄罗斯采取激烈和致命的反击之前立即撤退。]]></description>
       <guid>https://www.cnbc.com/2024/08/15/how-will-ukraines-incursion-into-russia-end.html</guid>
       <pubDate>Thu, 15 Aug 2024 08:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>腾讯支持的 Airwallex 年销售额达 5 亿美元，计划于 2026 年上市</title>
+      <link>https://www.cnbc.com/2024/08/15/fintech-firm-airwallex-nears-500m-arr-plans-to-be-ipo-ready-by-2026.html</link>
+      <description><![CDATA[首席执行官张杰克向 CNBC 表示，支付初创公司 Airwallex 的年营收已达到 5 亿美元，并将准备在 2026 年进行 IPO。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/fintech-firm-airwallex-nears-500m-arr-plans-to-be-ipo-ready-by-2026.html</guid>
+      <pubDate>Thu, 15 Aug 2024 06:13:22 GMT</pubDate>
     </item>
     <item>
       <title>哈里斯提议联邦禁止食品和杂货领域的“企业哄抬价格”</title>
@@ -48,13 +55,6 @@
       <pubDate>Thu, 15 Aug 2024 02:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>吉姆·克莱默 (Jim Cramer) 评述衰退中的公司如何扭转局面</title>
-      <link>https://www.cnbc.com/2024/08/14/jim-cramer-reviews-how-and-if-certain-declining-companies-can-turn-things-around.html</link>
-      <description><![CDATA[CNBC 的吉姆克莱默 (Jim Cramer) 周三讨论了几家股价下跌的公司，解释了它们是否能够扭转业务。]]></description>
-      <guid>https://www.cnbc.com/2024/08/14/jim-cramer-reviews-how-and-if-certain-declining-companies-can-turn-things-around.html</guid>
-      <pubDate>Thu, 15 Aug 2024 00:18:30 GMT</pubDate>
-    </item>
-    <item>
       <title>星巴克向即将离任的首席执行官 Brian Niccol 提供 8500 万美元现金和股票，以表彰他离开 Chipotle 的举动</title>
       <link>https://www.cnbc.com/2024/08/14/starbucks-new-ceo-brian-niccol-compensation-chipotle.html</link>
       <description><![CDATA[星巴克计划在新任首席执行官布莱恩·尼科尔 (Brian Niccol) 从 Chipotle 转投星巴克时向他支付 1000 万美元现金和 7500 万美元的股权奖励。]]></description>
@@ -76,7 +76,7 @@
       <pubDate>Wed, 14 Aug 2024 22:31:50 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 NASA 宇航员要等待波音公司的星际航线</title>
+      <title>为什么 NASA 宇航员要等待波音公司的星际客机返回</title>
       <link>https://www.cnbc.com/2024/08/14/boeing-starliner-updates-nasa-astronauts-waiting-for-return-decision.html</link>
       <description><![CDATA[波音公司的星际航线太空舱“卡里普索”号已在太空中停留了 71 天，目前该公司和美国宇航局正在努力确定机组人员是否可以安全返回。]]></description>
       <guid>https://www.cnbc.com/2024/08/14/boeing-starliner-updates-nasa-astronauts-waiting-for-return-decision.html</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>美国建筑业繁荣导致租金下降，并为租房者带来福利</title>
       <link>https://www.cnbc.com/2024/08/14/heres-where-rent-concessions-are-happening-the-most-in-the-us-.html</link>
-      <description><![CDATA[新建的公寓楼有助于增加该国部分地区可供出租的房屋供应量。结果呢？降价并增加福利。]]></description>
+      <description><![CDATA[新建的公寓楼有助于增加该国部分地区的出租房供应量。结果呢？降价并增加福利。]]></description>
       <guid>https://www.cnbc.com/2024/08/14/heres-where-rent-concessions-are-happening-the-most-in-the-us-.html</guid>
       <pubDate>Wed, 14 Aug 2024 21:03:32 GMT</pubDate>
     </item>
