@@ -3,21 +3,63 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 15 Aug 2024 12:33:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 15 Aug 2024 13:19:00 GMT</lastBuildDate>
+    <item>
+      <title>7 月份消费者支出大幅增长，零售额增长 1%，远好于预期</title>
+      <link>https://www.cnbc.com/2024/08/15/retail-sales-july-2024-.html</link>
+      <description><![CDATA[根据道琼斯指数的预测，7月份零售额预计将增长0.3%。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/retail-sales-july-2024-.html</guid>
+      <pubDate>Thu, 15 Aug 2024 13:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉姆·克莱默 (Jim Cramer) 认为周四股市最值得关注的 10 件事</title>
+      <link>https://www.cnbc.com/2024/08/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html</link>
+      <description><![CDATA[一系列好于预期的经济数据增强了人们对美国经济健康状况的信心，推动周四股市高开。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/jim-cramers-top-10-things-to-watch-in-the-stock-market-thursday.html</guid>
+      <pubDate>Thu, 15 Aug 2024 13:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>小投资者逢低买入了老牌股票 Nvidia 和 Tesla，并买入了 Chipotle</title>
+      <link>https://www.cnbc.com/2024/08/15/small-investors-bought-dip-in-old-favorites-nvidia-and-tesla-scooped-up-chipotle.html</link>
+      <description><![CDATA[本月的市场暴跌似乎并未抑制散户对股票的兴趣。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/small-investors-bought-dip-in-old-favorites-nvidia-and-tesla-scooped-up-chipotle.html</guid>
+      <pubDate>Thu, 15 Aug 2024 13:14:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃尔玛业绩超出预期，并上调预期，因消费者健康状况稳定</title>
+      <link>https://www.cnbc.com/2024/08/15/walmart-reports-its-earnings-before-the-bell-heres-what-to-expect.html</link>
+      <description><![CDATA[沃尔玛的季度盈利和收入超出预期，并上调了全年业绩预期。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/walmart-reports-its-earnings-before-the-bell-heres-what-to-expect.html</guid>
+      <pubDate>Thu, 15 Aug 2024 13:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我看到很多人否认”：高管顾问称企业老板仍预期特朗普获胜</title>
+      <link>https://www.cnbc.com/2024/08/15/trump-2024-business-betting-on-trump-win-c-suite-advisor-says.html</link>
+      <description><![CDATA[高管顾问蒂娜·福德姆表示，美国商界领袖“否认”卡马拉·哈里斯对唐纳德·特朗普的领先优势不断扩大。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/trump-2024-business-betting-on-trump-win-c-suite-advisor-says.html</guid>
+      <pubDate>Thu, 15 Aug 2024 13:10:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛克希德马丁公司将以 4.5 亿美元收购陷入困境的航天器制造商 Terran Orbital 的私有化</title>
+      <link>https://www.cnbc.com/2024/08/15/lockheed-martin-take-terran-orbital-private.html</link>
+      <description><![CDATA[洛克希德马丁公司周四宣布将收购 Terran Orbital。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/lockheed-martin-take-terran-orbital-private.html</guid>
+      <pubDate>Thu, 15 Aug 2024 12:59:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登政府公布医保谈判10种药品价格 称美国首年可省60亿美元</title>
+      <link>https://www.cnbc.com/2024/08/15/medicare-releases-prices-for-first-10-drugs-subject-to-negotiations.html</link>
+      <description><![CDATA[这是一个有争议的进程中的里程碑，旨在让老年美国人更能负担得起昂贵的药物，但却遭到制药商的强烈反对。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/medicare-releases-prices-for-first-10-drugs-subject-to-negotiations.html</guid>
+      <pubDate>Thu, 15 Aug 2024 12:48:07 GMT</pubDate>
+    </item>
     <item>
       <title>哈里斯提议联邦禁止食品和杂货领域的“企业哄抬价格”</title>
       <link>https://www.cnbc.com/2024/08/15/harris-corporate-price-gouging-ban-food-election.html</link>
       <description><![CDATA[副总统卡马拉·哈里斯将扩大联邦贸易委员会的权力，以帮助执行联邦政府禁止食品行业过高价格的提议。]]></description>
       <guid>https://www.cnbc.com/2024/08/15/harris-corporate-price-gouging-ban-food-election.html</guid>
       <pubDate>Thu, 15 Aug 2024 12:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 月份消费者支出大幅增长，零售额增长 1%，远好于预期</title>
-      <link>https://www.cnbc.com/2024/08/15/retail-sales-july-2024-.html</link>
-      <description><![CDATA[根据道琼斯指数的预测，7月份零售额预计将增长0.3%。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/retail-sales-july-2024-.html</guid>
-      <pubDate>Thu, 15 Aug 2024 12:32:22 GMT</pubDate>
     </item>
     <item>
       <title>星巴克向即将离任的首席执行官 Brian Niccol 提供 8500 万美元现金和股票，以表彰他离开 Chipotle 的举动</title>
@@ -27,60 +69,18 @@
       <pubDate>Thu, 15 Aug 2024 12:32:07 GMT</pubDate>
     </item>
     <item>
-      <title>拜登政府公布医保谈判10种药品价格 称美国首年可省60亿美元</title>
-      <link>https://www.cnbc.com/2024/08/15/medicare-releases-prices-for-first-10-drugs-subject-to-negotiations.html</link>
-      <description><![CDATA[这是一个有争议的进程中的里程碑，旨在让老年美国人更能负担得起昂贵的药物，但却遭到制药商的强烈反对。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/medicare-releases-prices-for-first-10-drugs-subject-to-negotiations.html</guid>
-      <pubDate>Thu, 15 Aug 2024 12:20:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔玛业绩超出预期，并上调预期，因消费者健康状况稳定</title>
-      <link>https://www.cnbc.com/2024/08/15/walmart-reports-its-earnings-before-the-bell-heres-what-to-expect.html</link>
-      <description><![CDATA[沃尔玛的季度盈利和收入超出预期，并上调了全年业绩预期。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/walmart-reports-its-earnings-before-the-bell-heres-what-to-expect.html</guid>
-      <pubDate>Thu, 15 Aug 2024 12:08:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是周四最大的分析师电话会议：苹果、戴尔、亚马逊、博通、CrowdStrike、PNC 等</title>
-      <link>https://www.cnbc.com/2024/08/15/thursdays-wall-street-analyst-calls-like-apple.html</link>
-      <description><![CDATA[以下是周四华尔街最大的电话会议。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/thursdays-wall-street-analyst-calls-like-apple.html</guid>
-      <pubDate>Thu, 15 Aug 2024 12:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>“我看到很多人否认”：高管顾问称企业老板仍预期特朗普获胜</title>
-      <link>https://www.cnbc.com/2024/08/15/trump-2024-business-betting-on-trump-win-c-suite-advisor-says.html</link>
-      <description><![CDATA[高管顾问蒂娜·福德姆表示，美国商界领袖“否认”卡马拉·哈里斯对唐纳德·特朗普的领先优势不断扩大。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/trump-2024-business-betting-on-trump-win-c-suite-advisor-says.html</guid>
-      <pubDate>Thu, 15 Aug 2024 11:59:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>盘前涨幅最大的股票：Ulta Beauty、沃尔玛、思科系统等</title>
-      <link>https://www.cnbc.com/2024/08/15/stocks-making-the-biggest-moves-premarket-ulta-wmt-csco.html</link>
-      <description><![CDATA[这些是盘前交易中波动最大的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/stocks-making-the-biggest-moves-premarket-ulta-wmt-csco.html</guid>
-      <pubDate>Thu, 15 Aug 2024 11:57:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管云计算业务加速发展，阿里巴巴盈利仍不及预期，盘前股价下跌 4%</title>
-      <link>https://www.cnbc.com/2024/08/15/alibaba-shares-dip-3percent-after-quarterly-earnings-miss-expectations-despite-cloud-acceleration.html</link>
-      <description><![CDATA[由于竞争日益激烈以及中国消费者愈发谨慎，阿里巴巴的核心电子商务业务继续面临阻力。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/alibaba-shares-dip-3percent-after-quarterly-earnings-miss-expectations-despite-cloud-acceleration.html</guid>
-      <pubDate>Thu, 15 Aug 2024 11:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Third Point 的 Dan Loeb 上季度大量购入苹果股份，亚马逊仍是其最大持股</title>
-      <link>https://www.cnbc.com/2024/08/15/dan-loeb-took-big-stake-in-apple-last-quarter-amazon-biggest-holding.html</link>
-      <description><![CDATA[该对冲基金在第二季度披露了对这家 iPhone 制造商的 4.11 亿美元持仓。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/dan-loeb-took-big-stake-in-apple-last-quarter-amazon-biggest-holding.html</guid>
-      <pubDate>Thu, 15 Aug 2024 10:27:26 GMT</pubDate>
-    </item>
-    <item>
       <title>乌克兰必须决定如何结束俄罗斯的入侵——继续前进还是撤退，以免为时已晚</title>
       <link>https://www.cnbc.com/2024/08/15/how-will-ukraines-incursion-into-russia-end.html</link>
       <description><![CDATA[乌克兰必须决定是否试图阻止或推进入侵，或者在俄罗斯采取激烈和致命的反击之前立即撤退。]]></description>
       <guid>https://www.cnbc.com/2024/08/15/how-will-ukraines-incursion-into-russia-end.html</guid>
       <pubDate>Thu, 15 Aug 2024 08:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>舒默表示加密法案可于今年在参议院获得通过；关键民主党人加入“Crypto4Harris”呼吁</title>
+      <link>https://www.cnbc.com/2024/08/14/schumer-says-crypto-legislation-can-pass-the-senate-this-year-on-crypto4harris-.html</link>
+      <description><![CDATA[高层民主党人参加虚拟市政厅会议，支持加密货币和卡马拉·哈里斯政府。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/schumer-says-crypto-legislation-can-pass-the-senate-this-year-on-crypto4harris-.html</guid>
+      <pubDate>Thu, 15 Aug 2024 02:52:36 GMT</pubDate>
     </item>
     <item>
       <title>思科裁员 7%，报告季度收益和收入超出预期</title>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 14 Aug 2024 22:31:50 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 NASA 宇航员要等待波音公司的星际航线返回</title>
+      <title>为什么 NASA 宇航员要等待波音公司的星际航线</title>
       <link>https://www.cnbc.com/2024/08/14/boeing-starliner-updates-nasa-astronauts-waiting-for-return-decision.html</link>
       <description><![CDATA[波音公司的星际航线太空舱“卡里普索”号已在太空中停留了 71 天，目前该公司和美国宇航局正在努力确定机组人员是否可以安全返回。]]></description>
       <guid>https://www.cnbc.com/2024/08/14/boeing-starliner-updates-nasa-astronauts-waiting-for-return-decision.html</guid>
