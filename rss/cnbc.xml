@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 15 Aug 2024 02:53:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 15 Aug 2024 03:26:00 GMT</lastBuildDate>
+    <item>
+      <title>BMI 称，鉴于日元快速走强，日本央行将需要更长时间才能加息</title>
+      <link>https://www.cnbc.com/2024/08/15/bank-of-japan-will-take-longer-to-hike-rates-says-bmi.html</link>
+      <description><![CDATA[市场动荡之后，日本央行副行长内田新一发表声明，确认该行在市场不稳定的情况下不会加息。]]></description>
+      <guid>https://www.cnbc.com/2024/08/15/bank-of-japan-will-take-longer-to-hike-rates-says-bmi.html</guid>
+      <pubDate>Thu, 15 Aug 2024 03:18:25 GMT</pubDate>
+    </item>
     <item>
       <title>舒默表示加密法案可于今年在参议院获得通过；关键民主党人加入“Crypto4Harris”呼吁</title>
       <link>https://www.cnbc.com/2024/08/14/schumer-says-crypto-legislation-can-pass-the-senate-this-year-on-crypto4harris-.html</link>
@@ -32,13 +39,6 @@
       <description><![CDATA[哥伦比亚大学校长米努什·沙菲克 (Minouche Shafik) 表示，她于周三辞职，此前她已负责监督该校对以色列加沙战争校园抗议活动的处理近四个月。]]></description>
       <guid>https://www.cnbc.com/2024/08/14/columbia-university-president-quits-months-after-handling-of-gaza-war-protests.html</guid>
       <pubDate>Thu, 15 Aug 2024 01:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本第二季度GDP环比增长0.8% 超出预期</title>
-      <link>https://www.cnbc.com/2024/08/15/japan-second-quarter-gdp-beats-expectations-up-0point5percent-from-previous-quarter.html</link>
-      <description><![CDATA[但与去年同期相比，该国 GDP 连续第二个季度下降，继第一季度下降 0.9% 之后，又下降了 0.8%。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/japan-second-quarter-gdp-beats-expectations-up-0point5percent-from-previous-quarter.html</guid>
-      <pubDate>Thu, 15 Aug 2024 01:27:23 GMT</pubDate>
     </item>
     <item>
       <title>星巴克向即将离任的首席执行官 Brian Niccol 提供 8500 万美元现金和股票，以表彰他离开 Chipotle 的举动</title>
@@ -106,7 +106,7 @@
     <item>
       <title>Wizz Air 推出价值 550 美元的“无限次飞行”年度订阅通行证</title>
       <link>https://www.cnbc.com/2024/08/14/wizz-air-launches-550-all-you-can-fly-annual-subscription-pass.html</link>
-      <description><![CDATA[现在，欧洲旅客可以通过廉价航空公司 Wizz Air 推出的一项新旅行订阅服务，以每年 499 欧元（550 美元）的价格无限次乘坐航班。]]></description>
+      <description><![CDATA[现在，欧洲旅客可以通过廉价航空公司 Wizz Air 推出的一项新旅行订阅服务，每年只需支付 499 欧元（550 美元）即可无限次乘坐航班。]]></description>
       <guid>https://www.cnbc.com/2024/08/14/wizz-air-launches-550-all-you-can-fly-annual-subscription-pass.html</guid>
       <pubDate>Wed, 14 Aug 2024 18:54:35 GMT</pubDate>
     </item>
