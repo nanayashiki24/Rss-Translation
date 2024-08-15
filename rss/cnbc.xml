@@ -3,8 +3,8 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 15 Aug 2024 09:18:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 15 Aug 2024 09:33:00 GMT</lastBuildDate>
     <item>
       <title>投资者借本周反弹势头，股指期货周四早盘小幅走高：实时更新</title>
       <link>https://www.cnbc.com/2024/08/14/stock-market-today-live-updates.html</link>
@@ -25,20 +25,6 @@
       <description><![CDATA[乌克兰必须决定是否试图阻止或推进入侵，或者在俄罗斯采取激烈和致命的反击之前立即撤退。]]></description>
       <guid>https://www.cnbc.com/2024/08/15/how-will-ukraines-incursion-into-russia-end.html</guid>
       <pubDate>Thu, 15 Aug 2024 08:43:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wizz Air 推出价值 550 美元的“无限次飞行”年度订阅通行证</title>
-      <link>https://www.cnbc.com/2024/08/14/wizz-air-launches-550-all-you-can-fly-annual-subscription-pass.html</link>
-      <description><![CDATA[现在，欧洲旅客可以通过廉价航空公司 Wizz Air 推出的一项新旅行订阅服务，以每年 499 欧元（550 美元）的价格无限次乘坐航班。]]></description>
-      <guid>https://www.cnbc.com/2024/08/14/wizz-air-launches-550-all-you-can-fly-annual-subscription-pass.html</guid>
-      <pubDate>Thu, 15 Aug 2024 08:40:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>腾讯支持的 Airwallex 年销售额达 5 亿美元，计划于 2026 年上市</title>
-      <link>https://www.cnbc.com/2024/08/15/fintech-firm-airwallex-nears-500m-arr-plans-to-be-ipo-ready-by-2026.html</link>
-      <description><![CDATA[首席执行官张杰克向 CNBC 表示，支付初创公司 Airwallex 的年收入已达到 5 亿美元，并将准备在 2026 年进行 IPO。]]></description>
-      <guid>https://www.cnbc.com/2024/08/15/fintech-firm-airwallex-nears-500m-arr-plans-to-be-ipo-ready-by-2026.html</guid>
-      <pubDate>Thu, 15 Aug 2024 06:13:22 GMT</pubDate>
     </item>
     <item>
       <title>哈里斯提议联邦禁止食品和杂货领域的“企业哄抬价格”</title>
@@ -62,13 +48,6 @@
       <pubDate>Thu, 15 Aug 2024 02:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>哥伦比亚大学校长在以色列-哈马斯战争抗议活动席卷校园数月后辞职</title>
-      <link>https://www.cnbc.com/2024/08/14/columbia-university-president-quits-months-after-handling-of-gaza-war-protests.html</link>
-      <description><![CDATA[哥伦比亚大学校长米努什·沙菲克 (Minouche Shafik) 表示，她于周三辞职，此前她已负责监督该校对以色列加沙战争校园抗议活动的处理近四个月。]]></description>
-      <guid>https://www.cnbc.com/2024/08/14/columbia-university-president-quits-months-after-handling-of-gaza-war-protests.html</guid>
-      <pubDate>Thu, 15 Aug 2024 01:34:31 GMT</pubDate>
-    </item>
-    <item>
       <title>吉姆·克莱默 (Jim Cramer) 评述衰退中的公司如何扭转局面</title>
       <link>https://www.cnbc.com/2024/08/14/jim-cramer-reviews-how-and-if-certain-declining-companies-can-turn-things-around.html</link>
       <description><![CDATA[CNBC 的吉姆克莱默 (Jim Cramer) 周三讨论了几家股价下跌的公司，解释了它们是否能够扭转业务。]]></description>
@@ -83,11 +62,25 @@
       <pubDate>Thu, 15 Aug 2024 00:16:20 GMT</pubDate>
     </item>
     <item>
+      <title>特朗普在经济演讲中对哈里斯进行人身攻击</title>
+      <link>https://www.cnbc.com/2024/08/14/trump-economy-speech-north-carolina.html</link>
+      <description><![CDATA[在总统乔·拜登退出连任竞选并支持哈里斯接替他后，特朗普竞选团队重新调整了竞选口号，并发表了此次讲话。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/trump-economy-speech-north-carolina.html</guid>
+      <pubDate>Wed, 14 Aug 2024 23:08:41 GMT</pubDate>
+    </item>
+    <item>
       <title>思科裁员 7%，报告季度收益和收入超出预期</title>
       <link>https://www.cnbc.com/2024/08/14/cisco-csco-earnings-report-q4-2024.html</link>
       <description><![CDATA[思科报告其收入连续第三个季度下滑，并宣布了一项大规模重组计划，将导致 10 亿美元的税前费用。]]></description>
       <guid>https://www.cnbc.com/2024/08/14/cisco-csco-earnings-report-q4-2024.html</guid>
       <pubDate>Wed, 14 Aug 2024 22:31:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 NASA 宇航员要等待波音公司的星际航线</title>
+      <link>https://www.cnbc.com/2024/08/14/boeing-starliner-updates-nasa-astronauts-waiting-for-return-decision.html</link>
+      <description><![CDATA[波音公司的星际航线太空舱“卡里普索”号已在太空中停留了 71 天，目前该公司和美国宇航局正在努力确定机组人员是否可以安全返回。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/boeing-starliner-updates-nasa-astronauts-waiting-for-return-decision.html</guid>
+      <pubDate>Wed, 14 Aug 2024 21:55:12 GMT</pubDate>
     </item>
     <item>
       <title>埃利奥特数月的星巴克营销活动如何为其争取到比预期更好的交易</title>
@@ -104,11 +97,18 @@
       <pubDate>Wed, 14 Aug 2024 21:23:21 GMT</pubDate>
     </item>
     <item>
-      <title>沃伦·巴菲特的伯克希尔·哈撒韦公司在 Ulta Beauty 和 Heico 增持新股份</title>
-      <link>https://www.cnbc.com/2024/08/14/buffetts-berkshire-hathaway-builds-new-stakes-in-ulta-beauty-heico.html</link>
-      <description><![CDATA[上个季度，沃伦·巴菲特的控股公司收购了化妆品零售商 Ulta Beauty 以及电子和航空航天公司 Heico 的少量股份。]]></description>
-      <guid>https://www.cnbc.com/2024/08/14/buffetts-berkshire-hathaway-builds-new-stakes-in-ulta-beauty-heico.html</guid>
-      <pubDate>Wed, 14 Aug 2024 20:37:24 GMT</pubDate>
+      <title>美国建筑业繁荣导致租金下降，并为租房者带来福利</title>
+      <link>https://www.cnbc.com/2024/08/14/heres-where-rent-concessions-are-happening-the-most-in-the-us-.html</link>
+      <description><![CDATA[新建的公寓楼有助于增加该国部分地区可供出租的房屋供应量。结果呢？降价并增加福利。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/heres-where-rent-concessions-are-happening-the-most-in-the-us-.html</guid>
+      <pubDate>Wed, 14 Aug 2024 21:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>FTC 禁止虚假在线评论和夸大社交媒体影响力；规则将于 10 月生效</title>
+      <link>https://www.cnbc.com/2024/08/14/ftc-bans-fake-reviews-social-media-influence-markers.html</link>
+      <description><![CDATA[2022 年 7 月，亚马逊起诉了 10,000 多名 Facebook 群组管理员，指控他们散布虚假评论。]]></description>
+      <guid>https://www.cnbc.com/2024/08/14/ftc-bans-fake-reviews-social-media-influence-markers.html</guid>
+      <pubDate>Wed, 14 Aug 2024 20:53:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
