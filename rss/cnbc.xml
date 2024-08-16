@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Fri, 16 Aug 2024 20:13:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Fri, 16 Aug 2024 22:12:00 GMT</lastBuildDate>
+    <item>
+      <title>UAW 主席批评 Stellantis 首席执行官裁员和涉嫌哄抬价格</title>
+      <link>https://www.cnbc.com/2024/08/16/uaw-president-slams-stellantis-ceo.html</link>
+      <description><![CDATA[这是继去年充满争议的集体谈判之后，首席执行官与工会领导人之间持续争论的最新一次言论。]]></description>
+      <guid>https://www.cnbc.com/2024/08/16/uaw-president-slams-stellantis-ceo.html</guid>
+      <pubDate>Fri, 16 Aug 2024 22:11:25 GMT</pubDate>
+    </item>
     <item>
       <title>法官暂时封锁体育流媒体服务 Venu，在反垄断问题上站在 Fubo 一边</title>
       <link>https://www.cnbc.com/2024/08/16/judge-temporarily-blocks-sports-streaming-service-venu-ruling-in-favor-of-fubo-tv-on-antitrust-concerns.html</link>
@@ -27,11 +34,18 @@
       <pubDate>Fri, 16 Aug 2024 20:50:12 GMT</pubDate>
     </item>
     <item>
-      <title>周五股市收盘走高，市场复苏推动标普 500 指数创下 2024 年以来最佳一周：实时更新</title>
+      <title>周五股市收高，市场复苏推动标普 500 指数创下 2024 年以来最佳一周：实时更新</title>
       <link>https://www.cnbc.com/2024/08/15/stock-futures-are-little-changed-as-wall-street-heads-for-a-winning-week.html</link>
       <description><![CDATA[标准普尔 500 指数连续第七天上涨。]]></description>
       <guid>https://www.cnbc.com/2024/08/15/stock-futures-are-little-changed-as-wall-street-heads-for-a-winning-week.html</guid>
       <pubDate>Fri, 16 Aug 2024 20:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>财务披露显示，特朗普拥有超过 100 万美元的加密货币：CNBC Crypto World</title>
+      <link>https://www.cnbc.com/video/2024/08/16/trump-owns-more-than-1-million-in-crypto-financial-disclosure-shows-cnbc-crypto-world.html</link>
+      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来的情况。在今天的节目中，Framework Ventures 联合创始人 Vance Spencer 讨论了数字资产领域的市场、加密监管和风险投资。]]></description>
+      <guid>https://www.cnbc.com/video/2024/08/16/trump-owns-more-than-1-million-in-crypto-financial-disclosure-shows-cnbc-crypto-world.html</guid>
+      <pubDate>Fri, 16 Aug 2024 20:43:41 GMT</pubDate>
     </item>
     <item>
       <title>哈里斯呼吁将新生儿家庭的儿童税收抵免额增加至 6,000 美元</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[这些新功能的推出，正值汽车制造商针对 2025 款林肯领航员的外观和内饰进行重新设计之际。]]></description>
       <guid>https://www.cnbc.com/2024/08/15/ford-2025-lincoln-navigator-spa-mode-48-inch-display-for-gaming.html</guid>
       <pubDate>Fri, 16 Aug 2024 14:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜耳在美国赢得 Roundup 致癌诉讼后股价飙升 11%</title>
-      <link>https://www.cnbc.com/2024/08/16/bayer-shares-soar-after-us-legal-win-against-roundup-cancer-claims.html</link>
-      <description><![CDATA[拜耳公司宣布在有关接触其畅销产品 Roundup 除草剂导致癌症的诉讼中取得了胜利，该公司股价因此上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/08/16/bayer-shares-soar-after-us-legal-win-against-roundup-cancer-claims.html</guid>
-      <pubDate>Fri, 16 Aug 2024 14:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>财务披露显示，特朗普拥有超过 100 万美元的加密货币，并通过品牌圣经赚取了 30 万美元</title>
-      <link>https://www.cnbc.com/2024/08/16/trump-owns-more-than-1-million-in-crypto-and-made-300k-on-branded-bibles-financial-disclosure-shows-.html</link>
-      <description><![CDATA[特朗普对加密货币的公开立场自他上任以来发生了转变，当时他说数字货币是一个骗局。]]></description>
-      <guid>https://www.cnbc.com/2024/08/16/trump-owns-more-than-1-million-in-crypto-and-made-300k-on-branded-bibles-financial-disclosure-shows-.html</guid>
-      <pubDate>Fri, 16 Aug 2024 10:01:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
