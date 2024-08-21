@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 21 Aug 2024 21:32:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 21 Aug 2024 22:10:00 GMT</lastBuildDate>
+    <item>
+      <title>Snowflake 上调年度产品收入预测，增加股票回购金额</title>
+      <link>https://www.cnbc.com/2024/08/21/snowflake-raises-annual-product-revenue-forecast-increases-share-buyback-amount.html</link>
+      <description><![CDATA[数据云分析公司 Snowflake 周三上调了全年产品收入预测，因为人工智能的进步吸引了更多客户使用其云平台。]]></description>
+      <guid>https://www.cnbc.com/2024/08/21/snowflake-raises-annual-product-revenue-forecast-increases-share-buyback-amount.html</guid>
+      <pubDate>Wed, 21 Aug 2024 21:54:19 GMT</pubDate>
+    </item>
     <item>
       <title>罗伯特·肯尼迪 (RFK Jr.) 计划结束总统竞选，将支持特朗普而非哈里斯</title>
       <link>https://www.cnbc.com/2024/08/21/rfk-jr-ends-campaign-trump-harris.html</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国银行正在列出其认为的美国最重要的股票清单。]]></description>
       <guid>https://www.cnbc.com/2024/08/21/most-important-stocks-in-the-us-according-to-bank-of-america.html</guid>
       <pubDate>Wed, 21 Aug 2024 19:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资者对美联储降息信心增强，比特币和以太币上涨：CNBC Crypto World</title>
-      <link>https://www.cnbc.com/video/2024/08/21/bitcoin-ether-rise-investors-grow-confident-fed-will-cut-rates-crypto-world.html</link>
-      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新消息和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来情况。在今天的节目中，SALT 创始人兼 SkyBridge Capital 管理合伙人 Anthony Scaramucci 讨论了推动市场的因素以及加密在 2024 年大选中的作用。]]></description>
-      <guid>https://www.cnbc.com/video/2024/08/21/bitcoin-ether-rise-investors-grow-confident-fed-will-cut-rates-crypto-world.html</guid>
-      <pubDate>Wed, 21 Aug 2024 19:00:01 GMT</pubDate>
     </item>
     <item>
       <title>美联储会议纪要显示 9 月份“可能”降息</title>
