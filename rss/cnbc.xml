@@ -3,21 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 21 Aug 2024 22:10:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 21 Aug 2024 22:36:00 GMT</lastBuildDate>
+    <item>
+      <title>VIX 水平可帮助预测股市下一步走势</title>
+      <link>https://www.cnbc.com/2024/08/21/the-vix-level-that-can-help-chart-a-path-for-where-stocks-go-next-.html</link>
+      <description><![CDATA[Canaccord Genuity 认为华尔街所谓的恐慌指数是决定未来价格走势的关键。]]></description>
+      <guid>https://www.cnbc.com/2024/08/21/the-vix-level-that-can-help-chart-a-path-for-where-stocks-go-next-.html</guid>
+      <pubDate>Wed, 21 Aug 2024 22:34:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>观看民主党全国代表大会直播：蒂姆·沃尔兹、比尔·克林顿、南希·佩洛西是第三天的头条人物</title>
+      <link>https://www.cnbc.com/2024/08/21/walz-harris-election-dnc-clinton-pelosi-speeches.html</link>
+      <description><![CDATA[卡玛拉·哈里斯的竞选搭档蒂姆·沃尔兹是名单上的最后一位发言人，该名单包括比尔·克林顿、南希·佩洛西和皮特·布蒂吉格。]]></description>
+      <guid>https://www.cnbc.com/2024/08/21/walz-harris-election-dnc-clinton-pelosi-speeches.html</guid>
+      <pubDate>Wed, 21 Aug 2024 22:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>周三晚间股指期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/08/21/stock-market-today-live-updates.html</link>
+      <description><![CDATA[交易员们正在关注美联储主席杰罗姆鲍威尔周五的评论，以寻找有关可能降息的更多线索。]]></description>
+      <guid>https://www.cnbc.com/2024/08/21/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 21 Aug 2024 22:29:27 GMT</pubDate>
+    </item>
     <item>
       <title>Snowflake 上调年度产品收入预测，增加股票回购金额</title>
       <link>https://www.cnbc.com/2024/08/21/snowflake-raises-annual-product-revenue-forecast-increases-share-buyback-amount.html</link>
       <description><![CDATA[数据云分析公司 Snowflake 周三上调了全年产品收入预测，因为人工智能的进步吸引了更多客户使用其云平台。]]></description>
       <guid>https://www.cnbc.com/2024/08/21/snowflake-raises-annual-product-revenue-forecast-increases-share-buyback-amount.html</guid>
       <pubDate>Wed, 21 Aug 2024 21:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗伯特·肯尼迪 (RFK Jr.) 计划结束总统竞选，将支持特朗普而非哈里斯</title>
-      <link>https://www.cnbc.com/2024/08/21/rfk-jr-ends-campaign-trump-harris.html</link>
-      <description><![CDATA[没有肯尼迪，唐纳德·特朗普和卡玛拉·哈里斯将是 2024 年总统竞选中仅剩的两位有力候选人。]]></description>
-      <guid>https://www.cnbc.com/2024/08/21/rfk-jr-ends-campaign-trump-harris.html</guid>
-      <pubDate>Wed, 21 Aug 2024 21:14:17 GMT</pubDate>
     </item>
     <item>
       <title>加密货币“杀猪”骗局重创堪萨斯银行，前首席执行官被判入狱 24 年</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[副总统卡马拉·哈里斯的商业界盟友一直在民主党全国代表大会上私下游说首席执行官们支持她。]]></description>
       <guid>https://www.cnbc.com/2024/08/21/harris-business-allies-taxes-trump.html</guid>
       <pubDate>Wed, 21 Aug 2024 20:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>VIX 水平可帮助预测股市下一步走势</title>
-      <link>https://www.cnbc.com/2024/08/21/the-vix-level-that-can-help-chart-a-path-for-where-stocks-go-next-.html</link>
-      <description><![CDATA[Canaccord Genuity 认为华尔街所谓的“恐慌指数”是决定未来价格走势的关键。]]></description>
-      <guid>https://www.cnbc.com/2024/08/21/the-vix-level-that-can-help-chart-a-path-for-where-stocks-go-next-.html</guid>
-      <pubDate>Wed, 21 Aug 2024 19:53:59 GMT</pubDate>
     </item>
     <item>
       <title>美国劳工部称非农就业人数增幅下调 81.8 万</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[美联储周三公布了7月30日至31日政策会议的会议纪要。]]></description>
       <guid>https://www.cnbc.com/2024/08/21/fed-minutes-july-2024.html</guid>
       <pubDate>Wed, 21 Aug 2024 18:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Systems 正在为医生和患者开发 100 多项新 AI 功能。以下是即将推出的功能</title>
-      <link>https://www.cnbc.com/2024/08/21/epic-systems-ugm-2024-ai-tools-in-mychart-cosmos-.html</link>
-      <description><![CDATA[本周，医疗保健行业高管将访问 Epic 总部，了解其新的软件产品和更新。]]></description>
-      <guid>https://www.cnbc.com/2024/08/21/epic-systems-ugm-2024-ai-tools-in-mychart-cosmos-.html</guid>
-      <pubDate>Wed, 21 Aug 2024 18:23:39 GMT</pubDate>
     </item>
     <item>
       <title>在西西里岛沉没的超级游艇残骸中发现了五具尸体</title>
