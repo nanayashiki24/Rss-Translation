@@ -3,14 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Fri, 23 Aug 2024 14:52:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Fri, 23 Aug 2024 15:33:00 GMT</lastBuildDate>
+    <item>
+      <title>鲍威尔讲话暗示美联储将降息，10 年期美国国债收益率下滑</title>
+      <link>https://www.cnbc.com/2024/08/23/us-bonds-treasury-yields-in-focus-amid-powells-jackson-hole-speech.html</link>
+      <description><![CDATA[由于美联储主席杰罗姆·鲍威尔在杰克逊霍尔年度研讨会上暗示将降息，美国 10 年期国债收益率周五下跌。]]></description>
+      <guid>https://www.cnbc.com/2024/08/23/us-bonds-treasury-yields-in-focus-amid-powells-jackson-hole-speech.html</guid>
+      <pubDate>Fri, 23 Aug 2024 15:33:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国司法部起诉软件公司 RealPage 涉嫌帮助房东串通抬高租金</title>
+      <link>https://www.cnbc.com/2024/08/23/doj-realpage-landlord-rent-collusion-antitrust.html</link>
+      <description><![CDATA[美国司法部指控 RealPage 非法策划破坏房东之间的竞争并形成垄断，损害数百万租房者的利益。]]></description>
+      <guid>https://www.cnbc.com/2024/08/23/doj-realpage-landlord-rent-collusion-antitrust.html</guid>
+      <pubDate>Fri, 23 Aug 2024 15:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>美联储主席鲍威尔暗示未来将降息：“现在是政策调整的时候了”</title>
       <link>https://www.cnbc.com/2024/08/23/fed-chair-powell-indicates-interest-rate-cuts-ahead-the-time-has-come-for-policy-to-adjust.html</link>
       <description><![CDATA[鲍威尔为未来降息奠定了基础，但他拒绝透露具体时间和幅度。]]></description>
       <guid>https://www.cnbc.com/2024/08/23/fed-chair-powell-indicates-interest-rate-cuts-ahead-the-time-has-come-for-policy-to-adjust.html</guid>
-      <pubDate>Fri, 23 Aug 2024 15:01:28 GMT</pubDate>
+      <pubDate>Fri, 23 Aug 2024 15:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>42 岁的他以 13 亿美元的价格出售了自己的初创公司——他最初购买了一台自己买不起的 17,500 美元相机</title>
+      <link>https://www.cnbc.com/2024/08/23/how-frame-io-ceo-built-billion-dollar-business-sold-to-adobe.html</link>
+      <description><![CDATA[在埃默里·韦尔斯以 12.8 亿美元的价格出售其初创公司 Frame.io 之前的几年，他做出了一个鲁莽的决定：购买一台他买不起的相机，这个决定改变了他的职业轨迹。]]></description>
+      <guid>https://www.cnbc.com/2024/08/23/how-frame-io-ceo-built-billion-dollar-business-sold-to-adobe.html</guid>
+      <pubDate>Fri, 23 Aug 2024 15:10:16 GMT</pubDate>
     </item>
     <item>
       <title>怀俄明州正在推动加密支付，并试图抢先推出数字美元</title>
@@ -20,16 +41,9 @@
       <pubDate>Fri, 23 Aug 2024 14:41:09 GMT</pubDate>
     </item>
     <item>
-      <title>鲍威尔讲话暗示美联储将降息，10 年期美国国债收益率下滑</title>
-      <link>https://www.cnbc.com/2024/08/23/us-bonds-treasury-yields-in-focus-amid-powells-jackson-hole-speech.html</link>
-      <description><![CDATA[由于美联储主席杰罗姆·鲍威尔在杰克逊霍尔年度研讨会上暗示将降息，美国 10 年期国债收益率周五下跌。]]></description>
-      <guid>https://www.cnbc.com/2024/08/23/us-bonds-treasury-yields-in-focus-amid-powells-jackson-hole-speech.html</guid>
-      <pubDate>Fri, 23 Aug 2024 14:17:45 GMT</pubDate>
-    </item>
-    <item>
       <title>达美航空首席运营官任职仅一年多便离职前往另一家公司</title>
       <link>https://www.cnbc.com/2024/08/23/delta-chief-operations-officer-coo-mike-spanos.html</link>
-      <description><![CDATA[达美航空的首席运营官迈克·斯帕诺斯 (Mike Spanos) 是一位公司外部人士，于 2023 年 5 月受聘。]]></description>
+      <description><![CDATA[达美航空的首席运营官迈克·斯帕诺斯 (Mike Spanos) 是一名公司外部人士，于 2023 年 5 月受聘。]]></description>
       <guid>https://www.cnbc.com/2024/08/23/delta-chief-operations-officer-coo-mike-spanos.html</guid>
       <pubDate>Fri, 23 Aug 2024 14:11:38 GMT</pubDate>
     </item>
@@ -83,13 +97,6 @@
       <pubDate>Fri, 23 Aug 2024 12:56:40 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌如何制造用于训练苹果人工智能模型和自己的聊天机器人 Gemini 的定制芯片</title>
-      <link>https://www.cnbc.com/2024/08/23/how-google-makes-custom-cloud-chips-that-power-apple-ai-and-gemini.html</link>
-      <description><![CDATA[谷歌生产定制的人工智能芯片，称为 TPU，而苹果则使用它们来训练其人工智能模型。CNBC 独家报道了谷歌制造芯片的实验室。]]></description>
-      <guid>https://www.cnbc.com/2024/08/23/how-google-makes-custom-cloud-chips-that-power-apple-ai-and-gemini.html</guid>
-      <pubDate>Fri, 23 Aug 2024 12:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>新一代汽车成为蒙特雷拍卖会上的经典汽车销售停滞不前</title>
       <link>https://www.cnbc.com/2024/08/23/classic-car-sales-monterey-car-week.html</link>
       <description><![CDATA[平均售价为 476,965 美元，略低于去年的 477,866 美元。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[莱昂·帕内塔、众议员艾丽莎·斯洛特金和参议员马克·凯利严厉批评共和党候选人唐纳德·特朗普对美国价值观和国家安全构成威胁。]]></description>
       <guid>https://www.cnbc.com/2024/08/23/trump-dictators-harris-dnc-cia.html</guid>
       <pubDate>Fri, 23 Aug 2024 04:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔玛在其会员计划中增加了汉堡王福利</title>
-      <link>https://www.cnbc.com/2024/08/22/walmart-plus-burger-king-benefit.html</link>
-      <description><![CDATA[沃尔玛宣布与汉堡王建立新的合作伙伴关系，沃尔玛+会员通过 BK 应用程序购买任何汉堡王产品均可享受 25% 的折扣。]]></description>
-      <guid>https://www.cnbc.com/2024/08/22/walmart-plus-burger-king-benefit.html</guid>
-      <pubDate>Thu, 22 Aug 2024 20:57:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
