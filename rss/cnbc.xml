@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sat, 24 Aug 2024 21:32:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Sat, 24 Aug 2024 22:00:00 GMT</lastBuildDate>
+    <item>
+      <title>夏威夷大岛发布热带风暴警告，霍恩威胁洪水和火灾</title>
+      <link>https://www.cnbc.com/2024/08/24/hawaiis-big-island-is-under-a-tropical-storm-warning-as-hone-threatens-floods-and-fires.html</link>
+      <description><![CDATA[当高温、低湿度和强风共同导致火灾危险增加时，国家气象局就会发出警报。]]></description>
+      <guid>https://www.cnbc.com/2024/08/24/hawaiis-big-island-is-under-a-tropical-storm-warning-as-hone-threatens-floods-and-fires.html</guid>
+      <pubDate>Sat, 24 Aug 2024 21:59:07 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局求助 SpaceX 将宇航员从国际空间站接回，波音星际客机空载返回</title>
       <link>https://www.cnbc.com/2024/08/24/nasa-boeing-starliner-decision-return-empty-spacex-astronauts-iss.html</link>
@@ -13,25 +20,11 @@
       <pubDate>Sat, 24 Aug 2024 20:44:52 GMT</pubDate>
     </item>
     <item>
-      <title>伊斯兰国宣称对德国持刀袭击事件负责</title>
-      <link>https://www.cnbc.com/2024/08/24/german-police-hunt-for-assailant-in-festival-stabbing-that-killed-3.html</link>
-      <description><![CDATA[周六，德国西部城市索林根的一个节日活动中，一名身份不明的袭击者杀害了三人，并致多人受伤，数小时后，警方开始追捕该袭击者。]]></description>
-      <guid>https://www.cnbc.com/2024/08/24/german-police-hunt-for-assailant-in-festival-stabbing-that-killed-3.html</guid>
-      <pubDate>Sat, 24 Aug 2024 19:26:01 GMT</pubDate>
-    </item>
-    <item>
       <title>数十所大学的助学金危机影响了新生的组成</title>
       <link>https://www.cnbc.com/2024/08/24/dozens-of-colleges-see-financial-aid-turmoil-impacting-freshman-class-makeups.html</link>
       <description><![CDATA[教育部长米格尔·卡多纳 (Miguel Cardona) 誓言“要做得更好”，因为管理人员表示，今年的 FAFSA 失败已经给校园留下了影响。]]></description>
       <guid>https://www.cnbc.com/2024/08/24/dozens-of-colleges-see-financial-aid-turmoil-impacting-freshman-class-makeups.html</guid>
       <pubDate>Sat, 24 Aug 2024 19:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>田纳西州男子被指控对拜登、哈里斯和奥巴马发出威胁</title>
-      <link>https://www.cnbc.com/2024/08/24/tennessee-man-charged-with-making-threats-against-biden-harris-and-obama.html</link>
-      <description><![CDATA[该男子被指控三项罪名，每项罪名最高可判处五年监禁。]]></description>
-      <guid>https://www.cnbc.com/2024/08/24/tennessee-man-charged-with-making-threats-against-biden-harris-and-obama.html</guid>
-      <pubDate>Sat, 24 Aug 2024 19:05:02 GMT</pubDate>
     </item>
     <item>
       <title>研究表明，体育博彩对美国人的钱包造成了影响</title>
@@ -83,13 +76,6 @@
       <pubDate>Sat, 24 Aug 2024 12:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>意大利检察官就林奇游艇沉没案展开过失杀人调查</title>
-      <link>https://www.cnbc.com/2024/08/24/italian-prosecutor-opens-manslaughter-inquiry-in-lynch-yacht-sinking.html</link>
-      <description><![CDATA[意大利检察官已对本周西西里岛附近一艘豪华游艇沉没造成 7 人死亡的案件展开过失杀人调查。]]></description>
-      <guid>https://www.cnbc.com/2024/08/24/italian-prosecutor-opens-manslaughter-inquiry-in-lynch-yacht-sinking.html</guid>
-      <pubDate>Sat, 24 Aug 2024 09:36:04 GMT</pubDate>
-    </item>
-    <item>
       <title>Meta 称其发现 WhatsApp 账户与针对拜登和特朗普官员的伊朗黑客有关</title>
       <link>https://www.cnbc.com/2024/08/23/meta-says-whatsapp-accounts-tied-to-iran-hackers-targeted-biden-trump.html</link>
       <description><![CDATA[Meta 表示，它封锁了与针对美国官员的伊朗黑客组织有关的“小群” WhatsApp 账户。]]></description>
@@ -104,11 +90,25 @@
       <pubDate>Fri, 23 Aug 2024 21:30:15 GMT</pubDate>
     </item>
     <item>
+      <title>投资者如何为低利率做准备：顾问称这“就像理发一样”</title>
+      <link>https://www.cnbc.com/2024/08/23/fed-powell-lower-interest-rates-investing.html</link>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔周五表示，调整利率政策的“时机已到”。以下是投资者如何为降息做好准备。]]></description>
+      <guid>https://www.cnbc.com/2024/08/23/fed-powell-lower-interest-rates-investing.html</guid>
+      <pubDate>Fri, 23 Aug 2024 19:57:36 GMT</pubDate>
+    </item>
+    <item>
       <title>市场现在想知道美联储是否会在 9 月份降息半个百分点</title>
       <link>https://www.cnbc.com/2024/08/23/markets-now-wonder-if-the-fed-might-cut-by-half-a-point-in-september.html</link>
       <description><![CDATA[周五，采取更激进的举措（如半个百分点的举措）的可能性迅速增加。]]></description>
       <guid>https://www.cnbc.com/2024/08/23/markets-now-wonder-if-the-fed-might-cut-by-half-a-point-in-september.html</guid>
       <pubDate>Fri, 23 Aug 2024 18:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储主席鲍威尔暗示未来将降息：“现在是政策调整的时候了”</title>
+      <link>https://www.cnbc.com/2024/08/23/fed-chair-powell-indicates-interest-rate-cuts-ahead-the-time-has-come-for-policy-to-adjust.html</link>
+      <description><![CDATA[鲍威尔为未来降息奠定了基础，但他拒绝透露具体时间和幅度。]]></description>
+      <guid>https://www.cnbc.com/2024/08/23/fed-chair-powell-indicates-interest-rate-cuts-ahead-the-time-has-come-for-policy-to-adjust.html</guid>
+      <pubDate>Fri, 23 Aug 2024 16:11:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
