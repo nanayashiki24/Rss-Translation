@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Sat, 24 Aug 2024 18:18:00 GMT</lastBuildDate>
+    <item>
+      <title>伊斯兰国宣称对德国持刀袭击事件负责</title>
+      <link>https://www.cnbc.com/2024/08/24/german-police-hunt-for-assailant-in-festival-stabbing-that-killed-3.html</link>
+      <description><![CDATA[周六，德国西部城市索林根的一个节日活动中，一名身份不明的袭击者杀害了三人，并致多人受伤，数小时后，警方开始追捕该袭击者。]]></description>
+      <guid>https://www.cnbc.com/2024/08/24/german-police-hunt-for-assailant-in-festival-stabbing-that-killed-3.html</guid>
+      <pubDate>Sat, 24 Aug 2024 19:26:01 GMT</pubDate>
+    </item>
     <item>
       <title>数十所大学的助学金危机影响了新生的组成</title>
       <link>https://www.cnbc.com/2024/08/24/dozens-of-colleges-see-financial-aid-turmoil-impacting-freshman-class-makeups.html</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[波音公司将在没有 Starliner 运送至轨道的 NASA 宇航员的情况下从国际空间站返回其太空舱。]]></description>
       <guid>https://www.cnbc.com/2024/08/24/nasa-boeing-starliner-decision-return-empty-spacex-astronauts-iss.html</guid>
       <pubDate>Sat, 24 Aug 2024 18:43:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>官员称德国持刀伤人事件“可能是恐怖主义行为”</title>
-      <link>https://www.cnbc.com/2024/08/24/german-police-hunt-for-assailant-in-festival-stabbing-that-killed-3.html</link>
-      <description><![CDATA[周六，德国西部城市索林根的一个节日活动中，一名身份不明的袭击者杀害了三人，并致多人受伤，数小时后，警方开始追捕该袭击者。]]></description>
-      <guid>https://www.cnbc.com/2024/08/24/german-police-hunt-for-assailant-in-festival-stabbing-that-killed-3.html</guid>
-      <pubDate>Sat, 24 Aug 2024 16:09:06 GMT</pubDate>
     </item>
     <item>
       <title>美国人期望的两天或更短的运输时间面临气候变化威胁</title>
