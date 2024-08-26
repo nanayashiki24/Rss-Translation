@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 26 Aug 2024 10:16:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 26 Aug 2024 10:40:00 GMT</lastBuildDate>
+    <item>
+      <title>周一分析师预测：石油巨头将上涨 35% 以上，Planet Fitness 是首选</title>
+      <link>https://www.cnbc.com/2024/08/26/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
+      <description><![CDATA[健身房股票和石油巨头是周一分析师热议的股票之一。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:37:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>基辅称俄罗斯对乌克兰发动大规模导弹和无人机袭击</title>
+      <link>https://www.cnbc.com/2024/08/26/russia-launches-massive-missile-and-drone-attack-on-ukraine-kyiv-says.html</link>
+      <description><![CDATA[官员称，此次袭击针对的是关键基础设施，包括基辅部分地区在内的多地出现断电、断水现象。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/russia-launches-massive-missile-and-drone-attack-on-ukraine-kyiv-says.html</guid>
+      <pubDate>Mon, 26 Aug 2024 10:37:02 GMT</pubDate>
+    </item>
     <item>
       <title>美联储暗示即将降息后，股指期货几乎没有变化：实时更新</title>
       <link>https://www.cnbc.com/2024/08/25/stock-futures-are-little-after-fed-signals-rate-cuts-are-imminent.html</link>
@@ -20,32 +34,11 @@
       <pubDate>Mon, 26 Aug 2024 10:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>周一分析师预测：石油巨头将上涨 35% 以上，Planet Fitness 是首选</title>
-      <link>https://www.cnbc.com/2024/08/26/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</link>
-      <description><![CDATA[健身房股票和石油巨头是周一分析师热议的股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/analyst-calls-all-the-market-moving-wall-street-chatter-from-monday.html</guid>
-      <pubDate>Mon, 26 Aug 2024 09:59:33 GMT</pubDate>
-    </item>
-    <item>
       <title>哈里斯竞选团队称自她在大会发表演讲以来已筹集 4000 万美元</title>
       <link>https://www.cnbc.com/2024/08/25/harris-campaign-fundraising-dnc-trump-election.html</link>
       <description><![CDATA[自上个月总统乔·拜登退出竞选以来，这笔意外之财使哈里斯竞选筹集到的资金总额达到 5.4 亿美元。]]></description>
       <guid>https://www.cnbc.com/2024/08/25/harris-campaign-fundraising-dnc-trump-election.html</guid>
       <pubDate>Mon, 26 Aug 2024 09:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>霍恩减弱为热带风暴，席卷夏威夷，带来足够降雨，缓解野火恐慌</title>
-      <link>https://www.cnbc.com/2024/08/26/hone-weakens-to-tropical-storm-while-sweeping-past-hawaii.html</link>
-      <description><![CDATA[霍恩周日经过夏威夷南部，从飓风减弱为热带风暴。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/hone-weakens-to-tropical-storm-while-sweeping-past-hawaii.html</guid>
-      <pubDate>Mon, 26 Aug 2024 09:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>基辅称俄罗斯对乌克兰发动大规模导弹和无人机袭击</title>
-      <link>https://www.cnbc.com/2024/08/26/russia-launches-massive-missile-and-drone-attack-on-ukraine-kyiv-says.html</link>
-      <description><![CDATA[周一早上交通高峰期，基辅市中心响起爆炸声。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/russia-launches-massive-missile-and-drone-attack-on-ukraine-kyiv-says.html</guid>
-      <pubDate>Mon, 26 Aug 2024 09:37:16 GMT</pubDate>
     </item>
     <item>
       <title>Telegram 创始人 Pavel Durov 是谁？他为什么被捕？</title>
@@ -67,6 +60,13 @@
       <description><![CDATA[以下是我们对最新 mpox 疫情的了解。]]></description>
       <guid>https://www.cnbc.com/2024/08/26/what-is-mpox-and-why-has-the-who-declared-it-a-public-health-emergency.html</guid>
       <pubDate>Mon, 26 Aug 2024 07:21:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国谴责美国将涉嫌支持俄罗斯军方的企业列入出口管制名单</title>
+      <link>https://www.cnbc.com/2024/08/26/china-slams-us-for-placing-some-chinese-firms-on-export-control-list.html</link>
+      <description><![CDATA[美国周五表示，正在加强出口管制，“进一步限制向俄罗斯和白俄罗斯供应美国原产和‘美国品牌’产品”。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/china-slams-us-for-placing-some-chinese-firms-on-export-control-list.html</guid>
+      <pubDate>Mon, 26 Aug 2024 03:55:33 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉 Optimus 在北京机器人大会上面临激烈的人形机器人竞争</title>
