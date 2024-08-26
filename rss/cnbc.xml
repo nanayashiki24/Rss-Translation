@@ -3,14 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 26 Aug 2024 17:21:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 26 Aug 2024 18:09:00 GMT</lastBuildDate>
     <item>
       <title>道指触及新高后陷入困境，标普500指数受科技股拖累下跌：实时更新</title>
       <link>https://www.cnbc.com/2024/08/25/stock-futures-are-little-after-fed-signals-rate-cuts-are-imminent.html</link>
       <description><![CDATA[经过一周的股市上涨，道琼斯指数创下了新高。]]></description>
       <guid>https://www.cnbc.com/2024/08/25/stock-futures-are-little-after-fed-signals-rate-cuts-are-imminent.html</guid>
-      <pubDate>Mon, 26 Aug 2024 17:35:42 GMT</pubDate>
+      <pubDate>Mon, 26 Aug 2024 18:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普赦免获得者被捕引起法官对旧毒品案的关注</title>
+      <link>https://www.cnbc.com/2024/08/26/trump-clemency-recipient-jonathan-braun-judge.html</link>
+      <description><![CDATA[前总统唐纳德·特朗普在白宫的最后一天，将毒贩乔纳森·布劳恩的 10 年监禁刑期减为缓刑。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/trump-clemency-recipient-jonathan-braun-judge.html</guid>
+      <pubDate>Mon, 26 Aug 2024 18:10:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>礼来公司留下的被遗忘的制药股或将迎来复苏</title>
+      <link>https://www.cnbc.com/2024/08/26/the-forgotten-pharma-stocks-left-in-the-dust-by-eli-lilly-could-be-primed-for-a-comeback.html</link>
+      <description><![CDATA[凯蒂·斯托克顿 (Katie Stockton) 对百时美施贵宝、强生和辉瑞公司的排行榜进行了分析。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/the-forgotten-pharma-stocks-left-in-the-dust-by-eli-lilly-could-be-primed-for-a-comeback.html</guid>
+      <pubDate>Mon, 26 Aug 2024 18:07:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telegram 创始人 Pavel Durov 是谁？他为什么被捕？</title>
+      <link>https://www.cnbc.com/2024/08/26/who-is-telegram-founder-pavel-durov-and-why-was-he-arrested.html</link>
+      <description><![CDATA[巴黎检察院于 7 月 8 日启动一项调查，对杜罗夫发出了逮捕令。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/who-is-telegram-founder-pavel-durov-and-why-was-he-arrested.html</guid>
+      <pubDate>Mon, 26 Aug 2024 18:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Care.com 因招聘信息和续约问题与联邦贸易委员会达成 850 万美元和解</title>
+      <link>https://www.cnbc.com/2024/08/26/carecom-reaches-8point5-million-us-ftc-settlement-over-job-listings-renewals-.html</link>
+      <description><![CDATA[美国联邦贸易委员会称，提供家庭护理服务的平台 Care.com 夸大了可用职位的数量，并使取消会员资格变得困难。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/carecom-reaches-8point5-million-us-ftc-settlement-over-job-listings-renewals-.html</guid>
+      <pubDate>Mon, 26 Aug 2024 17:51:01 GMT</pubDate>
     </item>
     <item>
       <title>高盛表示，两大投资者群体青睐这些股票</title>
@@ -18,13 +46,6 @@
       <description><![CDATA[高盛表示，上个季度，对冲基金和共同基金纷纷买入少量相同的股票，以应对市场领导地位的变化。]]></description>
       <guid>https://www.cnbc.com/2024/08/26/two-major-investor-groups-love-these-stocks-according-to-goldman-sachs.html</guid>
       <pubDate>Mon, 26 Aug 2024 17:24:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>被礼来抛在身后的被遗忘的制药股或将迎来复苏</title>
-      <link>https://www.cnbc.com/2024/08/26/the-forgotten-pharma-stocks-left-in-the-dust-by-eli-lilly-could-be-primed-for-a-comeback.html</link>
-      <description><![CDATA[凯蒂·斯托克顿 (Katie Stockton) 对百时美施贵宝、强生和辉瑞公司的排行榜进行了分析。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/the-forgotten-pharma-stocks-left-in-the-dust-by-eli-lilly-could-be-primed-for-a-comeback.html</guid>
-      <pubDate>Mon, 26 Aug 2024 17:19:01 GMT</pubDate>
     </item>
     <item>
       <title>特朗普在 ABC 新闻上对哈里斯的辩论犹豫不决，民主党候选人想要热门麦克风</title>
@@ -69,20 +90,6 @@
       <pubDate>Mon, 26 Aug 2024 16:14:48 GMT</pubDate>
     </item>
     <item>
-      <title>美联储自 2020 年以来首次降息前需要考虑的 5 大货币政策举措</title>
-      <link>https://www.cnbc.com/2024/08/26/top-money-moves-ahead-of-a-fed-rate-cut-according-to-experts.html</link>
-      <description><![CDATA[一旦美联储开始降低利率，多种类型的消费贷款和储蓄产品将受到影响。以下是如何充分利用它。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/top-money-moves-ahead-of-a-fed-rate-cut-according-to-experts.html</guid>
-      <pubDate>Mon, 26 Aug 2024 15:28:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 创始人 Pavel Durov 是谁？他为什么被捕？</title>
-      <link>https://www.cnbc.com/2024/08/26/who-is-telegram-founder-pavel-durov-and-why-was-he-arrested.html</link>
-      <description><![CDATA[消息人士告诉法新社，Telegram 首席执行官帕维尔·杜罗夫因涉嫌与该应用程序相关的违法行为被捕并拘留。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/who-is-telegram-founder-pavel-durov-and-why-was-he-arrested.html</guid>
-      <pubDate>Mon, 26 Aug 2024 14:15:04 GMT</pubDate>
-    </item>
-    <item>
       <title>加拿大对中国产电动汽车进口征收100%的关税，与美国同步。</title>
       <link>https://www.cnbc.com/2024/08/26/canada-imposes-a-100percent-tariff-on-imports-of-chinese-made-electric-vehicles.html</link>
       <description><![CDATA[加拿大政府周一宣布，将对中国制造的电动汽车进口征收 100% 的关税，与美国关税一致。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[让唐纳德·特朗普 (Donald Trump) 成为今年最大的比特币会议的主旨演讲，得益于三位来自波多黎各的朋友的努力。]]></description>
       <guid>https://www.cnbc.com/2024/08/26/trump-orange-pilled-by-three-bitcoiners-in-puerto-rico-100-million.html</guid>
       <pubDate>Mon, 26 Aug 2024 13:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>食客对新收费望而却步，餐厅反击联邦贸易委员会打击“垃圾费”</title>
-      <link>https://www.cnbc.com/2024/08/24/restaurants-fight-ftc-junk-fee-crackdown-over-surcharges.html</link>
-      <description><![CDATA[联邦贸易委员会正在努力打击“垃圾费用”。餐馆正在努力避免在账单上收取费用和附加费。]]></description>
-      <guid>https://www.cnbc.com/2024/08/24/restaurants-fight-ftc-junk-fee-crackdown-over-surcharges.html</guid>
-      <pubDate>Sat, 24 Aug 2024 12:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
