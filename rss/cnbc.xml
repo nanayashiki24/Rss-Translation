@@ -3,28 +3,49 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 26 Aug 2024 13:34:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Mon, 26 Aug 2024 13:59:00 GMT</lastBuildDate>
     <item>
-      <title>本周初股市小幅走高，标普 500 指数接近历史高点：实时更新</title>
+      <title>Telegram 创始人 Pavel Durov 是谁？他为什么被捕？</title>
+      <link>https://www.cnbc.com/2024/08/26/who-is-telegram-founder-pavel-durov-and-why-was-he-arrested.html</link>
+      <description><![CDATA[消息人士告诉法新社，Telegram 首席执行官帕维尔·杜罗夫因涉嫌与该应用程序相关的违法行为被捕并拘留。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/who-is-telegram-founder-pavel-durov-and-why-was-he-arrested.html</guid>
+      <pubDate>Mon, 26 Aug 2024 14:15:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>道琼斯指数上涨 200 点，创下新高，完成 8 月初大跌后的反弹：实时更新</title>
       <link>https://www.cnbc.com/2024/08/25/stock-futures-are-little-after-fed-signals-rate-cuts-are-imminent.html</link>
-      <description><![CDATA[股市刚刚结束了上涨的一周，并再次徘徊在历史最高水平附近。]]></description>
+      <description><![CDATA[经过一周的股市上涨，道琼斯指数创下了新高。]]></description>
       <guid>https://www.cnbc.com/2024/08/25/stock-futures-are-little-after-fed-signals-rate-cuts-are-imminent.html</guid>
-      <pubDate>Mon, 26 Aug 2024 13:36:57 GMT</pubDate>
+      <pubDate>Mon, 26 Aug 2024 14:15:01 GMT</pubDate>
     </item>
     <item>
-      <title>吉姆·克莱默 (Jim Cramer) 指出周一股市十大值得关注的事情</title>
-      <link>https://www.cnbc.com/2024/08/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html</link>
-      <description><![CDATA[标准普尔 500 指数进入新一周，其交易价格距 7 月份创下的历史高点仅不到 1%。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html</guid>
-      <pubDate>Mon, 26 Aug 2024 13:25:01 GMT</pubDate>
+      <title>利比亚停产及以色列和真主党袭击导致油价上涨逾 3%</title>
+      <link>https://www.cnbc.com/2024/08/26/crude-oil-prices-today.html</link>
+      <description><![CDATA[中东紧张局势导致原油期货价格上涨]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/crude-oil-prices-today.html</guid>
+      <pubDate>Mon, 26 Aug 2024 14:12:31 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大对中国产电动汽车进口征收100%关税</title>
+      <title>加拿大对中国产电动汽车进口征收100%的关税，与美国同步。</title>
       <link>https://www.cnbc.com/2024/08/26/canada-imposes-a-100percent-tariff-on-imports-of-chinese-made-electric-vehicles.html</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[加拿大政府周一宣布，将对中国制造的电动汽车进口征收 100% 的关税，与美国关税一致。]]></description>
       <guid>https://www.cnbc.com/2024/08/26/canada-imposes-a-100percent-tariff-on-imports-of-chinese-made-electric-vehicles.html</guid>
-      <pubDate>Mon, 26 Aug 2024 13:19:19 GMT</pubDate>
+      <pubDate>Mon, 26 Aug 2024 14:10:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根士丹利认为投资者如何从这只石油股中获得 60% 的回报</title>
+      <link>https://www.cnbc.com/2024/08/26/this-brazilian-oil-stock-could-give-a-60percent-return-says-morgan-stanley.html</link>
+      <description><![CDATA[这家华尔街投资银行将这家巴西石油和天然气生产商的评级提升至增持。]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/this-brazilian-oil-stock-could-give-a-60percent-return-says-morgan-stanley.html</guid>
+      <pubDate>Mon, 26 Aug 2024 13:58:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dexcom 推出首款非处方连续血糖监测仪。它的外观如下</title>
+      <link>https://www.cnbc.com/2024/08/26/dexcom-launches-stelo-its-first-over-the-counter-continuous-glucose-monitor.html</link>
+      <description><![CDATA[Dexcom 周一推出了一款名为 Stelo 的连续血糖监测仪，无需处方即可购买]]></description>
+      <guid>https://www.cnbc.com/2024/08/26/dexcom-launches-stelo-its-first-over-the-counter-continuous-glucose-monitor.html</guid>
+      <pubDate>Mon, 26 Aug 2024 13:53:31 GMT</pubDate>
     </item>
     <item>
       <title>特朗普如何被波多黎各三名比特币用户“橙色药丸”以及 1 亿美元的承诺</title>
@@ -48,20 +69,6 @@
       <pubDate>Mon, 26 Aug 2024 12:40:27 GMT</pubDate>
     </item>
     <item>
-      <title>利比亚停产及以色列和真主党袭击导致油价上涨近 3%</title>
-      <link>https://www.cnbc.com/2024/08/26/crude-oil-prices-today.html</link>
-      <description><![CDATA[中东紧张局势导致原油期货价格上涨]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/crude-oil-prices-today.html</guid>
-      <pubDate>Mon, 26 Aug 2024 12:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dexcom 推出首款非处方连续血糖监测仪。它的外观如下</title>
-      <link>https://www.cnbc.com/2024/08/26/dexcom-launches-stelo-its-first-over-the-counter-continuous-glucose-monitor.html</link>
-      <description><![CDATA[Dexcom 周一推出了一款名为 Stelo 的连续血糖监测仪，无需处方即可购买]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/dexcom-launches-stelo-its-first-over-the-counter-continuous-glucose-monitor.html</guid>
-      <pubDate>Mon, 26 Aug 2024 12:00:21 GMT</pubDate>
-    </item>
-    <item>
       <title>Wingstop 如何超越快餐竞争对手</title>
       <link>https://www.cnbc.com/2024/08/26/wingstop-outpaces-fast-food-competitors.html</link>
       <description><![CDATA[与其他快餐同行不同，Wingstop 并未遭遇消费者流失。]]></description>
@@ -69,18 +76,11 @@
       <pubDate>Mon, 26 Aug 2024 12:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>以色列与真主党之间的冲突已经升级。中东下一步该如何应对？</title>
+      <title>以色列与真主党之间的冲突已经升级。中东下一步该怎么做？</title>
       <link>https://www.cnbc.com/2024/08/26/the-israel-hezbollah-escalation-has-arrived-what-next-for-the-middle-east.html</link>
-      <description><![CDATA[周末，以色列和真主党之间发生的一系列跨境袭击引发了人们对更广泛地区冲突的担忧，但目前看来，一场“全面战争”已经避免。]]></description>
+      <description><![CDATA[周末，以色列和真主党发生的一系列跨境袭击引发了人们对更广泛地区冲突的担忧，但目前看来，一场“全面战争”已经避免。]]></description>
       <guid>https://www.cnbc.com/2024/08/26/the-israel-hezbollah-escalation-has-arrived-what-next-for-the-middle-east.html</guid>
       <pubDate>Mon, 26 Aug 2024 11:19:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 创始人 Pavel Durov 是谁？他为什么被捕？</title>
-      <link>https://www.cnbc.com/2024/08/26/who-is-telegram-founder-pavel-durov-and-why-was-he-arrested.html</link>
-      <description><![CDATA[消息人士告诉法新社，Telegram 首席执行官帕维尔·杜罗夫因涉嫌与该应用程序相关的罪行被捕并拘留。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/who-is-telegram-founder-pavel-durov-and-why-was-he-arrested.html</guid>
-      <pubDate>Mon, 26 Aug 2024 07:50:50 GMT</pubDate>
     </item>
     <item>
       <title>瑞银资深老板埃尔莫蒂可能凭借对瑞信的救助完成了十年来最伟大的交易</title>
