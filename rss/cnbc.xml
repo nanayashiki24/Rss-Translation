@@ -3,28 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Mon, 26 Aug 2024 23:19:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 27 Aug 2024 01:01:00 GMT</lastBuildDate>
+    <item>
+      <title>媒体高管布朗夫曼退出收购派拉蒙</title>
+      <link>https://www.cnbc.com/2024/08/27/media-exec-bronfman-pulls-out-of-race-to-acquire-paramount.html</link>
+      <description><![CDATA[上周，布朗夫曼提议以 60 亿美元的价格收购派拉蒙媒体公司的控股股东国家娱乐公司 (National Amusements)，从而控制派拉蒙。]]></description>
+      <guid>https://www.cnbc.com/2024/08/27/media-exec-bronfman-pulls-out-of-race-to-acquire-paramount.html</guid>
+      <pubDate>Tue, 27 Aug 2024 01:00:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 的合作伙伴表示，由于 AI 热潮给电网带来压力，它可以将数据中心的能源消耗减少 50%</title>
+      <link>https://www.cnbc.com/2024/08/27/nvidia-partner-sustainable-metal-cloud-ai-data-center-energy-consumption.html</link>
+      <description><![CDATA[数据中心公司 Sustainable Metal Cloud 希望减少能源资源压力和碳排放。]]></description>
+      <guid>https://www.cnbc.com/2024/08/27/nvidia-partner-sustainable-metal-cloud-ai-data-center-energy-consumption.html</guid>
+      <pubDate>Tue, 27 Aug 2024 00:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>回调后想投资？策略师列举人工智能、国防等领域的股票</title>
+      <link>https://www.cnbc.com/2024/08/27/investing-after-the-pullback-strategist-names-stocks-in-ai-and-more.html</link>
+      <description><![CDATA[雷蒙詹姆斯投资管理公司的马特奥顿说：“我继续建议客户抓住机会，在投资组合中建立更好的平衡。”]]></description>
+      <guid>https://www.cnbc.com/2024/08/27/investing-after-the-pullback-strategist-names-stocks-in-ai-and-more.html</guid>
+      <pubDate>Mon, 26 Aug 2024 23:20:03 GMT</pubDate>
+    </item>
     <item>
       <title>晨星分析师列出两支潜力巨大的低调全球股票</title>
       <link>https://www.cnbc.com/2024/08/27/morningstar-analyst-names-2-under-the-radar-stocks-to-buy-.html</link>
       <description><![CDATA[耶琳娜·索科洛娃 (Jelena Sokolova) 表示：“从长远来看，我认为奢侈品领域具有良好的潜力。”]]></description>
       <guid>https://www.cnbc.com/2024/08/27/morningstar-analyst-names-2-under-the-radar-stocks-to-buy-.html</guid>
       <pubDate>Mon, 26 Aug 2024 23:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>吉姆·克莱默表示，大型科技股尚未触底</title>
-      <link>https://www.cnbc.com/2024/08/26/jim-cramer-says-big-tech-stocks-havent-hit-a-bottom-just-yet.html</link>
-      <description><![CDATA[CNBC 的吉姆克莱默 (Jim Cramer) 回顾了周一表现优异和表现不佳的股票，并告诉投资者科技板块的疲软还不足以证明买入是合理的。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/jim-cramer-says-big-tech-stocks-havent-hit-a-bottom-just-yet.html</guid>
-      <pubDate>Mon, 26 Aug 2024 23:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞银看好这个本季度上涨 10% 的强劲板块。以下是投资方法</title>
-      <link>https://www.cnbc.com/2024/08/26/this-high-flying-sector-is-up-10percent-in-the-third-quarter-how-to-play-it.html</link>
-      <description><![CDATA[公用事业股以稳定的股息支付而闻名，一直是市场中不活跃的板块。该板块在第三季度呈现飙升态势。]]></description>
-      <guid>https://www.cnbc.com/2024/08/26/this-high-flying-sector-is-up-10percent-in-the-third-quarter-how-to-play-it.html</guid>
-      <pubDate>Mon, 26 Aug 2024 22:10:51 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊聚合商 Branded 和 Heyday 计划合并，因为曾经蓬勃发展的行业继续萎缩</title>
@@ -62,18 +69,11 @@
       <pubDate>Mon, 26 Aug 2024 21:00:15 GMT</pubDate>
     </item>
     <item>
-      <title>小牛队和鹈鹕队的比赛将在 NBA 赛季开始前从当地体育频道撤下</title>
+      <title>小牛队和鹈鹕队的比赛将在 NBA 赛季开始前从当地体育网络撤下</title>
       <link>https://www.cnbc.com/2024/08/26/mavericks-pelicans-games-leave-local-networks-amid-diamond-bankruptcy.html</link>
       <description><![CDATA[达拉斯小牛队和新奥尔良鹈鹕队在十月份开始的 NBA 赛季前终止了与 Diamond Sports 的合约。]]></description>
       <guid>https://www.cnbc.com/2024/08/26/mavericks-pelicans-games-leave-local-networks-amid-diamond-bankruptcy.html</guid>
       <pubDate>Mon, 26 Aug 2024 20:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>CNBC Crypto World：Telegram 关联加密货币代币在首席执行官在法国被捕后暴跌</title>
-      <link>https://www.cnbc.com/video/2024/08/26/telegram-linked-crypto-token-plunges-after-ceo-is-arrested-in-france-cnbc-crypto-world.html</link>
-      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来情况。在今天的节目中，怀俄明州参议员辛西娅·卢米斯讨论了对她建立战略比特币储备法案的反馈。此外，她还分析了美国加密监管通过的进展情况。]]></description>
-      <guid>https://www.cnbc.com/video/2024/08/26/telegram-linked-crypto-token-plunges-after-ceo-is-arrested-in-france-cnbc-crypto-world.html</guid>
-      <pubDate>Mon, 26 Aug 2024 20:14:41 GMT</pubDate>
     </item>
     <item>
       <title>特朗普如何被波多黎各三名比特币用户“橙色药丸”以及 1 亿美元的承诺</title>
