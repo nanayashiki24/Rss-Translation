@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
     <lastBuildDate>Thu, 29 Aug 2024 05:35:00 GMT</lastBuildDate>
+    <item>
+      <title>英伟达发布季度收益后纳斯达克 100 指数期货下跌：实时更新</title>
+      <link>https://www.cnbc.com/2024/08/28/stock-market-today-live-updates-.html</link>
+      <description><![CDATA[这家人工智能芯片制造商公布了强劲的季度业绩，但未能达到投资者的高期望。]]></description>
+      <guid>https://www.cnbc.com/2024/08/28/stock-market-today-live-updates-.html</guid>
+      <pubDate>Thu, 29 Aug 2024 07:28:17 GMT</pubDate>
+    </item>
     <item>
       <title>拜登和习近平将在罕见的美国安全顾问访华后举行会谈</title>
       <link>https://www.cnbc.com/2024/08/29/joe-biden-and-xi-jinping-to-speak-after-rare-us-security-adviser-trip-to-china.html</link>
@@ -48,13 +55,6 @@
       <pubDate>Thu, 29 Aug 2024 01:17:22 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达发布季度收益后纳斯达克 100 指数期货下跌：实时更新</title>
-      <link>https://www.cnbc.com/2024/08/28/stock-market-today-live-updates-.html</link>
-      <description><![CDATA[这家人工智能芯片制造商公布了强劲的季度业绩，但未能达到投资者的高期望。]]></description>
-      <guid>https://www.cnbc.com/2024/08/28/stock-market-today-live-updates-.html</guid>
-      <pubDate>Thu, 29 Aug 2024 00:28:25 GMT</pubDate>
-    </item>
-    <item>
       <title>Salesforce 重回正轨——这是该软件巨头下一步需要实现的目标</title>
       <link>https://www.cnbc.com/2024/08/28/salesforce-gets-back-on-track-heres-what-the-software-giant-needs-to-deliver-next.html</link>
       <description><![CDATA[这家企业软件巨头表明其仍致力于实现盈利增长。但仍有更多工作要做。]]></description>
@@ -85,7 +85,7 @@
     <item>
       <title>基金经理表示，如果大型科技公司开始发出这一变化信号，英伟达股价可能暴跌 20%</title>
       <link>https://www.cnbc.com/2024/08/29/nvidia-stock-could-plunge-20percent-if-big-tech-starts-to-signal-this-one-change-fund-manager-says.html</link>
-      <description><![CDATA[一位分析师表示，微软和谷歌等大型科技公司减少资本支出的迹象可能预示着 Nvidia 的利润率将面临麻烦。]]></description>
+      <description><![CDATA[一位分析师表示，微软和谷歌等大型科技公司减少资本支出的迹象可能预示着英伟达的利润率将面临麻烦。]]></description>
       <guid>https://www.cnbc.com/2024/08/29/nvidia-stock-could-plunge-20percent-if-big-tech-starts-to-signal-this-one-change-fund-manager-says.html</guid>
       <pubDate>Wed, 28 Aug 2024 23:17:16 GMT</pubDate>
     </item>
