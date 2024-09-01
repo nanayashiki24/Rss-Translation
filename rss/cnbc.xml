@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 16:46:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Sun, 01 Sep 2024 18:13:00 GMT</lastBuildDate>
+    <item>
+      <title>顶级连锁酒店开始罢工，客房服务员要求提高工资并增加日常客房清洁工作</title>
+      <link>https://www.cnbc.com/2024/09/01/hotel-workers-union-contracts-housekeeping.html</link>
+      <description><![CDATA[多年来，酒店客房服务员一直在激烈地争取恢复许多酒店已缩减的每日客房自动清洁服务。]]></description>
+      <guid>https://www.cnbc.com/2024/09/01/hotel-workers-union-contracts-housekeeping.html</guid>
+      <pubDate>Sun, 01 Sep 2024 18:10:06 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普辩论准备：塔尔西·加巴德建议共和党人攻击哈里斯的“虚伪”</title>
       <link>https://www.cnbc.com/2024/09/01/trump-debate-prep-tulsi-gabbard-harris.html</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[过去 10 年，苹果股价 9 月份平均下跌 3.5%。]]></description>
       <guid>https://www.cnbc.com/2024/08/31/september-is-a-historically-rough-month-for-apple-shares.html</guid>
       <pubDate>Sat, 31 Aug 2024 12:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的梦想是在波多黎各拥有一所房子——37 岁时，我买了一套海滨公寓：看看我的“天堂一角”</title>
-      <link>https://www.cnbc.com/2024/08/31/i-bought-a-slice-of-paradise-oceanfront-condo-in-puerto-rico.html</link>
-      <description><![CDATA[《Financially Lit!》的作者 Jannese Torres 分享了她如何实现了在她的家乡波多黎各拥有一所房子的梦想。]]></description>
-      <guid>https://www.cnbc.com/2024/08/31/i-bought-a-slice-of-paradise-oceanfront-condo-in-puerto-rico.html</guid>
-      <pubDate>Sat, 31 Aug 2024 12:15:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
