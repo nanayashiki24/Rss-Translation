@@ -3,21 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 14:12:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 03 Sep 2024 14:32:00 GMT</lastBuildDate>
     <item>
-      <title>道琼斯指数 9 月开盘暴跌近 500 点，因经济放缓担忧再次升温：实时更新</title>
+      <title>特斯拉 Cyber​​truck 不论好坏都自成一派</title>
+      <link>https://www.cnbc.com/2024/09/03/tesla-cybertruck-drive.html</link>
+      <description><![CDATA[从很多方面来看，Cyber​​truck 更像是“网络”而非“卡车”，它在汽车行业开创了一个由其独占的全新细分市场。]]></description>
+      <guid>https://www.cnbc.com/2024/09/03/tesla-cybertruck-drive.html</guid>
+      <pubDate>Tue, 03 Sep 2024 14:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>道琼斯指数 9 月开盘下跌逾 400 点，因经济放缓担忧再度升温：实时更新</title>
       <link>https://www.cnbc.com/2024/09/02/stock-market-today-live-updates.html</link>
-      <description><![CDATA[主要平均指数均在上涨，确保本月上涨。]]></description>
+      <description><![CDATA[由于科技股走势低迷且新的经济数据令交易员担忧，周二股市下跌。]]></description>
       <guid>https://www.cnbc.com/2024/09/02/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 03 Sep 2024 14:17:52 GMT</pubDate>
+      <pubDate>Tue, 03 Sep 2024 14:32:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登可能于 10 月开始免除学生债务</title>
+      <link>https://www.cnbc.com/2024/09/03/biden-may-start-forgiving-student-debt-next-month-.html</link>
+      <description><![CDATA[总统乔·拜登可能最早在下个月尝试再次免除学生债务，这项全面的重新举措可能影响数千万美国人。]]></description>
+      <guid>https://www.cnbc.com/2024/09/03/biden-may-start-forgiving-student-debt-next-month-.html</guid>
+      <pubDate>Tue, 03 Sep 2024 14:30:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>体育球队价值飙升给球队老板带来新的税收和继承压力</title>
+      <link>https://www.cnbc.com/2024/09/03/soaring-sports-team-values-pressure-owners-on-taxes-succession.html</link>
+      <description><![CDATA[继任和税收在 NFL 中变得尤为重要，目前球队老板的平均年龄已超过 72 岁，球队价值也在不断飙升。]]></description>
+      <guid>https://www.cnbc.com/2024/09/03/soaring-sports-team-values-pressure-owners-on-taxes-succession.html</guid>
+      <pubDate>Tue, 03 Sep 2024 14:27:50 GMT</pubDate>
     </item>
     <item>
       <title>受中国需求和 OPEC 增产影响，美国原油价格下跌逾 3%，抹去了 2024 年的涨幅</title>
       <link>https://www.cnbc.com/2024/09/03/crude-oil-prices-today.html</link>
       <description><![CDATA[中国经济疲软以及石油输出国组织（OPEC）增加石油产量的前景，给利比亚严重的生产中断蒙上了阴影。]]></description>
       <guid>https://www.cnbc.com/2024/09/03/crude-oil-prices-today.html</guid>
-      <pubDate>Tue, 03 Sep 2024 14:17:46 GMT</pubDate>
+      <pubDate>Tue, 03 Sep 2024 14:20:49 GMT</pubDate>
     </item>
     <item>
       <title>高盛建议客户购买黄金，在地缘政治风险和降息背景下看好金属</title>
@@ -25,13 +46,6 @@
       <description><![CDATA[今年以来，黄金期货价格已上涨近 22%，当美联储开始降息时，黄金价格将进一步上涨。]]></description>
       <guid>https://www.cnbc.com/2024/09/03/goldman-recommends-gold-likes-metal-amid-geopolitical-risk-rate-cuts.html</guid>
       <pubDate>Tue, 03 Sep 2024 14:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>“高峰”时间已不复从前。通勤数据显示，10 点到 4 点的工作时间已成为新的 9 点到 5 点的工作时间</title>
-      <link>https://www.cnbc.com/2024/09/03/working-10-to-4-is-the-new-9-to-5-commuting-data-shows.html</link>
-      <description><![CDATA[根据最近的一份报告显示，更短的工作时间已经成为“新常态”。]]></description>
-      <guid>https://www.cnbc.com/2024/09/03/working-10-to-4-is-the-new-9-to-5-commuting-data-shows.html</guid>
-      <pubDate>Tue, 03 Sep 2024 14:00:25 GMT</pubDate>
     </item>
     <item>
       <title>大众汽车在收到可能关闭德国工厂的警告后准备与工会摊牌</title>
@@ -69,25 +83,11 @@
       <pubDate>Tue, 03 Sep 2024 12:44:13 GMT</pubDate>
     </item>
     <item>
-      <title>体育球队价值飙升给球队老板带来新的税收和继承压力</title>
-      <link>https://www.cnbc.com/2024/09/03/soaring-sports-team-values-pressure-owners-on-taxes-succession.html</link>
-      <description><![CDATA[继任和税收在 NFL 中变得尤为重要，目前球队老板的平均年龄已超过 72 岁，球队价值也在不断飙升。]]></description>
-      <guid>https://www.cnbc.com/2024/09/03/soaring-sports-team-values-pressure-owners-on-taxes-succession.html</guid>
-      <pubDate>Tue, 03 Sep 2024 12:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>蒙古昨晚本应逮捕俄罗斯总统普京。但未能如愿，现在它陷入了困境</title>
       <link>https://www.cnbc.com/2024/09/03/putins-mongolia-trip-defies-icc-arrest-warrant-what-could-happen-next.html</link>
       <description><![CDATA[蒙古作为国际刑事法院的成员，本应在俄罗斯总统周一晚上抵达蒙古领土时立即逮捕他。]]></description>
       <guid>https://www.cnbc.com/2024/09/03/putins-mongolia-trip-defies-icc-arrest-warrant-what-could-happen-next.html</guid>
       <pubDate>Tue, 03 Sep 2024 11:38:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉 Cyber​​truck 不论好坏都自成一派</title>
-      <link>https://www.cnbc.com/2024/09/03/tesla-cybertruck-drive.html</link>
-      <description><![CDATA[从很多方面来看，Cyber​​truck 更像是“网络”而非“卡车”，它在汽车行业开创了一个由其独占的全新细分市场。]]></description>
-      <guid>https://www.cnbc.com/2024/09/03/tesla-cybertruck-drive.html</guid>
-      <pubDate>Tue, 03 Sep 2024 11:00:01 GMT</pubDate>
     </item>
     <item>
       <title>蒂姆·沃尔兹如何使明尼苏达州成为进步经济政策的“路线图”</title>
