@@ -3,21 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 01:16:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 04 Sep 2024 02:15:00 GMT</lastBuildDate>
     <item>
-      <title>日经指数暴跌 4%，领跌亚洲，因美国数据疲软导致华尔街暴跌；台湾下跌 5%</title>
+      <title>日经指数和台湾加权指数暴跌 3%，领跌亚洲股市，因美国数据疲软导致华尔街暴跌</title>
       <link>https://www.cnbc.com/2024/09/04/asia-pacific-markets-set-to-fall-after-recession-fears-heighten-nvidia-tumbles.html</link>
       <description><![CDATA[亚洲投资者将关注美国科技股抛售是否会产生溢出效应，其中英伟达领跌 9%]]></description>
       <guid>https://www.cnbc.com/2024/09/04/asia-pacific-markets-set-to-fall-after-recession-fears-heighten-nvidia-tumbles.html</guid>
-      <pubDate>Wed, 04 Sep 2024 01:18:40 GMT</pubDate>
+      <pubDate>Wed, 04 Sep 2024 02:04:04 GMT</pubDate>
     </item>
     <item>
-      <title>标普 500 指数创 8 月初以来最大单日跌幅，但股指期货几乎没有变化：实时更新</title>
+      <title>印度莫迪有望在新加坡访问开启双边协议新时代</title>
+      <link>https://www.cnbc.com/2024/09/04/indias-modi-expected-to-usher-in-new-era-of-bilateral-agreements-in-singapore-visit.html</link>
+      <description><![CDATA[印度总理连任以来的过去三个月里还访问了意大利、俄罗斯、乌克兰、波兰和文莱。]]></description>
+      <guid>https://www.cnbc.com/2024/09/04/indias-modi-expected-to-usher-in-new-era-of-bilateral-agreements-in-singapore-visit.html</guid>
+      <pubDate>Wed, 04 Sep 2024 01:48:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达隔夜遭华尔街抛售，亚洲芯片股下跌</title>
+      <link>https://www.cnbc.com/2024/09/04/asian-chip-stocks-fall-after-nvidia-sell-off-on-wall-street-overnight.html</link>
+      <description><![CDATA[在美国，芯片制造商英伟达在常规交易中暴跌超过 9%，导致半导体类股在华尔街抛售的背景下下跌。]]></description>
+      <guid>https://www.cnbc.com/2024/09/04/asian-chip-stocks-fall-after-nvidia-sell-off-on-wall-street-overnight.html</guid>
+      <pubDate>Wed, 04 Sep 2024 01:39:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>标普 500 指数遭遇 8 月初以来最大单日跌幅，股指期货下跌：实时更新</title>
       <link>https://www.cnbc.com/2024/09/03/stock-market-today-live-updates-.html</link>
       <description><![CDATA[投资者刚刚结束了一个亏损交易，主要基准指数创下了自 8 月 5 日抛售以来最糟糕的一天。]]></description>
       <guid>https://www.cnbc.com/2024/09/03/stock-market-today-live-updates-.html</guid>
-      <pubDate>Wed, 04 Sep 2024 00:43:04 GMT</pubDate>
+      <pubDate>Wed, 04 Sep 2024 01:31:40 GMT</pubDate>
     </item>
     <item>
       <title>英伟达暴跌近 10%，拖累一篮子芯片股创下 2020 年 3 月以来最糟糕的一天</title>
@@ -41,7 +55,7 @@
       <pubDate>Tue, 03 Sep 2024 23:16:12 GMT</pubDate>
     </item>
     <item>
-      <title>吉姆·克莱默称周二的市场行为“荒谬”，因为平均股价下跌</title>
+      <title>吉姆·克莱默称周二的市场行为“荒谬”，因为平均水平大幅下跌</title>
       <link>https://www.cnbc.com/2024/09/03/jim-cramer-calls-tuesdays-market-action-ridiculous.html</link>
       <description><![CDATA[CNBC 的吉姆克莱默 (Jim Cramer) 回顾了周二的市场行为，称其中一些行为似乎比合理的更为极端。]]></description>
       <guid>https://www.cnbc.com/2024/09/03/jim-cramer-calls-tuesdays-market-action-ridiculous.html</guid>
@@ -64,23 +78,9 @@
     <item>
       <title>特朗普辩论前，哈里斯提议对小企业启动费用减税 5 万美元</title>
       <link>https://www.cnbc.com/2024/09/03/harris-small-business-tax-deduction-trump-debate-election.html</link>
-      <description><![CDATA[唐纳德·特朗普和副总统卡玛拉·哈里斯将在 9 月 10 日的辩论中对决，经济可能是辩论的焦点。]]></description>
+      <description><![CDATA[唐纳德·特朗普和副总统卡马拉·哈里斯将在 9 月 10 日的辩论中对决，经济可能是辩论的焦点。]]></description>
       <guid>https://www.cnbc.com/2024/09/03/harris-small-business-tax-deduction-trump-debate-election.html</guid>
       <pubDate>Tue, 03 Sep 2024 21:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>就业报告再次成为所有经济数据的王者</title>
-      <link>https://www.cnbc.com/2024/09/03/the-jobs-report-is-back-as-the-king-of-all-economic-releases-.html</link>
-      <description><![CDATA[随着通货膨胀的加剧和对劳动力市场的担忧加剧，月度非农就业人数统计正在重新恢复活力。]]></description>
-      <guid>https://www.cnbc.com/2024/09/03/the-jobs-report-is-back-as-the-king-of-all-economic-releases-.html</guid>
-      <pubDate>Tue, 03 Sep 2024 20:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币跌至 57,000 美元水平，加密货币股票在 9 月交易开始时暴跌：CNBC Crypto World</title>
-      <link>https://www.cnbc.com/video/2024/09/03/bitcoin-dips-57000-level-crypto-stocks-tumble-september-trading-cnbc-crypto-world.html</link>
-      <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来的情况。在今天的节目中，Chainalysis 的网络犯罪研究负责人 Eric Jardine 讨论了区块链分析公司最新的年中犯罪更新，该更新揭示了某种类型的加密爱情骗局被证明是非常有利可图的。]]></description>
-      <guid>https://www.cnbc.com/video/2024/09/03/bitcoin-dips-57000-level-crypto-stocks-tumble-september-trading-cnbc-crypto-world.html</guid>
-      <pubDate>Tue, 03 Sep 2024 19:01:17 GMT</pubDate>
     </item>
     <item>
       <title>布朗队与亨廷顿银行签署 20 年体育场使用权协议，准备新主场</title>
