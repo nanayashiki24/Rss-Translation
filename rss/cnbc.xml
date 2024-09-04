@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 23:26:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 04 Sep 2024 01:16:00 GMT</lastBuildDate>
+    <item>
+      <title>日经指数暴跌 4%，领跌亚洲，因美国数据疲软导致华尔街暴跌；台湾下跌 5%</title>
+      <link>https://www.cnbc.com/2024/09/04/asia-pacific-markets-set-to-fall-after-recession-fears-heighten-nvidia-tumbles.html</link>
+      <description><![CDATA[亚洲投资者将关注美国科技股抛售是否会产生溢出效应，其中英伟达领跌 9%]]></description>
+      <guid>https://www.cnbc.com/2024/09/04/asia-pacific-markets-set-to-fall-after-recession-fears-heighten-nvidia-tumbles.html</guid>
+      <pubDate>Wed, 04 Sep 2024 01:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>标普 500 指数创 8 月初以来最大单日跌幅，但股指期货几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/09/03/stock-market-today-live-updates-.html</link>
+      <description><![CDATA[投资者刚刚结束了一个亏损交易，主要基准指数创下了自 8 月 5 日抛售以来最糟糕的一天。]]></description>
+      <guid>https://www.cnbc.com/2024/09/03/stock-market-today-live-updates-.html</guid>
+      <pubDate>Wed, 04 Sep 2024 00:43:04 GMT</pubDate>
+    </item>
     <item>
       <title>英伟达暴跌近 10%，拖累一篮子芯片股创下 2020 年 3 月以来最糟糕的一天</title>
       <link>https://www.cnbc.com/2024/09/03/nvidia-tumbles-leading-chip-stocks-lower.html</link>
@@ -13,14 +27,21 @@
       <pubDate>Tue, 03 Sep 2024 23:31:17 GMT</pubDate>
     </item>
     <item>
-      <title>科技股抛售拖累标普 500 指数创 8 月以来最大单日跌幅，但股指期货基本持平：实时更新</title>
-      <link>https://www.cnbc.com/2024/09/03/stock-market-today-live-updates-.html</link>
-      <description><![CDATA[投资者刚刚结束了一个亏损交易，主要基准指数创下了自 8 月 5 日抛售以来最糟糕的一天。]]></description>
-      <guid>https://www.cnbc.com/2024/09/03/stock-market-today-live-updates-.html</guid>
-      <pubDate>Tue, 03 Sep 2024 23:03:18 GMT</pubDate>
+      <title>加拿大皇家银行将上涨空间达 25% 的石油和天然气股纳入其表现优异的股票篮子</title>
+      <link>https://www.cnbc.com/2024/09/04/rbc-adds-oil-and-gas-stock-with-25percent-upside-to-its-outperforming-basket-of-stocks.html</link>
+      <description><![CDATA[自 2013 年 2 月推出以来，RBC 的全球能源最佳创意榜单已上涨 182%，而 iShares S&amp;P 全球能源行业 ETF 的回报率为 40%。]]></description>
+      <guid>https://www.cnbc.com/2024/09/04/rbc-adds-oil-and-gas-stock-with-25percent-upside-to-its-outperforming-basket-of-stocks.html</guid>
+      <pubDate>Tue, 03 Sep 2024 23:16:59 GMT</pubDate>
     </item>
     <item>
-      <title>吉姆·克莱默称周二的市场行为“荒谬”，因为平均水平大幅下跌</title>
+      <title>策略师建议购买这只低调的股票，参与人工智能硬件热潮</title>
+      <link>https://www.cnbc.com/2024/09/04/buy-this-stock-to-play-the-ai-hardware-boom-strategist-says.html</link>
+      <description><![CDATA[投资策略师安东尼·道尔 (Anthony Doyle) 表示，该硬件股在关键的混合粘合工艺领域处于全球领先地位。]]></description>
+      <guid>https://www.cnbc.com/2024/09/04/buy-this-stock-to-play-the-ai-hardware-boom-strategist-says.html</guid>
+      <pubDate>Tue, 03 Sep 2024 23:16:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>吉姆·克莱默称周二的市场行为“荒谬”，因为平均股价下跌</title>
       <link>https://www.cnbc.com/2024/09/03/jim-cramer-calls-tuesdays-market-action-ridiculous.html</link>
       <description><![CDATA[CNBC 的吉姆克莱默 (Jim Cramer) 回顾了周二的市场行为，称其中一些行为似乎比合理的更为极端。]]></description>
       <guid>https://www.cnbc.com/2024/09/03/jim-cramer-calls-tuesdays-market-action-ridiculous.html</guid>
@@ -43,7 +64,7 @@
     <item>
       <title>特朗普辩论前，哈里斯提议对小企业启动费用减税 5 万美元</title>
       <link>https://www.cnbc.com/2024/09/03/harris-small-business-tax-deduction-trump-debate-election.html</link>
-      <description><![CDATA[唐纳德·特朗普和副总统卡马拉·哈里斯将在 9 月 10 日的辩论中对决，经济可能是辩论的焦点。]]></description>
+      <description><![CDATA[唐纳德·特朗普和副总统卡玛拉·哈里斯将在 9 月 10 日的辩论中对决，经济可能是辩论的焦点。]]></description>
       <guid>https://www.cnbc.com/2024/09/03/harris-small-business-tax-deduction-trump-debate-election.html</guid>
       <pubDate>Tue, 03 Sep 2024 21:06:19 GMT</pubDate>
     </item>
@@ -55,13 +76,6 @@
       <pubDate>Tue, 03 Sep 2024 20:02:23 GMT</pubDate>
     </item>
     <item>
-      <title>Janney 表示，这些派息银行股的收益率将超过美国国债收益率</title>
-      <link>https://www.cnbc.com/2024/09/03/beat-treasury-yields-with-dividend-paying-bank-stocks-janney-says.html</link>
-      <description><![CDATA[少数派息银行股的表现优于国债和现金，但投资者在筛选这些股票时应该谨慎。]]></description>
-      <guid>https://www.cnbc.com/2024/09/03/beat-treasury-yields-with-dividend-paying-bank-stocks-janney-says.html</guid>
-      <pubDate>Tue, 03 Sep 2024 19:19:59 GMT</pubDate>
-    </item>
-    <item>
       <title>比特币跌至 57,000 美元水平，加密货币股票在 9 月交易开始时暴跌：CNBC Crypto World</title>
       <link>https://www.cnbc.com/video/2024/09/03/bitcoin-dips-57000-level-crypto-stocks-tumble-september-trading-cnbc-crypto-world.html</link>
       <description><![CDATA[CNBC Crypto World 提供数字货币市场的最新新闻和每日交易更新，并通过高调的采访、解释者和不断变化的加密行业的独特故事让观众了解未来的情况。在今天的节目中，Chainalysis 的网络犯罪研究负责人 Eric Jardine 讨论了区块链分析公司最新的年中犯罪更新，该更新揭示了某种类型的加密爱情骗局被证明是非常有利可图的。]]></description>
@@ -69,25 +83,11 @@
       <pubDate>Tue, 03 Sep 2024 19:01:17 GMT</pubDate>
     </item>
     <item>
-      <title>这些股票通常会经历最好的和最差的 9 月</title>
-      <link>https://www.cnbc.com/2024/09/03/these-stocks-typically-have-the-best-and-worst-septembers.html</link>
-      <description><![CDATA[包括一家香水零售商和一家美国大型航空公司在内的几家公司或许能帮助投资者度过历史上股市艰难的一个月。]]></description>
-      <guid>https://www.cnbc.com/2024/09/03/these-stocks-typically-have-the-best-and-worst-septembers.html</guid>
-      <pubDate>Tue, 03 Sep 2024 18:06:07 GMT</pubDate>
-    </item>
-    <item>
       <title>布朗队与亨廷顿银行签署 20 年体育场使用权协议，准备新主场</title>
       <link>https://www.cnbc.com/2024/09/03/browns-sign-20-year-stadium-rights-deal-with-huntington-bank-as-they-position-for-possible-new-home.html</link>
       <description><![CDATA[]]></description>
       <guid>https://www.cnbc.com/2024/09/03/browns-sign-20-year-stadium-rights-deal-with-huntington-bank-as-they-position-for-possible-new-home.html</guid>
       <pubDate>Tue, 03 Sep 2024 17:38:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>NFL 赛季预计将刺激合法体育博彩创纪录的 350 亿美元</title>
-      <link>https://www.cnbc.com/2024/09/03/nfl-season-expected-sports-betting-projections.html</link>
-      <description><![CDATA[DraftKings、FanDuel 和 ESPN Bet 等获得授权的体育博彩公司正在努力争夺更大的份额。]]></description>
-      <guid>https://www.cnbc.com/2024/09/03/nfl-season-expected-sports-betting-projections.html</guid>
-      <pubDate>Tue, 03 Sep 2024 16:22:58 GMT</pubDate>
     </item>
     <item>
       <title>制造业数据疲软引发美国经济放缓担忧</title>
