@@ -11,12 +11,12 @@
  📢查看 比本项目更好用的RSS翻译项目 [RSS-Translator](https://github.com/rss-translator/RSS-Translator) ❗️❗️❗️
 
 ## 已转换翻译源
- - source001 [https://nitter.lucabased.xyz/myfxtrader/rss](https://nitter.lucabased.xyz/myfxtrader/rss) -> [myfxtrader](rss/myfxtrader.xml)
- - source002 [https://nitter.lucabased.xyz/financialjuice/rss](https://nitter.lucabased.xyz/financialjuice/rss) -> [financialjuice](rss/financialjuice.xml)
+ - source001 [https://rss.241999.xyz/telegram/channel/myfxtrader](https://rss.241999.xyz/telegram/channel/myfxtrader) -> [myfxtrader](rss/myfxtrader.xml)
+ - source002 [https://rss.241999.xyz/telegram/channel/financialjuice](https://rss.241999.xyz/telegram/channel/financialjuice) -> [financialjuice](rss/financialjuice.xml)
  - source003 [https://heisenbergreport.com/feed/](https://heisenbergreport.com/feed/) -> [heisenbergreport](rss/heisenbergreport.xml)
  - source004 [https://nitter.lucabased.xyz/spectatorindex/rss](https://nitter.lucabased.xyz/spectatorindex/rss) -> [TheSpectatorIndex](rss/TheSpectatorIndex.xml)
  - source005 [https://nitter.lucabased.xyz/KELMAND1/rss](https://nitter.lucabased.xyz/KELMAND1/rss) -> [KELMAND1](rss/KELMAND1.xml)
- - source006 [https://nitter.poast.org/IranObserver/rss](https://nitter.poast.org/IranObserver/rss) -> [IranObserver](rss/IranObserver.xml)
+ - source006 [https://rss.241999.xyz/telegram/channel/IranObserver1](https://rss.241999.xyz/telegram/channel/IranObserver1) -> [IranObserver](rss/IranObserver.xml)
  - source007 [https://www.rt.com/rss/news/](https://www.rt.com/rss/news/) -> [rt](rss/rt.xml)
  - source008 [https://nitter.lucabased.xyz/BarakRavid/rss](https://nitter.lucabased.xyz/BarakRavid/rss) -> [BarakRavid](rss/BarakRavid.xml)
  - source009 [https://nitter.lucabased.xyz/elonmusk/rss](https://nitter.lucabased.xyz/elonmusk/rss) -> [elonmusk](rss/elonmusk.xml)
@@ -27,4 +27,3 @@
  - source014 [https://rss.241999.xyz/reuters/business/finance](https://rss.241999.xyz/reuters/business/finance) -> [reuter_finance](rss/reuter_finance.xml)
  - source015 [https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/business/dealbook/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/business/dealbook/rss.xml) -> [nytimes](rss/nytimes.xml)
  - source016 [https://feeds.feedburner.com/Crossingwallstreet](https://feeds.feedburner.com/Crossingwallstreet) -> [crossingwallstreet](rss/crossingwallstreet.xml)
- - source017 [https://feeds.feedburner.com/Crossingwallstreet](https://feeds.feedburner.com/Crossingwallstreet) -> [crossingwallstreet](rss/crossingwallstreet.xml)
