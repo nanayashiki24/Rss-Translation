@@ -16,7 +16,7 @@
  - source003 [https://heisenbergreport.com/feed/](https://heisenbergreport.com/feed/) -> [heisenbergreport](rss/heisenbergreport.xml)
  - source004 [https://nitter.lucabased.xyz/spectatorindex/rss](https://nitter.lucabased.xyz/spectatorindex/rss) -> [TheSpectatorIndex](rss/TheSpectatorIndex.xml)
  - source005 [https://nitter.lucabased.xyz/KELMAND1/rss](https://nitter.lucabased.xyz/KELMAND1/rss) -> [KELMAND1](rss/KELMAND1.xml)
- - source006 [https://nitter.lucabased.xyz/IranObserver/rss](https://nitter.lucabased.xyz/IranObserver/rss) -> [IranObserver](rss/IranObserver.xml)
+ - source006 [https://nitter.poast.org/IranObserver/rss](https://nitter.poast.org/IranObserver/rss) -> [IranObserver](rss/IranObserver.xml)
  - source007 [https://www.rt.com/rss/news/](https://www.rt.com/rss/news/) -> [rt](rss/rt.xml)
  - source008 [https://nitter.lucabased.xyz/BarakRavid/rss](https://nitter.lucabased.xyz/BarakRavid/rss) -> [BarakRavid](rss/BarakRavid.xml)
  - source009 [https://nitter.lucabased.xyz/elonmusk/rss](https://nitter.lucabased.xyz/elonmusk/rss) -> [elonmusk](rss/elonmusk.xml)
