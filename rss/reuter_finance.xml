@@ -4,11 +4,18 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 10 Sep 2024 14:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 15:21:10 GMT</lastBuildDate>
     <item>
-      <title>摩根大通预计第三季度投资银行费用将增长 15%</title>
+      <title>Ally Financial 表示信贷挑战“加剧”；股价暴跌</title>
+      <link>https://www.reuters.com/business/finance/ally-financial-flags-intensifying-credit-challenges-shares-slump-2024-09-10/</link>
+      <description><![CDATA[消费贷款公司 Ally Financial 的首席财务官 Russell Hutchinson 周二表示，由于借款人面临高通胀和生活成本的压力，该公司在本季度的信贷挑战加剧，导致其股价下跌 17%。]]></description>
+      <guid>https://www.reuters.com/business/finance/ally-financial-flags-intensifying-credit-challenges-shares-slump-2024-09-10/</guid>
+      <pubDate>Tue, 10 Sep 2024 14:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通股价下跌，因对利息收入前景更为谨慎</title>
       <link>https://www.reuters.com/business/finance/jpmorgan-sees-15-jump-investment-banking-fees-third-quarter-2024-09-10/</link>
-      <description><![CDATA[摩根大通总裁兼首席运营官丹尼尔·平托 (Daniel Pinto) 周二表示，摩根大通投资银行费用可能在第三季度上涨 15%。]]></description>
+      <description><![CDATA[摩根大通股价下跌约 6％，此前该行行长周二降低了对该行利息收入的预期。]]></description>
       <guid>https://www.reuters.com/business/finance/jpmorgan-sees-15-jump-investment-banking-fees-third-quarter-2024-09-10/</guid>
       <pubDate>Tue, 10 Sep 2024 14:37:09 GMT</pubDate>
     </item>
@@ -71,12 +78,12 @@
     <item>
       <title>收购 Cevian 后，投资者敦促 Baloise 重组业务</title>
       <link>https://www.reuters.com/business/finance/investors-press-baloise-shake-up-business-after-cevian-swoop-2024-09-10/</link>
-      <description><![CDATA[自激进投资者 Cevian Capital 表示持有瑞士保险公司 Baloise 9% 以上的股份并成为其最大股东以来，该公司面临着听从股东要求调整投资组合并提高回报的压力。]]></description>
+      <description><![CDATA[自激进投资者 Cevian Capital 表示持有该公司 9% 以上的股份并成为其最大股东以来，瑞士保险公司 Baloise 面临着压力，需要听从股东的要求，调整投资组合并提高回报。]]></description>
       <guid>https://www.reuters.com/business/finance/investors-press-baloise-shake-up-business-after-cevian-swoop-2024-09-10/</guid>
       <pubDate>Tue, 10 Sep 2024 09:23:38 GMT</pubDate>
     </item>
     <item>
-      <title>野村证券认为市场收入将超过目标，因经纪业务吸引对冲基金</title>
+      <title>野村证券认为，由于经纪业务吸引对冲基金，市场收入将超过目标</title>
       <link>https://www.reuters.com/markets/nomura-sees-markets-revenue-beating-goal-brokerage-courts-hedge-funds-2024-09-10/</link>
       <description><![CDATA[野村控股全球市场主管向路透社表示，野村控股希望交易业务的收入能有更强劲的增长，未来三年收入增幅可能高达 30%，因为该公司正努力扩大对冲基金服务业务。]]></description>
       <guid>https://www.reuters.com/markets/nomura-sees-markets-revenue-beating-goal-brokerage-courts-hedge-funds-2024-09-10/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>中国出口稳步增长但进口放缓贸易前景黯淡</title>
       <link>https://www.reuters.com/world/china/chinas-exports-top-forecasts-imports-disappoint-amid-depressed-domestic-demand-2024-09-10/</link>
-      <description><![CDATA[中国8月份出口增速为近一年半以来最快，表明制造商在越来越多贸易伙伴预计征收关税之前加大订单，而国内需求疲软导致进口表现不尽如人意。]]></description>
+      <description><![CDATA[中国8月份出口增速为近一年半以来最快，表明制造商在越来越多贸易伙伴预计将征收关税之前加大订单，而国内需求疲软导致进口表现不尽如人意。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-exports-top-forecasts-imports-disappoint-amid-depressed-domestic-demand-2024-09-10/</guid>
       <pubDate>Tue, 10 Sep 2024 03:48:31 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[日本财务大臣铃木俊一周二表示，日本将提名该国前首席货币外交官神田正人为下一任亚洲开发银行 (ADB) 行长候选人。]]></description>
       <guid>https://www.reuters.com/world/japan/japan-nominates-ex-currency-diplomat-kanda-head-adb-2024-09-10/</guid>
       <pubDate>Tue, 10 Sep 2024 02:49:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚监管机构寻求让银行逐步停止发行混合证券</title>
-      <link>https://www.reuters.com/markets/aussie-prudential-regulator-intends-replace-banks-hybrid-capitals-2024-09-10/</link>
-      <description><![CDATA[澳大利亚审慎监管机构提议从 2027 年开始禁止银行发行某些混合证券来帮助满足其资本要求，因为通常购买这些证券的散户投资者不了解这些工具的风险。]]></description>
-      <guid>https://www.reuters.com/markets/aussie-prudential-regulator-intends-replace-banks-hybrid-capitals-2024-09-10/</guid>
-      <pubDate>Tue, 10 Sep 2024 02:17:30 GMT</pubDate>
     </item>
     <item>
       <title>从秘鲁到图瓦卢：世界银行行长称全球银行必须改变</title>
