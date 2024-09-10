@@ -12,7 +12,7 @@
 
 ## 已转换翻译源
  - source001 [https://rss.241999.xyz/telegram/channel/myfxtrader](https://rss.241999.xyz/telegram/channel/myfxtrader) -> [myfxtrader](rss/myfxtrader.xml)
- - source002 [https://rss.241999.xyz/telegram/channel/financialjuice](https://rss.241999.xyz/telegram/channel/financialjuice) -> [financialjuice](rss/financialjuice.xml)
+ - source002 [https://nitter.lucabased.xyz/financialjuice/rss](https://nitter.lucabased.xyz/financialjuice/rss) -> [financialjuice](rss/financialjuice.xml)
  - source003 [https://heisenbergreport.com/feed/](https://heisenbergreport.com/feed/) -> [heisenbergreport](rss/heisenbergreport.xml)
  - source004 [https://nitter.lucabased.xyz/spectatorindex/rss](https://nitter.lucabased.xyz/spectatorindex/rss) -> [TheSpectatorIndex](rss/TheSpectatorIndex.xml)
  - source005 [https://nitter.lucabased.xyz/KELMAND1/rss](https://nitter.lucabased.xyz/KELMAND1/rss) -> [KELMAND1](rss/KELMAND1.xml)
