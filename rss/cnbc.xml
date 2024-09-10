@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 10:19:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Tue, 10 Sep 2024 10:35:00 GMT</lastBuildDate>
+    <item>
+      <title>欧盟最高法院裁定苹果必须补缴 130 亿欧元税款</title>
+      <link>https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html</link>
+      <description><![CDATA[欧洲最高法院周二就苹果公司在爱尔兰税务问题上长达 10 年的诉讼作出了不利于这家科技巨头的裁决。]]></description>
+      <guid>https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html</guid>
+      <pubDate>Tue, 10 Sep 2024 10:25:34 GMT</pubDate>
+    </item>
     <item>
       <title>周二分析师预测：特斯拉为首选，好市多被降级</title>
       <link>https://www.cnbc.com/2024/09/10/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
@@ -34,14 +41,7 @@
       <pubDate>Tue, 10 Sep 2024 10:04:34 GMT</pubDate>
     </item>
     <item>
-      <title>苹果在爱尔兰 130 亿欧元税单纠纷中败诉</title>
-      <link>https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html</link>
-      <description><![CDATA[欧洲最高法院周二就苹果公司在爱尔兰税务问题上长达 10 年的诉讼作出了不利于这家科技巨头的裁决。]]></description>
-      <guid>https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html</guid>
-      <pubDate>Tue, 10 Sep 2024 10:04:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟反垄断调查中，欧洲最高法院维持谷歌 24 亿欧元罚款</title>
+      <title>欧盟反垄断调查中，欧洲最高法院维持谷歌 24 亿欧元罚款判决</title>
       <link>https://www.cnbc.com/2024/09/10/googles-2point4-billion-euro-fine-upheld-by-europes-top-court.html</link>
       <description><![CDATA[这笔罚款源于欧盟监管机构对谷歌进行的反垄断调查，该调查于 2017 年结束。]]></description>
       <guid>https://www.cnbc.com/2024/09/10/googles-2point4-billion-euro-fine-upheld-by-europes-top-court.html</guid>
