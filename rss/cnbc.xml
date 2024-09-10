@@ -3,14 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 11:11:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 10 Sep 2024 11:37:00 GMT</lastBuildDate>
     <item>
       <title>周二分析师预测：特斯拉为首选，好市多被降级</title>
       <link>https://www.cnbc.com/2024/09/10/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
       <description><![CDATA[一家电动汽车制造商和一家批发零售商是分析师周二讨论的股票之一。]]></description>
       <guid>https://www.cnbc.com/2024/09/10/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</guid>
-      <pubDate>Tue, 10 Sep 2024 11:10:30 GMT</pubDate>
+      <pubDate>Tue, 10 Sep 2024 11:38:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟最高法院裁定苹果必须补缴 130 亿欧元税款</title>
+      <link>https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html</link>
+      <description><![CDATA[欧洲最高法院周二就苹果公司在爱尔兰税务问题上长达 10 年的诉讼作出了不利于这家科技巨头的裁决。]]></description>
+      <guid>https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html</guid>
+      <pubDate>Tue, 10 Sep 2024 11:36:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>宝马因技术问题和中国市场需求疲软下调 2024 年利润率</title>
+      <link>https://www.cnbc.com/2024/09/10/bmw-trims-2024-profit-margin-on-technical-issues-weak-china-demand.html</link>
+      <description><![CDATA[宝马周二下调了 2024 年的盈利预期，指出技术问题导致汽车交付停止。]]></description>
+      <guid>https://www.cnbc.com/2024/09/10/bmw-trims-2024-profit-margin-on-technical-issues-weak-china-demand.html</guid>
+      <pubDate>Tue, 10 Sep 2024 11:36:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>9 月份经济低迷持续，股指期货持平，交易员等待通胀数据：实时更新</title>
+      <link>https://www.cnbc.com/2024/09/09/stock-market-today-live-updates.html</link>
+      <description><![CDATA[三大股指在创下 2024 年以来最差一周后，周一出现反弹。]]></description>
+      <guid>https://www.cnbc.com/2024/09/09/stock-market-today-live-updates.html</guid>
+      <pubDate>Tue, 10 Sep 2024 11:31:44 GMT</pubDate>
     </item>
     <item>
       <title>棕榈滩和纽约 1000 万美元住宅销量激增</title>
@@ -20,25 +41,11 @@
       <pubDate>Tue, 10 Sep 2024 11:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟最高法院裁定苹果必须补缴 130 亿欧元税款</title>
-      <link>https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html</link>
-      <description><![CDATA[欧洲最高法院周二就苹果公司在爱尔兰税务问题上长达 10 年的诉讼作出了不利于这家科技巨头的裁决。]]></description>
-      <guid>https://www.cnbc.com/2024/09/10/apple-loses-eu-court-battle-over-13-billion-euro-tax-bill-in-ireland.html</guid>
-      <pubDate>Tue, 10 Sep 2024 10:25:34 GMT</pubDate>
-    </item>
-    <item>
       <title>SpaceX 发射“北极星黎明”号任务，将尝试首次私人太空行走</title>
       <link>https://www.cnbc.com/2024/09/10/spacex-polaris-dawn-mission-launches-first-civilian-spacewalk.html</link>
       <description><![CDATA[这是亿万富翁贾里德·艾萨克曼于 2022 年从 SpaceX 购买的三项任务中的第一项，用于他的载人航天计划（即“北极星计划”）。]]></description>
       <guid>https://www.cnbc.com/2024/09/10/spacex-polaris-dawn-mission-launches-first-civilian-spacewalk.html</guid>
       <pubDate>Tue, 10 Sep 2024 10:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>标普 500 指数 9 月首次上涨后，股指期货几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/09/09/stock-market-today-live-updates.html</link>
-      <description><![CDATA[三大股指在创下 2024 年以来最差一周后，周一出现反弹。]]></description>
-      <guid>https://www.cnbc.com/2024/09/09/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 10 Sep 2024 10:17:58 GMT</pubDate>
     </item>
     <item>
       <title>欧盟反垄断调查中，欧洲最高法院维持谷歌 24 亿欧元罚款判决</title>
@@ -60,13 +67,6 @@
       <description><![CDATA[Mate XT 有红色和黑色两种颜色，三种存储选择，价格从 19,999 元人民币（2,809 美元）到 23,999 元人民币（3,371 美元）不等。]]></description>
       <guid>https://www.cnbc.com/2024/09/10/chinas-huawei-prices-trifold-phone-to-launch-same-day-as-apple-iphone-16.html</guid>
       <pubDate>Tue, 10 Sep 2024 08:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>“吓唬西方”：分析人士称，土耳其加入金砖国家既是战略举措，也是象征性举措</title>
-      <link>https://www.cnbc.com/2024/09/10/turkeys-bid-for-brics-both-strategic-and-symbolic-step-analysts-say.html</link>
-      <description><![CDATA[一些人视金砖国家为欧盟、七国集团、甚至北约等西方主导组织的象征性平衡力量。]]></description>
-      <guid>https://www.cnbc.com/2024/09/10/turkeys-bid-for-brics-both-strategic-and-symbolic-step-analysts-say.html</guid>
-      <pubDate>Tue, 10 Sep 2024 05:14:38 GMT</pubDate>
     </item>
     <item>
       <title>汽车巨头在电动汽车转型过程中被迫面对一些残酷的事实</title>
