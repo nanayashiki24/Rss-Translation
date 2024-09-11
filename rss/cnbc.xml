@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 05:24:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 11 Sep 2024 06:08:00 GMT</lastBuildDate>
+    <item>
+      <title>英国 7 月经济再次持平，低于预期</title>
+      <link>https://www.cnbc.com/2024/09/11/uk-economic-growth-july-2024.html</link>
+      <description><![CDATA[英国国家统计局周三发布的初值显示，英国经济 7 月份保持平稳。]]></description>
+      <guid>https://www.cnbc.com/2024/09/11/uk-economic-growth-july-2024.html</guid>
+      <pubDate>Wed, 11 Sep 2024 06:19:03 GMT</pubDate>
+    </item>
     <item>
       <title>从极右翼到财政挑战，法国可能从一场危机走向另一场危机</title>
       <link>https://www.cnbc.com/2024/09/11/what-problems-is-france-facing-as-michel-barnier-becomes-pm.html</link>
@@ -34,6 +41,13 @@
       <pubDate>Wed, 11 Sep 2024 04:44:04 GMT</pubDate>
     </item>
     <item>
+      <title>爱尔兰现在需要决定如何处理苹果欠缴的 130 亿欧元税款</title>
+      <link>https://www.cnbc.com/2024/09/11/apple-tax-ireland-to-decide-what-it-will-do-with-13-billion-euros.html</link>
+      <description><![CDATA[这项决定是在爱尔兰面临数十亿欧元预算盈余这一不寻常状况之际做出的。]]></description>
+      <guid>https://www.cnbc.com/2024/09/11/apple-tax-ireland-to-decide-what-it-will-do-with-13-billion-euros.html</guid>
+      <pubDate>Wed, 11 Sep 2024 03:33:01 GMT</pubDate>
+    </item>
+    <item>
       <title>行业领袖称体育博彩没有放缓的迹象</title>
       <link>https://www.cnbc.com/2024/09/10/no-signs-of-slowing-down-for-sports-betting-industry-leaders-say.html</link>
       <description><![CDATA[业内领袖表示，体育博彩正在继续融入现代体育文化。]]></description>
@@ -41,25 +55,11 @@
       <pubDate>Wed, 11 Sep 2024 01:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>随着粉丝和品牌的参与，女子体育正呈上升趋势</title>
-      <link>https://www.cnbc.com/2024/09/10/womens-sports-upward-trajectory-fans-brands.html</link>
-      <description><![CDATA[CNBC x Boardroom 的 Game Plan 节目的发言人表示，公司赞助商也看到了与新兴联盟建立股权的价值。]]></description>
-      <guid>https://www.cnbc.com/2024/09/10/womens-sports-upward-trajectory-fans-brands.html</guid>
-      <pubDate>Wed, 11 Sep 2024 00:48:48 GMT</pubDate>
-    </item>
-    <item>
       <title>流媒体交易是 NFL 未来观众和粉丝群体的关键</title>
       <link>https://www.cnbc.com/2024/09/10/streaming-deals-are-key-to-future-of-nfl-viewership-fandom.html</link>
       <description><![CDATA[最近的一系列流媒体交易表明 NFL 正在努力扩大其粉丝群和收视率。]]></description>
       <guid>https://www.cnbc.com/2024/09/10/streaming-deals-are-key-to-future-of-nfl-viewership-fandom.html</guid>
       <pubDate>Tue, 10 Sep 2024 22:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼推出升级版 PlayStation 5 Pro，以提振放缓的游戏机业务</title>
-      <link>https://www.cnbc.com/2024/09/10/sony-playstation-5-pro-launch-price-specs-release-date.html</link>
-      <description><![CDATA[索尼周二发布了其 PlayStation 5 游戏机的升级版，称为 PlayStation 5 Pro。]]></description>
-      <guid>https://www.cnbc.com/2024/09/10/sony-playstation-5-pro-launch-price-specs-release-date.html</guid>
-      <pubDate>Tue, 10 Sep 2024 21:04:24 GMT</pubDate>
     </item>
     <item>
       <title>纽约人寿的古德温表示，现在还不是转向防御性股票的时候</title>
@@ -90,14 +90,14 @@
       <pubDate>Tue, 10 Sep 2024 18:53:06 GMT</pubDate>
     </item>
     <item>
-      <title>本周两份关键通胀报告将有助于决定美联储降息幅度</title>
+      <title>本周两份关键通胀报告将有助于决定美联储降息规模</title>
       <link>https://www.cnbc.com/2024/09/10/weeks-two-key-inflation-reports-to-help-decide-size-of-feds-rate-cut.html</link>
       <description><![CDATA[美国劳工统计局将于周三首先公布消费者价格指数，周四公布生产者价格指数，上述两个指数均衡量八月份的价格。]]></description>
       <guid>https://www.cnbc.com/2024/09/10/weeks-two-key-inflation-reports-to-help-decide-size-of-feds-rate-cut.html</guid>
       <pubDate>Tue, 10 Sep 2024 18:32:57 GMT</pubDate>
     </item>
     <item>
-      <title>自 1980 年以来，预测每一位选举获胜者的经济“痛苦指数”都对哈里斯有利，但结果很接近</title>
+      <title>自 1980 年以来，经济“痛苦指数”预测了每一位选举获胜者，这对哈里斯来说都是好事，但结果很接近</title>
       <link>https://www.cnbc.com/2024/09/10/misery-index-looks-good-for-kamala-harris-in-presidential-race.html</link>
       <description><![CDATA[“痛苦指数”是美国失业率加上年化通胀率的结果。]]></description>
       <guid>https://www.cnbc.com/2024/09/10/misery-index-looks-good-for-kamala-harris-in-presidential-race.html</guid>
