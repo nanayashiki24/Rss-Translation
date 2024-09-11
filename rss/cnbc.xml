@@ -3,21 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 19:12:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 11 Sep 2024 19:36:00 GMT</lastBuildDate>
+    <item>
+      <title>华尔街从通胀报告抛售中反弹，纳斯达克上涨逾 1.5%：实时更新</title>
+      <link>https://www.cnbc.com/2024/09/10/stock-market-today-live-updates.html</link>
+      <description><![CDATA[由于投资者消化八月份消费者通胀报告，标准普尔 500 指数和 30 种成分股道琼斯指数周三下跌。]]></description>
+      <guid>https://www.cnbc.com/2024/09/10/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 11 Sep 2024 19:37:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>财务顾问建议，避免对候选人提出的增税方案做出“下意识反应”。原因如下</title>
+      <link>https://www.cnbc.com/2024/09/11/proposed-tax-increases-election.html</link>
+      <description><![CDATA[随着选举的临近，投资者可能会因一系列税收政策提案而感到压力。以下是您应该避免情绪化决策的原因。]]></description>
+      <guid>https://www.cnbc.com/2024/09/11/proposed-tax-increases-election.html</guid>
+      <pubDate>Wed, 11 Sep 2024 19:15:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者称，无论谁赢得美国大选，比特币价格都可能很快达到六位数</title>
+      <link>https://www.cnbc.com/2024/09/11/bitcoin-may-soon-hit-six-figures-regardless-of-election-investors-say.html</link>
+      <description><![CDATA[尽管加密货币行业的党派情绪日益高涨，但无论谁赢得 11 月的美国总统大选，比特币都将蓬勃发展。]]></description>
+      <guid>https://www.cnbc.com/2024/09/11/bitcoin-may-soon-hit-six-figures-regardless-of-election-investors-say.html</guid>
+      <pubDate>Wed, 11 Sep 2024 19:10:22 GMT</pubDate>
+    </item>
     <item>
       <title>金融股最近表现火爆。这些股票有望继续走高</title>
       <link>https://www.cnbc.com/2024/09/11/financials-have-been-on-fire-lately-these-stocks-are-expected-to-fly-higher-from-here.html</link>
       <description><![CDATA[在该行业取得突破性的一年之后，这些金融股的涨势可能还会进一步增强。]]></description>
       <guid>https://www.cnbc.com/2024/09/11/financials-have-been-on-fire-lately-these-stocks-are-expected-to-fly-higher-from-here.html</guid>
       <pubDate>Wed, 11 Sep 2024 19:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街从通胀报告抛售中反弹，纳斯达克上涨 1%：实时更新</title>
-      <link>https://www.cnbc.com/2024/09/10/stock-market-today-live-updates.html</link>
-      <description><![CDATA[由于投资者消化八月份消费者通胀报告，标准普尔 500 指数和 30 种成分股道琼斯指数周三下跌。]]></description>
-      <guid>https://www.cnbc.com/2024/09/10/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 11 Sep 2024 19:09:36 GMT</pubDate>
     </item>
     <item>
       <title>共和党支持率下滑后，众议院议长约翰逊撤回政府拨款法案</title>
@@ -34,13 +48,6 @@
       <pubDate>Wed, 11 Sep 2024 18:59:10 GMT</pubDate>
     </item>
     <item>
-      <title>央行监管机构称亚特兰大联储的博斯蒂克违反了交易规则</title>
-      <link>https://www.cnbc.com/2024/09/11/atlanta-feds-bostic-violated-trading-rules-central-bank-watchdog-says-.html</link>
-      <description><![CDATA[有关博斯蒂克财务状况的监察长报告是第三份，也可能是最后一份详细说明一些现任和前任美联储政策制定者的投资和交易活动问题的报告。]]></description>
-      <guid>https://www.cnbc.com/2024/09/11/atlanta-feds-bostic-violated-trading-rules-central-bank-watchdog-says-.html</guid>
-      <pubDate>Wed, 11 Sep 2024 18:32:21 GMT</pubDate>
-    </item>
-    <item>
       <title>贸易专家警告称，特朗普关税将加剧供应链通胀，消费者将为此付出代价</title>
       <link>https://www.cnbc.com/2024/09/11/trump-trade-policies-will-fuel-freight-rates-consumers-pay-price.html</link>
       <description><![CDATA[唐纳德·特朗普在周二的总统辩论中加倍宣布征收新关税，但贸易专家表示，消费者应该担心为此付出代价。]]></description>
@@ -50,7 +57,7 @@
     <item>
       <title>卡罗琳·埃里森 (Caroline Ellison) 因在 FTX 倒闭事件中扮演的角色寻求逃避监禁</title>
       <link>https://www.cnbc.com/2024/09/11/caroline-ellison-aims-to-duck-prison-sentence-for-role-in-ftx-collapse.html</link>
-      <description><![CDATA[卡罗琳·埃里森 (Caroline Ellison) 的律师正在争取在 9 月 24 日前阿拉米达研究公司 (Alameda Research) 首席执行官宣判之前不判处监禁。]]></description>
+      <description><![CDATA[卡罗琳·埃里森 (Caroline Ellison) 的律师正在争取在 9 月 24 日前阿拉米达研究公司首席执行官宣判之前不判处监禁。]]></description>
       <guid>https://www.cnbc.com/2024/09/11/caroline-ellison-aims-to-duck-prison-sentence-for-role-in-ftx-collapse.html</guid>
       <pubDate>Wed, 11 Sep 2024 18:25:08 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[截至周二晚些时候，大桥火灾已烧毁 73 平方英里的土地，且尚未得到控制，这是南加州发生的三起重大山火之一。]]></description>
       <guid>https://www.cnbc.com/2024/09/11/wildfire-races-toward-southern-california-mountain-community.html</guid>
       <pubDate>Wed, 11 Sep 2024 14:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>抵押贷款利率降至 2023 年 2 月以来的最低水平</title>
-      <link>https://www.cnbc.com/2024/09/11/mortgage-rates-hit-lowest-level-since-february-2023.html</link>
-      <description><![CDATA[上周抵押贷款利率连续第六周下跌，但抵押贷款需求似乎仍在等待更大的下跌。]]></description>
-      <guid>https://www.cnbc.com/2024/09/11/mortgage-rates-hit-lowest-level-since-february-2023.html</guid>
-      <pubDate>Wed, 11 Sep 2024 11:28:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
