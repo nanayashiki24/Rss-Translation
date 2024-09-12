@@ -3,14 +3,21 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 03:55:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 12 Sep 2024 04:34:00 GMT</lastBuildDate>
     <item>
-      <title>科技股上涨，台湾股市上涨近 3%，引领亚太股市上涨</title>
+      <title>据路透社报道，美国支持非洲获得两个联合国安理会常任理事国席位</title>
+      <link>https://www.cnbc.com/2024/09/12/us-supports-two-permanent-un-security-council-seats-for-africa-reuters-reports.html</link>
+      <description><![CDATA[托马斯-格林菲尔德大使向路透社表示，美国支持在联合国安理会为非洲国家提供两个常任理事国席位，并为小岛国提供轮值席位。]]></description>
+      <guid>https://www.cnbc.com/2024/09/12/us-supports-two-permanent-un-security-council-seats-for-africa-reuters-reports.html</guid>
+      <pubDate>Thu, 12 Sep 2024 04:32:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>日经指数和台湾加权指数上涨约 3%，因科技股上涨，引领亚太市场走高</title>
       <link>https://www.cnbc.com/2024/09/12/asia-markets-cpi-inflation-nvidia-fomc.html</link>
       <description><![CDATA[周四，亚太股市开盘走高，追随科技股上涨的势头。]]></description>
       <guid>https://www.cnbc.com/2024/09/12/asia-markets-cpi-inflation-nvidia-fomc.html</guid>
-      <pubDate>Thu, 12 Sep 2024 03:55:12 GMT</pubDate>
+      <pubDate>Thu, 12 Sep 2024 04:27:02 GMT</pubDate>
     </item>
     <item>
       <title>瑞银首席执行官表示，预期美联储大幅降息的投资者“过于超前”</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[受本周盈利报告和公司云业务持续增长的影响，甲骨文股价创下历史新高。]]></description>
       <guid>https://www.cnbc.com/2024/09/11/oracle-trails-only-nvidia-among-large-cap-tech-in-2024-ellison-wins.html</guid>
       <pubDate>Wed, 11 Sep 2024 22:28:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>飓风弗朗辛以 2 级飓风强度登陆路易斯安那州</title>
-      <link>https://www.cnbc.com/2024/09/11/hurricane-francine-takes-aim-at-louisiana-coast.html</link>
-      <description><![CDATA[从周三开始，密西西比州、阿拉巴马州和佛罗里达州狭长地带的部分地区面临洪水威胁。]]></description>
-      <guid>https://www.cnbc.com/2024/09/11/hurricane-francine-takes-aim-at-louisiana-coast.html</guid>
-      <pubDate>Wed, 11 Sep 2024 22:15:48 GMT</pubDate>
     </item>
     <item>
       <title>8 月份消费者价格上涨 0.2%，年度通胀率创 2021 年初以来最低水平</title>
