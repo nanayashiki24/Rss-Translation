@@ -3,21 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 22:11:00 GMT</lastBuildDate>
-    <item>
-      <title>Adobe 股价因第四季度营收预期疲软而下跌</title>
-      <link>https://www.cnbc.com/2024/09/12/adobe-stock-slips-on-soft-fourth-quarter-revenue-guidance.html</link>
-      <description><![CDATA[Adobe 周四公布了第三季度业绩，其销售额和收益超出了华尔街的预期。]]></description>
-      <guid>https://www.cnbc.com/2024/09/12/adobe-stock-slips-on-soft-fourth-quarter-revenue-guidance.html</guid>
-      <pubDate>Thu, 12 Sep 2024 22:12:48 GMT</pubDate>
-    </item>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Thu, 12 Sep 2024 22:40:00 GMT</lastBuildDate>
     <item>
       <title>标普 500 指数连续第四个交易日上涨，股指期货基本持平：实时更新</title>
       <link>https://www.cnbc.com/2024/09/12/stock-market-today-live-updates.html</link>
       <description><![CDATA[由于交易商试图克服 9 月份的低迷，主要平均指数每周都呈上涨趋势。]]></description>
       <guid>https://www.cnbc.com/2024/09/12/stock-market-today-live-updates.html</guid>
-      <pubDate>Thu, 12 Sep 2024 22:09:27 GMT</pubDate>
+      <pubDate>Thu, 12 Sep 2024 22:35:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普拒绝与哈里斯进行第二次辩论</title>
+      <link>https://www.cnbc.com/2024/09/12/trump-rejects-second-harris-debate.html</link>
+      <description><![CDATA[共和党总统候选人唐纳德·特朗普表示，不会再与他的民主党对手、副总统卡马拉·哈里斯进行辩论。]]></description>
+      <guid>https://www.cnbc.com/2024/09/12/trump-rejects-second-harris-debate.html</guid>
+      <pubDate>Thu, 12 Sep 2024 22:23:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>甲骨文上调 2026 财年收入预测，股价上涨 6%</title>
+      <link>https://www.cnbc.com/2024/09/12/oracle-shares-gain-on-higher-fiscal-2026-revenue-forecast.html</link>
+      <description><![CDATA[随着云计算部门的不断发展，甲骨文预计其收入和资本支出将会增加。]]></description>
+      <guid>https://www.cnbc.com/2024/09/12/oracle-shares-gain-on-higher-fiscal-2026-revenue-forecast.html</guid>
+      <pubDate>Thu, 12 Sep 2024 22:19:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>盘后涨幅最大的股票：Adobe、RH、Oracle 等</title>
+      <link>https://www.cnbc.com/2024/09/12/stocks-making-the-biggest-moves-after-hours-adbe-rh-orcl.html</link>
+      <description><![CDATA[这些是盘后交易中波动最大的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/09/12/stocks-making-the-biggest-moves-after-hours-adbe-rh-orcl.html</guid>
+      <pubDate>Thu, 12 Sep 2024 22:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 期权的爆炸性交易可能会决定整个股市</title>
+      <link>https://www.cnbc.com/2024/09/12/trading-in-nvidia-options-could-be-directing-the-whole-stock-market.html</link>
+      <description><![CDATA[一些人认为，英伟达股价的剧烈波动是由短期期权交易的激增引发的。]]></description>
+      <guid>https://www.cnbc.com/2024/09/12/trading-in-nvidia-options-could-be-directing-the-whole-stock-market.html</guid>
+      <pubDate>Thu, 12 Sep 2024 21:56:23 GMT</pubDate>
     </item>
     <item>
       <title>英特尔获得商务部长雷蒙多的帮助，以刺激美国生产</title>
@@ -34,6 +55,13 @@
       <pubDate>Thu, 12 Sep 2024 21:53:07 GMT</pubDate>
     </item>
     <item>
+      <title>Nvidia、OpenAI、Anthropic 和谷歌高管与白宫会面讨论人工智能能源和数据中心</title>
+      <link>https://www.cnbc.com/2024/09/12/openai-anthropic-and-google-leaders-met-with-white-house-to-talk-ai-.html</link>
+      <description><![CDATA[Nvidia 首席执行官黄仁勋、OpenAI 首席执行官 Sam Altman、Anthropic 首席执行官 Dario Amodei 和谷歌总裁露丝·波拉特 (Ruth Porat) 周四在白宫会面，讨论人工智能能源问题。]]></description>
+      <guid>https://www.cnbc.com/2024/09/12/openai-anthropic-and-google-leaders-met-with-white-house-to-talk-ai-.html</guid>
+      <pubDate>Thu, 12 Sep 2024 21:37:50 GMT</pubDate>
+    </item>
+    <item>
       <title>三个关键问题将决定 Coach 和 Michael Kors 所有者是否合并</title>
       <link>https://www.cnbc.com/2024/09/12/tapestry-capri-antitrust-trial-key-questions-about-merger.html</link>
       <description><![CDATA[Tapestry 和 Capri 分别是 Coach 和 Michael Kors 的所有者，本周，这两家公司因合并计划遭到联邦反垄断诉讼而出庭受审。]]></description>
@@ -48,13 +76,6 @@
       <pubDate>Thu, 12 Sep 2024 21:09:42 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普拒绝与哈里斯进行第二次辩论</title>
-      <link>https://www.cnbc.com/2024/09/12/trump-rejects-second-harris-debate.html</link>
-      <description><![CDATA[共和党总统候选人唐纳德·特朗普表示，不会再与他的民主党对手、副总统卡马拉·哈里斯进行辩论。]]></description>
-      <guid>https://www.cnbc.com/2024/09/12/trump-rejects-second-harris-debate.html</guid>
-      <pubDate>Thu, 12 Sep 2024 20:55:15 GMT</pubDate>
-    </item>
-    <item>
       <title>赤字膨胀，国债利息支出超过 1 万亿美元</title>
       <link>https://www.cnbc.com/2024/09/12/interest-payments-on-the-national-debt-top-1-trillion-as-deficit-swells.html</link>
       <description><![CDATA[8月份赤字突然增加3800亿美元，与去年同期890亿美元的盈余形成鲜明对比。]]></description>
@@ -64,7 +85,7 @@
     <item>
       <title>德意志银行的 Binky Chadha 认为标普 500 指数年底前仍有上涨空间</title>
       <link>https://www.cnbc.com/2024/09/12/deutsche-banks-chadha-sees-more-room-for-sp-500-to-run-into-year-end.html</link>
-      <description><![CDATA[他的新目标反映了较周三收盘价上涨 3.5% 的预期。]]></description>
+      <description><![CDATA[他的新目标反映了较周三收盘价上涨 3.5% 的潜力。]]></description>
       <guid>https://www.cnbc.com/2024/09/12/deutsche-banks-chadha-sees-more-room-for-sp-500-to-run-into-year-end.html</guid>
       <pubDate>Thu, 12 Sep 2024 19:37:57 GMT</pubDate>
     </item>
@@ -76,13 +97,6 @@
       <pubDate>Thu, 12 Sep 2024 19:25:47 GMT</pubDate>
     </item>
     <item>
-      <title>美联储准备降息，新的高收益基金纷纷涌入市场</title>
-      <link>https://www.cnbc.com/2024/09/12/new-high-yield-funds-are-hitting-the-market-as-fed-prepares-to-cut-interest-rates.html</link>
-      <description><![CDATA[哥伦比亚线程针 (Columbia Threadneedle) 是最新一家推出专注于高收益债券的主动管理型 ETF 的公司。]]></description>
-      <guid>https://www.cnbc.com/2024/09/12/new-high-yield-funds-are-hitting-the-market-as-fed-prepares-to-cut-interest-rates.html</guid>
-      <pubDate>Thu, 12 Sep 2024 19:04:31 GMT</pubDate>
-    </item>
-    <item>
       <title>以下是 2024 年 8 月通货紧缩明细——一张图表</title>
       <link>https://www.cnbc.com/2024/09/12/cpi-deflation-august-2024.html</link>
       <description><![CDATA[美国经济的某些领域，比如汽车、家用家具和某些杂货，消费价格正在下降。]]></description>
@@ -90,25 +104,11 @@
       <pubDate>Thu, 12 Sep 2024 18:02:26 GMT</pubDate>
     </item>
     <item>
-      <title>微软聘请前通用电气首席财务官 Carolina Dybeck Happe 担任新任运营主管</title>
-      <link>https://www.cnbc.com/2024/09/12/microsoft-hires-former-ge-cfo-carolina-dybeck-happe-as-new-operating-chief.html</link>
-      <description><![CDATA[在帮助通用电气公司实现其航空和能源业务上市后，卡罗莱纳·戴贝克·哈佩 (Carolina Dybeck Happe) 加入了微软的高层领导行列。]]></description>
-      <guid>https://www.cnbc.com/2024/09/12/microsoft-hires-former-ge-cfo-carolina-dybeck-happe-as-new-operating-chief.html</guid>
-      <pubDate>Thu, 12 Sep 2024 17:10:35 GMT</pubDate>
-    </item>
-    <item>
       <title>波音公司工人就新合同进行投票，面临罢工威胁</title>
       <link>https://www.cnbc.com/2024/09/12/boeing-workers-vote-labor-deal.html</link>
       <description><![CDATA[罢工可能会损害波音公司增加其畅销飞机产量的机会。]]></description>
       <guid>https://www.cnbc.com/2024/09/12/boeing-workers-vote-labor-deal.html</guid>
       <pubDate>Thu, 12 Sep 2024 16:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 月份批发价格上涨 0.2%，符合预期</title>
-      <link>https://www.cnbc.com/2024/09/12/producer-price-index-august-2024-.html</link>
-      <description><![CDATA[根据道琼斯指数的预测，8月份生产者价格指数预计增长0.2%。]]></description>
-      <guid>https://www.cnbc.com/2024/09/12/producer-price-index-august-2024-.html</guid>
-      <pubDate>Thu, 12 Sep 2024 14:22:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
