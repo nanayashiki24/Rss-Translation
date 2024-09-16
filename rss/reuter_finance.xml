@@ -4,9 +4,23 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 16 Sep 2024 21:39:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 22:18:19 GMT</lastBuildDate>
     <item>
-      <title>美国银行任命投资银行与财富管理部门联手计划联合负责人</title>
+      <title>据《金融时报》报道，美国银行聘请花旗银行首席会计官 Okpara</title>
+      <link>https://www.reuters.com/business/finance/bofa-hires-citis-chief-accounting-officer-okpara-ft-reports-2024-09-16/</link>
+      <description><![CDATA[《金融时报》周一报道称，美国银行已聘请花旗集团首席会计官约翰布尔·奥克帕拉（Johnbull Okpara）担任同一职位。]]></description>
+      <guid>https://www.reuters.com/business/finance/bofa-hires-citis-chief-accounting-officer-okpara-ft-reports-2024-09-16/</guid>
+      <pubDate>Mon, 16 Sep 2024 21:54:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘：美联储鸽派预期，中国通缩压力加剧</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-16/</link>
+      <description><![CDATA[展望未来亚洲市场的前景。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-16/</guid>
+      <pubDate>Mon, 16 Sep 2024 21:48:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国银行任命投资银行与财富管理部门联手负责人</title>
       <link>https://www.reuters.com/business/finance/bank-america-names-co-leaders-initiative-linking-investment-bank-wealth-units-2024-09-16/</link>
       <description><![CDATA[据路透社周一看到的一份内部备忘录显示，美国银行任命了加强其投资银行和财富管理部门之间联系的计划的联合领导人。]]></description>
       <guid>https://www.reuters.com/business/finance/bank-america-names-co-leaders-initiative-linking-investment-bank-wealth-units-2024-09-16/</guid>
@@ -27,9 +41,9 @@
       <pubDate>Mon, 16 Sep 2024 16:24:06 GMT</pubDate>
     </item>
     <item>
-      <title>顶级商业银行加入G7主导的央行数字货币试点</title>
+      <title>顶级商业银行加入七国集团央行主导的数字货币试点</title>
       <link>https://www.reuters.com/markets/currencies/top-commercial-banks-join-g7-led-central-bank-digital-currency-trial-2024-09-16/</link>
-      <description><![CDATA[全球 40 家领先的商业银行已加入由 G7 牵头、纽约联邦储备银行以及欧洲、韩国和日本主要央行共同发起的一项试点计划，旨在建立一个新的数字货币平台，以加快和加强跨境支付。]]></description>
+      <description><![CDATA[全球 40 家领先的商业银行已加入由 G7 主导的试点计划，与纽约联邦储备银行以及欧洲、韩国和日本的主要央行合作，建立一个新的数字货币平台，旨在加快和加强跨境支付。]]></description>
       <guid>https://www.reuters.com/markets/currencies/top-commercial-banks-join-g7-led-central-bank-digital-currency-trial-2024-09-16/</guid>
       <pubDate>Mon, 16 Sep 2024 16:19:35 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[萨瓦德尔银行行长表示，其规模更大的竞争对手西班牙对外银行 (BBVA) 以数十亿欧元恶意收购该银行的可能性极小。]]></description>
       <guid>https://www.reuters.com/markets/deals/sabadells-ceo-sees-success-bbvas-hostile-takeover-very-unlikely-2024-09-16/</guid>
       <pubDate>Mon, 16 Sep 2024 10:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡济米尔称欧洲央行应等到12月再进行下一次降息</title>
-      <link>https://www.reuters.com/markets/rates-bonds/ecb-should-wait-until-dec-with-next-rate-cut-kazimir-says-2024-09-16/</link>
-      <description><![CDATA[欧洲央行管理委员会委员彼得·卡济米尔周一表示，欧洲央行几乎肯定应该等到12月份才再次降息，以确保不会犯下过快放松政策的政策错误。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/ecb-should-wait-until-dec-with-next-rate-cut-kazimir-says-2024-09-16/</guid>
-      <pubDate>Mon, 16 Sep 2024 09:35:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>托克集团任命 Jiri Zrust 为全球运营资产主管</title>
-      <link>https://www.reuters.com/markets/commodities/trafigura-appoints-jiri-zrust-global-head-operational-assets-2024-09-16/</link>
-      <description><![CDATA[全球大宗商品交易公司托克集团 (Trafigura) 宣布将任命 Jiri Zrust 担任新设立的全球运营资产主管一职。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/trafigura-appoints-jiri-zrust-global-head-operational-assets-2024-09-16/</guid>
-      <pubDate>Mon, 16 Sep 2024 09:10:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
