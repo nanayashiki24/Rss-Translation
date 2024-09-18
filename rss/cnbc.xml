@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 03:47:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 18 Sep 2024 05:22:00 GMT</lastBuildDate>
+    <item>
+      <title>美联储降息对世界意味着什么</title>
+      <link>https://www.cnbc.com/2024/09/18/what-a-fed-rate-cut-could-mean-for-the-world.html</link>
+      <description><![CDATA[从货币和商品、股票到债券——全球市场都准备迎接美联储本周首次降息。]]></description>
+      <guid>https://www.cnbc.com/2024/09/18/what-a-fed-rate-cut-could-mean-for-the-world.html</guid>
+      <pubDate>Wed, 18 Sep 2024 05:19:34 GMT</pubDate>
+    </item>
     <item>
       <title>雷·达里奥列举了影响全球经济的五大力量</title>
       <link>https://www.cnbc.com/2024/09/18/ray-dalio-names-the-top-five-forces-shaping-the-global-economy.html</link>
@@ -36,7 +43,7 @@
     <item>
       <title>随着中国经济放缓，石油前景黯淡。好消息：市场不太可能“崩溃”</title>
       <link>https://www.cnbc.com/2024/09/18/are-global-oil-markets-heading-for-a-bust-as-china-optimism-fizzles.html</link>
-      <description><![CDATA[油价下跌是此次亚洲最大石油会议的主要主题。问题不是油价是否会下跌，而是未来几年油价将下跌多少。]]></description>
+      <description><![CDATA[油价下跌是此次亚洲最大石油会议的主要话题。问题不是油价是否会下跌，而是未来几年油价将下跌多少。]]></description>
       <guid>https://www.cnbc.com/2024/09/18/are-global-oil-markets-heading-for-a-bust-as-china-optimism-fizzles.html</guid>
       <pubDate>Wed, 18 Sep 2024 03:14:51 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[尽管市场已认定美联储将会降息，但对于政策制定者将在多大程度上降息仍存在激烈的争论。]]></description>
       <guid>https://www.cnbc.com/2024/09/17/the-feds-biggest-interest-rate-call-in-years-happens-wednesday-heres-what-to-expect.html</guid>
       <pubDate>Tue, 17 Sep 2024 19:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里斯与特朗普的选举让科技巨头陷入交易量下滑的“十字路口”</title>
-      <link>https://www.cnbc.com/2024/09/17/tech-dealmakers-skeptical-that-ma-will-pick-up-after-election.html</link>
-      <description><![CDATA[由于监管机构限制大型科技公司进行重大交易，该行业的并购交易量持续下降。]]></description>
-      <guid>https://www.cnbc.com/2024/09/17/tech-dealmakers-skeptical-that-ma-will-pick-up-after-election.html</guid>
-      <pubDate>Tue, 17 Sep 2024 19:44:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
