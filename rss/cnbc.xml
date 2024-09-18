@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 05:22:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 18 Sep 2024 06:06:00 GMT</lastBuildDate>
+    <item>
+      <title>英国8月通胀保持稳定，符合预期</title>
+      <link>https://www.cnbc.com/2024/09/18/uk-inflation-august-2024.html</link>
+      <description><![CDATA[英国国家统计局周三公布的数据显示，英国 8 月份通胀率为 2.2%。]]></description>
+      <guid>https://www.cnbc.com/2024/09/18/uk-inflation-august-2024.html</guid>
+      <pubDate>Wed, 18 Sep 2024 06:25:19 GMT</pubDate>
+    </item>
     <item>
       <title>美联储降息对世界意味着什么</title>
       <link>https://www.cnbc.com/2024/09/18/what-a-fed-rate-cut-could-mean-for-the-world.html</link>
@@ -34,16 +41,9 @@
       <pubDate>Wed, 18 Sep 2024 03:29:22 GMT</pubDate>
     </item>
     <item>
-      <title>随着特朗普的支持率不断上升，哈里斯承诺要“赢得黑人男性的选票”</title>
-      <link>https://www.cnbc.com/2024/09/17/harris-black-men-trump-vote-election-nabj.html</link>
-      <description><![CDATA[副总统卡马拉·哈里斯在向黑人选民宣传时提出了诸如小企业税收减免和从信用评分中取消医疗债务等建议。]]></description>
-      <guid>https://www.cnbc.com/2024/09/17/harris-black-men-trump-vote-election-nabj.html</guid>
-      <pubDate>Wed, 18 Sep 2024 03:27:24 GMT</pubDate>
-    </item>
-    <item>
       <title>随着中国经济放缓，石油前景黯淡。好消息：市场不太可能“崩溃”</title>
       <link>https://www.cnbc.com/2024/09/18/are-global-oil-markets-heading-for-a-bust-as-china-optimism-fizzles.html</link>
-      <description><![CDATA[油价下跌是此次亚洲最大石油会议的主要话题。问题不是油价是否会下跌，而是未来几年油价将下跌多少。]]></description>
+      <description><![CDATA[油价下跌是此次亚洲最大石油会议的主要主题。问题不是油价是否会下跌，而是未来几年油价将下跌多少。]]></description>
       <guid>https://www.cnbc.com/2024/09/18/are-global-oil-markets-heading-for-a-bust-as-china-optimism-fizzles.html</guid>
       <pubDate>Wed, 18 Sep 2024 03:14:51 GMT</pubDate>
     </item>
