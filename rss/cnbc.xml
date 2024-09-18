@@ -3,8 +3,22 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 18 Sep 2024 11:03:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 18 Sep 2024 11:30:00 GMT</lastBuildDate>
+    <item>
+      <title>华尔街预期美联储降息，股指期货小幅上涨：实时更新</title>
+      <link>https://www.cnbc.com/2024/09/17/stock-market-today-live-updates.html</link>
+      <description><![CDATA[标准普尔 500 指数在周二的交易中创下了历史新高，但最终收于平线附近。]]></description>
+      <guid>https://www.cnbc.com/2024/09/17/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 18 Sep 2024 11:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>利率降至两年低点 每周抵押贷款需求激增 14%</title>
+      <link>https://www.cnbc.com/2024/09/18/weekly-mortgage-demand-surges-as-interest-rates-hit-two-year-low.html</link>
+      <description><![CDATA[抵押贷款利率并不完全跟随美联储的走势，但会受到政策的影响，并可能根据周三的消息而变动。]]></description>
+      <guid>https://www.cnbc.com/2024/09/18/weekly-mortgage-demand-surges-as-interest-rates-hit-two-year-low.html</guid>
+      <pubDate>Wed, 18 Sep 2024 11:33:50 GMT</pubDate>
+    </item>
     <item>
       <title>周三分析师电话会议：高盛表示万豪值得买入，服装股将上涨 20%</title>
       <link>https://www.cnbc.com/2024/09/18/analyst-calls-all-the-market-moving-wall-street-chatter-from-wednesday.html</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[美国证券交易委员会将对一项拟议的修正案进行投票，该修正案旨在改变大多数股票的最低定价增量。]]></description>
       <guid>https://www.cnbc.com/2024/09/18/your-favorite-stocks-may-soon-be-quoted-in-half-penny-increments.html</guid>
       <pubDate>Wed, 18 Sep 2024 11:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>利率降至两年低点 每周抵押贷款需求激增 14%</title>
-      <link>https://www.cnbc.com/2024/09/18/weekly-mortgage-demand-surges-as-interest-rates-hit-two-year-low.html</link>
-      <description><![CDATA[抵押贷款利率并不完全跟随美联储的走势，但会受到政策的影响，并可能因周三的消息而变动。]]></description>
-      <guid>https://www.cnbc.com/2024/09/18/weekly-mortgage-demand-surges-as-interest-rates-hit-two-year-low.html</guid>
-      <pubDate>Wed, 18 Sep 2024 11:00:01 GMT</pubDate>
     </item>
     <item>
       <title>特百惠因彩色容器失去市场影响力而申请破产</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[唐纳德·特朗普在“真相社交”帖子中做出了有关州和地方税的承诺，试图争取纽约选民在总统选举中支持他。]]></description>
       <guid>https://www.cnbc.com/2024/09/17/trump-salt-tax-law.html</guid>
       <pubDate>Tue, 17 Sep 2024 21:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储将在周三召开多年来最大规模的利率会议。以下是预期内容</title>
-      <link>https://www.cnbc.com/2024/09/17/the-feds-biggest-interest-rate-call-in-years-happens-wednesday-heres-what-to-expect.html</link>
-      <description><![CDATA[尽管市场已认定美联储将会降息，但对于政策制定者将在多大程度上降息仍存在激烈的争论。]]></description>
-      <guid>https://www.cnbc.com/2024/09/17/the-feds-biggest-interest-rate-call-in-years-happens-wednesday-heres-what-to-expect.html</guid>
-      <pubDate>Tue, 17 Sep 2024 19:55:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
