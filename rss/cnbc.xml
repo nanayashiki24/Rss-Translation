@@ -4,7 +4,7 @@
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
     <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Thu, 19 Sep 2024 08:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 09:19:00 GMT</lastBuildDate>
     <item>
       <title>中国阿里巴巴推出 100 多个新的开源 AI 模型，发布文本转视频生成工具</title>
       <link>https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html</link>
@@ -27,13 +27,6 @@
       <pubDate>Thu, 19 Sep 2024 07:10:40 GMT</pubDate>
     </item>
     <item>
-      <title>收购德国商业银行对裕信银行和银行业意味着什么</title>
-      <link>https://www.cnbc.com/2024/09/19/what-buying-commerzbank-would-mean-for-unicredit-and-german-banks.html</link>
-      <description><![CDATA[分析师对裕信银行的举措表示欢迎，特别是因为两家银行的合并可能会刺激欧洲银行业的更多并购活动。]]></description>
-      <guid>https://www.cnbc.com/2024/09/19/what-buying-commerzbank-would-mean-for-unicredit-and-german-banks.html</guid>
-      <pubDate>Thu, 19 Sep 2024 06:59:29 GMT</pubDate>
-    </item>
-    <item>
       <title>中国很希望国内能有 Nvidia 的竞争对手——但事实证明这是一个相当大的挑战</title>
       <link>https://www.cnbc.com/2024/09/19/china-looks-for-domestic-nvidia-rival-but-thats-proving-challenging.html</link>
       <description><![CDATA[中国企业在与英伟达竞争的过程中面临着许多挑战，包括应对美国的出口限制和缺乏技术专业知识。]]></description>
@@ -46,6 +39,13 @@
       <description><![CDATA[一位科技亿万富翁表示，企业领导者不应该向员工“欺骗”他们关于人工智能对工作的影响，而应该保持透明和诚实。]]></description>
       <guid>https://www.cnbc.com/2024/09/19/billionaire-tech-ceo-bosses-shouldnt-bs-employees-about-ai-impact.html</guid>
       <pubDate>Thu, 19 Sep 2024 05:28:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>币安首席执行官表示，加密货币交易所今年的机构和企业投资者数量增长了 40%</title>
+      <link>https://www.cnbc.com/2024/09/19/binance-ceo-40percent-growth-in-institutional-corporate-investors.html</link>
+      <description><![CDATA[加密货币交易所币安首席执行官理查德·滕 (Richard Teng) 向 CNBC 的林林表示，今年机构和企业投资者数量增加了 40%。]]></description>
+      <guid>https://www.cnbc.com/2024/09/19/binance-ceo-40percent-growth-in-institutional-corporate-investors.html</guid>
+      <pubDate>Thu, 19 Sep 2024 03:57:49 GMT</pubDate>
     </item>
     <item>
       <title>雷·达里奥表示，由于经济面临“巨额债务”，美联储面临着艰难的平衡行动</title>
@@ -69,20 +69,6 @@
       <pubDate>Wed, 18 Sep 2024 23:59:53 GMT</pubDate>
     </item>
     <item>
-      <title>“这场盛宴还将继续”：丹·艾夫斯表示，英伟达和价值 1 万亿美元的人工智能热潮将提振科技股</title>
-      <link>https://www.cnbc.com/2024/09/19/nvidia-and-a-1-trillion-ai-boom-will-boost-tech-stocks-dan-ives-says.html</link>
-      <description><![CDATA[韦德布什科技分析师表示：“我们看到的 Nvidia 的这种盛宴将在未来六到八个季度内持续下去。”]]></description>
-      <guid>https://www.cnbc.com/2024/09/19/nvidia-and-a-1-trillion-ai-boom-will-boost-tech-stocks-dan-ives-says.html</guid>
-      <pubDate>Wed, 18 Sep 2024 23:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>交易员们实现了大幅降息的愿望，但市场仍然无法反弹</title>
-      <link>https://www.cnbc.com/2024/09/18/traders-got-their-big-rate-cut-wish-and-markets-still-couldnt-rally.html</link>
-      <description><![CDATA[美联储决定公布后，股市先是暴涨，随后却难以上涨。一些投资者认为，美联储可能操之过急。]]></description>
-      <guid>https://www.cnbc.com/2024/09/18/traders-got-their-big-rate-cut-wish-and-markets-still-couldnt-rally.html</guid>
-      <pubDate>Wed, 18 Sep 2024 21:52:22 GMT</pubDate>
-    </item>
-    <item>
       <title>鲍威尔淡化降息对特朗普-哈里斯总统竞选的影响</title>
       <link>https://www.cnbc.com/2024/09/18/fed-chair-powell-downplays-rate-cut-trump-harris-election-impact.html</link>
       <description><![CDATA[副总统卡马拉·哈里斯和前总统唐纳德·特朗普都在努力说服选民，他们是美国经济的最佳候选人。]]></description>
@@ -90,11 +76,18 @@
       <pubDate>Wed, 18 Sep 2024 21:49:45 GMT</pubDate>
     </item>
     <item>
-      <title>美联储大举行动——降低抵押贷款利率和刺激房地产市场的一个良好开端</title>
-      <link>https://www.cnbc.com/2024/09/18/the-fed-goes-big-jumpstarting-lowering-mortgage-rates-boosting-housing-plays.html</link>
-      <description><![CDATA[每个工作日，投资俱乐部都会发布“Homestretch”；一份可操作的下午更新，正好赶上交易的最后一个小时。]]></description>
-      <guid>https://www.cnbc.com/2024/09/18/the-fed-goes-big-jumpstarting-lowering-mortgage-rates-boosting-housing-plays.html</guid>
-      <pubDate>Wed, 18 Sep 2024 18:53:24 GMT</pubDate>
+      <title>“禁售期”到期前夕，特朗普媒体股价收于合并后新低</title>
+      <link>https://www.cnbc.com/2024/09/18/djt-trump-media-slips-merger-lockup.html</link>
+      <description><![CDATA[在公司股份出售“禁售期”到期的前一天，特朗普媒体股价创下了历史收盘新低。]]></description>
+      <guid>https://www.cnbc.com/2024/09/18/djt-trump-media-slips-merger-lockup.html</guid>
+      <pubDate>Wed, 18 Sep 2024 21:29:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡车司机工会表示，在 2024 年总统大选中不会支持哈里斯或特朗普</title>
+      <link>https://www.cnbc.com/2024/09/18/teamsters-no-endorsement-harris-trump-presidential-election.html</link>
+      <description><![CDATA[该主要工会表示，在共和党候选人唐纳德·特朗普和民主党候选人卡玛拉·哈里斯的竞选中，它不会支持任何候选人。]]></description>
+      <guid>https://www.cnbc.com/2024/09/18/teamsters-no-endorsement-harris-trump-presidential-election.html</guid>
+      <pubDate>Wed, 18 Sep 2024 21:07:39 GMT</pubDate>
     </item>
     <item>
       <title>美联储刚刚将利率下调半个百分点。这对你的钱包意味着什么</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[首席执行官凯利奥特伯格 (Kelly Ortberg) 表示，受影响的员工在罢工期间每四周将休假一周，他和他的团队将减薪。]]></description>
       <guid>https://www.cnbc.com/2024/09/18/boeing-furlough-strike.html</guid>
       <pubDate>Wed, 18 Sep 2024 17:57:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>iPhone 16 Pro Max 拥有更长的电池寿命和出色的摄像头，但 Apple Intelligence 尚未到来</title>
+      <link>https://www.cnbc.com/2024/09/18/apple-iphone-16-pro-max-review.html</link>
+      <description><![CDATA[CNBC 的 iPhone 16 Pro Max 评测。有很多不错的升级，但 Apple Intelligence 尚未准备好。]]></description>
+      <guid>https://www.cnbc.com/2024/09/18/apple-iphone-16-pro-max-review.html</guid>
+      <pubDate>Wed, 18 Sep 2024 12:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
