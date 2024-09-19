@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Thu, 19 Sep 2024 06:53:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Thu, 19 Sep 2024 08:36:00 GMT</lastBuildDate>
+    <item>
+      <title>中国阿里巴巴推出 100 多个新的开源 AI 模型，发布文本转视频生成工具</title>
+      <link>https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html</link>
+      <description><![CDATA[阿里巴巴希望其最新的人工智能产品能够吸引全球客户注册其云服务。]]></description>
+      <guid>https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html</guid>
+      <pubDate>Thu, 19 Sep 2024 08:35:09 GMT</pubDate>
+    </item>
     <item>
       <title>“肥沃的狩猎场”：投资组合经理列举了 9 只可从印度经济增长中获利的股票</title>
       <link>https://www.cnbc.com/2024/09/19/portfolio-manager-names-9-stocks-to-cash-in-on-indias-growth.html</link>
@@ -25,13 +32,6 @@
       <description><![CDATA[分析师对裕信银行的举措表示欢迎，特别是因为两家银行的合并可能会刺激欧洲银行业的更多并购活动。]]></description>
       <guid>https://www.cnbc.com/2024/09/19/what-buying-commerzbank-would-mean-for-unicredit-and-german-banks.html</guid>
       <pubDate>Thu, 19 Sep 2024 06:59:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>CNBC 每日开盘：市场需要时间来消化 50 点的降幅</title>
-      <link>https://www.cnbc.com/2024/09/19/cnbc-daily-open-markets-need-time-to-digest-the-50-point-cut.html</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔在会后新闻发布会上花了大量时间来缓和情绪。]]></description>
-      <guid>https://www.cnbc.com/2024/09/19/cnbc-daily-open-markets-need-time-to-digest-the-50-point-cut.html</guid>
-      <pubDate>Thu, 19 Sep 2024 06:51:41 GMT</pubDate>
     </item>
     <item>
       <title>中国很希望国内能有 Nvidia 的竞争对手——但事实证明这是一个相当大的挑战</title>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 19 Sep 2024 02:00:33 GMT</pubDate>
     </item>
     <item>
-      <title>美联储降息半个百分点，开启四年来首次宽松政策</title>
+      <title>美联储降息半个百分点，积极启动四年来首次宽松政策</title>
       <link>https://www.cnbc.com/2024/09/18/fed-cuts-rates-september-2024-.html</link>
       <description><![CDATA[美联储周三将联邦基金利率下调至4.75%-5%区间。]]></description>
       <guid>https://www.cnbc.com/2024/09/18/fed-cuts-rates-september-2024-.html</guid>
