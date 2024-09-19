@@ -4,7 +4,21 @@
     <title>纽约时报 > 商业 > DealBook</title>
     <link>https://www.nytimes.com/section/business/dealbook</link>
     <description></description>
-    <lastBuildDate>Thu, 19 Sep 2024 11:31:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 12:14:31 GMT</lastBuildDate>
+    <item>
+      <title>注册 DealBook</title>
+      <link>https://www.nytimes.com/newsletters/signup/DK</link>
+      <description><![CDATA[通过我们的每日新闻通讯了解最新的商业和政策头条。]]></description>
+      <guid>https://www.nytimes.com/newsletters/signup/DK</guid>
+      <pubDate>Thu, 19 Sep 2024 12:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储是否已实现难以捉摸的软着陆？</title>
+      <link>https://www.nytimes.com/2024/09/19/business/dealbook/fed-rates-soft-landing.html</link>
+      <description><![CDATA[投资者因预期经济将实现软着陆而推高了股票和债券价格。但一些共和党人认为，央行已经逾越了其权限。]]></description>
+      <guid>https://www.nytimes.com/2024/09/19/business/dealbook/fed-rates-soft-landing.html</guid>
+      <pubDate>Thu, 19 Sep 2024 12:13:11 GMT</pubDate>
+    </item>
     <item>
       <title>英国央行维持利率稳定但暗示将逐步放松政策</title>
       <link>https://www.nytimes.com/2024/09/19/business/bank-of-england-interest-rates.html</link>
@@ -34,18 +48,11 @@
       <pubDate>Wed, 18 Sep 2024 19:03:11 GMT</pubDate>
     </item>
     <item>
-      <title>注册 DealBook</title>
-      <link>https://www.nytimes.com/newsletters/signup/DK</link>
-      <description><![CDATA[通过我们的每日新闻通讯了解最新的商业和政策头条。]]></description>
-      <guid>https://www.nytimes.com/newsletters/signup/DK</guid>
-      <pubDate>Wed, 18 Sep 2024 11:46:13 GMT</pubDate>
-    </item>
-    <item>
       <title>为何美联储利率决议仍充满不确定性</title>
       <link>https://www.nytimes.com/2024/09/18/business/dealbook/fed-interest-rates-markets.html</link>
       <description><![CDATA[投资者、经济学家和政界人士对于央行是否应该将利率降低四分之一个百分点或更多存在分歧。]]></description>
       <guid>https://www.nytimes.com/2024/09/18/business/dealbook/fed-interest-rates-markets.html</guid>
-      <pubDate>Wed, 18 Sep 2024 11:44:48 GMT</pubDate>
+      <pubDate>Wed, 18 Sep 2024 11:44:49 GMT</pubDate>
     </item>
     <item>
       <title>拜登政府延长新日铁收购美国钢铁公司审查期</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[预计联邦存款保险公司将投票表决更为严格的收购新规，而司法部则计划彻底修改其自身的指导方针。]]></description>
       <guid>https://www.nytimes.com/2024/09/17/business/dealbook/fdic-bank-mergers-rules.html</guid>
       <pubDate>Tue, 17 Sep 2024 11:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>选民对经济的感觉是否更好？</title>
-      <link>https://www.nytimes.com/2024/09/16/business/dealbook/voters-harris-trump-economy.html</link>
-      <description><![CDATA[最新调查显示，在总统竞选又一个动荡的周末之后，美国人仍然主要关注他们的财务状况。这可能会给副总统卡马拉·哈里斯带来优势。]]></description>
-      <guid>https://www.nytimes.com/2024/09/16/business/dealbook/voters-harris-trump-economy.html</guid>
-      <pubDate>Mon, 16 Sep 2024 11:57:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
