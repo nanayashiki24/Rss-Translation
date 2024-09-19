@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 19 Sep 2024 10:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 10:42:09 GMT</lastBuildDate>
+    <item>
+      <title>大幅降息缓解违约风险和成本担忧 美国银行股上涨</title>
+      <link>https://www.reuters.com/markets/us/us-bank-stocks-rise-jumbo-rate-cut-eases-default-risk-cost-concerns-2024-09-19/</link>
+      <description><![CDATA[美联储降息50个基点后一天，美国银行股周四盘前上涨，此举有望降低存款成本并减轻借款人的压力。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-bank-stocks-rise-jumbo-rate-cut-eases-default-risk-cost-concerns-2024-09-19/</guid>
+      <pubDate>Thu, 19 Sep 2024 10:34:49 GMT</pubDate>
+    </item>
     <item>
       <title>早盘：股市追随美联储快速“重新调整”步伐，英国央行紧随其后</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-09-19/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[美联储周三宣布四年多来首次降息，美国消费者从银行借贷成本立即得到缓解。]]></description>
       <guid>https://www.reuters.com/markets/us/us-borrowers-get-quick-relief-fed-cuts-rates-analysts-say-2024-09-18/</guid>
       <pubDate>Wed, 18 Sep 2024 20:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Truist 跟随美联储降息下调基本贷款利率</title>
-      <link>https://www.reuters.com/markets/us/truist-lowers-prime-lending-rate-tandem-with-feds-rate-cut-2024-09-18/</link>
-      <description><![CDATA[Truist Financial 周三表示，该行已将其优惠贷款利率下调 50 个基点至 8%，自周四起生效，与美联储的降息举措保持一致。]]></description>
-      <guid>https://www.reuters.com/markets/us/truist-lowers-prime-lending-rate-tandem-with-feds-rate-cut-2024-09-18/</guid>
-      <pubDate>Wed, 18 Sep 2024 19:20:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
