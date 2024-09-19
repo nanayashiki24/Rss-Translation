@@ -3,15 +3,8 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Thu, 19 Sep 2024 09:19:00 GMT</lastBuildDate>
-    <item>
-      <title>中国阿里巴巴推出 100 多个新的开源 AI 模型，发布文本转视频生成工具</title>
-      <link>https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html</link>
-      <description><![CDATA[阿里巴巴希望其最新的人工智能产品能够吸引全球客户注册其云服务。]]></description>
-      <guid>https://www.cnbc.com/2024/09/19/alibaba-launches-over-100-new-ai-models-releases-text-to-video-generation.html</guid>
-      <pubDate>Thu, 19 Sep 2024 08:35:09 GMT</pubDate>
-    </item>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Thu, 19 Sep 2024 09:36:00 GMT</lastBuildDate>
     <item>
       <title>“肥沃的狩猎场”：投资组合经理列举了 9 只可从印度经济增长中获利的股票</title>
       <link>https://www.cnbc.com/2024/09/19/portfolio-manager-names-9-stocks-to-cash-in-on-indias-growth.html</link>
@@ -20,7 +13,7 @@
       <pubDate>Thu, 19 Sep 2024 08:24:42 GMT</pubDate>
     </item>
     <item>
-      <title>交易员权衡美联储超大规模降息 股指期货上涨：实时更新</title>
+      <title>交易员权衡美联储超大规模降息，股指期货上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/09/18/stock-market-today-live-updates.html</link>
       <description><![CDATA[央行决策者周三将利率下调 50 个基点。股市最初上涨，但最终收盘下跌。]]></description>
       <guid>https://www.cnbc.com/2024/09/18/stock-market-today-live-updates.html</guid>
@@ -32,13 +25,6 @@
       <description><![CDATA[中国企业在与英伟达竞争的过程中面临着许多挑战，包括应对美国的出口限制和缺乏技术专业知识。]]></description>
       <guid>https://www.cnbc.com/2024/09/19/china-looks-for-domestic-nvidia-rival-but-thats-proving-challenging.html</guid>
       <pubDate>Thu, 19 Sep 2024 06:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>亿万富翁科技公司首席执行官表示，老板不应该对员工“胡说八道”，告诉他们人工智能将对工作产生怎样的影响</title>
-      <link>https://www.cnbc.com/2024/09/19/billionaire-tech-ceo-bosses-shouldnt-bs-employees-about-ai-impact.html</link>
-      <description><![CDATA[一位科技亿万富翁表示，企业领导者不应该向员工“欺骗”他们关于人工智能对工作的影响，而应该保持透明和诚实。]]></description>
-      <guid>https://www.cnbc.com/2024/09/19/billionaire-tech-ceo-bosses-shouldnt-bs-employees-about-ai-impact.html</guid>
-      <pubDate>Thu, 19 Sep 2024 05:28:20 GMT</pubDate>
     </item>
     <item>
       <title>币安首席执行官表示，加密货币交易所今年的机构和企业投资者数量增长了 40%</title>
@@ -62,11 +48,18 @@
       <pubDate>Thu, 19 Sep 2024 02:00:33 GMT</pubDate>
     </item>
     <item>
-      <title>美联储降息半个百分点，积极启动四年来首次宽松政策</title>
+      <title>美联储降息半个百分点，开启四年来首次宽松政策</title>
       <link>https://www.cnbc.com/2024/09/18/fed-cuts-rates-september-2024-.html</link>
       <description><![CDATA[美联储周三将联邦基金利率下调至4.75%-5%区间。]]></description>
       <guid>https://www.cnbc.com/2024/09/18/fed-cuts-rates-september-2024-.html</guid>
       <pubDate>Wed, 18 Sep 2024 23:59:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-Mobile 首席执行官表示，该公司 iPhone 16 的销量“高于”去年的机型</title>
+      <link>https://www.cnbc.com/2024/09/18/t-mobile-ceo-says-iphone-16-is-selling-more-than-last-years-model.html</link>
+      <description><![CDATA[T-Mobile 首席执行官迈克·西弗特 (Mike Sievert) 在周三接受 CNBC 的吉姆·克莱默 (Jim Cramer) 采访时表示，他的公司 iPhone 16 的销量比去年有所增长。]]></description>
+      <guid>https://www.cnbc.com/2024/09/18/t-mobile-ceo-says-iphone-16-is-selling-more-than-last-years-model.html</guid>
+      <pubDate>Wed, 18 Sep 2024 23:55:33 GMT</pubDate>
     </item>
     <item>
       <title>鲍威尔淡化降息对特朗普-哈里斯总统竞选的影响</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[副总统卡马拉·哈里斯和前总统唐纳德·特朗普都在努力说服选民，他们是美国经济的最佳候选人。]]></description>
       <guid>https://www.cnbc.com/2024/09/18/fed-chair-powell-downplays-rate-cut-trump-harris-election-impact.html</guid>
       <pubDate>Wed, 18 Sep 2024 21:49:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官裁定 Sean ‘Diddy’ Combs 不会从监狱获释</title>
+      <link>https://www.cnbc.com/2024/09/18/sean-diddy-combs-will-not-be-released-from-jail-judge-in-bail-appeal-rules.html</link>
+      <description><![CDATA[这位音乐大亨于周一在纽约被捕，起诉书中指控他自 2008 年以来犯有三项性犯罪。]]></description>
+      <guid>https://www.cnbc.com/2024/09/18/sean-diddy-combs-will-not-be-released-from-jail-judge-in-bail-appeal-rules.html</guid>
+      <pubDate>Wed, 18 Sep 2024 21:37:08 GMT</pubDate>
     </item>
     <item>
       <title>“禁售期”到期前夕，特朗普媒体股价收于合并后新低</title>
