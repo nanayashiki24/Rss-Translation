@@ -4,7 +4,180 @@
     <title>毛奕森☢ / @KELMAND1</title>
     <link>http://nitter.net/KELMAND1</link>
     <description>Twitter 消息：@KELMAND1。由 nitter.net 生成</description>
-    <lastBuildDate>Wed, 18 Sep 2024 21:17:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 07:18:11 GMT</lastBuildDate>
+    <item>
+      <title>从技术上说说这次BP机爆炸事件:
+
+主要分为SOC和起爆装置两部分：
+
+一般通信用的SOC芯片，不论是BP机、手机，还是无线路由器，还是其他什么设备的SOC芯片，都拥有一些通信用的管脚，叫GPIO（通用目的输入输出接口），这些管脚可以通过软件读取状态（就是1和0，对应着一定的高低电压），也可以通过软件向其输出数据（也是1和0，对应着高低电平），这些GPIO管脚可以连接按钮、LED灯、传感器等等，用来实现某些功能；而且通常这些SOC芯片的GPIO管脚在设备上用不完，所以通常有多余的管脚用来做其他的事情，比如触发炸弹爆炸。
+
+BP机读取特定的文字短消息，经过判断，然后向某个GPIO管脚输出一个信号，意味着必须拥有SOC软件的全部源代码，做修改、做编译、形成可执行的固件文件，通过SOC芯片的调试端口烧录到闪存上，就可以执行了。这种判断加触发的功能几乎不可能在没有源代码的情况下，由黑客直接修改固件来实现。所以台巴子那个公司逃不开关系，没跑。他们至少提供了源代码和全部开发工具。
+
+另一部分是起爆装置。SOC芯片的GPIO管脚就是一根数据线，那点高低电平的功率根本不可能引爆雷管。因此还需要一个引爆装置，包含一个很简单的控制芯片，基本上门电路就行，配合外围电路，控制一颗大电容通过电池充电放电，放电过程输出给雷管，完成引爆。如果拆开BP机和手机一类的手持设备，你通常会发现外壳内部根本没有多少空间来容纳起爆装置和雷管炸药。所以，台巴子那产品的结构设计一定很特殊，能容纳这些额外的东西。所以，台巴子那公司大概率从一开始就参与了爆炸设计。</title>
+      <link>http://nitter.net/KELMAND1/status/1836650425560477704#m</link>
+      <description><![CDATA[从技术上说说这次BP机爆炸事件:
+
+主要分为SOC和起爆装置两部分：
+
+一般通信用的SOC芯片，不论是BP机、手机，还是无线路由器，还是其他什么设备的SOC芯片，都拥有一些通信用的管脚，叫GPIO（通用目的输入输出接口），这些管脚可以通过软件读取状态（就是1和0，对应着一定的高低电压），也可以通过软件向其输出数据（也是1和0，对应着高低电平），这些GPIO管脚可以连接按钮、LED灯、传感器等等，用来实现某些功能；而且通常这些SOC芯片的GPIO管脚在设备上用不完，所以通常有多余的管脚用来做其他的事情，比如触发炸弹爆炸。
+
+BP机读取特定的文字短消息，经过判断，然后向某个GPIO管脚输出一个信号，意味着必须拥有SOC软件的全部源代码，做修改、做编译、形成可执行的固件文件，通过SOC芯片的调试端口烧录到闪存上，就可以执行了。这种判断加触发的功能几乎不可能在没有源代码的情况下，由黑客直接修改固件来实现。所以台巴子那个公司逃不开关系，没跑。他们至少提供了源代码和全部开发工具。
+
+另一部分是起爆装置。SOC芯片的GPIO管脚就是一根数据线，那点高低电平的功率根本不可能引爆雷管。因此还需要一个引爆装置，包含一个很简单的控制芯片，基本上门电路就行，配合外围电路，控制一颗大电容通过电池充电放电，放电过程输出给雷管，完成引爆。如果拆开BP机和手机一类的手持设备，你通常会发现外壳内部根本没有多少空间来容纳起爆装置和雷管炸药。所以，台巴子那产品的结构设计一定很特殊，能容纳这些额外的东西。所以，台巴子那公司大概率从一开始就参与了爆炸设计。
+nitter.net/KELMAND1/status/1836267454752063953#m]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836650425560477704#m</guid>
+      <pubDate>Thu, 19 Sep 2024 06:15:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>台企甩锅欧洲公司，匈牙利政府澄清：黎巴嫩爆炸寻呼机未在匈牙利生产
+
+路透社报道，匈牙利政府18日发布一份声明澄清称，黎巴嫩大规模爆炸中使用的寻呼机设备从未出现在匈牙利，被台企金阿波罗（Gold Apollo）“点名”的BAC公司只是一家贸易中介公司，在匈牙利无制造厂。
+
+匈牙利政府发言人佐尔坦·科瓦奇在通过社交媒体表示：“匈牙利当局已经确定，该公司是一家贸易中介公司，在匈牙利并没有制造厂或其他运营场所。”
+
+“该公司列出的地址显示有一处地处匈牙利的运营中心，但有关设备从未到过匈牙利。”
+
+科瓦奇说，匈牙利国家安全机构将与所有相关的国际合作伙伴进行合作，协助进行进一步的调查。科瓦奇补充说，此事并不意味着匈牙利出现国家安全风险。</title>
+      <link>http://nitter.net/KELMAND1/status/1836648674375664029#m</link>
+      <description><![CDATA[台企甩锅欧洲公司，匈牙利政府澄清：黎巴嫩爆炸寻呼机未在匈牙利生产
+
+路透社报道，匈牙利政府18日发布一份声明澄清称，黎巴嫩大规模爆炸中使用的寻呼机设备从未出现在匈牙利，被台企金阿波罗（Gold Apollo）“点名”的BAC公司只是一家贸易中介公司，在匈牙利无制造厂。
+
+匈牙利政府发言人佐尔坦·科瓦奇在通过社交媒体表示：“匈牙利当局已经确定，该公司是一家贸易中介公司，在匈牙利并没有制造厂或其他运营场所。”
+
+“该公司列出的地址显示有一处地处匈牙利的运营中心，但有关设备从未到过匈牙利。”
+
+科瓦奇说，匈牙利国家安全机构将与所有相关的国际合作伙伴进行合作，协助进行进一步的调查。科瓦奇补充说，此事并不意味着匈牙利出现国家安全风险。
+nitter.net/KELMAND1/status/1836597038701785340#m]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836648674375664029#m</guid>
+      <pubDate>Thu, 19 Sep 2024 06:09:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>杀人犯每个国家都有，但把杀人犯的牌位专门找个地方供奉的国家没资格问这个问题。</title>
+      <link>http://nitter.net/KELMAND1/status/1836635134503850290#m</link>
+      <description><![CDATA[杀人犯每个国家都有，但把杀人犯的牌位专门找个地方供奉的国家没资格问这个问题。
+nitter.net/boiledwater/status/1836579636060307724#m]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836635134503850290#m</guid>
+      <pubDate>Thu, 19 Sep 2024 05:15:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>大约两周前，即 8 月 29 日，贝鲁特美国大学医学中心的员工收到了这封电子邮件，称他们的“旧寻呼机”将被更换。
+
+美国知道会发生什么。</title>
+      <link>http://nitter.net/KELMAND1/status/1836626751059108290#m</link>
+      <description><![CDATA[大约两周前，即 8 月 29 日，贝鲁特美国大学医学中心的员工收到了这封电子邮件，称他们的“旧寻呼机”将被更换。
+
+美国知道会发生什么。
+]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836626751059108290#m</guid>
+      <pubDate>Thu, 19 Sep 2024 04:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>当地时间9月18日，联合国大会在讨论巴以问题的第十次紧急特别会议上，投票通过关于以色列在巴勒斯坦被占领土问题的咨询意见的决议草案，要求以色列在决议通过后12个月内结束其在巴勒斯坦被占领土的非法存在。
+
+表决中，124票赞成，美国、以色列等14票反对，43票弃权。中国投下赞成票。
+
+这是巴勒斯坦国作为联合国观察员首次在联大提出决议草案。
+
+国际法院在今年7月19日发表咨询意见，认为以色列在巴勒斯坦被占领土的继续存在是非法的，以色列有义务尽快结束其在该领土上的非法存在，立即停止一切新的定居活动，并将所有定居者撤出巴勒斯坦被占领土，并有义务对该领土上所有有关自然人或法人造成的损失进行赔偿。</title>
+      <link>http://nitter.net/KELMAND1/status/1836624473480663226#m</link>
+      <description><![CDATA[当地时间9月18日，联合国大会在讨论巴以问题的第十次紧急特别会议上，投票通过关于以色列在巴勒斯坦被占领土问题的咨询意见的决议草案，要求以色列在决议通过后12个月内结束其在巴勒斯坦被占领土的非法存在。
+
+表决中，124票赞成，美国、以色列等14票反对，43票弃权。中国投下赞成票。
+
+这是巴勒斯坦国作为联合国观察员首次在联大提出决议草案。
+
+国际法院在今年7月19日发表咨询意见，认为以色列在巴勒斯坦被占领土的继续存在是非法的，以色列有义务尽快结束其在该领土上的非法存在，立即停止一切新的定居活动，并将所有定居者撤出巴勒斯坦被占领土，并有义务对该领土上所有有关自然人或法人造成的损失进行赔偿。
+]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836624473480663226#m</guid>
+      <pubDate>Thu, 19 Sep 2024 04:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>😂😂😂哎，没办法，这就是国运。</title>
+      <link>http://nitter.net/KELMAND1/status/1836620875401183476#m</link>
+      <description><![CDATA[😂😂😂哎，没办法，这就是国运。
+nitter.net/mengyan1234567/status/1836617330404790439#m]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836620875401183476#m</guid>
+      <pubDate>Thu, 19 Sep 2024 04:18:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>战争新阶段：以色列将军事力量集中在北部（黎巴嫩） - 以色列国防部长
+
+今天，在加沙地带战斗数月后，以色列国防军第 98 师被调往以色列北部与黎巴嫩接壤的边境地区。
+
+看来以色列还是看乌克兰在库尔斯克整活占了头条不爽，也开始整活了。</title>
+      <link>http://nitter.net/KELMAND1/status/1836613009739018301#m</link>
+      <description><![CDATA[战争新阶段：以色列将军事力量集中在北部（黎巴嫩） - 以色列国防部长
+
+今天，在加沙地带战斗数月后，以色列国防军第 98 师被调往以色列北部与黎巴嫩接壤的边境地区。
+
+看来以色列还是看乌克兰在库尔斯克整活占了头条不爽，也开始整活了。
+]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836613009739018301#m</guid>
+      <pubDate>Thu, 19 Sep 2024 03:47:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>据一些报道，黎巴嫩寻呼机/对讲机中使用了含有硝酸酯的PETN作为炸药。每个装置含有 20 至 50 克这种物质。视频显示了六克PETN的爆炸及其后果。</title>
+      <link>http://nitter.net/KELMAND1/status/1836604109870530956#m</link>
+      <description><![CDATA[据一些报道，黎巴嫩寻呼机/对讲机中使用了含有硝酸酯的PETN作为炸药。每个装置含有 20 至 50 克这种物质。视频显示了六克PETN的爆炸及其后果。
+]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836604109870530956#m</guid>
+      <pubDate>Thu, 19 Sep 2024 03:11:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>潘多拉的魔盒一开，你怎么知道里面会有什么，现在我们看到的不过是蝴蝶的翅膀扇了一下而已。
+
+这次摩萨德的恐怖袭击必然载入史册。</title>
+      <link>http://nitter.net/KELMAND1/status/1836602346480226332#m</link>
+      <description><![CDATA[潘多拉的魔盒一开，你怎么知道里面会有什么，现在我们看到的不过是蝴蝶的翅膀扇了一下而已。
+
+这次摩萨德的恐怖袭击必然载入史册。
+nitter.net/SmallnoD/status/1836599444122538218#m
+]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836602346480226332#m</guid>
+      <pubDate>Thu, 19 Sep 2024 03:04:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿拉伯媒体呼吁对台湾进行海上封锁，因为它现在是以色列/美国犯罪计划的一部分，也是恐怖主义的帮凶。</title>
+      <link>http://nitter.net/KELMAND1/status/1836601627140366846#m</link>
+      <description><![CDATA[阿拉伯媒体呼吁对台湾进行海上封锁，因为它现在是以色列/美国犯罪计划的一部分，也是恐怖主义的帮凶。
+]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836601627140366846#m</guid>
+      <pubDate>Thu, 19 Sep 2024 03:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>更多关于BAC公司的细节，台湾“阿波罗”寻呼机制造商所声称的匈牙利“制造商”自 2022 年以来在匈牙利注册后，在 2023 年仅凭一名员工就创造了 665,000 欧元的利润；观察家指责该公司是摩萨德的幌子。</title>
+      <link>http://nitter.net/KELMAND1/status/1836597038701785340#m</link>
+      <description><![CDATA[更多关于BAC公司的细节，台湾“阿波罗”寻呼机制造商所声称的匈牙利“制造商”自 2022 年以来在匈牙利注册后，在 2023 年仅凭一名员工就创造了 665,000 欧元的利润；观察家指责该公司是摩萨德的幌子。
+nitter.net/KELMAND1/status/1836395889004278221#m
+]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836597038701785340#m</guid>
+      <pubDate>Thu, 19 Sep 2024 02:43:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>台湾科技杂志，2011 年文章。据报道，当地公司Gold Apollo承接美国订单，甚至是FBI的合作伙伴。
+
+简而言之，整个计划的要点很明确：以色列通过引爆伪装成电器的爆炸装置实施了大规模恐怖袭击。
+
+这些设备是在台湾一家企业秘密生产的。他们很可能是在四月份以色列议会代表团突然派驻台湾时乘坐专机带走的，由于某种原因，该代表团乘坐自己的飞机抵达台湾（以前从未这样做过）。</title>
+      <link>http://nitter.net/KELMAND1/status/1836590955631382770#m</link>
+      <description><![CDATA[台湾科技杂志，2011 年文章。据报道，当地公司Gold Apollo承接美国订单，甚至是FBI的合作伙伴。
+
+简而言之，整个计划的要点很明确：以色列通过引爆伪装成电器的爆炸装置实施了大规模恐怖袭击。
+
+这些设备是在台湾一家企业秘密生产的。他们很可能是在四月份以色列议会代表团突然派驻台湾时乘坐专机带走的，由于某种原因，该代表团乘坐自己的飞机抵达台湾（以前从未这样做过）。
+]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836590955631382770#m</guid>
+      <pubDate>Thu, 19 Sep 2024 02:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>🇸🇦🇮🇱沙特王储小萨拉曼表示在巴勒斯坦国成立之前不会与以色列建立关系</title>
+      <link>http://nitter.net/KELMAND1/status/1836569113034146198#m</link>
+      <description><![CDATA[🇸🇦🇮🇱沙特王储小萨拉曼表示在巴勒斯坦国成立之前不会与以色列建立关系]]></description>
+      <guid>http://nitter.net/KELMAND1/status/1836569113034146198#m</guid>
+      <pubDate>Thu, 19 Sep 2024 00:52:53 GMT</pubDate>
+    </item>
     <item>
       <title>🇩🇪德国暂停向以色列出口武器的许可证。</title>
       <link>http://nitter.net/KELMAND1/status/1836449548883066938#m</link>
@@ -21,156 +194,6 @@ nitter.net/KELMAND1/status/1836446257184936243#m
 ]]></description>
       <guid>http://nitter.net/KELMAND1/status/1836448801948836216#m</guid>
       <pubDate>Wed, 18 Sep 2024 16:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>al-Jadeed 电视频道援引黎巴嫩卫生部的消息称，黎巴嫩发生大规模对讲机爆炸事件，造成 1 人死亡、100 多人受伤。
-
-当地媒体称，黎巴嫩大约在五个月前与寻呼机同时购买了对讲机。
-
-在黎巴嫩地区引爆的无线对讲机是“ICOM V82”。</title>
-      <link>http://nitter.net/KELMAND1/status/1836446257184936243#m</link>
-      <description><![CDATA[al-Jadeed 电视频道援引黎巴嫩卫生部的消息称，黎巴嫩发生大规模对讲机爆炸事件，造成 1 人死亡、100 多人受伤。
-
-当地媒体称，黎巴嫩大约在五个月前与寻呼机同时购买了对讲机。
-
-在黎巴嫩地区引爆的无线对讲机是“ICOM V82”。
-nitter.net/KELMAND1/status/1836442004521468235#m]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836446257184936243#m</guid>
-      <pubDate>Wed, 18 Sep 2024 16:44:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>❗️联合国人权事务高级专员沃尔克·特克表示，黎巴嫩寻呼机爆炸事件令人震惊，也是不可接受的违反国际法的行为。</title>
-      <link>http://nitter.net/KELMAND1/status/1836444264882126940#m</link>
-      <description><![CDATA[❗️联合国人权事务高级专员沃尔克·特克表示，黎巴嫩寻呼机爆炸事件令人震惊，也是不可接受的违反国际法的行为。
-nitter.net/KELMAND1/status/1836442425394630821#m]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836444264882126940#m</guid>
-      <pubDate>Wed, 18 Sep 2024 16:36:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱尔兰称黎巴嫩通讯设备爆炸违反了《日内瓦公约》</title>
-      <link>http://nitter.net/KELMAND1/status/1836442425394630821#m</link>
-      <description><![CDATA[爱尔兰称黎巴嫩通讯设备爆炸违反了《日内瓦公约》
-nitter.net/KELMAND1/status/1836441686249267349#m]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836442425394630821#m</guid>
-      <pubDate>Wed, 18 Sep 2024 16:29:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>🇮🇱🇱🇧黎巴嫩卫生部报告称，黎巴嫩新一波通讯设备爆炸造成的死亡人数已上升至9人，逾300人受伤。
-
-社交媒体用户继续发布爆炸的视频。</title>
-      <link>http://nitter.net/KELMAND1/status/1836442004521468235#m</link>
-      <description><![CDATA[🇮🇱🇱🇧黎巴嫩卫生部报告称，黎巴嫩新一波通讯设备爆炸造成的死亡人数已上升至9人，逾300人受伤。
-
-社交媒体用户继续发布爆炸的视频。
-]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836442004521468235#m</guid>
-      <pubDate>Wed, 18 Sep 2024 16:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥地利前外交部长卡琳·克奈斯尔 (Karin Kneissl) 表示，黎巴嫩寻呼机爆炸是一起恐怖袭击，引发了对任何移动设备安全性的质疑。
-
-她说，黎巴嫩的爆炸表明以色列“对供应链有一定的控制”，因为他们能够将炸药放入从国外供应的装置中。</title>
-      <link>http://nitter.net/KELMAND1/status/1836441686249267349#m</link>
-      <description><![CDATA[奥地利前外交部长卡琳·克奈斯尔 (Karin Kneissl) 表示，黎巴嫩寻呼机爆炸是一起恐怖袭击，引发了对任何移动设备安全性的质疑。
-
-她说，黎巴嫩的爆炸表明以色列“对供应链有一定的控制”，因为他们能够将炸药放入从国外供应的装置中。]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836441686249267349#m</guid>
-      <pubDate>Wed, 18 Sep 2024 16:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的说就是湾湾甩锅的这家公司看起来就是一个典型的空壳公司…而且直接说没参与过这批货的任何制造过程。</title>
-      <link>http://nitter.net/KELMAND1/status/1836401312210325992#m</link>
-      <description><![CDATA[简单的说就是湾湾甩锅的这家公司看起来就是一个典型的空壳公司…而且直接说没参与过这批货的任何制造过程。
-nitter.net/KELMAND1/status/1836395889004278221#m]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836401312210325992#m</guid>
-      <pubDate>Wed, 18 Sep 2024 13:46:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合国人权事务高级专员办事处表示，黎巴嫩寻呼机爆炸造成 12 人死亡，其中包括两名儿童。</title>
-      <link>http://nitter.net/KELMAND1/status/1836399909198794803#m</link>
-      <description><![CDATA[联合国人权事务高级专员办事处表示，黎巴嫩寻呼机爆炸造成 12 人死亡，其中包括两名儿童。
-nitter.net/KELMAND1/status/1836308981998063686#m]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836399909198794803#m</guid>
-      <pubDate>Wed, 18 Sep 2024 13:40:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>R to @KELMAND1: 更新：这家与黎巴嫩传呼机爆炸有关的匈牙利公司的一名代表告诉俄新社记者，该公司没有参与这些设备的生产。</title>
-      <link>http://nitter.net/KELMAND1/status/1836396328588620238#m</link>
-      <description><![CDATA[更新：这家与黎巴嫩传呼机爆炸有关的匈牙利公司的一名代表告诉俄新社记者，该公司没有参与这些设备的生产。]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836396328588620238#m</guid>
-      <pubDate>Wed, 18 Sep 2024 13:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>据俄新社记者报道，台湾金阿波罗公司声称的黎巴嫩爆炸寻呼机的制造商，在布达佩斯注册的 BAC 公司的办公室空无一人。
-
-该公司注册于布达佩斯市中心附近的一个住宅区，一层为办公空间，二层为公寓。
-
-居民们表示，他们从未见过 BAC 的人。俄新社记者无法通过电话联系到该公司，书面请求也没有得到回复。</title>
-      <link>http://nitter.net/KELMAND1/status/1836395889004278221#m</link>
-      <description><![CDATA[据俄新社记者报道，台湾金阿波罗公司声称的黎巴嫩爆炸寻呼机的制造商，在布达佩斯注册的 BAC 公司的办公室空无一人。
-
-该公司注册于布达佩斯市中心附近的一个住宅区，一层为办公空间，二层为公寓。
-
-居民们表示，他们从未见过 BAC 的人。俄新社记者无法通过电话联系到该公司，书面请求也没有得到回复。
-nitter.net/KELMAND1/status/1836322571207479376#m
-]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836395889004278221#m</guid>
-      <pubDate>Wed, 18 Sep 2024 13:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国4.5万码头工人计划罢工
-
-美国广播公司(ABC)18日消息，美国东部和墨西哥湾重要港口大约4.5万码头工人计划自10月1日起罢工，以寻求大幅涨薪并阻挠自动化设备取代他们的工作岗位。
-
-报道说，这些码头工人所在的港口处理美国大约半数海运货物。国际码头工人工会要求大幅提高工人工资，同时完全禁止36个美国港口装卸货所用机械设备自动化。
-
-国际码头工人工会最初要求在6年劳资合同中涨薪77%，以弥补过去数年间通货膨胀引发的工人收入损失。
-
-据报道介绍，美国码头工人最高一档的基础薪资为每小时39美元，年薪略超8.1万美元，若再算上加班费和其他福利，有些码头工人年收入可达20万美元以上。
-
-报道说，如果罢工仅持续数周，美国消费者可能不会感受到零售商品大幅短缺；但如果罢工持续超过一个月，可能引发部分消费品短缺。</title>
-      <link>http://nitter.net/KELMAND1/status/1836390805759758387#m</link>
-      <description><![CDATA[美国4.5万码头工人计划罢工
-
-美国广播公司(ABC)18日消息，美国东部和墨西哥湾重要港口大约4.5万码头工人计划自10月1日起罢工，以寻求大幅涨薪并阻挠自动化设备取代他们的工作岗位。
-
-报道说，这些码头工人所在的港口处理美国大约半数海运货物。国际码头工人工会要求大幅提高工人工资，同时完全禁止36个美国港口装卸货所用机械设备自动化。
-
-国际码头工人工会最初要求在6年劳资合同中涨薪77%，以弥补过去数年间通货膨胀引发的工人收入损失。
-
-据报道介绍，美国码头工人最高一档的基础薪资为每小时39美元，年薪略超8.1万美元，若再算上加班费和其他福利，有些码头工人年收入可达20万美元以上。
-
-报道说，如果罢工仅持续数周，美国消费者可能不会感受到零售商品大幅短缺；但如果罢工持续超过一个月，可能引发部分消费品短缺。]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836390805759758387#m</guid>
-      <pubDate>Wed, 18 Sep 2024 13:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么中国制造2025单子上的DUV光刻机划掉，下一个。</title>
-      <link>http://nitter.net/KELMAND1/status/1836386566949998827#m</link>
-      <description><![CDATA[那么中国制造2025单子上的DUV光刻机划掉，下一个。
-]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836386566949998827#m</guid>
-      <pubDate>Wed, 18 Sep 2024 12:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>BP机欧洲贴牌台湾品牌，别逗了，这玩意本身就没啥利润了，难道欧洲成本比台湾还低啊？
-
-湾湾说瞎话不过大脑…</title>
-      <link>http://nitter.net/KELMAND1/status/1836322571207479376#m</link>
-      <description><![CDATA[BP机欧洲贴牌台湾品牌，别逗了，这玩意本身就没啥利润了，难道欧洲成本比台湾还低啊？
-
-湾湾说瞎话不过大脑…
-nitter.net/nibuyaoguola/status/1836282187462607013#m]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836322571207479376#m</guid>
-      <pubDate>Wed, 18 Sep 2024 08:33:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>好好好，开始对美国军工供应链企业下手了</title>
-      <link>http://nitter.net/KELMAND1/status/1836312398132871289#m</link>
-      <description><![CDATA[好好好，开始对美国军工供应链企业下手了
-nitter.net/GEtrius114514/status/1836311754688860413#m]]></description>
-      <guid>http://nitter.net/KELMAND1/status/1836312398132871289#m</guid>
-      <pubDate>Wed, 18 Sep 2024 07:52:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
