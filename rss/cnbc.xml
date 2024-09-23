@@ -3,14 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 14:39:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Mon, 23 Sep 2024 15:03:00 GMT</lastBuildDate>
+    <item>
+      <title>DJT 禁售期解除后，特朗普媒体股价在大量交易中创下 52 周新低</title>
+      <link>https://www.cnbc.com/2024/09/23/djt-trump-media-stock-drop-lockup.html</link>
+      <description><![CDATA[唐纳德·特朗普是特朗普媒体的大股东，该公司拥有社交媒体平台 Truth Social，在纳斯达克以 DJT 代码交易。]]></description>
+      <guid>https://www.cnbc.com/2024/09/23/djt-trump-media-stock-drop-lockup.html</guid>
+      <pubDate>Mon, 23 Sep 2024 15:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着对长期低迷的担忧加剧，奢侈品股价下跌</title>
+      <link>https://www.cnbc.com/2024/09/23/luxury-stocks-slip-as-fears-grow-of-a-prolonged-downturn.html</link>
+      <description><![CDATA[“奢侈品行业可能将陷入长期的疲软，这种情况我们已经持续了几个学期了。”]]></description>
+      <guid>https://www.cnbc.com/2024/09/23/luxury-stocks-slip-as-fears-grow-of-a-prolonged-downturn.html</guid>
+      <pubDate>Mon, 23 Sep 2024 15:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用期权交易人工智能驱动的发电建设</title>
+      <link>https://www.cnbc.com/2024/09/23/using-options-to-trade-the-ai-driven-power-generation-buildout.html</link>
+      <description><![CDATA[Mike Khouw 分析了主要发电设施建设者 Fluor Corp. 的贸易情况。]]></description>
+      <guid>https://www.cnbc.com/2024/09/23/using-options-to-trade-the-ai-driven-power-generation-buildout.html</guid>
+      <pubDate>Mon, 23 Sep 2024 14:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>检察官称，特朗普刺客瑞安·鲁斯跟踪前总统长达一个月</title>
+      <link>https://www.cnbc.com/2024/09/23/would-be-trump-assassin-stalked-ex-president-for-month-prosecutors-say.html</link>
+      <description><![CDATA[瑞恩·鲁斯给一名证人留下了一个盒子，里面有一张手写纸条，上面写着：“这是对唐纳德·特朗普的一次暗杀，但我让你失望了。”]]></description>
+      <guid>https://www.cnbc.com/2024/09/23/would-be-trump-assassin-stalked-ex-president-for-month-prosecutors-say.html</guid>
+      <pubDate>Mon, 23 Sep 2024 14:46:48 GMT</pubDate>
+    </item>
     <item>
       <title>明尼阿波利斯联储主席卡什卡利预计未来降息步伐将放缓</title>
       <link>https://www.cnbc.com/2024/09/23/minneapolis-fed-president-kashkari-sees-slower-pace-of-rate-cuts-ahead.html</link>
       <description><![CDATA[卡什卡利周一表示，继上周央行将政策放宽半个百分点后，他预计将减缓降息步伐。]]></description>
       <guid>https://www.cnbc.com/2024/09/23/minneapolis-fed-president-kashkari-sees-slower-pace-of-rate-cuts-ahead.html</guid>
-      <pubDate>Mon, 23 Sep 2024 14:40:08 GMT</pubDate>
+      <pubDate>Mon, 23 Sep 2024 14:42:13 GMT</pubDate>
     </item>
     <item>
       <title>薪资最高的 5 个副学士学位——均可帮助您赚取超过 100,000 美元</title>
@@ -18,13 +46,6 @@
       <description><![CDATA[Payscale 发现，攻读科学、技术、工程或数学副学士学位的学生预计总体收入最高。]]></description>
       <guid>https://www.cnbc.com/2024/09/23/the-highest-paying-associate-degrees-all-pay-more-than-100k.html</guid>
       <pubDate>Mon, 23 Sep 2024 14:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>DJT 禁售期解除后，特朗普媒体股价在大量交易中创下 52 周新低</title>
-      <link>https://www.cnbc.com/2024/09/23/djt-trump-media-stock-drop-lockup.html</link>
-      <description><![CDATA[唐纳德·特朗普是特朗普媒体的大股东，该公司拥有社交媒体平台 Truth Social，在纳斯达克以 DJT 代码交易。]]></description>
-      <guid>https://www.cnbc.com/2024/09/23/djt-trump-media-stock-drop-lockup.html</guid>
-      <pubDate>Mon, 23 Sep 2024 14:32:52 GMT</pubDate>
     </item>
     <item>
       <title>摩根士丹利称 Constellation 股价或因核能重启而突破 300 美元，这些股票也可能上涨</title>
@@ -55,20 +76,6 @@
       <pubDate>Mon, 23 Sep 2024 14:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>微软被下调评级，因担心其在人工智能领域领先亚马逊和谷歌的局面将消失</title>
-      <link>https://www.cnbc.com/2024/09/23/microsoft-downgraded-on-fear-its-ai-lead-over-amazon-and-google-is-gone.html</link>
-      <description><![CDATA[D.A.戴维森认为，“微软正在不断升级一场它可能无法取胜的军备竞赛。”]]></description>
-      <guid>https://www.cnbc.com/2024/09/23/microsoft-downgraded-on-fear-its-ai-lead-over-amazon-and-google-is-gone.html</guid>
-      <pubDate>Mon, 23 Sep 2024 14:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>检察官称，特朗普刺客瑞安·鲁斯跟踪前总统长达一个月</title>
-      <link>https://www.cnbc.com/2024/09/23/would-be-trump-assassin-stalked-ex-president-for-month-prosecutors-say.html</link>
-      <description><![CDATA[瑞恩·鲁斯给一名证人留下了一个盒子，里面有一张手写纸条，上面写着：“这是对唐纳德·特朗普的一次暗杀，但我让你失望了。”]]></description>
-      <guid>https://www.cnbc.com/2024/09/23/would-be-trump-assassin-stalked-ex-president-for-month-prosecutors-say.html</guid>
-      <pubDate>Mon, 23 Sep 2024 13:38:58 GMT</pubDate>
-    </item>
-    <item>
       <title>众议院议长约翰逊在新政府拨款法案中取消了特朗普的投票限制</title>
       <link>https://www.cnbc.com/2024/09/22/republican-house-speaker-johnson-trump-government-shutdown-funding-bill.html</link>
       <description><![CDATA[在政府部分关闭之前，国会民主党和共和党有八天的时间达成资金协议。]]></description>
@@ -83,13 +90,6 @@
       <pubDate>Mon, 23 Sep 2024 13:00:01 GMT</pubDate>
     </item>
     <item>
-      <title>随着对长期低迷的担忧加剧，奢侈品股价下跌</title>
-      <link>https://www.cnbc.com/2024/09/23/luxury-stocks-slip-as-fears-grow-of-a-prolonged-downturn.html</link>
-      <description><![CDATA[“奢侈品行业可能将陷入长期的疲软，这种情况我们已经持续了几个学期了。”]]></description>
-      <guid>https://www.cnbc.com/2024/09/23/luxury-stocks-slip-as-fears-grow-of-a-prolonged-downturn.html</guid>
-      <pubDate>Mon, 23 Sep 2024 12:50:49 GMT</pubDate>
-    </item>
-    <item>
       <title>美联储降息后如何获得丰厚现金回报：专家称利率不会“一夜之间从极好变为糟糕”</title>
       <link>https://www.cnbc.com/2024/09/23/after-fed-rate-cut-its-time-to-shop-around-for-best-returns-on-cash.html</link>
       <description><![CDATA[即使美联储本周下调了利率，专家仍表示现金储蓄者应该货比三家以获得最佳回报。]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>与 Nike 分道扬镳后 Foot Locker 如何东山再起</title>
       <link>https://www.cnbc.com/2024/09/23/how-foot-locker-is-waging-a-comeback-after-its-breakup-with-nike.html</link>
-      <description><![CDATA[Foot Locker 长期以来主要依赖耐克 (Nike) 为它带来收入，而随着其不断扩张的门店布局，该公司正在赢得其他品牌的青睐。]]></description>
+      <description><![CDATA[Foot Locker 长期以来主要依赖耐克 (Nike) 来获取收入，随着其不断扩张的门店布局，该公司正在赢得其他品牌的青睐。]]></description>
       <guid>https://www.cnbc.com/2024/09/23/how-foot-locker-is-waging-a-comeback-after-its-breakup-with-nike.html</guid>
       <pubDate>Mon, 23 Sep 2024 12:26:01 GMT</pubDate>
     </item>
