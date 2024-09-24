@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 24 Sep 2024 10:20:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 24 Sep 2024 10:32:00 GMT</lastBuildDate>
+    <item>
+      <title>周二分析师电话会议：Salesforce 股价将上涨逾 20%，Lowe's 评级上调</title>
+      <link>https://www.cnbc.com/2024/09/24/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
+      <description><![CDATA[一家软件巨头和一家家居装饰零售商是分析师周二讨论的股票之一。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</guid>
+      <pubDate>Tue, 24 Sep 2024 10:39:26 GMT</pubDate>
+    </item>
     <item>
       <title>道琼斯指数创下新高后，股指期货小幅上涨：实时更新</title>
       <link>https://www.cnbc.com/2024/09/23/stock-market-today-live-updates.html</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[高盛首席财务官表示，美联储降息50个基点的举措将使美国经济步入软着陆轨道。]]></description>
       <guid>https://www.cnbc.com/2024/09/24/goldman-feds-jumbo-rate-cut-puts-the-us-on-track-for-soft-landing.html</guid>
       <pubDate>Tue, 24 Sep 2024 10:04:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>周二分析师电话会议：Salesforce 股价将上涨逾 20%，Lowe's 评级上调</title>
-      <link>https://www.cnbc.com/2024/09/24/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</link>
-      <description><![CDATA[一家软件巨头和一家家居装饰零售商是分析师周二讨论的股票之一。]]></description>
-      <guid>https://www.cnbc.com/2024/09/24/analyst-calls-all-the-market-moving-wall-street-chatter-from-tuesday.html</guid>
-      <pubDate>Tue, 24 Sep 2024 10:02:36 GMT</pubDate>
     </item>
     <item>
       <title>美国东南部遭遇强风暴警告，古巴和墨西哥部分地区发布飓风警告</title>
@@ -50,7 +50,7 @@
     <item>
       <title>摩根大通首席执行官杰米·戴蒙警告“地缘政治正在恶化”</title>
       <link>https://www.cnbc.com/2024/09/24/jpmorgan-ceo-jamie-dimon-warns-geopolitics-is-getting-worse.html</link>
-      <description><![CDATA[摩根大通首席执行官在接受CNBC-TV18采访时表示，他的“谨慎全在于地缘政治，这可能会决定经济的状况”。]]></description>
+      <description><![CDATA[摩根大通首席执行官在接受CNBC-TV18采访时表示，他的“谨慎全在于地缘政治，这可能会决定经济状况”。]]></description>
       <guid>https://www.cnbc.com/2024/09/24/jpmorgan-ceo-jamie-dimon-warns-geopolitics-is-getting-worse.html</guid>
       <pubDate>Tue, 24 Sep 2024 08:50:17 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>缅因州共和党三位前主席支持哈里斯，反对特朗普</title>
       <link>https://www.cnbc.com/2024/09/23/maine-republican-harris-endorsement-trump-election.html</link>
-      <description><![CDATA[缅因州共和党三位前主席支持卡拉玛·哈里斯，称唐纳德·特朗普担任总统将使世界“变得更加危险”。]]></description>
+      <description><![CDATA[缅因州共和党三位前主席支持卡拉玛·哈里斯，并表示唐纳德·特朗普担任总统将使世界“变得更加危险”。]]></description>
       <guid>https://www.cnbc.com/2024/09/23/maine-republican-harris-endorsement-trump-election.html</guid>
       <pubDate>Mon, 23 Sep 2024 23:13:35 GMT</pubDate>
     </item>
