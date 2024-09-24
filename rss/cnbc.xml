@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Tue, 24 Sep 2024 03:56:00 GMT</lastBuildDate>
+    <item>
+      <title>中国央行发布一系列支持措施应对经济下滑加剧</title>
+      <link>https://www.cnbc.com/2024/09/24/chinas-central-bank-chief-set-to-hold-press-conference-days-after-fed-rate-cut.html</link>
+      <description><![CDATA[中国人民银行行长潘功胜表示，北京方面将在近期将银行存款准备金率（简称RRR）下调50个基点。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/chinas-central-bank-chief-set-to-hold-press-conference-days-after-fed-rate-cut.html</guid>
+      <pubDate>Tue, 24 Sep 2024 05:18:24 GMT</pubDate>
+    </item>
     <item>
       <title>中国央行暗示将进一步放松货币政策以促进经济增长，中国债券市场上涨，收益率创历史新低</title>
       <link>https://www.cnbc.com/2024/09/24/china-bond-yields-hits-record-low-after-pboc-signals-more-easing.html</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[波音公司在其网站上表示，新待遇包括提高工资、恢复年度奖金和增加批准奖金等变化。]]></description>
       <guid>https://www.cnbc.com/2024/09/23/boeing-labor-proposal-best-and-final-offer-strike.html</guid>
       <pubDate>Tue, 24 Sep 2024 02:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国央行发布一系列支持措施应对经济下滑加剧</title>
-      <link>https://www.cnbc.com/2024/09/24/chinas-central-bank-chief-set-to-hold-press-conference-days-after-fed-rate-cut.html</link>
-      <description><![CDATA[中国人民银行行长潘功胜表示，北京方面将在近期将银行存款准备金率（简称RRR）下调50个基点。]]></description>
-      <guid>https://www.cnbc.com/2024/09/24/chinas-central-bank-chief-set-to-hold-press-conference-days-after-fed-rate-cut.html</guid>
-      <pubDate>Tue, 24 Sep 2024 02:06:33 GMT</pubDate>
     </item>
     <item>
       <title>慕尼黑啤酒节的不成文规则</title>
@@ -106,7 +106,7 @@
     <item>
       <title>与 Nike 分道扬镳后 Foot Locker 如何东山再起</title>
       <link>https://www.cnbc.com/2024/09/23/how-foot-locker-is-waging-a-comeback-after-its-breakup-with-nike.html</link>
-      <description><![CDATA[Foot Locker 长期以来主要依赖耐克 (Nike) 为它带来收入，而随着其不断扩张的门店布局，该公司正在赢得其他品牌的青睐。]]></description>
+      <description><![CDATA[Foot Locker 长期以来主要依赖耐克 (Nike) 来获取收入，随着其不断扩张的门店布局，该公司正在赢得其他品牌的青睐。]]></description>
       <guid>https://www.cnbc.com/2024/09/23/how-foot-locker-is-waging-a-comeback-after-its-breakup-with-nike.html</guid>
       <pubDate>Mon, 23 Sep 2024 12:26:01 GMT</pubDate>
     </item>
