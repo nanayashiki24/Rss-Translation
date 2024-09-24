@@ -3,14 +3,35 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Tue, 24 Sep 2024 15:04:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Tue, 24 Sep 2024 15:40:00 GMT</lastBuildDate>
     <item>
-      <title>消费者信心指数疲软，标普 500 指数基本持平：实时更新</title>
-      <link>https://www.cnbc.com/2024/09/23/stock-market-today-live-updates.html</link>
-      <description><![CDATA[由于消费者信心数据弱于预期，给大盘指数带来压力，标准普尔 500 指数周二在平线附近徘徊。]]></description>
-      <guid>https://www.cnbc.com/2024/09/23/stock-market-today-live-updates.html</guid>
-      <pubDate>Tue, 24 Sep 2024 15:18:47 GMT</pubDate>
+      <title>超过 400 名经济学家和前白宫顾问支持哈里斯，并警告特朗普的政策议程</title>
+      <link>https://www.cnbc.com/2024/09/24/harris-economists-white-house-advisers-endorsement-trump-election-policy.html</link>
+      <description><![CDATA[由于生活成本仍然是选民最优先考虑的问题，副总统卡马拉·哈里斯和唐纳德·特朗普都攻击对方的经济计划。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/harris-economists-white-house-advisers-endorsement-trump-election-policy.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>消费者信心指数未达预期，两年期美国国债收益率下跌</title>
+      <link>https://www.cnbc.com/2024/09/24/us-bonds-treasury-yields-in-focus-amid-economic-data-fed-speeches.html</link>
+      <description><![CDATA[由于市场参与者分析最新的消费者信心数据，两年期美国国债收益率周二走低。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/us-bonds-treasury-yields-in-focus-amid-economic-data-fed-speeches.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:34:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>观看：拜登在纽约联合国大会上发表讲话</title>
+      <link>https://www.cnbc.com/2024/09/24/watch-live-biden-speaks-at-the-united-nations-in-new-york.html</link>
+      <description><![CDATA[副总统卡马拉·哈里斯和她的共和党对手、前总统唐纳德·特朗普也将于本周会见外国领导人。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/watch-live-biden-speaks-at-the-united-nations-in-new-york.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>黎巴嫩袭击事件死亡人数已超过 550 人，以色列总统表示，“如果他们继续下去，我们还会有更多的袭击发生”</title>
+      <link>https://www.cnbc.com/2024/09/24/we-have-much-more-on-the-way-if-they-will-continue-israels-president-warns-hezbollah.html</link>
+      <description><![CDATA[以色列星期一对黎巴嫩发动空袭，造成 550 多人死亡，与此同时边境敌对行动急剧升级。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/we-have-much-more-on-the-way-if-they-will-continue-israels-president-warns-hezbollah.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:24:42 GMT</pubDate>
     </item>
     <item>
       <title>黑石集团和 Vista Equity Partners 以 84 亿美元收购软件制造商 Smartsheet</title>
@@ -18,6 +39,13 @@
       <description><![CDATA[这笔价值 84 亿美元的交易预计将于 2025 年 1 月完成，这家协作软件制造商可以选择征求其他投标。]]></description>
       <guid>https://www.cnbc.com/2024/09/24/blackstone-and-vista-equity-partners-to-acquire-software-maker-smartsheet.html</guid>
       <pubDate>Tue, 24 Sep 2024 15:17:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普媒体希望在道琼工业指数解禁后交易狂潮中阻止抛售</title>
+      <link>https://www.cnbc.com/2024/09/24/djt-trump-media-stock-selloff-lockup.html</link>
+      <description><![CDATA[唐纳德·特朗普 (Donald Trump) 是特朗普媒体 (Trump Media) 的大部分股份持有者，也是 Truth Social 的最大推手，他表示不会出售其价值 15 亿美元的 DJT 股份。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/djt-trump-media-stock-selloff-lockup.html</guid>
+      <pubDate>Tue, 24 Sep 2024 15:16:24 GMT</pubDate>
     </item>
     <item>
       <title>杰富瑞表示，鉴于新任首席执行官的热情以及未来很长的转机，应卖出星巴克股票</title>
@@ -32,13 +60,6 @@
       <description><![CDATA[参议员伯尼·桑德斯认为，诺和诺德对美国患者收取的药品价格远远高于其他国家的患者。]]></description>
       <guid>https://www.cnbc.com/2024/09/24/novo-nordisk-ceo-to-testify-at-senate-over-weight-loss-drug-prices.html</guid>
       <pubDate>Tue, 24 Sep 2024 15:04:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看：拜登在纽约联合国大会上发表讲话</title>
-      <link>https://www.cnbc.com/2024/09/24/watch-live-biden-speaks-at-the-united-nations-in-new-york.html</link>
-      <description><![CDATA[副总统卡马拉·哈里斯和她的共和党对手、前总统唐纳德·特朗普也将于本周会见外国领导人。]]></description>
-      <guid>https://www.cnbc.com/2024/09/24/watch-live-biden-speaks-at-the-united-nations-in-new-york.html</guid>
-      <pubDate>Tue, 24 Sep 2024 15:00:05 GMT</pubDate>
     </item>
     <item>
       <title>使用期权进行市场对冲，标准普尔 500 指数今年截至 10 月份上涨近 20%</title>
@@ -62,13 +83,6 @@
       <pubDate>Tue, 24 Sep 2024 14:49:56 GMT</pubDate>
     </item>
     <item>
-      <title>英国首相凯尔·斯塔默表示，需要度过艰难时期才能激发国家复兴</title>
-      <link>https://www.cnbc.com/2024/09/24/uk-pm-keir-starmer-pledges-national-renewal-at-labour-conference-2024.html</link>
-      <description><![CDATA[在英国政府被指责对英国经济状况发表悲观言论之后，斯塔默努力营造乐观情绪。]]></description>
-      <guid>https://www.cnbc.com/2024/09/24/uk-pm-keir-starmer-pledges-national-renewal-at-labour-conference-2024.html</guid>
-      <pubDate>Tue, 24 Sep 2024 14:26:52 GMT</pubDate>
-    </item>
-    <item>
       <title>参观价值 110 万美元的“零排放”住宅</title>
       <link>https://www.cnbc.com/2024/09/24/take-a-look-inside-a-1point1-million-zero-emissions-home.html</link>
       <description><![CDATA[联邦官员正在努力提高住宅和商业房地产的能源效率。]]></description>
@@ -83,32 +97,18 @@
       <pubDate>Tue, 24 Sep 2024 14:02:56 GMT</pubDate>
     </item>
     <item>
+      <title>“不生孩子的猫女”是一种更常见的生活方式选择。以下是无子女对你的金钱意味着什么</title>
+      <link>https://www.cnbc.com/2024/09/24/what-a-sink-dink-or-dinky-lifestyle-means-for-your-money.html</link>
+      <description><![CDATA[在财务规划、遗产规划和长期护理方面，无子女夫妇通常有不同的目标。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/what-a-sink-dink-or-dinky-lifestyle-means-for-your-money.html</guid>
+      <pubDate>Tue, 24 Sep 2024 13:53:51 GMT</pubDate>
+    </item>
+    <item>
       <title>摩根大通首席执行官杰米·戴蒙警告“地缘政治正在恶化”</title>
       <link>https://www.cnbc.com/2024/09/24/jpmorgan-ceo-jamie-dimon-warns-geopolitics-is-getting-worse.html</link>
-      <description><![CDATA[摩根大通首席执行官在接受CNBC-TV18采访时表示，他的“谨慎全在于地缘政治，这可能会决定经济的状况”。]]></description>
+      <description><![CDATA[摩根大通首席执行官在接受CNBC-TV18采访时表示，他的“谨慎全在于地缘政治，这可能会决定经济状况”。]]></description>
       <guid>https://www.cnbc.com/2024/09/24/jpmorgan-ceo-jamie-dimon-warns-geopolitics-is-getting-worse.html</guid>
       <pubDate>Tue, 24 Sep 2024 13:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>罢工进入第二周，波音公司以“最佳和最终”报价提高劳工条件</title>
-      <link>https://www.cnbc.com/2024/09/23/boeing-labor-proposal-best-and-final-offer-strike.html</link>
-      <description><![CDATA[波音公司在其网站上表示，新待遇包括提高工资、恢复年度奖金和增加批准奖金等变化。]]></description>
-      <guid>https://www.cnbc.com/2024/09/23/boeing-labor-proposal-best-and-final-offer-strike.html</guid>
-      <pubDate>Tue, 24 Sep 2024 13:09:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>“他们知道并且撒谎”：加州起诉埃克森美孚，指控其在塑料回收方面存在欺诈行为</title>
-      <link>https://www.cnbc.com/2024/09/24/california-sues-exxonmobil-alleging-deception-about-plastics-recycling.html</link>
-      <description><![CDATA[在诉讼中，该州总检察长表示，埃克森美孚误导消费者相信回收是解决塑料垃圾问题的可行方法，但其知道事实并非如此。]]></description>
-      <guid>https://www.cnbc.com/2024/09/24/california-sues-exxonmobil-alleging-deception-about-plastics-recycling.html</guid>
-      <pubDate>Tue, 24 Sep 2024 11:52:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>您不能总是通过再融资来利用较低的利率：在这种情况下，贷方可能会说“不”</title>
-      <link>https://www.cnbc.com/2024/09/23/when-you-cant-refinance-a-mortgage-to-capitalize-on-lower-rates.html</link>
-      <description><![CDATA[如果您正在考虑再融资抵押贷款以享受较低的利率，请按照以下方法确保您符合资格。]]></description>
-      <guid>https://www.cnbc.com/2024/09/23/when-you-cant-refinance-a-mortgage-to-capitalize-on-lower-rates.html</guid>
-      <pubDate>Mon, 23 Sep 2024 17:40:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
