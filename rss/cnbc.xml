@@ -3,8 +3,29 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 17:04:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <lastBuildDate>Wed, 25 Sep 2024 17:38:00 GMT</lastBuildDate>
+    <item>
+      <title>Meta 推出更便宜的 299 美元 Quest 3S VR 耳机</title>
+      <link>https://www.cnbc.com/2024/09/25/meta-unveils-cheaper-299-quest-3s-vr-headset-.html</link>
+      <description><![CDATA[Meta 宣布推出 Quest 3S，这是该公司 Reality Labs 部门推出的最新虚拟现实耳机，价格比其前代产品更便宜。]]></description>
+      <guid>https://www.cnbc.com/2024/09/25/meta-unveils-cheaper-299-quest-3s-vr-headset-.html</guid>
+      <pubDate>Wed, 25 Sep 2024 17:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿提哈德航空公布五年内 70 亿美元投资计划，改造老旧波音飞机</title>
+      <link>https://www.cnbc.com/2024/09/25/etihad-reveals-7-billion-investment-plan-over-five-years.html</link>
+      <description><![CDATA[阿提哈德航空集团首席执行官安东诺阿尔多·内维斯 (Antonoaldo Neves) 透露，未来两到三年内，乘客将会见到“一家完全不同的航空公司”。]]></description>
+      <guid>https://www.cnbc.com/2024/09/25/etihad-reveals-7-billion-investment-plan-over-five-years.html</guid>
+      <pubDate>Wed, 25 Sep 2024 17:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>标普 500 指数创下新高后几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html</link>
+      <description><![CDATA[经济增长成为人们关注的焦点，华尔街三大股指有望在九月份上涨。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 25 Sep 2024 17:21:43 GMT</pubDate>
+    </item>
     <item>
       <title>研究称，人工智能需求激增可能导致全球下一次芯片短缺</title>
       <link>https://www.cnbc.com/2024/09/25/surging-ai-demand-could-cause-the-worlds-next-chip-shortage-report.html</link>
@@ -25,13 +46,6 @@
       <description><![CDATA[如果特斯拉下个月的自动驾驶出租车活动能给股价带来提振，那么这笔期权交易可能会获利。]]></description>
       <guid>https://www.cnbc.com/2024/09/25/goldman-recommends-buying-tesla-call-options-before-two-big-catalysts-in-october.html</guid>
       <pubDate>Wed, 25 Sep 2024 16:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>标普 500 指数创下新高后几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html</link>
-      <description><![CDATA[经济增长成为人们关注的焦点，华尔街三大股指有望在九月份上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 25 Sep 2024 16:54:04 GMT</pubDate>
     </item>
     <item>
       <title>午盘涨幅最大的股票：Flutter Entertainment、惠普企业等</title>
@@ -69,13 +83,6 @@
       <pubDate>Wed, 25 Sep 2024 15:25:14 GMT</pubDate>
     </item>
     <item>
-      <title>研究表明，诺和诺德的糖尿病药物 Ozempic 可能降低阿片类药物过量服用的风险</title>
-      <link>https://www.cnbc.com/2024/09/25/novo-nordisks-ozempic-may-lower-risk-of-opioid-overdoses-study.html</link>
-      <description><![CDATA[研究结果表明，Ozempic 可能成为阿片类药物使用障碍的一种新的替代疗法，有助于解决正在发生的阿片类药物泛滥问题。]]></description>
-      <guid>https://www.cnbc.com/2024/09/25/novo-nordisks-ozempic-may-lower-risk-of-opioid-overdoses-study.html</guid>
-      <pubDate>Wed, 25 Sep 2024 15:01:37 GMT</pubDate>
-    </item>
-    <item>
       <title>FTX 诈骗犯 Caroline Ellison 被判入狱 2 年，并被勒令没收 110 亿美元</title>
       <link>https://www.cnbc.com/2024/09/24/sam-bankman-fried-caroline-ellison-sentenced-ftx-.html</link>
       <description><![CDATA[卡罗琳·埃里森 (Caroline Ellison) 是注定要破产的加密货币交易所 FTX 旗下一家对冲基金的负责人，她在审判中对前男友萨姆·班克曼-弗里德 (Sam Bankman-Fried) 作证。]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[该核能初创公司已获得美国能源部的批准，对位于爱达荷州爱达荷福尔斯的计划中的反应堆进行现场调查。]]></description>
       <guid>https://www.cnbc.com/2024/09/25/sam-altman-backed-nuclear-startup-oklo-to-start-site-work-for-idaho-microreactor.html</guid>
       <pubDate>Wed, 25 Sep 2024 14:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着谈判的推进，星巴克新任首席执行官 Brian Niccol 承诺与工会合作</title>
-      <link>https://www.cnbc.com/2024/09/25/new-starbucks-ceo-brian-niccol-commits-to-working-with-union.html</link>
-      <description><![CDATA[工人联合会代表星巴克在美国的 490 多家咖啡店和超过 10,000 名员工。]]></description>
-      <guid>https://www.cnbc.com/2024/09/25/new-starbucks-ceo-brian-niccol-commits-to-working-with-union.html</guid>
-      <pubDate>Wed, 25 Sep 2024 14:38:53 GMT</pubDate>
     </item>
     <item>
       <title>抵押贷款再融资热潮兴起，每周需求激增 20%</title>
