@@ -4,7 +4,21 @@
     <title>纽约时报 > 商业 > DealBook</title>
     <link>https://www.nytimes.com/section/business/dealbook</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Sep 2024 06:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 11:57:00 GMT</lastBuildDate>
+    <item>
+      <title>注册 DealBook</title>
+      <link>https://www.nytimes.com/newsletters/signup/DK</link>
+      <description><![CDATA[通过我们的每日新闻通讯了解最新的商业和政策头条。]]></description>
+      <guid>https://www.nytimes.com/newsletters/signup/DK</guid>
+      <pubDate>Wed, 25 Sep 2024 11:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡马拉·哈里斯的经济大计</title>
+      <link>https://www.nytimes.com/2024/09/25/business/dealbook/harris-trump-economy.html</link>
+      <description><![CDATA[预计副总统将就这一问题发表迄今为止最详细的讲话之一，她试图在政治上取得微妙的平衡。]]></description>
+      <guid>https://www.nytimes.com/2024/09/25/business/dealbook/harris-trump-economy.html</guid>
+      <pubDate>Wed, 25 Sep 2024 11:55:26 GMT</pubDate>
+    </item>
     <item>
       <title>中国将调查美国零售商，就新疆问题发出警告</title>
       <link>https://www.nytimes.com/2024/09/24/business/china-xinjiang-calvin-klein-tommy-hilfiger.html</link>
@@ -48,13 +62,6 @@
       <pubDate>Tue, 24 Sep 2024 12:21:37 GMT</pubDate>
     </item>
     <item>
-      <title>注册 DealBook</title>
-      <link>https://www.nytimes.com/newsletters/signup/DK</link>
-      <description><![CDATA[通过我们的每日新闻通讯了解最新的商业和政策头条。]]></description>
-      <guid>https://www.nytimes.com/newsletters/signup/DK</guid>
-      <pubDate>Tue, 24 Sep 2024 12:06:01 GMT</pubDate>
-    </item>
-    <item>
       <title>英特尔的芯片正在酝酿中</title>
       <link>https://www.nytimes.com/2024/09/23/business/dealbook/intels-chips-qualcomm-apollo.html</link>
       <description><![CDATA[竞争对手和至少一家大投资者正在围攻这家陷入困境的半导体巨头。拜登政府肯定会密切关注这一具有如此重要战略意义的行业中的任何交易。]]></description>
@@ -64,7 +71,7 @@
     <item>
       <title>传呼机爆炸向供应链发出警告</title>
       <link>https://www.nytimes.com/2024/09/21/business/dealbook/exploding-pagers-deliver-supply-chain-warning.html</link>
-      <description><![CDATA[黎巴嫩真主党所遭受的袭击很可能会产生更大的动力，促使工厂生产转移到更靠近本土的地方。]]></description>
+      <description><![CDATA[黎巴嫩真主党遭受的袭击很可能会产生更大的动力，促使工厂生产转移到国内。]]></description>
       <guid>https://www.nytimes.com/2024/09/21/business/dealbook/exploding-pagers-deliver-supply-chain-warning.html</guid>
       <pubDate>Sat, 21 Sep 2024 14:22:07 GMT</pubDate>
     </item>
@@ -95,13 +102,6 @@
       <description><![CDATA[投资者因预期经济将实现软着陆而推高了股票和债券价格。但一些共和党人认为，央行已经逾越了其权限。]]></description>
       <guid>https://www.nytimes.com/2024/09/19/business/dealbook/fed-rates-soft-landing.html</guid>
       <pubDate>Thu, 19 Sep 2024 15:35:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国央行维持利率稳定但暗示将逐步放松政策</title>
-      <link>https://www.nytimes.com/2024/09/19/business/bank-of-england-interest-rates.html</link>
-      <description><![CDATA[英国央行强调其将采取稳步行动确保通胀持续放缓。]]></description>
-      <guid>https://www.nytimes.com/2024/09/19/business/bank-of-england-interest-rates.html</guid>
-      <pubDate>Thu, 19 Sep 2024 11:31:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
