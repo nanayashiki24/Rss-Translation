@@ -3,35 +3,42 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 16:31:00 GMT</lastBuildDate>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
+    <lastBuildDate>Wed, 25 Sep 2024 17:04:00 GMT</lastBuildDate>
     <item>
-      <title>午盘涨幅最大的股票：Flutter Entertainment、惠普企业等</title>
-      <link>https://www.cnbc.com/2024/09/25/stocks-making-the-biggest-moves-midday-flut-hpe-gm-.html</link>
-      <description><![CDATA[这些是午盘交易中涨跌幅度最大的股票。]]></description>
-      <guid>https://www.cnbc.com/2024/09/25/stocks-making-the-biggest-moves-midday-flut-hpe-gm-.html</guid>
-      <pubDate>Wed, 25 Sep 2024 16:42:22 GMT</pubDate>
+      <title>研究称，人工智能需求激增可能导致全球下一次芯片短缺</title>
+      <link>https://www.cnbc.com/2024/09/25/surging-ai-demand-could-cause-the-worlds-next-chip-shortage-report.html</link>
+      <description><![CDATA[贝恩公司表示，人工智能半导体以及支持人工智能的智能手机和笔记本电脑的需求激增，可能会导致下一次全球芯片短缺。]]></description>
+      <guid>https://www.cnbc.com/2024/09/25/surging-ai-demand-could-cause-the-worlds-next-chip-shortage-report.html</guid>
+      <pubDate>Wed, 25 Sep 2024 17:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>标普 500 指数创下新高后几乎没有变化：实时更新</title>
-      <link>https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html</link>
-      <description><![CDATA[经济增长成为人们关注的焦点，华尔街三大股指有望在九月份上涨。]]></description>
-      <guid>https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html</guid>
-      <pubDate>Wed, 25 Sep 2024 16:34:33 GMT</pubDate>
+      <title>该材料股关键图表突破预示未来有更多上涨空间</title>
+      <link>https://www.cnbc.com/2024/09/25/a-key-chart-breakout-by-this-materials-stock-suggests-more-upside-to-come.html</link>
+      <description><![CDATA[大卫·凯勒 (David Keller) 分析了铜矿开采商自由港麦克莫兰 (Freeport-McMoRan) 的图表。]]></description>
+      <guid>https://www.cnbc.com/2024/09/25/a-key-chart-breakout-by-this-materials-stock-suggests-more-upside-to-come.html</guid>
+      <pubDate>Wed, 25 Sep 2024 17:00:43 GMT</pubDate>
     </item>
     <item>
       <title>高盛建议在 10 月份两大催化剂到来之前买入特斯拉看涨期权</title>
       <link>https://www.cnbc.com/2024/09/25/goldman-recommends-buying-tesla-call-options-before-two-big-catalysts-in-october.html</link>
       <description><![CDATA[如果特斯拉下个月的自动驾驶出租车活动能给股价带来提振，那么这笔期权交易可能会获利。]]></description>
       <guid>https://www.cnbc.com/2024/09/25/goldman-recommends-buying-tesla-call-options-before-two-big-catalysts-in-october.html</guid>
-      <pubDate>Wed, 25 Sep 2024 16:25:44 GMT</pubDate>
+      <pubDate>Wed, 25 Sep 2024 16:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>与标准普尔 500 指数相比，投资者对英伟达的持股比例过低，这让他们付出了代价</title>
-      <link>https://www.cnbc.com/2024/09/25/investors-are-underweight-nvidia-vs-the-sp-500-and-its-costing-them.html</link>
-      <description><![CDATA[投资组合经理对英伟达和其他大型科技股的敞口明显低于标准普尔 500 指数，这对业绩来说是个坏消息。]]></description>
-      <guid>https://www.cnbc.com/2024/09/25/investors-are-underweight-nvidia-vs-the-sp-500-and-its-costing-them.html</guid>
-      <pubDate>Wed, 25 Sep 2024 16:25:34 GMT</pubDate>
+      <title>标普 500 指数创下新高后几乎没有变化：实时更新</title>
+      <link>https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html</link>
+      <description><![CDATA[经济增长成为人们关注的焦点，华尔街三大股指有望在九月份上涨。]]></description>
+      <guid>https://www.cnbc.com/2024/09/24/stock-market-today-live-updates.html</guid>
+      <pubDate>Wed, 25 Sep 2024 16:54:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>午盘涨幅最大的股票：Flutter Entertainment、惠普企业等</title>
+      <link>https://www.cnbc.com/2024/09/25/stocks-making-the-biggest-moves-midday-flut-hpe-gm-.html</link>
+      <description><![CDATA[这些是午盘交易中涨跌幅度最大的股票。]]></description>
+      <guid>https://www.cnbc.com/2024/09/25/stocks-making-the-biggest-moves-midday-flut-hpe-gm-.html</guid>
+      <pubDate>Wed, 25 Sep 2024 16:42:22 GMT</pubDate>
     </item>
     <item>
       <title>SEC 指控美林证券和 Harvest Volatility Management 无视客户投资限额</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[研究结果表明，Ozempic 可能成为阿片类药物使用障碍的一种新的替代疗法，有助于解决正在发生的阿片类药物泛滥问题。]]></description>
       <guid>https://www.cnbc.com/2024/09/25/novo-nordisks-ozempic-may-lower-risk-of-opioid-overdoses-study.html</guid>
       <pubDate>Wed, 25 Sep 2024 15:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究称，人工智能需求激增可能导致全球下一次芯片短缺</title>
-      <link>https://www.cnbc.com/2024/09/25/surging-ai-demand-could-cause-the-worlds-next-chip-shortage-report.html</link>
-      <description><![CDATA[贝恩公司表示，人工智能半导体以及支持人工智能的智能手机和笔记本电脑的需求激增，可能会导致下一次全球芯片短缺。]]></description>
-      <guid>https://www.cnbc.com/2024/09/25/surging-ai-demand-could-cause-the-worlds-next-chip-shortage-report.html</guid>
-      <pubDate>Wed, 25 Sep 2024 15:00:38 GMT</pubDate>
     </item>
     <item>
       <title>FTX 诈骗犯 Caroline Ellison 被判入狱 2 年，并被勒令没收 110 亿美元</title>
