@@ -3,8 +3,15 @@
   <channel>
     <title>美国头条新闻和分析</title>
     <link>https://www.cnbc.com/us-top-news-and-analysis/</link>
-    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速查找可操作的信息。</description>
+    <description>CNBC 是全球领先的商业新闻和实时金融市场报道。快速找到可操作的信息。</description>
     <lastBuildDate>Thu, 26 Sep 2024 02:50:00 GMT</lastBuildDate>
+    <item>
+      <title>黑石高管揭示如何在印度投资赚钱——以及应避免的错误</title>
+      <link>https://www.cnbc.com/2024/09/26/blackstone-reveals-how-to-make-money-in-india-and-mistakes-to-avoid.html</link>
+      <description><![CDATA[黑石私募股权公司的阿米特·迪克西特 (Amit Dixit) 指出了投资者在印度投资时常犯的一个错误。]]></description>
+      <guid>https://www.cnbc.com/2024/09/26/blackstone-reveals-how-to-make-money-in-india-and-mistakes-to-avoid.html</guid>
+      <pubDate>Thu, 26 Sep 2024 03:30:30 GMT</pubDate>
+    </item>
     <item>
       <title>纽约市长埃里克·亚当斯因竞选资金案被联邦起诉</title>
       <link>https://www.cnbc.com/2024/09/26/new-york-city-mayor-eric-adams-indicted-in-federal-court.html</link>
@@ -48,16 +55,9 @@
       <pubDate>Wed, 25 Sep 2024 23:11:04 GMT</pubDate>
     </item>
     <item>
-      <title>黑石高管揭示如何在印度投资赚钱——以及应避免的错误</title>
-      <link>https://www.cnbc.com/2024/09/26/blackstone-reveals-how-to-make-money-in-india-and-mistakes-to-avoid.html</link>
-      <description><![CDATA[黑石私募股权公司的阿米特·迪克西特 (Amit Dixit) 指出了投资者在印度投资时常犯的一个错误。]]></description>
-      <guid>https://www.cnbc.com/2024/09/26/blackstone-reveals-how-to-make-money-in-india-and-mistakes-to-avoid.html</guid>
-      <pubDate>Wed, 25 Sep 2024 23:09:27 GMT</pubDate>
-    </item>
-    <item>
       <title>辉瑞公司从所有市场撤回镰状细胞病治疗药物</title>
       <link>https://www.cnbc.com/2024/09/25/pfizer-withdraws-sickle-cell-disease-treatment-from-all-markets.html</link>
-      <description><![CDATA[美国制药商辉瑞公司周三表示，将在所有获批市场撤回其镰状细胞病治疗药物 Oxbryta，并停止与该治疗相关的所有研究和获取计划。]]></description>
+      <description><![CDATA[美国制药商辉瑞周三表示，将在所有获批市场撤回其镰状细胞病治疗药物 Oxbryta，并停止与该治疗相关的所有研究和获取计划。]]></description>
       <guid>https://www.cnbc.com/2024/09/25/pfizer-withdraws-sickle-cell-disease-treatment-from-all-markets.html</guid>
       <pubDate>Wed, 25 Sep 2024 23:01:21 GMT</pubDate>
     </item>
