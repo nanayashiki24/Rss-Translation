@@ -4,7 +4,32 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Sep 2024 07:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 08:27:56 GMT</lastBuildDate>
+    <item>
+      <title>锂离子电池价格持续下跌</title>
+      <link>https://www.zerohedge.com/commodities/lithium-ion-batteries-just-keep-getting-cheaper</link>
+      <description><![CDATA[锂离子电池价格持续走低
+由于新产量激增超过需求，电池金属价格一直处于困境，与此同时，电动汽车普及率也出现放缓。
+正如Visual Capitalist 的 Bruno Venditti 在下面详细介绍的那样，锂例如，自 2022 年底达到峰值以来，锂价格已暴跌近 90%，导致矿山关闭并影响电动汽车使用的锂离子电池的价格。
+
+此图表使用了我们合作伙伴的独家数据 Benchmark Mineral Intelligence 展示过去 10 年锂离子电池价格的演变。
+超过一半的电池价格来自阴极
+锂离子电池的工作原理是在充电过程中收集电流并将其引导到电池中。通常，石墨阳极会吸引锂离子并将其保留为电荷。
+在放电过程中，阴极会吸收存储的锂离子并将其引导到另一个集电器。电路有效运行是因为阳极和阴极不直接接触，而是悬浮在有利于离子轻松流动的介质中。
+目前，电池价格的 54% 来自阴极，18% 来自阳极，28% 来自其他组件。
+价格下降
+锂离子电池的平均价格从 2014 年的每千瓦时 290 美元 降至 2023 年的 103 美元。
+
+未来几个月，由于中国供应过剩，电池价格预计将进一步下跌。
+尽管价格下跌，但到 2040 年，电池需求预计将增长 9 倍，电池行业的总资本支出预计将增长近三倍，从 2030 年的 5670 亿美元增至 2020 年的 1.6 万亿美元2040.
+
+如果您喜欢这篇文章，请务必查看此 图表，根据 2030 年预测的产能对锂离子电池生产国进行排名。
+
+Tyler Durden
+2024 年 9 月 30 日星期一 - 04:15]]></description>
+      <guid>https://www.zerohedge.com/commodities/lithium-ion-batteries-just-keep-getting-cheaper</guid>
+      <pubDate>Mon, 30 Sep 2024 08:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>黎巴嫩战争一周后近百万人被迫流离失所</title>
       <link>https://www.zerohedge.com/geopolitical/nearly-one-million-forcibly-displaced-lebanon-after-week-war</link>
@@ -195,13 +220,6 @@ Tyler Durden
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/commodities/why-another-chinese-gold-mania-may-be-starting</guid>
       <pubDate>Sun, 29 Sep 2024 20:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚特兰大地区化工厂发生大火，疏散正在进行中</title>
-      <link>https://www.zerohedge.com/markets/massive-fire-engulfs-atlanta-area-chemical-plant-evacuations-underway</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/markets/massive-fire-engulfs-atlanta-area-chemical-plant-evacuations-underway</guid>
-      <pubDate>Sun, 29 Sep 2024 19:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
