@@ -4,7 +4,21 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Mon, 30 Sep 2024 11:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 12:40:36 GMT</lastBuildDate>
+    <item>
+      <title>纽森否决加州备受争议的人工智能法案</title>
+      <link>https://www.zerohedge.com/technology/newsom-vetoes-californias-hotly-debated-artificial-intelligence-bill</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/technology/newsom-vetoes-californias-hotly-debated-artificial-intelligence-bill</guid>
+      <pubDate>Mon, 30 Sep 2024 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管中国股市自 2008 年以来一路飙升，但美国期货和欧洲市场却出现下滑</title>
+      <link>https://www.zerohedge.com/markets/us-futures-european-markets-slide-even-china-soars-most-2008</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/markets/us-futures-european-markets-slide-even-china-soars-most-2008</guid>
+      <pubDate>Mon, 30 Sep 2024 12:21:27 GMT</pubDate>
+    </item>
     <item>
       <title>“做好准备”：MTG 警告 2024 年大选“最危险阶段”已经开始</title>
       <link>https://www.zerohedge.com/political/mtg-warns-most-dangerous-phase-2024-election-has-begun-be-prepared</link>
@@ -161,50 +175,6 @@ Tyler Durden
 2024 年 9 月 29 日星期日 - 21:35]]></description>
       <guid>https://www.zerohedge.com/political/we-have-her-underwater-michigan-lawmaker-admits-dire-internal-polling-kamala-harris</guid>
       <pubDate>Mon, 30 Sep 2024 01:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>明天会发生什么——JPM 领子交易？</title>
-      <link>https://www.zerohedge.com/markets/what-will-happen-tomorrow-jpm-collar-trade</link>
-      <description><![CDATA[明天会发生什么 - JPM 领式交易？
-来自 SpotGamma.com，
-过去一周股市一直非常平静，过去 6 个交易日 SPX 波动幅度仅为 0.75%。
- 
-事实上，周五在核心 PCE 数据公布之前，0DTE SPX 平价跨式期权的微不足道的 25.5 美元（45 个基点）。
-这个定价已经是最低的了，反映出交易员认为市场将继续无所作为。
-但在 SpotGamma，我们认为这一切都将改变…… 
- 
-……而且我们有一个全新的方式让您观察它的变化。
-为什么会有这种变化？
-进入臭名昭著的 JPM 领子交易。
-在现存最著名的期权交易中，每个季度，一家大型 JPM 对冲基金 (JHEQX) 都会出售约 40,000 份价外看涨期权合约，以资助看跌期权多头价差。
-在这种情况下，他们目前的看涨期权(大量) 空头是：
-40k 份合约，执行价为 5,750，将于明天（周一）9 月 30 日到期。
-40k 份空头看涨期权头寸意味着交易商持有大量 Gamma 头寸，您可以在我们全新的 TRACE 热图和执行价图中看到，如下所示。
-
-TRACE 由 SpotGamma 的新专有未平仓合约模型提供支持，使我们能够向您展示最新的经销商对冲流量 - 全天更新的流量。
-您可以看到变化实时发生。
-这意味着在周一，当现有的 JPM 头寸关闭并滚动到新的 12 月执行价时，您将能够看到它发生。 
-此外，您会看到它如何改变经销商对冲头寸。
-这有什么关系？
-我们认为这些交易将导致标准普尔 500 指数波动性上升。
-原因如下。
-如果有人认为正 Gamma 与低波动性相关（我们确实这么认为），那么大量正 Gamma（又称 JPM 的卖出看涨期权）的消除应该会为波动性打开大门。
-这正是周一将要发生的事情，因为当前的 JPM 看涨期权将被关闭并“卷起并退出”。
-这意味着，新的看涨期权将改为约 5% 的更高执行价，于 24 年 12 月到期。与明天到期的当前头寸相比，新头寸的 Gamma 值要小得多。
-因此，此到期日应允许波动性（即市场变动）扩大，这表明从周一开始，SPX 将开始移动，我们将依靠 TRACE 为我们指明方向。
-如果您希望 TRACE 在这一变化发生时为您提供帮助 - 实时 - 那么现在是时候注册我们的“Alpha”计划了，其中包括 TRACE 访问以及一大堆其他实时指标和波动性工具。
-
-Tyler Durden
-2024 年 9 月 29 日星期日 - 21:00]]></description>
-      <guid>https://www.zerohedge.com/markets/what-will-happen-tomorrow-jpm-collar-trade</guid>
-      <pubDate>Mon, 30 Sep 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府计划彻底摧毁 Silvergate 和 Debank Crypto</title>
-      <link>https://www.zerohedge.com/crypto/inside-biden-admins-plot-destroy-silvergate-and-debank-crypto-good</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/crypto/inside-biden-admins-plot-destroy-silvergate-and-debank-crypto-good</guid>
-      <pubDate>Sun, 29 Sep 2024 23:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
