@@ -4,11 +4,18 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 01 Oct 2024 13:44:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 14:19:52 GMT</lastBuildDate>
     <item>
-      <title>巴克莱表示，预计到 2026 年成本收入比将达到 50% 左右</title>
+      <title>巴克莱银行将支付 400 万美元以和解美国 CFTC 因掉期报告而提出的指控</title>
+      <link>https://www.reuters.com/business/finance/barclays-pay-4-mln-settle-us-cftc-charges-over-swap-reporting-2024-10-01/</link>
+      <description><![CDATA[美国商品期货交易委员会 (CFTC) 在一份声明中表示，巴克莱银行 (Barclays Bank PLC) 已同意支付 400 万美元，以和解民事指控，该指控称其违反了美国法律和美国商品期货交易委员会 (CFTC) 要求准确及时报告掉期交易的规定。]]></description>
+      <guid>https://www.reuters.com/business/finance/barclays-pay-4-mln-settle-us-cftc-charges-over-swap-reporting-2024-10-01/</guid>
+      <pubDate>Tue, 01 Oct 2024 13:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>高管称巴克莱投资银行在交易中抢占市场份额</title>
       <link>https://www.reuters.com/business/finance/barclays-says-it-expects-cost-income-ratio-high-50s-by-2026-2024-10-01/</link>
-      <description><![CDATA[巴克莱首席执行官 C.S. Venkatakrishnan 周二表示，巴克莱银行预计其投资银行的成本到 2026 年将保持“温和”增长，因为该行试图提高该部门的回报率，同时控制其资本消耗。]]></description>
+      <description><![CDATA[巴克莱全球投资银行联席主管周二向分析师和投资者发表报告时表示，作为提高回报的努力之一，巴克莱投资银行正在交易咨询和股权资本市场中获得市场份额。]]></description>
       <guid>https://www.reuters.com/business/finance/barclays-says-it-expects-cost-income-ratio-high-50s-by-2026-2024-10-01/</guid>
       <pubDate>Tue, 01 Oct 2024 13:03:54 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 01 Oct 2024 10:08:59 GMT</pubDate>
     </item>
     <item>
-      <title>新任首席执行官向员工表示德国商业银行全力支持独立战略</title>
+      <title>新任首席执行官告诉员工，德国商业银行全力支持基于独立性的战略</title>
       <link>https://www.reuters.com/business/finance/commerzbank-ceo-tells-staff-unicredit-stake-not-something-we-chose-2024-10-01/</link>
       <description><![CDATA[德国商业银行首席执行官贝蒂娜·奥洛普 (Bettina Orlopp) 周二表示，德国商业银行领导层全力支持该银行建立在独立基础上的战略，她执掌这家德国银行的第一天就受到了意大利联合信贷银行的青睐。]]></description>
       <guid>https://www.reuters.com/business/finance/commerzbank-ceo-tells-staff-unicredit-stake-not-something-we-chose-2024-10-01/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[欧盟委员会一位高级官员周一表示，七国集团 (G7) 国家希望在 10 月底之前就向乌克兰提供 500 亿美元贷款达成政治协议，以便这笔现金能够在今年年底前到位。]]></description>
       <guid>https://www.reuters.com/world/europe/g7-aims-finalise-deal-50-bln-loan-ukraine-by-end-oct-eu-says-2024-09-30/</guid>
       <pubDate>Mon, 30 Sep 2024 15:34:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利可能干预裕信银行总部与德国商业银行的交易</title>
-      <link>https://www.reuters.com/markets/deals/italy-could-intervene-over-unicredit-hq-commerzbank-deal-2024-09-30/</link>
-      <description><![CDATA[意大利政府官员表示，意大利担心裕信银行可能会在与德国商业银行达成交易后将其中央办公室迁往德国，并补充称，罗马方面希望根据其“黄金权力”规则在此事上拥有发言权。]]></description>
-      <guid>https://www.reuters.com/markets/deals/italy-could-intervene-over-unicredit-hq-commerzbank-deal-2024-09-30/</guid>
-      <pubDate>Mon, 30 Sep 2024 15:02:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
