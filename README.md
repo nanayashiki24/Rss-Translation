@@ -25,6 +25,6 @@
  - source012 [https://nitter.lucabased.xyz/jingrangmuke81/rss](https://nitter.lucabased.xyz/jingrangmuke81/rss) -> [jingrangmuke81](rss/jingrangmuke81.xml)
  - source013 [https://rss.241999.xyz/telegram/channel/aljazeera](https://rss.241999.xyz/telegram/channel/aljazeera) -> [aljazeera](rss/aljazeera.xml)
  - source014 [https://rss.241999.xyz/reuters/business/finance](https://rss.241999.xyz/reuters/business/finance) -> [reuter_finance](rss/reuter_finance.xml)
- - source015 [https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/business/dealbook/rss.xml](https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/business/dealbook/rss.xml) -> [nytimes](rss/nytimes.xml)
+ - source015 [https://www.freightwaves.com/news/feed](https://www.freightwaves.com/news/feed) -> [freightwaves](rss/freightwaves.xml)
  - source016 [https://feeds.feedburner.com/Crossingwallstreet](https://feeds.feedburner.com/Crossingwallstreet) -> [crossingwallstreet](rss/crossingwallstreet.xml)
  - source017 [https://bloombergnew.buzzing.cc/feed.xml](https://bloombergnew.buzzing.cc/feed.xml) -> [bloombergnew](rss/bloombergnew.xml)
