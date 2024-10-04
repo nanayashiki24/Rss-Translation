@@ -14,7 +14,7 @@
  - source001 [https://rss.241999.xyz/telegram/channel/myfxtrader](https://rss.241999.xyz/telegram/channel/myfxtrader) -> [myfxtrader](rss/myfxtrader.xml)
  - source002 [https://nitter.lucabased.xyz/financialjuice/rss](https://nitter.lucabased.xyz/financialjuice/rss) -> [financialjuice](rss/financialjuice.xml)
  - source003 [https://heisenbergreport.com/feed/](https://heisenbergreport.com/feed/) -> [heisenbergreport](rss/heisenbergreport.xml)
- - source004 [https://nitter.lucabased.xyz/spectatorindex/rss](https://nitter.lucabased.xyz/spectatorindex/rss) -> [TheSpectatorIndex](rss/TheSpectatorIndex.xml)
+ - source004 [https://www.economist.com/china/rss.xml](https://www.economist.com/china/rss.xml) -> [economist](rss/economist.xml)
  - source005 [https://nitter.lucabased.xyz/KELMAND1/rss](https://nitter.lucabased.xyz/KELMAND1/rss) -> [KELMAND1](rss/KELMAND1.xml)
  - source006 [https://nitter.lucabased.xyz/IranObserver/rss](https://nitter.lucabased.xyz/IranObserver/rss) -> [IranObserver](rss/IranObserver.xml)
  - source007 [https://www.rt.com/rss/news/](https://www.rt.com/rss/news/) -> [rt](rss/rt.xml)
