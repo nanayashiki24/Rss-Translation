@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 10 Oct 2024 08:44:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 09:21:42 GMT</lastBuildDate>
+    <item>
+      <title>英国 TSB 银行因不公平对待客户被罚款</title>
+      <link>https://www.reuters.com/business/finance/britains-tsb-bank-fined-unfair-treatment-customers-2024-10-10/</link>
+      <description><![CDATA[市场监管机构周四表示，英国 TSB 银行因未能确保拖欠款项的客户得到公平对待，被罚款 1090 万英镑（1425 万美元）。]]></description>
+      <guid>https://www.reuters.com/business/finance/britains-tsb-bank-fined-unfair-treatment-customers-2024-10-10/</guid>
+      <pubDate>Thu, 10 Oct 2024 09:10:24 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯卢布兑主要货币汇率跌至一年低点</title>
       <link>https://www.reuters.com/markets/currencies/russian-rouble-hits-one-year-lows-against-major-currencies-2024-10-10/</link>
@@ -20,9 +27,9 @@
       <pubDate>Thu, 10 Oct 2024 07:06:36 GMT</pubDate>
     </item>
     <item>
-      <title>瑞银 IT 主管称，瑞银与瑞信的整合“正中下怀”</title>
+      <title>瑞银技术主管称瑞信整合经过试运行已步入正轨</title>
       <link>https://www.reuters.com/business/finance/ubs-bang-target-with-credit-suisse-integration-it-chief-says-2024-10-10/</link>
-      <description><![CDATA[瑞银技术主管向路透社表示，瑞银将前竞争对手瑞士信贷的客户和数据与其自身平台的整合在成功试运行后“完全符合目标”。]]></description>
+      <description><![CDATA[瑞银的技术主管相信，在成功试运行后，瑞信极其复杂的整合工作（将其前竞争对手的客户和数据纳入自己的平台）将“完全达到目标”。]]></description>
       <guid>https://www.reuters.com/business/finance/ubs-bang-target-with-credit-suisse-integration-it-chief-says-2024-10-10/</guid>
       <pubDate>Thu, 10 Oct 2024 06:04:15 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>如果特朗普在11月5日获胜，他将如何改革美国金融监管机构？</title>
       <link>https://www.reuters.com/markets/us/how-trump-could-overhaul-us-financial-regulators-if-he-wins-nov-5-2024-10-10/</link>
-      <description><![CDATA[如果共和党前总统唐纳德·特朗普在 11 月 5 日赢得美国大选，他预计将迅速改革该国的金融监管机构。在民主党总统乔·拜登的领导下，该国金融监管机构对银行、私人基金和其他贷方实施了一系列严格的新规定。以下是特朗普在 2025 年 1 月 20 日上任后可能控制这些机构的方式。]]></description>
+      <description><![CDATA[如果共和党前总统唐纳德·特朗普在 11 月 5 日赢得美国大选，他预计将迅速改革该国的金融监管机构。在民主党总统乔·拜登的领导下，该国金融监管机构对银行、私人基金和其他贷方实施了一系列严格的新规定。以下是特朗普在 2025 年 1 月 20 日上任后可能如何控制这些机构。]]></description>
       <guid>https://www.reuters.com/markets/us/how-trump-could-overhaul-us-financial-regulators-if-he-wins-nov-5-2024-10-10/</guid>
       <pubDate>Thu, 10 Oct 2024 04:11:01 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[经济部长罗伯特哈贝克周三表示，蒂森克虏伯必须迅速解决其钢铁部门面临的危机，包括明确由政府共同资助的 30 亿欧元（33 亿美元）绿色钢铁项目。]]></description>
       <guid>https://www.reuters.com/markets/commodities/german-economy-minister-urges-quick-end-thyssenkrupp-steel-crisis-2024-10-09/</guid>
       <pubDate>Wed, 09 Oct 2024 15:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>西门子在德克萨斯州对 Citgo Petroleum 母公司提起诉讼</title>
-      <link>https://www.reuters.com/legal/siemens-files-lawsuit-texas-against-citgo-petroleum-parent-2024-10-09/</link>
-      <description><![CDATA[据周三看到的法庭文件显示，西门子能源公司已在德克萨斯州一家法院对 Citgo Petroleum 的母公司 PDV Holding 提起诉讼，寻求收回委内瑞拉违约的本票约 2 亿美元。]]></description>
-      <guid>https://www.reuters.com/legal/siemens-files-lawsuit-texas-against-citgo-petroleum-parent-2024-10-09/</guid>
-      <pubDate>Wed, 09 Oct 2024 15:20:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
