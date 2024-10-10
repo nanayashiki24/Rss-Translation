@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 10 Oct 2024 20:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 20:40:44 GMT</lastBuildDate>
+    <item>
+      <title>美国官员称道明银行是洗钱的“容易目标”</title>
+      <link>https://www.reuters.com/business/finance/us-officials-td-bank-easy-target-money-laundering-2024-10-10/</link>
+      <description><![CDATA[道明银行周四成为美国历史上因《银行保密法》计划失败而认罪的最大银行，也是历史上第一家因串谋洗钱而认罪的银行。]]></description>
+      <guid>https://www.reuters.com/business/finance/us-officials-td-bank-easy-target-money-laundering-2024-10-10/</guid>
+      <pubDate>Thu, 10 Oct 2024 20:30:43 GMT</pubDate>
+    </item>
     <item>
       <title>纽约联储调查显示大型银行仍预计春季将停止缩减资产负债表</title>
       <link>https://www.reuters.com/markets/us/ny-fed-survey-shows-big-banks-still-expect-spring-stop-balance-sheet-drawdown-2024-10-10/</link>
@@ -55,9 +62,9 @@
       <pubDate>Thu, 10 Oct 2024 16:53:02 GMT</pubDate>
     </item>
     <item>
-      <title>道明银行承认美国指控，将支付 30 亿美元并面临资产上限</title>
+      <title>道明银行将支付 30 亿美元并面临资产上限以解决美国洗钱调查</title>
       <link>https://www.reuters.com/business/finance/canadas-td-bank-plead-guilty-us-charges-it-failed-properly-monitor-money-2024-10-10/</link>
-      <description><![CDATA[政府部门周四表示，道明银行成为美国历史上承认违反联邦反洗钱法的最大银行，并同意支付 30 亿美元罚款以解决指控。]]></description>
+      <description><![CDATA[政府部门周四表示，道明银行 (TD Bank) TD.TO 成为美国历史上承认违反联邦反洗钱法的最大银行，并同意支付超过 30 亿美元的罚款以解决指控。]]></description>
       <guid>https://www.reuters.com/business/finance/canadas-td-bank-plead-guilty-us-charges-it-failed-properly-monitor-money-2024-10-10/</guid>
       <pubDate>Thu, 10 Oct 2024 15:04:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-10-10/</guid>
       <pubDate>Thu, 10 Oct 2024 10:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>匈牙利央行行长表示，福林下跌后可能暂停降息</title>
-      <link>https://www.reuters.com/markets/rates-bonds/hungary-central-banker-flags-likely-pause-rate-cuts-after-forint-falls-2024-10-10/</link>
-      <description><![CDATA[匈牙利央行副行长巴尔纳巴斯·维拉格（Barnabas Virag）周四表示，由于中东冲突升级和美国利率前景转变，匈牙利福林跌至 18 个月低点，该行可能暂停降息。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/hungary-central-banker-flags-likely-pause-rate-cuts-after-forint-falls-2024-10-10/</guid>
-      <pubDate>Thu, 10 Oct 2024 09:26:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
