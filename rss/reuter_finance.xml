@@ -4,7 +4,7 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 11 Oct 2024 11:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 12:38:03 GMT</lastBuildDate>
     <item>
       <title>意大利银行业数据显示贷款利率将进一步降低</title>
       <link>https://www.reuters.com/markets/europe/italian-banking-data-show-further-easing-lending-rates-official-says-2024-10-11/</link>
@@ -13,16 +13,16 @@
       <pubDate>Fri, 11 Oct 2024 11:28:30 GMT</pubDate>
     </item>
     <item>
-      <title>富国银行预测 2024 年利息收入降幅将超预期</title>
+      <title>富国银行利润超出预期，拨备减少，股价上涨</title>
       <link>https://www.reuters.com/business/finance/wells-fargos-profit-falls-lower-interest-income-2024-10-11/</link>
-      <description><![CDATA[受美联储 9 月份超预期降息影响，富国银行周五预测 2024 年利息收入将下降 9%，降幅超预期。]]></description>
+      <description><![CDATA[得益于财富管理业务的韧性和信贷损失准备金的减少，富国银行第三季度的利润超出了分析师的预期，推动其股价在周五开盘前上涨了 3.5%。]]></description>
       <guid>https://www.reuters.com/business/finance/wells-fargos-profit-falls-lower-interest-income-2024-10-11/</guid>
       <pubDate>Fri, 11 Oct 2024 10:55:59 GMT</pubDate>
     </item>
     <item>
-      <title>摩根大通利润下降，因贷款损失准备金超过投资银行业务</title>
+      <title>摩根大通利润超出预期，得益于投资银行业务实力强劲、利息收入增加</title>
       <link>https://www.reuters.com/business/finance/jpmorgan-profit-drops-bigger-provisions-loan-losses-2024-10-11/</link>
-      <description><![CDATA[摩根大通周五表示，该银行第三季度利润下降，因为潜在贷款违约拨备的增加抵消了投资银行业务的收益。]]></description>
+      <description><![CDATA[摩根大通第三季度利润超出预期，因为强劲的投资银行业绩和不断增加的利息支付抵消了贷款损失准备金增加带来的冲击，导致其股价在开盘前上涨。]]></description>
       <guid>https://www.reuters.com/business/finance/jpmorgan-profit-drops-bigger-provisions-loan-losses-2024-10-11/</guid>
       <pubDate>Fri, 11 Oct 2024 10:53:39 GMT</pubDate>
     </item>
@@ -39,6 +39,13 @@
       <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-10-11/</guid>
       <pubDate>Fri, 11 Oct 2024 10:08:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>受市场上涨和 ETF 提振，贝莱德资产规模达到创纪录的 11.5 万亿美元</title>
+      <link>https://www.reuters.com/business/finance/blackrock-hits-record-high-115-trillion-assets-market-rally-etf-boost-2024-10-11/</link>
+      <description><![CDATA[周五，贝莱德管理的资产连续第三个季度创下历史新高，这得益于该公司交易所交易基金资金流入激增以及股市强劲上涨推高了其客户投资的价值。]]></description>
+      <guid>https://www.reuters.com/business/finance/blackrock-hits-record-high-115-trillion-assets-market-rally-etf-boost-2024-10-11/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:07:10 GMT</pubDate>
     </item>
     <item>
       <title>英国银行 Monzo 员工股票出售，估值 59 亿美元</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[道明银行周四表示，将在 2025 财年专注于重组其资产负债表，此前该银行承认违反了美国的一项反洗钱法律，并同意支付总计 30 亿美元的罚款。]]></description>
       <guid>https://www.reuters.com/business/finance/td-bank-says-2025-will-be-transition-year-after-3-bln-us-penalty-2024-10-10/</guid>
       <pubDate>Thu, 10 Oct 2024 21:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国官员称道明银行是洗钱的“容易目标”</title>
-      <link>https://www.reuters.com/business/finance/us-officials-td-bank-easy-target-money-laundering-2024-10-10/</link>
-      <description><![CDATA[道明银行周四成为美国历史上因《银行保密法》计划失败而认罪的最大银行，也是历史上第一家因串谋洗钱而认罪的银行。]]></description>
-      <guid>https://www.reuters.com/business/finance/us-officials-td-bank-easy-target-money-laundering-2024-10-10/</guid>
-      <pubDate>Thu, 10 Oct 2024 20:30:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
