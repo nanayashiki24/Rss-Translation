@@ -4,11 +4,11 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 11 Oct 2024 03:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 04:23:49 GMT</lastBuildDate>
     <item>
-      <title>经济低迷导致通胀放缓，韩国央行降息</title>
+      <title>韩国央行首次降息，暗示还有进一步降息的空间</title>
       <link>https://www.reuters.com/markets/asia/south-koreas-central-bank-cuts-rates-slumping-economy-slows-inflation-2024-10-11/</link>
-      <description><![CDATA[韩国央行四年半来首次下调政策利率，不再抑制目前低于 2% 目标的通胀，而是将重点放在恢复经济增长上。]]></description>
+      <description><![CDATA[韩国央行周五宣布自 2020 年年中以来首次降息，并表示还有进一步降息的空间，这给面临 16 年来最高借贷成本的家庭带来了一些缓解。]]></description>
       <guid>https://www.reuters.com/markets/asia/south-koreas-central-bank-cuts-rates-slumping-economy-slows-inflation-2024-10-11/</guid>
       <pubDate>Fri, 11 Oct 2024 01:00:02 GMT</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <pubDate>Fri, 11 Oct 2024 00:30:36 GMT</pubDate>
     </item>
     <item>
-      <title>巴菲特旗下伯克希尔哈撒韦将持有的美国银行股份削减至 10% 以下</title>
+      <title>巴菲特旗下伯克希尔哈撒韦将持有的美国银行股份减至 10% 以下</title>
       <link>https://www.reuters.com/business/finance/buffetts-berkshire-cuts-stake-bofa-below-10-2024-10-10/</link>
       <description><![CDATA[亿万富翁沃伦·巴菲特旗下的伯克希尔哈撒韦公司本周减持了更多美国银行股票，使其持有这家美国银行巨头的股份降至 10% 以下。]]></description>
       <guid>https://www.reuters.com/business/finance/buffetts-berkshire-cuts-stake-bofa-below-10-2024-10-10/</guid>
@@ -69,16 +69,9 @@
       <pubDate>Thu, 10 Oct 2024 18:26:55 GMT</pubDate>
     </item>
     <item>
-      <title>美国监管机构实施处罚以解决洗钱调查</title>
-      <link>https://www.reuters.com/business/finance/us-regulators-impose-penalties-resolve-money-laundering-probes-2024-10-10/</link>
-      <description><![CDATA[加拿大道明银行（TD Bank）周四同意支付总计 30 亿美元的罚款，作为与美国当局就其未能监控和防止洗钱的指控达成和解的一部分。]]></description>
-      <guid>https://www.reuters.com/business/finance/us-regulators-impose-penalties-resolve-money-laundering-probes-2024-10-10/</guid>
-      <pubDate>Thu, 10 Oct 2024 18:05:53 GMT</pubDate>
-    </item>
-    <item>
       <title>瑞士央行副行长暗示进一步降息</title>
       <link>https://www.reuters.com/markets/rates-bonds/swiss-national-bank-vice-chairman-hints-further-rate-cuts-2024-10-10/</link>
-      <description><![CDATA[瑞士央行副主席安托万·马丁周四表示，由于瑞士当前经济增长温和且通胀率较低，该行今年可能再次降息。]]></description>
+      <description><![CDATA[瑞士央行副主席安托万·马丁周四表示，瑞士央行今年可能再次降息，理由是目前瑞士经济温和增长，通胀率较低。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/swiss-national-bank-vice-chairman-hints-further-rate-cuts-2024-10-10/</guid>
       <pubDate>Thu, 10 Oct 2024 17:39:36 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[BPER 首席执行官表示，未来三年内该银行不会回购自己的股票，而是用股息奖励投资者。周四，这家意大利银行根据新的多年期战略将派息率提高至 75%。]]></description>
       <guid>https://www.reuters.com/business/finance/bper-rules-out-share-buybacks-next-3-years-focuses-internal-growth-2024-10-10/</guid>
       <pubDate>Thu, 10 Oct 2024 13:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国参议员沃伦呼吁审查 Novo Holdings 的 Catalent 交易</title>
+      <link>https://www.reuters.com/markets/deals/us-senator-warren-calls-scrutiny-novo-holdings-catalent-deal-2024-10-10/</link>
+      <description><![CDATA[美国参议员伊丽莎白·沃伦要求反垄断监管机构仔细审查诺和诺德控股股东以 165 亿美元收购合同药品制造商 Catalent 的一项交易，称这可能使该制药公司在减肥药物领域获得非法优势。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-senator-warren-calls-scrutiny-novo-holdings-catalent-deal-2024-10-10/</guid>
+      <pubDate>Thu, 10 Oct 2024 12:03:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
