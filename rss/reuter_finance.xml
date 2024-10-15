@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 15 Oct 2024 09:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 10:22:39 GMT</lastBuildDate>
+    <item>
+      <title>早盘：中国股市回落，科技股和银行股创下美国新高</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-10-15/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-10-15/</guid>
+      <pubDate>Tue, 15 Oct 2024 10:10:10 GMT</pubDate>
+    </item>
     <item>
       <title>摩根士丹利财富管理表示，以劳动力为重点的美联储将继续降息</title>
       <link>https://www.reuters.com/markets/rates-bonds/labor-focused-fed-continue-rate-cuts-morgan-stanley-wealth-management-says-2024-10-15/</link>
@@ -13,9 +20,9 @@
       <pubDate>Tue, 15 Oct 2024 09:33:21 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲央行调查显示，随着利率下降，欧元区银行的贷款需求出现反弹</title>
+      <title>欧元区经济显示出一些增长迹象</title>
       <link>https://www.reuters.com/markets/europe/euro-zone-banks-see-rebound-loan-demand-rates-fall-ecb-survey-shows-2024-10-15/</link>
-      <description><![CDATA[欧洲央行周二公布的一项调查显示，欧元区 20 国银行贷款需求第三季度上涨，预计今年最后三个月还将进一步上涨，其中家庭抵押贷款是推动贷款扩张的主要动力。]]></description>
+      <description><![CDATA[欧元区经济周二显示出一些复苏迹象，一系列指标显示，欧元区经济虽然增长温和，但仍处于正增长状态，欧元区一年多来一直在避开衰退。]]></description>
       <guid>https://www.reuters.com/markets/europe/euro-zone-banks-see-rebound-loan-demand-rates-fall-ecb-survey-shows-2024-10-15/</guid>
       <pubDate>Tue, 15 Oct 2024 08:04:45 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>瑞士监管机构要求瑞银加强其危机计划</title>
       <link>https://www.reuters.com/business/finance/swiss-regulator-tells-ubs-strengthen-its-emergency-plans-2024-10-15/</link>
-      <description><![CDATA[瑞士监管机构 FINMA 周​​二表示，瑞银在收购瑞士信贷后必须改进其应急计划，以确保该银行能够在不危及金融稳定和纳税人资金的情况下进行清盘或出售。]]></description>
+      <description><![CDATA[瑞士监管机构瑞士金融市场监管局 (FINMA) 周二表示，瑞银在收购瑞士信贷后必须改进其应急计划，以确保该银行能够在不危及金融稳定和纳税人资金的情况下进行清盘或出售。]]></description>
       <guid>https://www.reuters.com/business/finance/swiss-regulator-tells-ubs-strengthen-its-emergency-plans-2024-10-15/</guid>
       <pubDate>Tue, 15 Oct 2024 07:19:11 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 15 Oct 2024 06:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>独家：花旗监管困境的关键：员工技能需要“提升”</title>
+      <title>独家：花旗监管困境的关键——员工需要技能“提升”</title>
       <link>https://www.reuters.com/business/finance/key-citis-regulatory-woes-staff-need-skills-enhancement-2024-10-15/</link>
       <description><![CDATA[根据花旗银行自己的评估，花旗集团一直难以对员工进行足够的风险、合规和数据方面的培训，这也解释了为什么尽管花数十亿美元进行改革，但仍需数年时间才能解决监管问题。]]></description>
       <guid>https://www.reuters.com/business/finance/key-citis-regulatory-woes-staff-need-skills-enhancement-2024-10-15/</guid>
@@ -88,13 +95,6 @@
       <description><![CDATA[澳大利亚政府周一表示，由于该国现金使用量下降，澳大利亚计划降低银行卡附加费，包括取消借记卡交易费。]]></description>
       <guid>https://www.reuters.com/business/finance/embargoed-australia-plans-reduce-bank-card-surcharges-2026-2024-10-14/</guid>
       <pubDate>Mon, 14 Oct 2024 16:51:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>据 ANSA 报道，Intesa 前员工涉嫌监视账户数据，正在接受调查</title>
-      <link>https://www.reuters.com/business/finance/intesa-under-investigation-after-security-breach-by-former-employee-ansa-reports-2024-10-14/</link>
-      <description><![CDATA[意大利通讯社安莎社周一报道称，意大利最大银行联合圣保罗银行（Intesa Sanpaolo）的一名前雇员非法窃取了数千名客户的账户数据，目前正在接受意大利检察官的调查。]]></description>
-      <guid>https://www.reuters.com/business/finance/intesa-under-investigation-after-security-breach-by-former-employee-ansa-reports-2024-10-14/</guid>
-      <pubDate>Mon, 14 Oct 2024 16:13:20 GMT</pubDate>
     </item>
     <item>
       <title>英国制定国家财富基金计划吸引私人资本</title>
