@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 16 Oct 2024 21:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 22:18:41 GMT</lastBuildDate>
+    <item>
+      <title>由于经济停滞，欧洲央行将连续第二次降息</title>
+      <link>https://www.reuters.com/markets/rates-bonds/ecb-set-second-straight-rate-cut-economy-stagnates-2024-10-16/</link>
+      <description><![CDATA[欧洲央行很可能于周四再次降息，理由是欧元区通胀目前逐渐得到控制，而经济则陷入停滞。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/ecb-set-second-straight-rate-cut-economy-stagnates-2024-10-16/</guid>
+      <pubDate>Wed, 16 Oct 2024 22:05:47 GMT</pubDate>
+    </item>
     <item>
       <title>Discover Financial 季度利润因利息收入强劲和拨备减少而跃升</title>
       <link>https://www.reuters.com/business/finance/discover-financial-quarterly-profit-jumps-robust-interest-income-lower-2024-10-16/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[摩根士丹利第三季度投资银行业务利润丰厚，超出预期，也提振了竞争对手，导致其股价创下新高。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanleys-profit-jumps-recovery-dealmaking-2024-10-16/</guid>
       <pubDate>Wed, 16 Oct 2024 11:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>奥地利监管机构暂停 Euram 银行业务</title>
-      <link>https://www.reuters.com/business/finance/austrian-watchdog-halts-business-euram-bank-2024-10-16/</link>
-      <description><![CDATA[奥地利金融监管机构 FMA 周三表示，由于 Euram Bank 在洗钱预防方面存在漏洞，该机构已下令该银行立即停止业务运营。]]></description>
-      <guid>https://www.reuters.com/business/finance/austrian-watchdog-halts-business-euram-bank-2024-10-16/</guid>
-      <pubDate>Wed, 16 Oct 2024 11:19:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
