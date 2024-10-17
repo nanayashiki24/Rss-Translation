@@ -4,13 +4,20 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 17 Oct 2024 11:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 11:38:44 GMT</lastBuildDate>
     <item>
       <title>黑石集团资产规模创历史新高，交易活动增多，利润超出预期</title>
       <link>https://www.reuters.com/business/finance/blackstone-tops-profit-estimate-its-assets-hit-record-dealmaking-picks-up-2024-10-17/</link>
       <description><![CDATA[周四，黑石集团公布的关键季度盈利指标超出了华尔街的预期，这家全球最大的另类投资公司的资产管理规模 (AUM) 达到创纪录的 1.1 万亿美元，其基金价值也出现上涨。]]></description>
       <guid>https://www.reuters.com/business/finance/blackstone-tops-profit-estimate-its-assets-hit-record-dealmaking-picks-up-2024-10-17/</guid>
       <pubDate>Thu, 17 Oct 2024 11:05:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>佛罗里达州房主担心飓风过后保险费用飙升</title>
+      <link>https://www.reuters.com/world/us/florida-homeowners-fear-soaring-insurance-cost-after-hurricanes-2024-10-17/</link>
+      <description><![CDATA[房主们担心接连的飓风会导致价格进一步上涨和保险范围进一步缩小。更糟糕的是，他们担心自己可能会完全失去保险。]]></description>
+      <guid>https://www.reuters.com/world/us/florida-homeowners-fear-soaring-insurance-cost-after-hurricanes-2024-10-17/</guid>
+      <pubDate>Thu, 17 Oct 2024 10:05:25 GMT</pubDate>
     </item>
     <item>
       <title>早盘报价：台积电芯片出货量稳定，欧洲央行将放松货币政策</title>
@@ -39,6 +46,13 @@
       <description><![CDATA[伦敦上市的曼氏集团周四报告称，尽管第三季度出现大量客户赎回，但截至 9 月 30 日的一年内，其管理的资产仍增长 8%，至 1,749 亿美元。]]></description>
       <guid>https://www.reuters.com/business/finance/man-group-assets-rise-1749-bln-q3-2024-10-17/</guid>
       <pubDate>Thu, 17 Oct 2024 06:09:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>股市暴涨令中国对冲基金措手不及</title>
+      <link>https://www.reuters.com/markets/asia/china-hedge-funds-caught-out-by-abrupt-market-surge-2024-10-17/</link>
+      <description><![CDATA[中国股市的突然猛烈上涨给该国一些最大的对冲基金带来了重创，迫使它们匆忙补仓并承担在受到严格监管的衍生品市场中的押注损失。]]></description>
+      <guid>https://www.reuters.com/markets/asia/china-hedge-funds-caught-out-by-abrupt-market-surge-2024-10-17/</guid>
+      <pubDate>Thu, 17 Oct 2024 06:07:25 GMT</pubDate>
     </item>
     <item>
       <title>裕信银行签署协议，新增 500 个工作岗位，1000 个自愿离职岗位</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[知情人士向路透社透露，裕信银行仍在等待法院裁决，以确定其是否必须立即减少在俄罗斯的业务，以遵守欧洲央行的命令。几个月前，裕信银行曾提出异议。]]></description>
       <guid>https://www.reuters.com/business/finance/unicredit-court-limbo-over-ecbs-russia-demands-sources-say-2024-10-16/</guid>
       <pubDate>Wed, 16 Oct 2024 17:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦存款保险公司任命新职业行为办公室主任</title>
-      <link>https://www.reuters.com/world/us/us-fdic-names-director-new-office-professional-conduct-2024-10-16/</link>
-      <description><![CDATA[美国联邦存款保险公司周三表示，其董事会已批准任命汉塞尔·科代罗 (Hansel Cordeiro) 为新设立的职业行为办公室主任。]]></description>
-      <guid>https://www.reuters.com/world/us/us-fdic-names-director-new-office-professional-conduct-2024-10-16/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:46:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>西班牙蓝筹股收于 2010 年以来最高水平</title>
-      <link>https://www.reuters.com/markets/europe/spanish-blue-chips-close-highest-since-2010-2024-10-16/</link>
-      <description><![CDATA[西班牙基准指数周三收于 2010 年 1 月以来的最高点，今年迄今已上涨逾 18%，表现优于其他欧洲指数。]]></description>
-      <guid>https://www.reuters.com/markets/europe/spanish-blue-chips-close-highest-since-2010-2024-10-16/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:26:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
