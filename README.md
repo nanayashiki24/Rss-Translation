@@ -27,4 +27,4 @@
  - source014 [https://rss.241999.xyz/reuters/business/finance](https://rss.241999.xyz/reuters/business/finance) -> [reuter_finance](rss/reuter_finance.xml)
  - source015 [https://www.freightwaves.com/news/feed](https://www.freightwaves.com/news/feed) -> [freightwaves](rss/freightwaves.xml)
  - source016 [https://feeds.feedburner.com/Crossingwallstreet](https://feeds.feedburner.com/Crossingwallstreet) -> [crossingwallstreet](rss/crossingwallstreet.xml)
- - source017 [https://bloombergnew.buzzing.cc/feed.xml](https://bloombergnew.buzzing.cc/feed.xml) -> [bloombergnew](rss/bloombergnew.xml)
+ - source017 [https://nitter.lucabased.xyz/SCMPNews/rss](https://nitter.lucabased.xyz/SCMPNews/rss) -> [SCMPNews](rss/SCMPNews.xml)
