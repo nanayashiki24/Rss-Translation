@@ -4,11 +4,18 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 18 Oct 2024 11:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 12:38:05 GMT</lastBuildDate>
     <item>
-      <title>美国运通利润超出预期，得益于强劲的客户支出</title>
+      <title>五三银行利润因贷款损失准备金增加而下降</title>
+      <link>https://www.reuters.com/business/finance/fifth-third-bancorps-profit-falls-higher-loan-loss-provisions-2024-10-18/</link>
+      <description><![CDATA[五三银行周五公布第三季度利润下滑，因该行拨出更多资金应对潜在贷款违约，导致其股价在盘前交易中下跌 3%。]]></description>
+      <guid>https://www.reuters.com/business/finance/fifth-third-bancorps-profit-falls-higher-loan-loss-provisions-2024-10-18/</guid>
+      <pubDate>Fri, 18 Oct 2024 11:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国运通季度利润因成本控制超出预期</title>
       <link>https://www.reuters.com/business/finance/amex-profit-beats-estimate-robust-customer-spending-2024-10-18/</link>
-      <description><![CDATA[美国运通周五公布的第三季度利润高于华尔街预期，因为其信用卡消费支出的增加抵消了信贷损失准备金增加带来的冲击。]]></description>
+      <description><![CDATA[美国运通周五公布第三季度利润高于华尔街预期，得益于严格的费用管理，该公司减轻了商户费用下降带来的冲击。]]></description>
       <guid>https://www.reuters.com/business/finance/amex-profit-beats-estimate-robust-customer-spending-2024-10-18/</guid>
       <pubDate>Fri, 18 Oct 2024 11:04:40 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>德国商业银行首席执行官告诉报纸，该公司正在考虑进行收购</title>
       <link>https://www.reuters.com/business/finance/commerzbank-considering-its-own-acquisitions-ceo-tells-paper-2024-10-18/</link>
-      <description><![CDATA[德国商业银行首席执行官贝蒂娜·奥洛普（Bettina Orlopp）在周五发表的采访中接受德国商业新闻媒体《经济周刊》（WirtschaftsWoche）采访时表示，德国商业银行正在考虑进行自己的收购，例如在资产管理领域。]]></description>
+      <description><![CDATA[德国商业银行首席执行官贝蒂娜·奥洛普（Bettina Orlopp）在周五发表的采访中接受德国商业新闻媒体《经济周刊》采访时表示，德国商业银行正在考虑进行自己的收购，例如在资产管理领域。]]></description>
       <guid>https://www.reuters.com/business/finance/commerzbank-considering-its-own-acquisitions-ceo-tells-paper-2024-10-18/</guid>
       <pubDate>Fri, 18 Oct 2024 08:16:43 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Thu, 17 Oct 2024 22:13:20 GMT</pubDate>
     </item>
     <item>
-      <title>爆炸伤害美国工人后，ADM 因涉嫌不当行为、缺乏安全检查而被起诉</title>
+      <title>爆炸致美国工人受伤后，ADM 因涉嫌不当行为、缺乏安全检查而被起诉</title>
       <link>https://www.reuters.com/business/adm-accused-misconduct-lack-safety-inspections-after-explosion-hurt-us-worker-2024-10-17/</link>
       <description><![CDATA[根据针对阿彻丹尼尔斯米德兰公司提起的诉讼，该公司多年来故意未能对其谷物设备的安全系统进行测试和维护，导致去年发生爆炸，导致一名工人自焚并陷入昏迷。]]></description>
       <guid>https://www.reuters.com/business/adm-accused-misconduct-lack-safety-inspections-after-explosion-hurt-us-worker-2024-10-17/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国联邦存款保险公司官员周四表示，支持近 10 万亿美元银行存款的美国政府基金正在提前从近年来的下滑和损失中恢复，同时银行系统仍基本保持弹性。]]></description>
       <guid>https://www.reuters.com/business/finance/recovery-us-bank-failure-fund-ahead-schedule-fdic-says-2024-10-17/</guid>
       <pubDate>Thu, 17 Oct 2024 16:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯希望 Raiffeisen 和 UniCredit 子公司协助推出数字卢布</title>
-      <link>https://www.reuters.com/markets/currencies/russia-expects-raiffeisen-unicredit-subsidiaries-help-launch-digital-rouble-2024-10-17/</link>
-      <description><![CDATA[俄罗斯央行周四表示，俄罗斯预计欧洲银行奥里夫艾森国际银行（RBI）和裕信银行的当地子公司将参与 2025 年 7 月大规模推出数字卢布，否则可能面临罚款。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/russia-expects-raiffeisen-unicredit-subsidiaries-help-launch-digital-rouble-2024-10-17/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:50:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
