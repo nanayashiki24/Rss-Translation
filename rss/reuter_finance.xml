@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 23 Oct 2024 15:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 16:25:38 GMT</lastBuildDate>
+    <item>
+      <title>欧洲央行行长拉加德：降息需谨慎</title>
+      <link>https://www.reuters.com/markets/europe/ecbs-lagarde-we-need-be-cautious-cutting-rates-2024-10-23/</link>
+      <description><![CDATA[欧洲央行行长克里斯蒂娜·拉加德周三表示，欧洲央行在决定进一步降息时需要谨慎，并从未来数据中获取指引。]]></description>
+      <guid>https://www.reuters.com/markets/europe/ecbs-lagarde-we-need-be-cautious-cutting-rates-2024-10-23/</guid>
+      <pubDate>Wed, 23 Oct 2024 15:42:04 GMT</pubDate>
+    </item>
     <item>
       <title>芬兰警告俄罗斯的敌对活动</title>
       <link>https://www.reuters.com/world/europe/finland-warns-hostile-activities-by-russia-2024-10-23/</link>
@@ -20,9 +27,9 @@
       <pubDate>Wed, 23 Oct 2024 14:39:11 GMT</pubDate>
     </item>
     <item>
-      <title>美国监管机构要求高盛和苹果支付 8900 万美元，以弥补消费者失职</title>
+      <title>美国监管机构要求高盛和苹果因消费者失职赔偿 8900 万美元</title>
       <link>https://www.reuters.com/business/us-watchdog-agency-orders-goldman-sachs-apple-pay-89-million-over-consumer-2024-10-23/</link>
-      <description><![CDATA[美国消费者金融保护局周三宣布，企业巨头高盛和苹果将因其联合信用卡业务违反消费者保护法而支付 8900 万美元。]]></description>
+      <description><![CDATA[美国消费者金融保护局周三宣布，企业巨头高盛和苹果将因其联合信用卡业务违反消费者保护法而支付 8900 万美元，影响了数十万人。]]></description>
       <guid>https://www.reuters.com/business/us-watchdog-agency-orders-goldman-sachs-apple-pay-89-million-over-consumer-2024-10-23/</guid>
       <pubDate>Wed, 23 Oct 2024 14:37:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[政治事件可能引发剧烈波动，迫使投资者迅速平仓。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-street-ramps-up-staffing-election-nears-expecting-volatile-trading-2024-10-23/</guid>
       <pubDate>Wed, 23 Oct 2024 10:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘报价：美元跟随收益率上升，加拿大准备放松</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-10-23/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-10-23/</guid>
-      <pubDate>Wed, 23 Oct 2024 10:09:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
