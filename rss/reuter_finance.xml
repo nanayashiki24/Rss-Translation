@@ -4,11 +4,18 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 31 Oct 2024 07:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 08:23:22 GMT</lastBuildDate>
     <item>
-      <title>俄罗斯联邦储蓄银行公布第三季度利润小幅下降</title>
+      <title>葡萄牙Novo Banko 9个月利润因拨备增加而下降4.4％</title>
+      <link>https://www.reuters.com/business/finance/portugals-novo-banco-9-month-profit-falls-44-higher-provisions-2024-10-31/</link>
+      <description><![CDATA[葡萄牙第四大银行新银行 (Novo Banco) 周四公布，其前九个月净利润下降 4.4%，原因是息差和佣金的增加被拨备的增加所抵消。]]></description>
+      <guid>https://www.reuters.com/business/finance/portugals-novo-banco-9-month-profit-falls-44-higher-provisions-2024-10-31/</guid>
+      <pubDate>Thu, 31 Oct 2024 07:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯联邦储蓄银行季度利润因拨备增加而下滑</title>
       <link>https://www.reuters.com/business/finance/russias-sberbank-reports-marginal-drop-third-quarter-profits-2024-10-31/</link>
-      <description><![CDATA[俄罗斯主要银行俄罗斯联邦储蓄银行周四公布第三季度利润小幅下降至 4111 亿卢布（42.4 亿美元）。]]></description>
+      <description><![CDATA[俄罗斯主要银行俄罗斯联邦储蓄银行周四公布第三季度利润小幅下降至 4111 亿卢布（42.4 亿美元），原因是贷款增长放缓，且利率飙升导致拨备增加。]]></description>
       <guid>https://www.reuters.com/business/finance/russias-sberbank-reports-marginal-drop-third-quarter-profits-2024-10-31/</guid>
       <pubDate>Thu, 31 Oct 2024 07:08:49 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Thu, 31 Oct 2024 06:17:49 GMT</pubDate>
     </item>
     <item>
-      <title>西班牙对外银行第三季度净利润上涨 26%，受西班牙收购推动</title>
+      <title>BBVA 西班牙第三季度利润超出预期，但贷款收入承压</title>
       <link>https://www.reuters.com/business/finance/bbvas-q3-net-profit-up-26-compared-same-period-2023-2024-10-31/</link>
-      <description><![CDATA[西班牙对外银行（BBVA）周四表示，得益于西班牙市场的强劲表现，其第三季度净利润较 2023 年同期增长 26%，该银行希望收购规模较小的竞争对手 Sabadell，以减少对其主要市场墨西哥的依赖。]]></description>
+      <description><![CDATA[西班牙对外银行 (BBVA) 周四公布第三季度净利润同比增长 26%，超出预期，这得益于其在西班牙的稳健表现，该银行计划收购规模较小的竞争对手 Sabadell，但由于经济不确定性，其墨西哥业务利润出现下滑。]]></description>
       <guid>https://www.reuters.com/business/finance/bbvas-q3-net-profit-up-26-compared-same-period-2023-2024-10-31/</guid>
       <pubDate>Thu, 31 Oct 2024 06:14:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[萨瓦德尔银行周四宣布，其第三季度净利润超过预期，得益于拨备减少和英国子公司 TSB 的复苏，这家西班牙银行正试图抵御更大竞争对手 BBVA 的恶意收购要约。]]></description>
       <guid>https://www.reuters.com/business/finance/sabadells-q3-net-profit-rises-8-same-period-2023-2024-10-31/</guid>
       <pubDate>Thu, 31 Oct 2024 05:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>成本和竞争加剧 澳大利亚银行盈利面临下降</title>
-      <link>https://www.reuters.com/business/finance/australian-banks-brace-lower-earnings-costs-competition-bite-2024-10-31/</link>
-      <description><![CDATA[澳大利亚最大的几家银行预计将于下周公布较低的年度收益，投资者关注的是贷款市场的激烈竞争和存款成本的上升是否会超过抵押贷款收入的增长。]]></description>
-      <guid>https://www.reuters.com/business/finance/australian-banks-brace-lower-earnings-costs-competition-bite-2024-10-31/</guid>
-      <pubDate>Thu, 31 Oct 2024 05:19:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
