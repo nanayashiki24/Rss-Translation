@@ -4,7 +4,21 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 04 Nov 2024 10:44:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 11:18:54 GMT</lastBuildDate>
+    <item>
+      <title>早间报价：爱荷华州异常值和就业数据引发混乱</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-11-04/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-11-04/</guid>
+      <pubDate>Mon, 04 Nov 2024 11:15:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Facebook、Nvidia 请求美国最高法院免除其证券欺诈诉讼</title>
+      <link>https://www.reuters.com/legal/facebook-nvidia-ask-us-supreme-court-spare-them-securities-fraud-suits-2024-11-04/</link>
+      <description><![CDATA[美国最高法院将审理两家科技巨头——Meta 公司的 Facebook 和 Nvidia——提出的抵御联邦证券欺诈诉讼的单独案件，这可能会使私人诉讼当事人更难以追究公司的责任。]]></description>
+      <guid>https://www.reuters.com/legal/facebook-nvidia-ask-us-supreme-court-spare-them-securities-fraud-suits-2024-11-04/</guid>
+      <pubDate>Mon, 04 Nov 2024 11:03:18 GMT</pubDate>
+    </item>
     <item>
       <title>高盛称，对冲基金十月份受到欧洲股市的冲击</title>
       <link>https://www.reuters.com/markets/europe/hedge-flow-hedge-funds-stung-by-european-stock-markets-october-goldman-sachs-2024-11-04/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>成本上涨盖过利润率上涨，澳大利亚西太平洋银行年度利润下滑</title>
       <link>https://www.reuters.com/business/finance/australian-lender-westpacs-annual-profit-falls-3-increases-buyback-2024-11-03/</link>
-      <description><![CDATA[澳大利亚第二大抵押贷款机构西太平洋银行 (Westpac) 周一表示，由于技术改革相关成本超过了贷款利润率提高带来的影响，年度利润下降，但该行提高了末期股息并延长了股票回购，推动股价上涨。]]></description>
+      <description><![CDATA[澳大利亚第二大抵押贷款机构西太平洋银行 (Westpac) 周一表示，由于技术改革相关成本超过了贷款利润率提高带来的影响，年度利润下降，但该银行提高了末期股息并延长了股票回购，推动股价上涨。]]></description>
       <guid>https://www.reuters.com/business/finance/australian-lender-westpacs-annual-profit-falls-3-increases-buyback-2024-11-03/</guid>
       <pubDate>Sun, 03 Nov 2024 20:42:19 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[美国周四警告称，以色列决定将以色列和巴勒斯坦银行之间的合作豁免期延长一个月，这一决定“期限非常短”，到 11 月 30 日将引发“另一场迫在眉睫的危机”。]]></description>
       <guid>https://www.reuters.com/world/us-urges-israel-extend-waiver-co-operation-with-palestinian-banks-2024-11-01/</guid>
       <pubDate>Fri, 01 Nov 2024 02:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国证券交易委员会称摩根大通已就五起执法案件达成和解，将支付 1.51 亿美元</title>
-      <link>https://www.reuters.com/business/finance/jpmorgan-chase-reaches-100-million-settlement-with-sec-over-disclosures-2024-10-31/</link>
-      <description><![CDATA[美国证券交易委员会周四表示，摩根大通将支付 1.51 亿美元以和解五起执法案件，其中包括对该美国最大银行向经纪客户作出误导性披露的指控。]]></description>
-      <guid>https://www.reuters.com/business/finance/jpmorgan-chase-reaches-100-million-settlement-with-sec-over-disclosures-2024-10-31/</guid>
-      <pubDate>Thu, 31 Oct 2024 20:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>部长称，可解决性是瑞银资本要求的关键</title>
-      <link>https://www.reuters.com/business/finance/resolvability-key-ubs-capital-requirements-minister-says-2024-10-31/</link>
-      <description><![CDATA[财政部长卡琳·凯勒-苏特 (Karin Keller-Sutter) 周四表示，瑞士当局正在考虑新的稳定措施，瑞银需要持有多少资本，将取决于该银行的偿付能力。]]></description>
-      <guid>https://www.reuters.com/business/finance/resolvability-key-ubs-capital-requirements-minister-says-2024-10-31/</guid>
-      <pubDate>Thu, 31 Oct 2024 19:03:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
