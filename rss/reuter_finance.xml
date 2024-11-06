@@ -4,11 +4,32 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 06 Nov 2024 10:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 11:17:19 GMT</lastBuildDate>
     <item>
-      <title>特朗普媒体业务和特斯拉在前总统接近第二任期之际飙升</title>
+      <title>信贷条件趋紧为美联储降息增添理由</title>
+      <link>https://www.reuters.com/markets/us/tight-credit-conditions-add-case-fed-interest-rate-cut-2024-11-06/</link>
+      <description><![CDATA[美联储周四实施普遍预期的降息有很多理由，包括通胀下降和劳动力市场降温，这导致美国人更难找到工作。]]></description>
+      <guid>https://www.reuters.com/markets/us/tight-credit-conditions-add-case-fed-interest-rate-cut-2024-11-06/</guid>
+      <pubDate>Wed, 06 Nov 2024 11:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国最高法院审理 Facebook 逃避证券欺诈诉讼的诉讼</title>
+      <link>https://www.reuters.com/legal/us-supreme-court-hear-facebook-bid-escape-securities-fraud-suit-2024-11-06/</link>
+      <description><![CDATA[美国最高法院将于周三审议 Meta 旗下 Facebook 提出的驳回联邦证券欺诈诉讼的请求。该诉讼由股东发起，指控该社交媒体平台在滥用用户数据方面误导他们。]]></description>
+      <guid>https://www.reuters.com/legal/us-supreme-court-hear-facebook-bid-escape-securities-fraud-suit-2024-11-06/</guid>
+      <pubDate>Wed, 06 Nov 2024 11:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>美洲 特朗普大胜，美元飙升</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-11-06/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-11-06/</guid>
+      <pubDate>Wed, 06 Nov 2024 10:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普媒体、特斯拉股价因前总统赢得第二任期而飙升</title>
       <link>https://www.reuters.com/markets/us/trumps-media-business-tesla-surge-former-president-nears-second-term-2024-11-06/</link>
-      <description><![CDATA[尽管美国大选的一些关键州尚未公布结果，但特斯拉、唐纳德·特朗普的媒体业务以及专注于国内市场的小型股公司的股价周三飙升，因为市场预期这位前总统将获胜。]]></description>
+      <description><![CDATA[随着唐纳德·特朗普第二次当选美国总统，特朗普媒体、特斯拉和专注于国内市场的小型股公司的股价周三飙升，引发了人们对国内经济增长加快的预期。]]></description>
       <guid>https://www.reuters.com/markets/us/trumps-media-business-tesla-surge-former-president-nears-second-term-2024-11-06/</guid>
       <pubDate>Wed, 06 Nov 2024 09:46:36 GMT</pubDate>
     </item>
@@ -34,9 +55,9 @@
       <pubDate>Wed, 06 Nov 2024 06:17:20 GMT</pubDate>
     </item>
     <item>
-      <title>德国商业银行试图抵御意大利联合信贷银行的攻击，因为两家银行都提高了目标</title>
+      <title>联合信贷银行 (UniCredit) 吹捧德国商业银行 (Commerzbank) 合并的优点，两家银行均提高目标</title>
       <link>https://www.reuters.com/business/finance/commerzbank-q3-net-profit-down-6-better-than-expected-2024-11-06/</link>
-      <description><![CDATA[德国商业银行上调了部分财务目标，并表示其增长计划正在发挥作用，以抵御意大利联合信贷银行可能进行的收购。意大利联合信贷银行周三公布了另一个超出预期的季度业绩，并上调了自己的利润目标。]]></description>
+      <description><![CDATA[意大利联合信贷银行（UniCredit）周三公布的第三季度业绩超出预期，并上调了盈利预期，其首席执行官谈到了与德国商业银行可能达成的交易，而这家德国银行则表示，其旨在抵御收购的增长计划正在发挥作用。]]></description>
       <guid>https://www.reuters.com/business/finance/commerzbank-q3-net-profit-down-6-better-than-expected-2024-11-06/</guid>
       <pubDate>Wed, 06 Nov 2024 06:12:18 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[当地企业代表和西班牙央行官员周二表示，西班牙东部受洪水侵袭的城镇企业损失可能超过 100 亿欧元，银行对该地区贷款的风险敞口就高达 200 亿欧元（218.2 亿美元）。]]></description>
       <guid>https://www.reuters.com/world/europe/spanish-banks-withstand-impact-recent-floods-central-bank-says-2024-11-05/</guid>
       <pubDate>Tue, 05 Nov 2024 13:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>首席执行官表示，Intesa 的价值表明投资者对缺乏“大胆的并购”感到放心</title>
-      <link>https://www.reuters.com/markets/deals/intesas-value-shows-investors-are-reassured-by-lack-bold-ma-ceo-says-2024-11-05/</link>
-      <description><![CDATA[意大利联合圣保罗银行 (Intesa Sanpaolo) 首席执行官表示，该银行目前的市值超过其他欧元区银行，这表明投资者对其暂缓采取“大胆”并购举措的策略感到放心。]]></description>
-      <guid>https://www.reuters.com/markets/deals/intesas-value-shows-investors-are-reassured-by-lack-bold-ma-ceo-says-2024-11-05/</guid>
-      <pubDate>Tue, 05 Nov 2024 12:27:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>西班牙央行称降低利率对银行盈利能力的影响有限</title>
-      <link>https://www.reuters.com/markets/rates-bonds/bank-spain-says-lower-rates-have-limited-impact-banks-profitability-2024-11-05/</link>
-      <description><![CDATA[西班牙央行周二表示，降低利率对西班牙银行盈利能力的负面影响应该有限，且至少会通过增加贷款量得到部分抵消。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/bank-spain-says-lower-rates-have-limited-impact-banks-profitability-2024-11-05/</guid>
-      <pubDate>Tue, 05 Nov 2024 12:12:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>FinecoBank 预测 2024 年佣金上涨，收入将创历史新高</title>
-      <link>https://www.reuters.com/business/finance/finecobank-lifts-2024-forecast-rising-revenue-commissions-2024-11-05/</link>
-      <description><![CDATA[意大利 FinecoBank 周二预测今年的收入将创下纪录，并承诺在 2024 年业绩中派发更高的每股股息，因为这家网上银行和经纪公司预计更高的佣金将提振其全年业绩。]]></description>
-      <guid>https://www.reuters.com/business/finance/finecobank-lifts-2024-forecast-rising-revenue-commissions-2024-11-05/</guid>
-      <pubDate>Tue, 05 Nov 2024 11:57:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
