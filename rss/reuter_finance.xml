@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Nov 2024 17:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 17:39:07 GMT</lastBuildDate>
+    <item>
+      <title>美国30年期固定利率抵押贷款升至四个月高点6.79%</title>
+      <link>https://www.reuters.com/markets/us/us-30-year-fixed-rate-mortgage-rise-four-month-high-679-2024-11-07/</link>
+      <description><![CDATA[由于担心当选总统唐纳德·特朗普提出的经济政策可能引发通胀，美国抵押贷款利率本周升至四个月高点，且可能进一步上升。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-30-year-fixed-rate-mortgage-rise-four-month-high-679-2024-11-07/</guid>
+      <pubDate>Thu, 07 Nov 2024 17:19:52 GMT</pubDate>
+    </item>
     <item>
       <title>由于净利息收入增加，欧洲银行 9 个月利润上涨</title>
       <link>https://www.reuters.com/business/finance/eurobank-posts-higher-9-month-profit-net-interest-income-rises-2024-11-07/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>俄罗斯央行将投资放缓归咎于劳动力短缺而非高利率</title>
       <link>https://www.reuters.com/markets/rates-bonds/russian-central-bank-blames-labour-shortages-not-high-rates-investment-slowdown-2024-11-07/</link>
-      <description><![CDATA[俄罗斯央行周四驳斥了企业关于高利率推高融资成本的抱怨，称劳动力短缺是导致整个经济投资增长放缓的原因。]]></description>
+      <description><![CDATA[俄罗斯央行周四驳斥了企业关于高利率推高融资成本的抱怨，并表示劳动力短缺是导致整个经济投资增长放缓的原因。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/russian-central-bank-blames-labour-shortages-not-high-rates-investment-slowdown-2024-11-07/</guid>
       <pubDate>Thu, 07 Nov 2024 12:40:58 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>意大利 Banco BPM 竞购资产管理公司 Anima，两家公司的股价均上涨</title>
       <link>https://www.reuters.com/markets/deals/italys-banco-bpm-bids-asset-manager-anima-lifting-shares-both-2024-11-07/</link>
-      <description><![CDATA[意大利第三大银行 Banco BPM 竞标收购基金管理公司 Anima Holding 的全部控制权，推动两家公司的股价周四上涨 9%。]]></description>
+      <description><![CDATA[意大利第三大银行 Banco BPM 竞标收购基金管理公司 Anima Holding 的全部控制权，导致两家公司的股价周四飙升。]]></description>
       <guid>https://www.reuters.com/markets/deals/italys-banco-bpm-bids-asset-manager-anima-lifting-shares-both-2024-11-07/</guid>
       <pubDate>Thu, 07 Nov 2024 09:21:06 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[瑞典央行周四一如预期将基准利率从 3.25% 下调至 2.75%，并表示未来几个月将继续宽松政策，尽管事态发展的不确定性极高。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/swedish-central-bank-cuts-key-rate-275-325-2024-11-07/</guid>
       <pubDate>Thu, 07 Nov 2024 08:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>施纳贝尔称欧洲央行缩减市场足迹已见成效</title>
-      <link>https://www.reuters.com/markets/europe/ecbs-reduced-market-footprint-showing-effects-schnabel-says-2024-11-07/</link>
-      <description><![CDATA[欧洲央行执委会委员伊莎贝尔·施纳贝尔周四表示，欧洲央行稳步缩减资产负债表的举措开始对部分金融市场产生明显影响，缓解了一些领域的压力，并重新激发了其他领域的活动。]]></description>
-      <guid>https://www.reuters.com/markets/europe/ecbs-reduced-market-footprint-showing-effects-schnabel-says-2024-11-07/</guid>
-      <pubDate>Thu, 07 Nov 2024 08:31:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
