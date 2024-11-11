@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Nov 2024 17:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 18:26:29 GMT</lastBuildDate>
+    <item>
+      <title>COP29各国批准全球碳市场框架</title>
+      <link>https://www.reuters.com/markets/commodities/cop29-countries-endorse-global-carbon-market-framework-2024-11-11/</link>
+      <description><![CDATA[为期两周的 COP29 气候峰会各国周一批准了碳信用质量标准，这对于启动联合国支持的全球碳市场至关重要，该市场将为减少温室气体排放的项目提供资金。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/cop29-countries-endorse-global-carbon-market-framework-2024-11-11/</guid>
+      <pubDate>Mon, 11 Nov 2024 17:55:41 GMT</pubDate>
+    </item>
     <item>
       <title>中国华为技术有限公司寻求撤销美国刑事指控</title>
       <link>https://www.reuters.com/default/chinas-huawei-technologies-seeks-dismissal-us-criminal-charges-2024-11-11/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 11 Nov 2024 16:59:09 GMT</pubDate>
     </item>
     <item>
-      <title>FTX 起诉币安及其前首席执行官，索赔 18 亿美元</title>
+      <title>FTX 起诉币安及其前首席执行官索赔 18 亿美元</title>
       <link>https://www.reuters.com/markets/europe/ftx-sues-binance-its-former-ceo-18-bln-2024-11-11/</link>
       <description><![CDATA[倒闭的加密货币公司 FTX 正在起诉币安及其前首席执行官赵长鹏，指控 FTX 管理层向币安及其高管“欺诈性地转移”了 18 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/europe/ftx-sues-binance-its-former-ceo-18-bln-2024-11-11/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>瑞士央行副行长称不会降息</title>
       <link>https://www.reuters.com/markets/rates-bonds/swiss-national-bank-not-locked-into-rate-cuts-vice-chairman-says-2024-11-11/</link>
-      <description><![CDATA[据周一发表的采访报道，瑞士央行副主席安托万·马丁 (Antoine Martin) 表示，尽管瑞士央行此前曾表示，在解决通胀问题后，可能会削减借贷成本，但该行并未确定 12 月份会进一步降息。]]></description>
+      <description><![CDATA[据周一发表的采访报道，瑞士央行副主席安托万·马丁 (Antoine Martin) 表示，瑞士央行 12 月份不会进一步降息，尽管此前曾表示，在解决通胀问题后，该行可能会削减借贷成本。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/swiss-national-bank-not-locked-into-rate-cuts-vice-chairman-says-2024-11-11/</guid>
       <pubDate>Mon, 11 Nov 2024 05:10:40 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[意大利资产管理公司 Anima 周五表示，已任命高盛为财务顾问，评估 Banco BPM 提出的高达 16 亿欧元（17.1 亿美元）的收购提议。]]></description>
       <guid>https://www.reuters.com/business/finance/italys-anima-names-goldman-adviser-assess-banco-bpm-bid-2024-11-08/</guid>
       <pubDate>Fri, 08 Nov 2024 18:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街就银行资本、SEC 监管起草特朗普愿望清单</title>
-      <link>https://www.reuters.com/markets/us/wall-street-drafts-trump-wish-lists-over-bank-capital-sec-regulation-2024-11-08/</link>
-      <description><![CDATA[华尔街看到了影响政策的机会，银行业和金融业正在迅速制定愿望清单，希望在特朗普总统新一届政府领导下放松监管。]]></description>
-      <guid>https://www.reuters.com/markets/us/wall-street-drafts-trump-wish-lists-over-bank-capital-sec-regulation-2024-11-08/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:38:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
