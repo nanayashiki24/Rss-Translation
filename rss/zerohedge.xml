@@ -4,7 +4,81 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Nov 2024 23:39:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 01:39:47 GMT</lastBuildDate>
+    <item>
+      <title>苹果发布紧急 iPhone 安全更新，警告黑客可能利用漏洞</title>
+      <link>https://www.zerohedge.com/technology/apple-releases-urgent-iphone-security-updates-warns-hackers-may-be-exploiting</link>
+      <description><![CDATA[苹果发布紧急 iPhone 安全更新，警告黑客可能正在利用漏洞
+作者：Tom Ozimek，《大纪元时报》
+苹果已为其 iOS 和其他操作系统发布紧急安全更新，以修补这家科技巨头和美国政府都存在的漏洞。网络安全官员警告称，这些漏洞可能会被黑客积极利用。
+
+Apple 的安全更新修补了 iPhone、iPad 和 Mac 产品操作系统的漏洞，以及其根据 11 月 19 日发布的一系列安全相关公告，Safari 网络浏览器存在安全漏洞。
+具体来说，软件更新针对 iOS 17.7.2 和 iPadOS 17.7.2、iOS 18.1.1 和 iPadOS 18.1.1、visionOS 2.1.1、macOS Sequoia 15.1.1、Safari 18.1 和 Safari 18.1.1。
+Apple 指出，在上述所有情况下，补丁都修复了 WebKit 和 JavaScriptCore 中的两个重大漏洞。这些漏洞可能通过恶意 Web 内容导致任意代码执行攻击，已被黑客利用。
+“Apple 获悉一份报告称，该问题可能已在基于 Intel 的 Mac 上被积极利用，”该公司在多个安全警报中写道。
+目前尚无关于可能利用这些漏洞的网络威胁行为者身份的信息。一般而言，如果黑客能够通过恶意制作的网页内容执行任意代码，这可能会使敏感的用户数据面临风险，从而可能导致未经授权的访问、凭据被盗甚至设备控制。
+此外，Apple Safari 18.1 的安全补丁解决多个可能被恶意利用的漏洞，包括允许黑客滥用信任关系下载恶意内容、泄露私人浏览历史记录，以及允许处理恶意制作的网页内容，从而阻止安全协议的执行或导致意外的进程崩溃。
+美国网络安全和基础设施安全局 (CISA) 也注意到了所列 Apple 产品中的安全漏洞。
+“网络威胁行为者可以利用其中一个漏洞来控制受影响的系统，”CISA 在 11 月的一份报告中表示。 20警报，指出 Apple 发布的安全性更新解决了这些漏洞。
+根据 Apple 的安全警报，受影响的设备范围非常广泛。 iOS 18.1.1 和 iPadOS 18.1.1 的更新分别解决了 iPhone XS 及更高版本、iPad Pro 机型（从第 3 代开始）以及第 3 代和第 5 代以后发布的 iPad Air 和 mini 机型等设备的漏洞。
+同样，iOS 17.7.2 和 iPadOS 17.7.2 将覆盖范围扩大到稍旧的设备，例如 10.5 英寸 iPad Pro 和第 6 代 iPad。
+在 macOS Ventura 和 macOS Sonoma 上运行 macOS Sequoia 15.1.1 或 Safari 的 Mac 用户也受到影响，在 Apple Vision Pro 上早期采用 visionOS 2.1.1 的用户也受到影响。
+
+Tyler Durden
+2024 年 11 月 21 日星期四 - 20:30]]></description>
+      <guid>https://www.zerohedge.com/technology/apple-releases-urgent-iphone-security-updates-warns-hackers-may-be-exploiting</guid>
+      <pubDate>Fri, 22 Nov 2024 01:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普重启美伊关系的机会</title>
+      <link>https://www.zerohedge.com/political/trumps-opportunity-reset-us-iran-relations</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/trumps-opportunity-reset-us-iran-relations</guid>
+      <pubDate>Fri, 22 Nov 2024 01:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国性取向的代际差异</title>
+      <link>https://www.zerohedge.com/medical/generational-differences-us-sexual-orientation</link>
+      <description><![CDATA[美国性取向的代际差异
+18-64 岁的美国成年人中，共有 9% 的人认为自己是同性恋或双性恋，另有 1% 的人认为自己是泛性恋。
+这是根据Statista Consumer Insights，正如 Statista 的 Katharina Bucholz 在下图中显示，在老年人中，不认为自己是异性恋的人的比例明显较低代际差异。
+
+您可以在Statista找到更多信息图表
+
+在婴儿潮一代的参与者中，96% 的人认为自己是异性恋。
+在 X 世代，这一数字为 94%。
+第一次重大的代际转变可以在千禧一代中观察到。
+对于 1980 年至 1994 年之间出生的人，这一数字为 88%。
+在查看 Z 世代的结果时，又出现了一次跳跃 - 这里只有 79% 的人认为自己是异性恋。
+Z 世代参与者中最常见的非异性恋反应是双性恋，占 11%。
+在那些认定为同性恋的人中，不同世代之间的差异很小——除 Z 世代外，其余人均为 3%，Z 世代为 4%。
+
+Tyler Durden
+2024 年 11 月 21 日星期四 - 19:40]]></description>
+      <guid>https://www.zerohedge.com/medical/generational-differences-us-sexual-orientation</guid>
+      <pubDate>Fri, 22 Nov 2024 00:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普承诺如有需要将利用休会任命，但这些任命是什么呢？</title>
+      <link>https://www.zerohedge.com/political/trump-promises-use-recess-appointments-if-needed-what-are-they</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/trump-promises-use-recess-appointments-if-needed-what-are-they</guid>
+      <pubDate>Fri, 22 Nov 2024 00:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>盖茨退出提名后，特朗普提名帕姆·邦迪为司法部长</title>
+      <link>https://www.zerohedge.com/political/gaetz-withdraws-consideration-attorney-general</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/gaetz-withdraws-consideration-attorney-general</guid>
+      <pubDate>Thu, 21 Nov 2024 23:50:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>“孩子们都长大了”：2025 年 Z 世代将占据所有管理职位的 10%</title>
+      <link>https://www.zerohedge.com/markets/kids-all-grown-gen-z-will-secure-10-all-managerial-jobs-2025</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/markets/kids-all-grown-gen-z-will-secure-10-all-managerial-jobs-2025</guid>
+      <pubDate>Thu, 21 Nov 2024 23:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普移民镇压的自由市场指南</title>
       <link>https://www.zerohedge.com/political/free-market-guide-trumps-immigration-crackdown</link>
@@ -85,65 +159,6 @@ Tyler Durden
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/political/obamas-ukraine-cover</guid>
       <pubDate>Thu, 21 Nov 2024 20:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>洲际弹道导弹发射之际，俄罗斯称已准备好接受任何“现实的”乌克兰和平计划</title>
-      <link>https://www.zerohedge.com/geopolitical/russia-says-its-ready-any-realistic-ukraine-peace-plan-icbms-fly</link>
-      <description><![CDATA[随着洲际弹道导弹的飞行，俄罗斯表示已准备好接受任何“现实的”乌克兰和平计划
-俄罗斯洲际弹道导弹 (ICBM) 周四首次升空，据报道瞄准了乌克兰中部城市第聂伯罗，克里姆林宫强调，它仍然对和平持开放态度——尽管本周美国和英国发布了新一轮极具升级性的政策（即批准使用西方提供的导弹对俄罗斯领土进行远程攻击导弹）。
-乌克兰一名高级军方官员此前告诉《金融时报》，俄罗斯发射了一枚名为“RS-26 Rubezh”的洲际弹道导弹，射程为 3,700 英里，可以袭击任何欧洲首都。随后，俄罗斯外交部发言人玛丽亚·扎哈罗娃在新闻发布会上表示，俄罗斯仍然愿意考虑任何关于乌克兰冲突的“现实”和平倡议。
-俄罗斯外交部新闻办公室/塔斯社
-她表示，一个现实的计划要考虑到俄罗斯自身的利益和当地局势。 “我们愿意进行谈判，我们愿意考虑任何现实的、非政治化的倡议——当然，”扎哈罗娃说。
-“我想再次强调：关键词是考虑到我们国家的利益、当前的实地局势以及遵守相关协议的保证，”她重申道。
-普京总统此前曾表示，一个现实的解决方案将取决于乌克兰放弃加入北约的所有愿望，以及割让东部和南部的四个领土，即顿涅茨克、卢甘斯克、赫尔松和扎波罗热地区。
-在整个战争期间，乌克兰官员的言论就好像乌克兰政府在与俄罗斯进行贸易时， ...割让东部领土是不可能的。然而，泽连斯基认为特朗普启动和平谈判的计划是真实的。
-“我相信特朗普总统真的希望迅速做出决定”来结束战争，泽连斯基本月早些时候在欧洲峰会上表示，但随后又说：“这并不意味着会这样发生。”
-“他（特朗普）希望结束这场战争，”泽连斯基继续说道，但随后表示仓促解决“对乌克兰来说将是一个损失。”
-
-哇，在她刚才的新闻发布会中，俄罗斯外交部发言人玛丽亚·扎哈罗娃接到某人的电话，指示她不要对今天的洲际弹道导弹指控发表评论。 pic.twitter.com/rH3fpoxIHQ
-— Kevin Rothrock (@KevinRothrock) 2024 年 11 月 21 日
-目前有很多猜测，为什么拜登政府在任期仅剩两个月的情况下似乎一心要加速第三次世界大战。 这是在特朗普上台前为基辅建立快速筹码吗？白宫是在试图阻挠特朗普的和平计划吗？ 
-普京可能会采取克制和耐心的方式，直到特朗普入主白宫，保持现有选择的开放——尽管很明显，事态正在迅速升级。鉴于西方远程导弹系统的注入，冲突日益难以预测。
-
-Tyler Durden
-2024 年 11 月 21 日星期四 - 15:05]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/russia-says-its-ready-any-realistic-ukraine-peace-plan-icbms-fly</guid>
-      <pubDate>Thu, 21 Nov 2024 20:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>坎蒂隆效应解析：为何通货膨胀有利于国家而损害了人民利益</title>
-      <link>https://www.zerohedge.com/markets/cantillon-effect-explained-why-inflation-helps-state-your-expense</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/markets/cantillon-effect-explained-why-inflation-helps-state-your-expense</guid>
-      <pubDate>Thu, 21 Nov 2024 19:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币创下历史新高的当天，Gensler 宣布辞去 SEC 主席职务</title>
-      <link>https://www.zerohedge.com/markets/gensler-announces-he-stepping-down-sec-chair-day-bitcoin-hits-all-time-high</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/markets/gensler-announces-he-stepping-down-sec-chair-day-bitcoin-hits-all-time-high</guid>
-      <pubDate>Thu, 21 Nov 2024 19:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国比特币 ETF 资产规模突破 1000 亿美元</title>
-      <link>https://www.zerohedge.com/crypto/us-bitcoin-etf-assets-break-above-100-billion</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/crypto/us-bitcoin-etf-assets-break-above-100-billion</guid>
-      <pubDate>Thu, 21 Nov 2024 19:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着拜登升级战事，一半乌克兰人希望尽快通过谈判结束战争</title>
-      <link>https://www.zerohedge.com/geopolitical/biden-escalates-half-ukrainians-want-negotiated-end-war-asap</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/biden-escalates-half-ukrainians-want-negotiated-end-war-asap</guid>
-      <pubDate>Thu, 21 Nov 2024 18:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，杀害阿什利·巴比特的警官长期存在纪律和培训问题</title>
-      <link>https://www.zerohedge.com/political/officer-who-killed-ashli-babbitt-had-long-history-disciplinary-training-problems-report</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/officer-who-killed-ashli-babbitt-had-long-history-disciplinary-training-problems-report</guid>
-      <pubDate>Thu, 21 Nov 2024 18:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
