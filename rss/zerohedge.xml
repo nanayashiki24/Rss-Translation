@@ -4,7 +4,14 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Nov 2024 08:26:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 08:46:28 GMT</lastBuildDate>
+    <item>
+      <title>德国 63% 的福利领取者有移民背景</title>
+      <link>https://www.zerohedge.com/geopolitical/63-all-welfare-recipients-germany-have-migration-background</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/geopolitical/63-all-welfare-recipients-germany-have-migration-background</guid>
+      <pubDate>Fri, 22 Nov 2024 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯将波兰美国导弹防御基地列为“优先打击目标”</title>
       <link>https://www.zerohedge.com/geopolitical/russia-lists-us-missile-defense-base-poland-priority-strike-target</link>
@@ -125,7 +132,7 @@ Apple 指出，在上述所有情况下，补丁都修复了 WebKit 和 JavaScri
 目前尚无关于可能利用这些漏洞的网络威胁行为者身份的信息。一般而言，如果黑客能够通过恶意制作的网页内容执行任意代码，这可能会使敏感的用户数据面临风险，从而可能导致未经授权的访问、凭据被盗甚至设备控制。
 此外，Apple Safari 18.1 的安全补丁解决多个可能被恶意利用的漏洞，包括允许黑客滥用信任关系下载恶意内容、泄露私人浏览历史记录，以及允许处理恶意制作的网页内容，从而阻止安全协议的执行或导致意外的进程崩溃。
 美国网络安全和基础设施安全局 (CISA) 也注意到了所列 Apple 产品中的安全漏洞。
-“网络威胁行为者可以利用其中一个漏洞来控制受影响的系统，”CISA 在 11 月的一份声明中表示。 20警报，指出 Apple 发布的安全性更新解决了这些漏洞。
+“网络威胁行为者可以利用其中一个漏洞来控制受影响的系统，”CISA 在 11 月的一份报告中表示。 20警报，指出 Apple 发布的安全性更新解决了这些漏洞。
 根据 Apple 的安全警报，受影响的设备范围非常广泛。 iOS 18.1.1 和 iPadOS 18.1.1 的更新分别解决了 iPhone XS 及更高版本、iPad Pro 机型（从第 3 代开始）以及第 3 代和第 5 代以后发布的 iPad Air 和 mini 机型等设备的漏洞。
 同样，iOS 17.7.2 和 iPadOS 17.7.2 将覆盖范围扩大到稍旧的设备，例如 10.5 英寸 iPad Pro 和第 6 代 iPad。
 在 macOS Ventura 和 macOS Sonoma 上运行 macOS Sequoia 15.1.1 或 Safari 的 Mac 用户也受到影响，在 Apple Vision Pro 上早期采用 visionOS 2.1.1 的用户也受到影响。
@@ -177,13 +184,6 @@ Tyler Durden
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/political/gaetz-withdraws-consideration-attorney-general</guid>
       <pubDate>Thu, 21 Nov 2024 23:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>“孩子们都长大了”：2025 年 Z 世代将占据所有管理职位的 10%</title>
-      <link>https://www.zerohedge.com/markets/kids-all-grown-gen-z-will-secure-10-all-managerial-jobs-2025</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/markets/kids-all-grown-gen-z-will-secure-10-all-managerial-jobs-2025</guid>
-      <pubDate>Thu, 21 Nov 2024 23:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
