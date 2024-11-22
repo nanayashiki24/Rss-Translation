@@ -4,7 +4,14 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Nov 2024 02:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 03:33:53 GMT</lastBuildDate>
+    <item>
+      <title>“重大健康风险”：日常用品如何将微塑料注入我们的身体</title>
+      <link>https://www.zerohedge.com/medical/significant-health-risk-how-everyday-items-fill-our-bodies-microplastics</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/medical/significant-health-risk-how-everyday-items-fill-our-bodies-microplastics</guid>
+      <pubDate>Fri, 22 Nov 2024 03:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>让教育再次伟大！</title>
       <link>https://www.zerohedge.com/political/make-education-great-again</link>
@@ -68,7 +75,7 @@ Apple 指出，在上述所有情况下，补丁都修复了 WebKit 和 JavaScri
 目前尚无关于可能利用这些漏洞的网络威胁行为者身份的信息。一般而言，如果黑客能够通过恶意制作的网页内容执行任意代码，这可能会使敏感的用户数据面临风险，从而可能导致未经授权的访问、凭据被盗甚至设备控制。
 此外，Apple Safari 18.1 的安全补丁解决多个可能被恶意利用的漏洞，包括允许黑客滥用信任关系下载恶意内容、泄露私人浏览历史记录，以及允许处理恶意制作的网页内容，从而阻止安全协议的执行或导致意外的进程崩溃。
 美国网络安全和基础设施安全局 (CISA) 也注意到了所列 Apple 产品中的安全漏洞。
-“网络威胁行为者可以利用其中一个漏洞来控制受影响的系统，”CISA 在 11 月的一份报告中表示。 20警报，指出 Apple 发布的安全性更新解决了这些漏洞。
+“网络威胁行为者可以利用其中一个漏洞来控制受影响的系统，”CISA 在 11 月的一份声明中表示。 20警报，指出 Apple 发布的安全性更新解决了这些漏洞。
 根据 Apple 的安全警报，受影响的设备范围非常广泛。 iOS 18.1.1 和 iPadOS 18.1.1 的更新分别解决了 iPhone XS 及更高版本、iPad Pro 机型（从第 3 代开始）以及第 3 代和第 5 代以后发布的 iPad Air 和 mini 机型等设备的漏洞。
 同样，iOS 17.7.2 和 iPadOS 17.7.2 将覆盖范围扩大到稍旧的设备，例如 10.5 英寸 iPad Pro 和第 6 代 iPad。
 在 macOS Ventura 和 macOS Sonoma 上运行 macOS Sequoia 15.1.1 或 Safari 的 Mac 用户也受到影响，在 Apple Vision Pro 上早期采用 visionOS 2.1.1 的用户也受到影响。
@@ -180,13 +187,6 @@ Tyler Durden
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/political/will-democrats-finally-learn-lesson</guid>
       <pubDate>Thu, 21 Nov 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>清单：在时间耗尽之前拯救美国免受全球化影响的政策行动</title>
-      <link>https://www.zerohedge.com/political/list-policy-actions-save-america-globalism-time-runs-out</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/list-policy-actions-save-america-globalism-time-runs-out</guid>
-      <pubDate>Thu, 21 Nov 2024 21:20:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
