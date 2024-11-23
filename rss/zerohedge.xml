@@ -4,7 +4,14 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Sat, 23 Nov 2024 14:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 15:39:41 GMT</lastBuildDate>
+    <item>
+      <title>除你武器！：HBO 向反罗琳、反言论自由运动发起猛烈攻击</title>
+      <link>https://www.zerohedge.com/political/expelliarmus-hbo-delivers-blow-against-anti-rowling-anti-free-speech-movement</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/expelliarmus-hbo-delivers-blow-against-anti-rowling-anti-free-speech-movement</guid>
+      <pubDate>Sat, 23 Nov 2024 15:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能对能源的无限需求威胁爱尔兰电网</title>
       <link>https://www.zerohedge.com/energy/ais-insatiable-appetite-energy-threatens-irelands-grid</link>
@@ -171,41 +178,6 @@ Tyler Durden
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/personal-finance/finding-shelter-monetary-racketeers</guid>
       <pubDate>Sat, 23 Nov 2024 01:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些是世界上 10 台最强大的超级计算机</title>
-      <link>https://www.zerohedge.com/technology/these-are-worlds-10-most-powerful-supercomputers</link>
-      <description><![CDATA[这些是世界上 10 台最强大的超级计算机
-根据 TOP500 的最新超级计算机排名， El Capitan 是世界上最强大的系统，能够达到 1,742 petaflops。
-在此图中，Visual Capitalist 的 Marcus Lu可视化了全球前 10 大超级计算机的性能和功耗。
-
-数据和关键要点
-我们用于创建此图形的数据列于下表中。数据来自 TOP500 的 2024 年 11 月排名。
-
-这一排名凸显了美国在计算能力方面的全球领先地位。例如，排名前三的超级计算机都位于美国，它们都被归类为百亿亿次级系统。
-这与2021 年排名相比发生了重大变化，当时日本的超级计算机富岳占据了榜首。
-今年排名的获胜者是El Capitan，它于 2024 年投入运营，是美国部署的第三个百亿亿次级系统。
-El Capitan 由美国能源部赞助，由 HP Enterprise Cray 制造，配备了数量不详的 AMD Instict MI300A 加速处理单元 (APU)。
-什么是百亿亿次级计算机？
-百亿亿次级计算机能够执行至少 1 百亿亿次浮点运算（每秒 1 千万亿次运算）。
-请注意，在此排名中，性能以千万亿次浮点运算（1 千万亿次浮点运算）为单位。1,000 千万亿次浮点运算等于 1 百亿亿次浮点运算。
-从现实角度来看，百亿亿次级计算机可以处理海量数据集并以前所未有的速度解决问题。用例包括：
-模拟分子相互作用
-预测气候变化
-推进核研究
-中国的百亿亿次级系统仍是个谜
-自 2021 年以来，有报道表明中国确实拥有自己的百亿亿次级系统，但只是隐瞒有关它们的信息，不将其列入 TOP500 等全球排名。
-
-众所周知，中国拥有这些计算机，而且它们已经运行了一段时间。他们没有运行基准测试，但[社区]对他们的架构和功能有一个大致的了解。
-- TOP500 联合创始人 Jack Dongarra
-
-中国的沉默可能与其地缘政治战略有关。公开宣布它已经建立了自己的百亿亿次级系统可能会导致美国进一步实施贸易限制。
-想了解更多？查看 Voronoi 上的 技术类别，查看更多类似的数据可视化。
-
-Tyler Durden
-2024 年 11 月 22 日星期五 - 19:40]]></description>
-      <guid>https://www.zerohedge.com/technology/these-are-worlds-10-most-powerful-supercomputers</guid>
-      <pubDate>Sat, 23 Nov 2024 00:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
