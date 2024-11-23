@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 23 Nov 2024 17:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 17:38:49 GMT</lastBuildDate>
+    <item>
+      <title>COP29 达成协议启动全球碳排放交易</title>
+      <link>https://www.reuters.com/sustainability/sustainable-finance-reporting/cop29-agrees-deal-kick-start-global-carbon-credit-trading-2024-11-23/</link>
+      <description><![CDATA[各国于周六在第29届联合国气候变化大会上就全球碳排放权交易市场规则达成协议，支持者表示该协议将调动数十亿美元资金投入新项目，助力应对全球变暖。]]></description>
+      <guid>https://www.reuters.com/sustainability/sustainable-finance-reporting/cop29-agrees-deal-kick-start-global-carbon-credit-trading-2024-11-23/</guid>
+      <pubDate>Sat, 23 Nov 2024 17:36:44 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普任命斯科特·贝森特出任财政部长，结束了长期围绕人选的争论</title>
       <link>https://www.reuters.com/world/us/trump-prepares-name-bessent-treasury-secretary-bloomberg-reports-2024-11-22/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>备忘录显示，花旗银行已获得在沙特阿拉伯设立地区总部的许可</title>
       <link>https://www.reuters.com/business/finance/citi-gets-license-regional-headquarters-saudi-arabia-memo-shows-2024-11-22/</link>
-      <description><![CDATA[据路透社周五看到的一份内部备忘录显示，美国花旗银行已获准在沙特阿拉伯利雅得设立其地区总部。]]></description>
+      <description><![CDATA[据路透社周五看到的一份内部备忘录显示，美国花旗银行已获得批准在沙特阿拉伯利雅得设立其地区总部。]]></description>
       <guid>https://www.reuters.com/business/finance/citi-gets-license-regional-headquarters-saudi-arabia-memo-shows-2024-11-22/</guid>
       <pubDate>Fri, 22 Nov 2024 16:22:21 GMT</pubDate>
     </item>
@@ -71,7 +78,7 @@
     <item>
       <title>墨西哥零售商 Elektra 再次暂停交易</title>
       <link>https://www.reuters.com/markets/trading-mexican-retailer-elektra-again-suspended-2024-11-22/</link>
-      <description><![CDATA[墨西哥主要证券交易所周五在股票易手之前恢复了对零售商 Elektra 的停牌，Elektra 警告称任何交易都将损害其业务。]]></description>
+      <description><![CDATA[墨西哥主要证券交易所周五在股票易手之前恢复了对零售商 Elektra 的交易暂停，Elektra 警告称任何交易都将损害其业务。]]></description>
       <guid>https://www.reuters.com/markets/trading-mexican-retailer-elektra-again-suspended-2024-11-22/</guid>
       <pubDate>Fri, 22 Nov 2024 15:13:23 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Fri, 22 Nov 2024 14:28:22 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰银行停止处理零售客户在俄罗斯的付款</title>
+      <title>汇丰银行停止为零售客户处理俄罗斯付款</title>
       <link>https://www.reuters.com/business/finance/hsbc-stops-processing-all-russia-payments-retail-customers-2024-11-22/</link>
       <description><![CDATA[汇丰银行周五表示，已停止为个人银行客户处理来自俄罗斯或白俄罗斯的所有付款，]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-stops-processing-all-russia-payments-retail-customers-2024-11-22/</guid>
       <pubDate>Fri, 22 Nov 2024 14:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国央行行长警告称，关税可能损害经济增长、推高通胀</title>
-      <link>https://www.reuters.com/markets/europe/tariffs-could-hurt-growth-boost-inflation-all-bundesbank-chief-warns-2024-11-22/</link>
-      <description><![CDATA[德国央行行长纳格尔周五表示，如果爆发新的贸易战，欧洲和美国的经济增速都将受到打击，通胀也可能上升，这将加大欧盟领导人启动长期拖延的经济一体化进程以保护欧盟的压力。]]></description>
-      <guid>https://www.reuters.com/markets/europe/tariffs-could-hurt-growth-boost-inflation-all-bundesbank-chief-warns-2024-11-22/</guid>
-      <pubDate>Fri, 22 Nov 2024 13:42:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
