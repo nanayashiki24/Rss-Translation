@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Nov 2024 09:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 09:41:50 GMT</lastBuildDate>
+    <item>
+      <title>瑞士隆奥银行因洗钱被起诉</title>
+      <link>https://www.reuters.com/business/finance/lombard-odier-indicted-switzerland-over-money-laundering-2024-11-29/</link>
+      <description><![CDATA[瑞士总检察长办公室 (OAG) 周五表示，已对私人银行 Lombard Odier 及其一名前雇员提起严重洗钱指控。]]></description>
+      <guid>https://www.reuters.com/business/finance/lombard-odier-indicted-switzerland-over-money-laundering-2024-11-29/</guid>
+      <pubDate>Fri, 29 Nov 2024 09:21:57 GMT</pubDate>
+    </item>
     <item>
       <title>英国央行发现金融市场管道存在潜在漏洞</title>
       <link>https://www.reuters.com/business/finance/bank-england-finds-some-vulnerabilities-probe-central-counterparties-2024-11-29/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[银行业主要工会周四表示，裕信银行 (UniCredit) 收购 Banco BPM 引发了人们对该交易可能对就业产生影响的担忧。]]></description>
       <guid>https://www.reuters.com/markets/deals/unicredit-bid-banco-bpm-raises-concerns-workforce-union-says-2024-11-28/</guid>
       <pubDate>Thu, 28 Nov 2024 09:50:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲央行数据显示欧元区银行贷款继续回升</title>
-      <link>https://www.reuters.com/markets/europe/euro-zone-bank-lending-continues-pick-up-ecb-data-shows-2024-11-28/</link>
-      <description><![CDATA[欧洲央行周四公布的数据显示，上个月欧元区企业和家庭的贷款继续加速，支持了一些人的观点，即欧元区经济已经触底并且正在进行“软着陆”。]]></description>
-      <guid>https://www.reuters.com/markets/europe/euro-zone-bank-lending-continues-pick-up-ecb-data-shows-2024-11-28/</guid>
-      <pubDate>Thu, 28 Nov 2024 09:14:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
