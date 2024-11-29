@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Nov 2024 08:47:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 09:22:37 GMT</lastBuildDate>
+    <item>
+      <title>英国央行发现金融市场管道存在潜在漏洞</title>
+      <link>https://www.reuters.com/business/finance/bank-england-finds-some-vulnerabilities-probe-central-counterparties-2024-11-29/</link>
+      <description><![CDATA[英国央行周五表示，对中央对手方（CCP，金融市场管道的重要组成部分）的压力测试确实发现了一些弱点，但总体上表现出了韧性。]]></description>
+      <guid>https://www.reuters.com/business/finance/bank-england-finds-some-vulnerabilities-probe-central-counterparties-2024-11-29/</guid>
+      <pubDate>Fri, 29 Nov 2024 08:53:50 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普上台一个月后，世界市场开始接受现实考验</title>
       <link>https://www.reuters.com/markets/global-markets-graphic-update-1-graphic-2024-11-29/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[欧洲央行周四公布的数据显示，上个月欧元区企业和家庭的贷款继续加速，支持了一些人的观点，即欧元区经济已经触底并且正在进行“软着陆”。]]></description>
       <guid>https://www.reuters.com/markets/europe/euro-zone-bank-lending-continues-pick-up-ecb-data-shows-2024-11-28/</guid>
       <pubDate>Thu, 28 Nov 2024 09:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国贿赂指控曝光后，印度银行重新评估阿达尼的风险敞口</title>
-      <link>https://www.reuters.com/world/india/abu-dhabis-ihc-says-its-outlook-adani-group-investments-is-unchanged-2024-11-28/</link>
-      <description><![CDATA[八位银行家周四表示，印度各大银行正在审查与阿达尼的风险敞口，以决定是否需要加强尽职调查。此前，阿达尼集团亿万富翁创始人高塔姆·阿达尼因涉嫌 2.65 亿美元的贿赂计划遭到美国当局起诉。]]></description>
-      <guid>https://www.reuters.com/world/india/abu-dhabis-ihc-says-its-outlook-adani-group-investments-is-unchanged-2024-11-28/</guid>
-      <pubDate>Thu, 28 Nov 2024 02:31:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
