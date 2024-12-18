@@ -4,7 +4,7 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 18 Dec 2024 19:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 19:39:06 GMT</lastBuildDate>
     <item>
       <title>美国监管机构要求 USAA 联邦储蓄银行纠正不安全做法</title>
       <link>https://www.reuters.com/business/finance/us-regulator-orders-usaa-federal-savings-bank-correct-unsafe-practices-2024-12-18/</link>
@@ -46,6 +46,13 @@
       <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-12-18/</guid>
       <pubDate>Wed, 18 Dec 2024 11:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储按预期降息后股市下跌</title>
+      <link>https://www.reuters.com/markets/us/futures-inch-higher-markets-await-fed-decision-2024-12-18/</link>
+      <description><![CDATA[美联储宣布降息四分之一个百分点，且央行的经济预测显示明年降息步伐将放缓，美国股市周三下跌，抹去了早前的涨幅。]]></description>
+      <guid>https://www.reuters.com/markets/us/futures-inch-higher-markets-await-fed-decision-2024-12-18/</guid>
+      <pubDate>Wed, 18 Dec 2024 11:15:00 GMT</pubDate>
     </item>
     <item>
       <title>鲍威尔在担任美联储主席的最后一年有很多事情要做</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[德国周三拒绝了意大利联合信贷银行最新一次增持德国商业银行股份的决定，称其为“不协调、不友好的做法”，并强烈谴责这家意大利银行。]]></description>
       <guid>https://www.reuters.com/markets/deals/unicredit-raises-commerzbank-stake-28-with-further-derivatives-2024-12-18/</guid>
       <pubDate>Wed, 18 Dec 2024 07:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲的难题：如何筹集国防开支</title>
-      <link>https://www.reuters.com/business/aerospace-defense/europes-conundrum-how-fund-defence-spending-2024-12-18/</link>
-      <description><![CDATA[由于欧盟东部边境战火纷飞，俄罗斯构成威胁，以及美国当选总统唐纳德·特朗普向盟友施压，要求其采取更多行动，欧盟迫切需要一个可行的计划，以确保数千亿欧元的资金来加强防御。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/europes-conundrum-how-fund-defence-spending-2024-12-18/</guid>
-      <pubDate>Wed, 18 Dec 2024 06:09:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
