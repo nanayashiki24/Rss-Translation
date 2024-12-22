@@ -4,7 +4,14 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Dec 2024 21:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 21:37:48 GMT</lastBuildDate>
+    <item>
+      <title>拜登掩盖心理健康丑闻带来的多米诺骨牌效应正在迅速倒下</title>
+      <link>https://www.zerohedge.com/political/dominoes-are-falling-fast-over-biden-mental-health-cover</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/dominoes-are-falling-fast-over-biden-mental-health-cover</guid>
+      <pubDate>Sun, 22 Dec 2024 21:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>“恶作剧 TikToker”拍摄自己向沃尔玛农产品喷洒毒药的视频后被捕</title>
       <link>https://www.zerohedge.com/political/prank-tiktoker-busted-after-filming-himself-spraying-walmart-produce-poison</link>
@@ -99,7 +106,7 @@ U1 失业率 15 周以上
 Mish McKelvey 式衰退指标
 
 什么是 Mish McKelvey 式衰退指标？
-取 U1 失业率平均值的 3 个月移动平均值的当前值，减去 5 个月低点，如果差值达到或超过 0.20 个百分点，则很可能出现衰退。
+取 U1 失业率平均值的 3 个月移动平均值的当前值，减去 5 个月低点，如果差值等于或大于 0.20 个百分点，则很可能出现衰退。
 我的指标比 McKelvey 指标更滞后，需要重置。 1992-1993 年的明显假阳性可以视为上一次衰退的持续疲软。
 2003 年，我的指标几乎重置为零，达到 0.02。这已经足够接近了。我承认 2003 年 8 月升至 0.24 时出现了假阳性，重置触发值为 0.10。
 概要
@@ -184,13 +191,6 @@ Tyler Durden
 2024 年 12 月 22 日星期日 - 07:35]]></description>
       <guid>https://www.zerohedge.com/medical/malaria-still-endemic-83-countries</guid>
       <pubDate>Sun, 22 Dec 2024 12:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>让欧洲再次伟大</title>
-      <link>https://www.zerohedge.com/geopolitical/make-europe-great-again</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/make-europe-great-again</guid>
-      <pubDate>Sun, 22 Dec 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
