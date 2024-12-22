@@ -4,7 +4,46 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Dec 2024 17:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:24:33 GMT</lastBuildDate>
+    <item>
+      <title>劳动力市场存在严重问题</title>
+      <link>https://www.zerohedge.com/markets/something-seriously-amiss-labor-markets</link>
+      <description><![CDATA[劳动力市场存在严重问题
+作者：Mike Shedlock，来自 MishTalk.com，
+我有一段时间没有更新过两个衰退指标了，其中一个是我的。让我们讨论一下。
+
+什么是 McKelvey 衰退指标？
+取 3 个月失业率平均值的当前值，减去 12 个月最低值，如果差值为 0.30 个百分点或更高，则可能出现衰退。
+高盛高级经济学家 Edward McKelvey 创造了该指标。
+不同的触发条件
+该指标的问题在于它有很多误报。
+我建议更高的触发条件。如果我们使用 0.4 的触发值，自 1953 年以来，误报数量将从 5 个下降到 2 个。
+连续六个月，McKelvey 一直处于或超过 0.4，最近五个月也高于这一数字。
+替代触发值
+我设计了第二个基于 15 周以上失业的移动平均指标。
+请看下图。
+U1 失业率 15 周以上
+
+很明显，上面的图表令人不安。但有多令人不安？经济衰退可能始于低至 0.29% 或高至 2.09% 的水平。
+但最重要的是变化的方向和速度，而不是水平。
+以 McKelvey 的出色工作为指导，我创建了以下图表。
+Mish McKelvey 式衰退指标
+
+什么是 Mish McKelvey 式衰退指标？
+取 U1 失业率平均值的 3 个月移动平均值的当前值，减去 5 个月低点，如果差值达到或超过 0.20 个百分点，则很可能出现衰退。
+我的指标比 McKelvey 指标更滞后，需要重置。 1992-1993 年的明显假阳性可以视为上一次衰退的持续疲软。
+2003 年，我的指标几乎重置为零，达到 0.02。这已经足够接近了。我承认 2003 年 8 月升至 0.24 时出现了假阳性，重置触发值为 0.10。
+概要
+我们有一个领先的衰退指标 (McKelvey) 和一个滞后指标，两者都发出了衰退警告。
+我的指标减弱至 0.19。部分原因是展期速度更快（5 个月对 12 个月）。但从历史上看，追溯到 1948 年 1 月，我的指标上任何高于 0.15 的信号都是警告。
+McKelvey 指数 11 月小幅上涨至 0.44，上个月为 0.43。
+综合起来，这些指标暗示了一个非常强烈的警告，即劳动力市场存在严重问题。
+
+Tyler Durden
+2024 年 12 月 22 日星期日 - 12:50]]></description>
+      <guid>https://www.zerohedge.com/markets/something-seriously-amiss-labor-markets</guid>
+      <pubDate>Sun, 22 Dec 2024 17:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>让门罗主义再次伟大？特朗普威胁收回巴拿马运河 担心中国接管</title>
       <link>https://www.zerohedge.com/geopolitical/make-monroe-doctrine-great-again-trump-threatens-return-panama-canal-amid-chinese</link>
@@ -138,13 +177,6 @@ Tyler Durden
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/precious-metals/syrias-central-bank-gold-miraculously-still-vault-reuters-claims</guid>
       <pubDate>Sun, 22 Dec 2024 02:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃斯科瓦尔：普京的问答和永远的战争之谜</title>
-      <link>https://www.zerohedge.com/geopolitical/escobar-putins-qa-and-thee-forever-wars-riddle</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/escobar-putins-qa-and-thee-forever-wars-riddle</guid>
-      <pubDate>Sun, 22 Dec 2024 02:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
