@@ -4,9 +4,16 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 23 Dec 2024 21:39:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 22:18:43 GMT</lastBuildDate>
     <item>
-      <title>美联储根据法律裁决宣布对银行压力测试进行重大修改</title>
+      <title>尼加拉瓜考虑由国家控制私人银行的领导权</title>
+      <link>https://www.reuters.com/world/americas/nicaragua-mulls-state-control-over-leadership-private-banks-2024-12-23/</link>
+      <description><![CDATA[尼加拉瓜立法机构将对一项改革这个中美洲国家银行系统的法案进行投票，该法案将赋予国家对该国私人金融机构领导层任命的控制权。]]></description>
+      <guid>https://www.reuters.com/world/americas/nicaragua-mulls-state-control-over-leadership-private-banks-2024-12-23/</guid>
+      <pubDate>Mon, 23 Dec 2024 21:43:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储根据法律裁决对银行压力测试提出重大修改</title>
       <link>https://www.reuters.com/business/finance/fed-announces-changes-bank-stress-tests-boost-transparency-trim-volatility-2024-12-23/</link>
       <description><![CDATA[美国联邦储备委员会周一表示，鉴于最近的法律发展，它正考虑对其年度银行“压力测试”进行重大修改，包括允许银行对其使用的模型发表评论，这是华尔街银行的重大胜利。]]></description>
       <guid>https://www.reuters.com/business/finance/fed-announces-changes-bank-stress-tests-boost-transparency-trim-volatility-2024-12-23/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>美国政府起诉沃尔玛和 Branch Messenger 送货司机收取“垃圾费”</title>
       <link>https://www.reuters.com/business/retail-consumer/cfpb-sues-walmart-branch-messenger-illegally-opening-deposit-accounts-2024-12-23/</link>
-      <description><![CDATA[美国消费者金融监管机构周一指责沃尔玛和劳动力支付公司 Branch Messenger 强迫一百多万送货司机使用导致他们支付超过 1000 万美元垃圾费的账户。]]></description>
+      <description><![CDATA[美国消费者金融监管机构周一指责沃尔玛和劳动力支付公司 Branch Messenger 强迫一百多万送货司机使用导致他们支付了超过 1000 万美元垃圾费的账户。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/cfpb-sues-walmart-branch-messenger-illegally-opening-deposit-accounts-2024-12-23/</guid>
       <pubDate>Mon, 23 Dec 2024 14:10:09 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国消费者金融保护局周五表示，已对摩根大通、美国银行和富国银行提起诉讼，指控其未能保护消费者免受支付平台 Zelle 上所谓的“广泛欺诈行为”的侵害。]]></description>
       <guid>https://www.reuters.com/business/finance/cfpb-sues-top-us-banks-says-they-allowed-fraud-payment-platform-zelle-2024-12-20/</guid>
       <pubDate>Fri, 20 Dec 2024 14:37:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>前国际货币基金组织总裁拉托因腐败被判处新刑期</title>
-      <link>https://www.reuters.com/world/europe/ex-imf-chief-rato-sentenced-4-years-9-months-prison-over-corruption-case-2024-12-20/</link>
-      <description><![CDATA[马德里法院周五表示，该法院以腐败罪名判处前国际货币基金组织总裁罗德里戈·拉托近五年监禁。]]></description>
-      <guid>https://www.reuters.com/world/europe/ex-imf-chief-rato-sentenced-4-years-9-months-prison-over-corruption-case-2024-12-20/</guid>
-      <pubDate>Fri, 20 Dec 2024 12:42:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
