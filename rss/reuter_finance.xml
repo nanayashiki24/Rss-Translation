@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 Jan 2025 15:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 16:24:44 GMT</lastBuildDate>
+    <item>
+      <title>IBM 与 GlobalFoundries 就合同和商业机密达成和解</title>
+      <link>https://www.reuters.com/legal/ibm-globalfoundries-settle-lawsuits-over-contract-trade-secrets-2025-01-02/</link>
+      <description><![CDATA[GlobalFoundries 和 IBM 周四宣布，双方已就一项诉讼达成和解，该诉讼称 GlobalFoundries 违反了与 IBM 签订的合同，并且 IBM 滥用了该芯片制造商的商业机密。]]></description>
+      <guid>https://www.reuters.com/legal/ibm-globalfoundries-settle-lawsuits-over-contract-trade-secrets-2025-01-02/</guid>
+      <pubDate>Thu, 02 Jan 2025 15:46:54 GMT</pubDate>
+    </item>
     <item>
       <title>富时 100 指数新年开盘表现积极</title>
       <link>https://www.reuters.com/markets/ftse-100-kicks-off-new-year-trade-positive-note-2025-01-02/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[周一，德克萨斯州一名联邦法官成为第二位推翻拜登政府规定的人，该规定将把强制加班费延长至 400 万受薪工人。]]></description>
       <guid>https://www.reuters.com/legal/litigation/another-judge-blocks-biden-rule-expanding-overtime-pay-2024-12-30/</guid>
       <pubDate>Mon, 30 Dec 2024 20:53:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>比尔·阿克曼预计特朗普将私有化房利美和房地美</title>
-      <link>https://www.reuters.com/business/finance/bill-ackman-expects-trump-privatize-fannie-mae-freddie-mac-2024-12-30/</link>
-      <description><![CDATA[亿万富翁投资者比尔·阿克曼周一表示，他预计美国当选总统唐纳德·特朗普将解除对房利美和房地美的托管，并可能使它们再次成为私营公司。]]></description>
-      <guid>https://www.reuters.com/business/finance/bill-ackman-expects-trump-privatize-fannie-mae-freddie-mac-2024-12-30/</guid>
-      <pubDate>Mon, 30 Dec 2024 20:14:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
