@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 Jan 2025 19:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 20:21:00 GMT</lastBuildDate>
+    <item>
+      <title>联邦机构公布私有化路径后，房利美和房地美股价飙升</title>
+      <link>https://www.reuters.com/business/finance/fannie-mae-freddie-mac-shares-surge-after-federal-agencies-reveal-privatization-2025-01-03/</link>
+      <description><![CDATA[自 2008 年以来一直受美国政府控制的抵押贷款巨头房利美和房地美股价在联邦机构公布“有序”解除托管的框架后于周五飙升至多年高位。]]></description>
+      <guid>https://www.reuters.com/business/finance/fannie-mae-freddie-mac-shares-surge-after-federal-agencies-reveal-privatization-2025-01-03/</guid>
+      <pubDate>Fri, 03 Jan 2025 19:57:25 GMT</pubDate>
+    </item>
     <item>
       <title>消息人士称，Brookfield 推迟出售伦敦 Citypoint 办公大楼</title>
       <link>https://www.reuters.com/business/finance/brookfield-delays-sale-londons-citypoint-office-tower-source-says-2025-01-03/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>文件显示，美国监管机构就加密货币向银行发出警告，但并未下令停止业务</title>
       <link>https://www.reuters.com/technology/us-regulator-was-cautious-crypto-did-not-tell-banks-choke-off-sector-documents-2025-01-03/</link>
-      <description><![CDATA[根据周五发布的文件，美国一家银行监管机构要求银行在 2022 年和 2023 年暂停直接涉足加密货币，但并未命令它们停止向加密货币公司提供银行服务，尽管业界抱怨普遍存在“去银行化”现象。]]></description>
+      <description><![CDATA[据周五发布的文件显示，美国一家银行监管机构要求银行在 2022 年和 2023 年暂停直接涉足加密货币，但并未命令它们停止向加密货币公司提供银行服务，尽管业界抱怨普遍存在“去银行化”现象。]]></description>
       <guid>https://www.reuters.com/technology/us-regulator-was-cautious-crypto-did-not-tell-banks-choke-off-sector-documents-2025-01-03/</guid>
       <pubDate>Fri, 03 Jan 2025 16:34:45 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>IBM 与 GlobalFoundries 就合同和商业机密达成和解</title>
       <link>https://www.reuters.com/legal/ibm-globalfoundries-settle-lawsuits-over-contract-trade-secrets-2025-01-02/</link>
-      <description><![CDATA[GlobalFoundries 和 IBM 周四宣布，双方已达成和解，GlobalFoundries 被指控违反与 IBM 的合同，而 IBM 则被指控滥用该芯片制造商的商业机密。]]></description>
+      <description><![CDATA[GlobalFoundries 和 IBM 周四宣布，双方已达成和解，GlobalFoundries 被指控违反与 IBM 签订的合同，而 IBM 则被指控滥用该芯片制造商的商业机密。]]></description>
       <guid>https://www.reuters.com/legal/ibm-globalfoundries-settle-lawsuits-over-contract-trade-secrets-2025-01-02/</guid>
       <pubDate>Thu, 02 Jan 2025 15:46:54 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[据知情人士透露，美国联邦存款保险公司 (FDIC) 已告知资产管理公司贝莱德，必须在 1 月 10 日之前接受一项协议，该协议将允许该机构加强对其对 FDIC 监管银行机构的投资的审查。]]></description>
       <guid>https://www.reuters.com/business/finance/bank-regulator-gives-blackrock-january-deadline-bank-stakes-2024-12-30/</guid>
       <pubDate>Mon, 30 Dec 2024 22:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国政府基金完成赔付，伯纳德·麦道夫受害者领取 43 亿美元</title>
-      <link>https://www.reuters.com/world/us/bernard-madoffs-victims-collect-43-billion-us-government-fund-completes-payouts-2024-12-30/</link>
-      <description><![CDATA[美国政府为赔偿伯纳德·麦道夫诈骗受害者而设立的基金于周一宣布了第十次也是最后一次赔偿，称将向这位庞氏骗局骗子 40,930 名受害者支付 43 亿美元。]]></description>
-      <guid>https://www.reuters.com/world/us/bernard-madoffs-victims-collect-43-billion-us-government-fund-completes-payouts-2024-12-30/</guid>
-      <pubDate>Mon, 30 Dec 2024 21:14:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
