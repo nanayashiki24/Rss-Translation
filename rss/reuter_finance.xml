@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 Jan 2025 19:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 19:38:51 GMT</lastBuildDate>
+    <item>
+      <title>美国企业纷纷进入债券市场筹资</title>
+      <link>https://www.reuters.com/markets/rates-bonds/us-companies-rush-bond-market-fundraising-flurry-2025-01-06/</link>
+      <description><![CDATA[周一，美国企业纷纷涌入公司债券市场，因为在周五公布的就业数据之后，新年头几天通常会出现季节性的融资热潮，而这股热潮获得了额外的动力，可以赶在国债收益率进一步上升（从而推高融资成本）之前进行。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/us-companies-rush-bond-market-fundraising-flurry-2025-01-06/</guid>
+      <pubDate>Mon, 06 Jan 2025 19:25:09 GMT</pubDate>
+    </item>
     <item>
       <title>美联储巴尔将提前辞去监管职务，以避免角色“争议”</title>
       <link>https://www.reuters.com/world/us/feds-barr-resign-early-regulatory-post-2025-01-06/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[欧洲央行周四公布的数据显示，11月份欧元区企业和家庭贷款增长温和，预示今年年底欧元区经济将表现平淡。]]></description>
       <guid>https://www.reuters.com/markets/europe/euro-zone-bank-lending-is-stuck-low-gear-ecb-data-shows-2025-01-02/</guid>
       <pubDate>Thu, 02 Jan 2025 09:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>花旗集团、美国银行加入美国银行行列退出净零银行联盟</title>
-      <link>https://www.reuters.com/business/finance/citigroup-joins-us-lenders-exiting-net-zero-banking-alliance-2024-12-31/</link>
-      <description><![CDATA[美国花旗集团和美国银行周二表示，将退出净零银行联盟 (NZBA)，该联盟是由承诺减少温室气体排放的全球银行组成的组织。]]></description>
-      <guid>https://www.reuters.com/business/finance/citigroup-joins-us-lenders-exiting-net-zero-banking-alliance-2024-12-31/</guid>
-      <pubDate>Tue, 31 Dec 2024 23:04:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
