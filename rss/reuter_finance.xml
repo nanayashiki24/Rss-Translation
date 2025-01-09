@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 09 Jan 2025 14:42:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 15:21:12 GMT</lastBuildDate>
+    <item>
+      <title>不论好坏，全球债券市场动荡都未波及欧元区</title>
+      <link>https://www.reuters.com/markets/europe/good-reasons-bad-global-bond-wobble-passes-over-euro-zone-2025-01-09/</link>
+      <description><![CDATA[就在英国和美国面临投资者担心债务增长和通胀居高不下的压力之际，欧元区似乎基本逃脱了市场的愤怒——尽管这种平静背后的原因并不全是令人愉快的。]]></description>
+      <guid>https://www.reuters.com/markets/europe/good-reasons-bad-global-bond-wobble-passes-over-euro-zone-2025-01-09/</guid>
+      <pubDate>Thu, 09 Jan 2025 15:16:18 GMT</pubDate>
+    </item>
     <item>
       <title>据《华尔街日报》报道，瑞银接近就瑞信逃税案达成和解</title>
       <link>https://www.reuters.com/business/finance/ubs-nears-settlement-over-credit-suisse-tax-evasion-case-wsj-reports-2025-01-09/</link>
@@ -99,16 +106,9 @@
     <item>
       <title>国债收益率飙升反映出对更多长期债务的预期</title>
       <link>https://www.reuters.com/markets/rates-bonds/treasury-yield-surge-reflects-expectations-more-long-term-debt-2025-01-08/</link>
-      <description><![CDATA[交易员表示，长期美国国债收益率已飙升至数月高点，超过短期国债收益率的升幅，部分差异反映出人们预期，即将上任的特朗普政府将需要改变目前对更多依赖短期债务的关注。]]></description>
+      <description><![CDATA[交易员表示，长期美国国债收益率已飙升至数月高点，超过短期国债收益率的升幅，部分差异反映出人们预期，即将上任的特朗普政府将需要改变目前对短期债务的依赖。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/treasury-yield-surge-reflects-expectations-more-long-term-debt-2025-01-08/</guid>
       <pubDate>Wed, 08 Jan 2025 17:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>行业团体就拜登禁止在信用报告中记录医疗债务提起诉讼</title>
-      <link>https://www.reuters.com/legal/industry-groups-sue-over-biden-ban-medical-debt-credit-reports-2025-01-08/</link>
-      <description><![CDATA[他们认为这项禁令可能会让他们看不到有关风险的信息。]]></description>
-      <guid>https://www.reuters.com/legal/industry-groups-sue-over-biden-ban-medical-debt-credit-reports-2025-01-08/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:38:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
