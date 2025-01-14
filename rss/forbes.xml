@@ -4,7 +4,28 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Tue, 14 Jan 2025 19:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 19:37:30 GMT</lastBuildDate>
+    <item>
+      <title>DORA 对工程团队来说还不够</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/14/dora-is-not-enough-for-engineering-teams/</link>
+      <description><![CDATA[DORA 指标不足以有效地规划、管理和领导工程组织。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/14/dora-is-not-enough-for-engineering-teams/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:28:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果拜登的新人工智能出口规则得以实施，谁会获胜？</title>
+      <link>https://www.forbes.com/sites/karlfreund/2025/01/14/who-wins-if-the-new-biden-ai-export-rules-stand/</link>
+      <description><![CDATA[尽管英伟达和欧盟对拜登政府最新出台的人工智能出口限制措施表示不满，但有少数公司表示……]]></description>
+      <guid>https://www.forbes.com/sites/karlfreund/2025/01/14/who-wins-if-the-new-biden-ai-export-rules-stand/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>小型企业如何利用技术：20 条专家建议</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/14/how-small-businesses-can-tap-into-technology-20-expert-tips/</link>
+      <description><![CDATA[技术的最新进展（其中许多都以人工智能为中心）意味着，在可用（且负担得起）的技术工具和服务方面，从未有过如此多的选择。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/14/how-small-businesses-can-tap-into-technology-20-expert-tips/</guid>
+      <pubDate>Tue, 14 Jan 2025 19:15:27 GMT</pubDate>
+    </item>
     <item>
       <title>高调的入侵事件提醒人们注意发布的内容</title>
       <link>https://www.forbes.com/sites/petersuciu/2025/01/14/high-profile-break-ins-serve-as-reminder-to-watch-what-you-post/</link>
@@ -27,7 +48,7 @@
       <pubDate>Tue, 14 Jan 2025 18:43:38 GMT</pubDate>
     </item>
     <item>
-      <title>迪拜推出雄心勃勃的“创意者中心”以吸引全球数字人才</title>
+      <title>迪拜推出雄心勃勃的内容创作者中心，吸引全球数字人才</title>
       <link>https://www.forbes.com/sites/ianshepherd/2025/01/14/dubai-launches-ambitious-creator-hub-to-attract-global-digital-talent/</link>
       <description><![CDATA[吸引 10,000 名有影响力人士的举措代表着该酋长国巩固其作为全球数字创新中心地位的战略迈出了重要一步。]]></description>
       <guid>https://www.forbes.com/sites/ianshepherd/2025/01/14/dubai-launches-ambitious-creator-hub-to-attract-global-digital-talent/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[这部电影的意义到底是什么？]]></description>
       <guid>https://www.forbes.com/sites/erikkain/2025/01/14/sonys-until-dawn-movie-looks-nothing-like-the-video-game/</guid>
       <pubDate>Tue, 14 Jan 2025 16:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Commvault 实现 Active Directory 恢复自动化，提高恢复能力</title>
-      <link>https://www.forbes.com/sites/moorinsights/2025/01/14/commvault-automates-active-directory-recovery-for-better-resilience/</link>
-      <description><![CDATA[针对身份基础设施（尤其是 Active Directory）的网络攻击可能会带来严重后果。Commvault 的新产品旨在加快 AD 攻击后的恢复速度。]]></description>
-      <guid>https://www.forbes.com/sites/moorinsights/2025/01/14/commvault-automates-active-directory-recovery-for-better-resilience/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用这些专家提示确保平台工程成功</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/14/ensure-platform-engineering-success-with-these-expert-tips/</link>
-      <description><![CDATA[平台工程是一个复杂的过程；领导者必须首先仔细考虑多种短期和长期因素。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/14/ensure-platform-engineering-success-with-these-expert-tips/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:15:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>三星确认为 Galaxy 手机推出新的退款计划</title>
-      <link>https://www.forbes.com/sites/jaymcgregor/2025/01/14/samsung-galaxy-s23-galaxy-z-fold-5-trade-in-price-scheme/</link>
-      <description><![CDATA[三星正采用新方案，加倍提高以旧换新价格。]]></description>
-      <guid>https://www.forbes.com/sites/jaymcgregor/2025/01/14/samsung-galaxy-s23-galaxy-z-fold-5-trade-in-price-scheme/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:05:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
