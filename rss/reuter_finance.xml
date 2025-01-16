@@ -4,11 +4,18 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 16 Jan 2025 13:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 13:39:29 GMT</lastBuildDate>
     <item>
-      <title>账目显示欧洲央行会议表示支持进一步降息</title>
+      <title>消息人士称，法国兴业银行计划部分恢复黄金交易</title>
+      <link>https://www.reuters.com/markets/commodities/societe-generale-plans-partial-return-gold-trading-sources-say-2025-01-16/</link>
+      <description><![CDATA[两位知情人士向路透社透露，法国第三大上市银行法国兴业银行 (Societe Generale) 计划在 2019 年退出黄金市场后部分回归黄金交易。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/societe-generale-plans-partial-return-gold-trading-sources-say-2025-01-16/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:35:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲央行报告显示，降息应循序渐进且谨慎</title>
       <link>https://www.reuters.com/markets/rates-bonds/ecb-meeting-indicated-support-further-rate-cuts-accounts-show-2025-01-16/</link>
-      <description><![CDATA[根据周四公布的 12 月 11 日至 12 日会议记录，欧洲央行决策者上个月得出结论，欧洲央行需要谨慎、逐步地降息，但可能会进一步放松政策。]]></description>
+      <description><![CDATA[根据 12 月 11 日至 12 日会议记录，欧洲央行决策者上月得出结论，欧洲央行需要谨慎、逐步地降息，但鉴于价格压力减弱，可能会进一步放松政策。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/ecb-meeting-indicated-support-further-rate-cuts-accounts-show-2025-01-16/</guid>
       <pubDate>Thu, 16 Jan 2025 13:00:54 GMT</pubDate>
     </item>
@@ -27,9 +34,9 @@
       <pubDate>Thu, 16 Jan 2025 12:47:35 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利利润因交易和股票销售增加而上涨</title>
+      <title>摩根士丹利利润因交易和股票销售增长一倍以上</title>
       <link>https://www.reuters.com/business/finance/morgan-stanley-profit-jumps-recovery-investment-banking-2025-01-16/</link>
-      <description><![CDATA[摩根士丹利第四季度利润增长，受一系列交易和股票出售的推动，其收入创下了全年最高纪录。]]></description>
+      <description><![CDATA[摩根士丹利第四季度利润增长一倍以上，受一系列交易和股票出售的推动，其收入创下了全年最高纪录。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanley-profit-jumps-recovery-investment-banking-2025-01-16/</guid>
       <pubDate>Thu, 16 Jan 2025 12:37:43 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[美国和卡塔尔称，谈判人员周三达成分阶段协议，结束以色列和哈马斯在加沙地带的战争。经过 15 个月的流血冲突，数万巴勒斯坦人丧生，并激怒了中东地区。]]></description>
       <guid>https://www.reuters.com/world/middle-east/quote-box-investor-reactions-gaza-ceasefire-deal-2025-01-15/</guid>
       <pubDate>Wed, 15 Jan 2025 18:20:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>银行首席执行官预计特朗普将推动业务增长，因利润激增</title>
-      <link>https://www.reuters.com/business/finance/wrapup-profits-wall-street-banks-jump-with-trading-strength-dealmaking-rebound-2025-01-15/</link>
-      <description><![CDATA[华尔街首席执行官们周三表示有信心，新一届美国政府将对企业友好，对银行有利，因为他们报告称，由于交易量回升，银行利润大幅增长。]]></description>
-      <guid>https://www.reuters.com/business/finance/wrapup-profits-wall-street-banks-jump-with-trading-strength-dealmaking-rebound-2025-01-15/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:15:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
