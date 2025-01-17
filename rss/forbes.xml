@@ -4,9 +4,16 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Fri, 17 Jan 2025 15:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 15:38:25 GMT</lastBuildDate>
     <item>
-      <title>最高法院维持法律，TikTok 禁令将于周日生效</title>
+      <title>Yubico 发布安全公告，确认存在 2FA 绕过漏洞</title>
+      <link>https://www.forbes.com/sites/daveywinder/2025/01/17/yubico-issues-security-advisory-as-2fa-bypass-vulnerability-confirmed/</link>
+      <description><![CDATA[Yubico 已确认部分 2FA 绕过问题可能会影响部分 YubiKey 客户——以下是您需要了解的信息。]]></description>
+      <guid>https://www.forbes.com/sites/daveywinder/2025/01/17/yubico-issues-security-advisory-as-2fa-bypass-vulnerability-confirmed/</guid>
+      <pubDate>Fri, 17 Jan 2025 15:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 禁令获最高法院维持——将于周日生效</title>
       <link>https://www.forbes.com/sites/alisondurkee/2025/01/17/tiktok-ban-will-take-effect-sunday-as-supreme-court-upholds-law/</link>
       <description><![CDATA[法官驳回了应用程序和内容创建者关于该法律侵犯其第一修正案权利的担忧。]]></description>
       <guid>https://www.forbes.com/sites/alisondurkee/2025/01/17/tiktok-ban-will-take-effect-sunday-as-supreme-court-upholds-law/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>哪种格式最适合在电影院观看一部完全未知的电影？</title>
       <link>https://www.forbes.com/sites/bennyhareven/2025/01/17/which-format-is-best-to-watch-a-complete-unknown-in-the-cinema/</link>
-      <description><![CDATA[《完全未知》可以在 IMAX 上观看，但这是否是观看蒂莫西·柴勒梅德这部关于鲍勃·迪伦的新电影的最佳方式？]]></description>
+      <description><![CDATA[《完全未知》可以在 IMAX 上观看，但这是观看蒂莫西·柴勒梅德这部关于鲍勃·迪伦的新电影的最佳方式吗？]]></description>
       <guid>https://www.forbes.com/sites/bennyhareven/2025/01/17/which-format-is-best-to-watch-a-complete-unknown-in-the-cinema/</guid>
       <pubDate>Fri, 17 Jan 2025 14:56:13 GMT</pubDate>
     </item>
@@ -83,7 +90,7 @@
       <pubDate>Fri, 17 Jan 2025 13:30:03 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院今日或将就 TikTok 禁令做出裁决——法官暗示可能维护法律，你该了解些什么</title>
+      <title>最高法院维持 TikTok 禁令——以下是您需要了解的信息</title>
       <link>https://www.forbes.com/sites/alisondurkee/2025/01/17/supreme-court-could-rule-on-tiktok-ban-today-what-to-know-as-justices-signal-they-may-uphold-law/</link>
       <description><![CDATA[除非最高法院提前阻止，该法律将于周日生效。]]></description>
       <guid>https://www.forbes.com/sites/alisondurkee/2025/01/17/supreme-court-could-rule-on-tiktok-ban-today-what-to-know-as-justices-signal-they-may-uphold-law/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[加州一家大麻品牌确认，其供应商发生数据泄露事件，导致客户信息泄露——这是 38 万大麻用户需要了解的信息。]]></description>
       <guid>https://www.forbes.com/sites/daveywinder/2025/01/17/the-great-cannabis-hack-380000-pot-users-impacted-by-attack/</guid>
       <pubDate>Fri, 17 Jan 2025 13:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dark Matter Audio Labs 在 NAMM 2025 上推出定制 IEM 系列</title>
-      <link>https://www.forbes.com/sites/marksparrow/2025/01/17/dark-matter-audio-labs-launches-custom-iem-range-at-namm-2025/</link>
-      <description><![CDATA[定制 IEM 有了新名字，即 Dark Matter Audio Labs。这些定制 IEM 每只耳机配备 2 到 6 个驱动器。]]></description>
-      <guid>https://www.forbes.com/sites/marksparrow/2025/01/17/dark-matter-audio-labs-launches-custom-iem-range-at-namm-2025/</guid>
-      <pubDate>Fri, 17 Jan 2025 13:00:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
