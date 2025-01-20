@@ -19,3 +19,4 @@
  - source006 [https://rss.241999.xyz/telegram/channel/aljazeera](https://rss.241999.xyz/telegram/channel/aljazeera) -> [aljazeera](rss/aljazeera.xml)
  - source007 [https://rss.241999.xyz/reuters/business/finance](https://rss.241999.xyz/reuters/business/finance) -> [reuter_finance](rss/reuter_finance.xml)
  - source008 [http://49.0.246.188:1200/twitter/user/elonmusk](http://49.0.246.188:1200/twitter/user/elonmusk) -> [elonmusk](rss/elonmusk.xml)
+ - source009 [http://49.0.246.188:1200/twitter/user/realDonaldTrump](http://49.0.246.188:1200/twitter/user/realDonaldTrump) -> [DonaldTrump](rss/DonaldTrump.xml)
