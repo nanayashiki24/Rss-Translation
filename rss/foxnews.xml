@@ -4,7 +4,14 @@
     <title>福克斯新闻上的最新世界新闻</title>
     <link>https://www.foxnews.com/world</link>
     <description>查看 Fox News 上的最新世界新闻和国际新闻。了解世界各地发生的所有新闻。</description>
-    <lastBuildDate>Tue, 21 Jan 2025 17:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 18:37:26 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯回应特朗普威胁夺回巴拿马运河</title>
+      <link>https://www.foxnews.com/world/russia-sounds-off-trumps-threat-retake-panama-canal</link>
+      <description><![CDATA[俄罗斯外交部呼吁特朗普重申有关巴拿马运河的现行国际协议，并将其交由巴拿马政府控制。]]></description>
+      <guid>https://www.foxnews.com/world/russia-sounds-off-trumps-threat-retake-panama-canal</guid>
+      <pubDate>Tue, 21 Jan 2025 18:37:26 GMT</pubDate>
+    </item>
     <item>
       <title>以色列军事首脑因哈马斯大屠杀事件辞职：“每天都让我心有余悸”</title>
       <link>https://www.foxnews.com/world/israeli-military-chief-steps-down-over-october-7-hamas-massacre-weighs-me-every-day</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[以色列政府于周六凌晨批准了该协议，允许加沙停火并释放 2023 年 10 月 7 日哈马斯对以色列发动恐怖袭击后被俘的人质。]]></description>
       <guid>https://www.foxnews.com/world/what-expect-israel-hamas-cease-fire-goes-effect</guid>
       <pubDate>Sun, 19 Jan 2025 03:18:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列国防军将于周日用配备露营拖车和安慰用品接收人质</title>
-      <link>https://www.foxnews.com/world/israel-defense-forces-set-receive-hostages-sunday-equipped-camper-trailers-comforting-supplies</link>
-      <description><![CDATA[停火协议达成后，以色列国防军于周六完成接收周日被哈马扣押的 33 名人质的准备工作。]]></description>
-      <guid>https://www.foxnews.com/world/israel-defense-forces-set-receive-hostages-sunday-equipped-camper-trailers-comforting-supplies</guid>
-      <pubDate>Sat, 18 Jan 2025 21:36:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
