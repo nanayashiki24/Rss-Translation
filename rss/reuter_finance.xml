@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 23 Jan 2025 11:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 12:38:31 GMT</lastBuildDate>
+    <item>
+      <title>欧盟委员会调查欧盟为稳定币持有者提供的安全网深度</title>
+      <link>https://www.reuters.com/markets/europe/eu-commission-investigates-depth-eu-safety-net-stablecoin-holders-2025-01-23/</link>
+      <description><![CDATA[欧盟委员会正在调查欧盟加密资产规则在多大程度上保护欧盟投资者对相同电子货币代币（EMT）的赎回权，这些代币的价值与单一官方货币挂钩。]]></description>
+      <guid>https://www.reuters.com/markets/europe/eu-commission-investigates-depth-eu-safety-net-stablecoin-holders-2025-01-23/</guid>
+      <pubDate>Thu, 23 Jan 2025 12:14:59 GMT</pubDate>
+    </item>
     <item>
       <title>早盘报价：股市徘徊在新高附近，油价下跌</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2025-01-23/</link>
@@ -13,9 +20,9 @@
       <pubDate>Thu, 23 Jan 2025 11:18:30 GMT</pubDate>
     </item>
     <item>
-      <title>英国将成立独立公司以促进开放银行支付</title>
+      <title>英国将成立独立公司以促进浮动定期付款</title>
       <link>https://www.reuters.com/business/finance/uk-establish-independent-firm-boost-open-banking-payments-2025-01-23/</link>
-      <description><![CDATA[英国监管机构正在制定下一步计划，通过建立一家新的独立公司来推动可变定期支付，实现开放银行支付用于电子商务。]]></description>
+      <description><![CDATA[英国监管机构正在成立一家独立公司，提供可变定期付款服务，允许第三方金融服务提供商访问银行信息并代表消费者或企业发起付款。]]></description>
       <guid>https://www.reuters.com/business/finance/uk-establish-independent-firm-boost-open-banking-payments-2025-01-23/</guid>
       <pubDate>Thu, 23 Jan 2025 11:10:00 GMT</pubDate>
     </item>
@@ -99,16 +106,9 @@
     <item>
       <title>安永调查显示特朗普上任后首席执行官们提升了交易前景</title>
       <link>https://www.reuters.com/markets/deals/ceos-ramp-up-deal-outlook-under-trump-ey-survey-shows-2025-01-22/</link>
-      <description><![CDATA[一项调查显示，全球首席执行官们预计 2025 年企业交易数量将大幅增加，其中预计在美国总统唐纳德·特朗普 11 月连任后将有更多的首席执行官进行并购。]]></description>
+      <description><![CDATA[一项调查显示，全球首席执行官们预计 2025 年企业交易数量将大幅增加，其中预计在美国总统唐纳德·特朗普 11 月连任后将进行并购交易的首席执行官人数将有所增加。]]></description>
       <guid>https://www.reuters.com/markets/deals/ceos-ramp-up-deal-outlook-under-trump-ey-survey-shows-2025-01-22/</guid>
       <pubDate>Wed, 22 Jan 2025 19:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国商业银行称裕信银行的做法充满敌意且单方面</title>
-      <link>https://www.reuters.com/business/finance/commerzbank-says-unicredits-approach-is-hostile-unilateral-2025-01-22/</link>
-      <description><![CDATA[德国商业银行周三将裕信银行的潜在合作方式定义为“敌意的”，并表示过去两年内尚未与这家意大利银行讨论过此事，尽管裕信银行首席执行官安德里亚·奥塞尔 (Andrea Orcel) 表示曾讨论过。]]></description>
-      <guid>https://www.reuters.com/business/finance/commerzbank-says-unicredits-approach-is-hostile-unilateral-2025-01-22/</guid>
-      <pubDate>Wed, 22 Jan 2025 19:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
