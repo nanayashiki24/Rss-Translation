@@ -4,9 +4,37 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Mon, 27 Jan 2025 10:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 11:16:07 GMT</lastBuildDate>
     <item>
-      <title>谷歌公布 2025 年 Android 升级版——这会打败你的 iPhone 吗？</title>
+      <title>制造商如何利用人工智能</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/how-manufacturers-can-thread-the-needle-with-ai/</link>
+      <description><![CDATA[人工智能对制造商来说是一个转型机会——但只有经过深思熟虑才能实施。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/how-manufacturers-can-thread-the-needle-with-ai/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hexgear Immersion A5 低调键盘评测</title>
+      <link>https://www.forbes.com/sites/marksparrow/2025/01/27/hexgears-immersion-a5-low-profile-keyboard-reviewed/</link>
+      <description><![CDATA[这款时尚低调的 Hexgears Immersion A5 键盘非常适合游戏或一般办公用途。它具有出色的透光键帽和多种开关选择。]]></description>
+      <guid>https://www.forbes.com/sites/marksparrow/2025/01/27/hexgears-immersion-a5-low-profile-keyboard-reviewed/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何测试对话式 AI 以降低客户体验风险并提高投资回报率</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/how-testing-conversational-ai-mitigates-cx-risks-and-drives-roi/</link>
+      <description><![CDATA[有缺陷的对话式人工智能系统可能会损害品牌的信誉，但经过彻底测试的解决方案可以激发信心并推动创新。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/how-testing-conversational-ai-mitigates-cx-risks-and-drives-roi/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的网络商店——谷歌出人意料的 Chrome 安全决策</title>
+      <link>https://www.forbes.com/sites/daveywinder/2025/01/27/a-new-web-store-googles-surprise-chrome-extension-security-decision/</link>
+      <description><![CDATA[在出现大量有关 Chrome 浏览器扩展程序被用于绕过 2FA 的负面安全新闻后，谷歌做出了令人意外的回应，推出了一个新的网络商店。]]></description>
+      <guid>https://www.forbes.com/sites/daveywinder/2025/01/27/a-new-web-store-googles-surprise-chrome-extension-security-decision/</guid>
+      <pubDate>Mon, 27 Jan 2025 10:42:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌公布 2025 年 Android 升级——这会打败你的 iPhone 吗？</title>
       <link>https://www.forbes.com/sites/zakdoffman/2025/01/27/google-reveals-2025s-android-upgrade-does-this-beat-your-iphone/</link>
       <description><![CDATA[谷歌终于赶上 iPhone 了吗？以下是需要了解的信息。]]></description>
       <guid>https://www.forbes.com/sites/zakdoffman/2025/01/27/google-reveals-2025s-android-upgrade-does-this-beat-your-iphone/</guid>
@@ -48,7 +76,7 @@
       <pubDate>Mon, 27 Jan 2025 07:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>本周夜空：金星旁出现新月，尽显“土拨鼠日”风采</title>
+      <title>本周夜空：金星旁新月和“土拨鼠日”</title>
       <link>https://www.forbes.com/sites/jamiecartereurope/2025/01/27/see-a-crescent-moon-kiss-venus-and-saturn-the-night-sky-this-week/</link>
       <description><![CDATA[每周一，我都会挑选出未来一周北美的天体亮点（也适用于北半球的中北纬地区）。]]></description>
       <guid>https://www.forbes.com/sites/jamiecartereurope/2025/01/27/see-a-crescent-moon-kiss-venus-and-saturn-the-night-sky-this-week/</guid>
@@ -71,7 +99,7 @@
     <item>
       <title>大型法学硕士如何利用知识提炼来教授小型人工智能模型</title>
       <link>https://www.forbes.com/sites/lanceeliot/2025/01/27/heres-how-big-llms-teach-smaller-ai-models-via-leveraging-knowledge-distillation/</link>
-      <description><![CDATA[人工智能驱动的知识提炼正在引起人们的关注。法学硕士正在教授法律硕士。预计这一趋势将会增加。以下是内部消息。]]></description>
+      <description><![CDATA[人工智能驱动的知识提炼正在受到关注。法学硕士正在教授法律硕士。预计这一趋势将会增加。以下是内部消息。]]></description>
       <guid>https://www.forbes.com/sites/lanceeliot/2025/01/27/heres-how-big-llms-teach-smaller-ai-models-via-leveraging-knowledge-distillation/</guid>
       <pubDate>Mon, 27 Jan 2025 06:21:47 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[您的企业是否已经为 2025 年（蛇年）GenAI 的变革性做好准备了？]]></description>
       <guid>https://www.forbes.com/sites/sap/2025/01/27/year-of-the-snake-can-your-business-shed-its-skin-fast-enough-for-ai/</guid>
       <pubDate>Mon, 27 Jan 2025 05:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在大屏幕上观看《超时空要塞：还记得爱情吗？》是一种神奇的感觉</title>
-      <link>https://www.forbes.com/sites/olliebarder/2025/01/26/seeing-macross-do-you-remember-love-on-the-big-screen-was-magical/</link>
-      <description><![CDATA[为了纪念新版 4K 重制版，《超时空要塞：还记得爱情吗？》在东京举行了限量剧场版，非常精彩。]]></description>
-      <guid>https://www.forbes.com/sites/olliebarder/2025/01/26/seeing-macross-do-you-remember-love-on-the-big-screen-was-magical/</guid>
-      <pubDate>Mon, 27 Jan 2025 04:42:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天的‘Wordle’#1318 提示、线索和答案，1 月 27 日星期一</title>
-      <link>https://www.forbes.com/sites/erikkain/2025/01/26/todays-wordle-1318-hints-clues-and-answer-for-monday-january-27th/</link>
-      <description><![CDATA[想要帮助解决今天的《纽约时报》 Wordle 问题？这里有提示、线索和评论，可帮助您解答今天的 Wordle 问题并提高您的猜谜能力。]]></description>
-      <guid>https://www.forbes.com/sites/erikkain/2025/01/26/todays-wordle-1318-hints-clues-and-answer-for-monday-january-27th/</guid>
-      <pubDate>Mon, 27 Jan 2025 02:30:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>DigitalOcean 利用其托管 GenAI 平台简化 AI 代理创建</title>
-      <link>https://www.forbes.com/sites/janakirammsv/2025/01/26/digitalocean-simplifies-ai-agent-creation-with-its-managed-genai-platform/</link>
-      <description><![CDATA[DigitalOcean 的 GenAI 平台旨在启动您的 GenAI 开发工作并开始代理工作流程。]]></description>
-      <guid>https://www.forbes.com/sites/janakirammsv/2025/01/26/digitalocean-simplifies-ai-agent-creation-with-its-managed-genai-platform/</guid>
-      <pubDate>Mon, 27 Jan 2025 01:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 DeepSeek - 挑战美国科技巨头的中国 AI 初创公司</title>
-      <link>https://www.forbes.com/sites/janakirammsv/2025/01/26/all-about-deepseekthe-chinese-ai-startup-challenging-the-us-big-tech/</link>
-      <description><![CDATA[DeepSeek 已成为人工智能领域的一股颠覆性力量，这一点毋庸置疑。其创新技术、经济高效的解决方案和优化策略挑战了现状，迫使老牌企业重新评估自己的方法。]]></description>
-      <guid>https://www.forbes.com/sites/janakirammsv/2025/01/26/all-about-deepseekthe-chinese-ai-startup-challenging-the-us-big-tech/</guid>
-      <pubDate>Sun, 26 Jan 2025 23:59:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
