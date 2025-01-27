@@ -4,7 +4,49 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Mon, 27 Jan 2025 14:40:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:17:55 GMT</lastBuildDate>
+    <item>
+      <title>数据安全的下一个前沿：如何保护敏感数据</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/the-next-frontier-in-data-security-how-to-safeguard-sensitive-data/</link>
+      <description><![CDATA[传统的数据保护方法（例如外围防御和端点防病毒）本身并不够，因为现在存在威胁。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/the-next-frontier-in-data-security-how-to-safeguard-sensitive-data/</guid>
+      <pubDate>Mon, 27 Jan 2025 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合健康数据泄露事件升级：1.9 亿美国人受到影响</title>
+      <link>https://www.forbes.com/sites/alexvakulov/2025/01/27/unitedhealth-data-breach-escalates-190-million-americans-impacted/</link>
+      <description><![CDATA[您的医疗数据并不像您想象的那么安全。了解大规模勒索软件攻击如何暴露数百万人的隐私，以及保护您隐私的关键步骤。]]></description>
+      <guid>https://www.forbes.com/sites/alexvakulov/2025/01/27/unitedhealth-data-breach-escalates-190-million-americans-impacted/</guid>
+      <pubDate>Mon, 27 Jan 2025 15:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>《艾米莉亚·佩雷斯》如观众所说糟糕，其提名令人费解</title>
+      <link>https://www.forbes.com/sites/paultassi/2025/01/27/emilia-perez-is-as-bad-as-audiences-say-and-its-nominations-are-baffling/</link>
+      <description><![CDATA[艾米莉亚·佩雷斯今年获得了大量奥斯卡提名，但这部电影却令人费解]]></description>
+      <guid>https://www.forbes.com/sites/paultassi/2025/01/27/emilia-perez-is-as-bad-as-audiences-say-and-its-nominations-are-baffling/</guid>
+      <pubDate>Mon, 27 Jan 2025 15:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>统一的数字体验对任何品牌来说都是一大福音</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/a-unified-digital-experience-is-a-boon-to-any-brand/</link>
+      <description><![CDATA[跨设备和平台提供一致的品牌体验至关重要。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/a-unified-digital-experience-is-a-boon-to-any-brand/</guid>
+      <pubDate>Mon, 27 Jan 2025 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么市场领导者要策略性地投资数字信任</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/why-market-leaders-are-tactically-investing-in-digital-trust/</link>
+      <description><![CDATA[尽管数字信任是一个常用术语，但并非所有企业都能从成为数字信任提供商和合作伙伴中获益。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/why-market-leaders-are-tactically-investing-in-digital-trust/</guid>
+      <pubDate>Mon, 27 Jan 2025 14:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>前 Okta 和 Zuora 技术主管 Alvina Antar 加入 F5 担任首任 CDO</title>
+      <link>https://www.forbes.com/sites/peterhigh/2025/01/27/former-okta-and-zuora-tech-chief-alvina-antarjoins-f5-as-first-cdo/</link>
+      <description><![CDATA[F5 公司聘请了其首位首席数字官、前 Okta 和 Zuora 技术主管 Alvina Antar。]]></description>
+      <guid>https://www.forbes.com/sites/peterhigh/2025/01/27/former-okta-and-zuora-tech-chief-alvina-antarjoins-f5-as-first-cdo/</guid>
+      <pubDate>Mon, 27 Jan 2025 14:43:17 GMT</pubDate>
+    </item>
     <item>
       <title>分层防护：抵御 API 威胁</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/the-layered-shield-winning-against-api-threats/</link>
@@ -20,7 +62,7 @@
       <pubDate>Mon, 27 Jan 2025 14:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>FBI 最新警告：攻击持续，请禁用本地管理员帐户</title>
+      <title>FBI 最新警告——攻击持续，请禁用本地管理员帐户</title>
       <link>https://www.forbes.com/sites/daveywinder/2025/01/27/new-fbi-warning-disable-local-admin-accounts-as-attacks-continue/</link>
       <description><![CDATA[由于数据窃取攻击仍在继续，FBI 已发出新警告，要求禁用本地管理员帐户。以下是您需要了解的信息。]]></description>
       <guid>https://www.forbes.com/sites/daveywinder/2025/01/27/new-fbi-warning-disable-local-admin-accounts-as-attacks-continue/</guid>
@@ -67,48 +109,6 @@
       <description><![CDATA[您是否已经遭受过这种危险的“隐藏”攻击？以下是您需要了解的信息。]]></description>
       <guid>https://www.forbes.com/sites/zakdoffman/2025/01/27/new-iphone-android-warning-do-not-open-any-of-these-pdfs/</guid>
       <pubDate>Mon, 27 Jan 2025 13:59:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么《信徒》是迪士尼 2024 年收视率第二高的电视剧，却仍被取消</title>
-      <link>https://www.forbes.com/sites/paultassi/2025/01/27/why-the-acolyte-was-disneys-2-most-watched-show-of-2024-and-still-cancelled/</link>
-      <description><![CDATA[事实证明，《信徒》是 Disney Plus 今年收视率第二高的剧集，但最终还是被取消了。为什么？]]></description>
-      <guid>https://www.forbes.com/sites/paultassi/2025/01/27/why-the-acolyte-was-disneys-2-most-watched-show-of-2024-and-still-cancelled/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页抓取：在数据驱动的世界中解锁商业洞察力</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/web-scraping-unlocking-business-insights-in-a-data-driven-world/</link>
-      <description><![CDATA[随着各行各业继续依赖数据驱动战略，合乎道德和负责任的网络抓取将在确保企业保持竞争力方面发挥关键作用。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/web-scraping-unlocking-business-insights-in-a-data-driven-world/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究发现，若不采取气候变化行动，全球 GDP 将损失 50%</title>
-      <link>https://www.forbes.com/sites/jamiehailstone/2025/01/27/global-gdp-faces-50-fall-without-climate-change-action-study-finds/</link>
-      <description><![CDATA[埃克塞特大学的杰西·艾布拉姆斯博士在接受采访时表示，我们“严重低估了气候变化和自然相关危机带来的风险”。]]></description>
-      <guid>https://www.forbes.com/sites/jamiehailstone/2025/01/27/global-gdp-faces-50-fall-without-climate-change-action-study-finds/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>出售、持有或增长：2025 年 IT 服务市场发展方向</title>
-      <link>https://www.forbes.com/sites/emilsayegh/2025/01/27/sell-hold-or-grow-navigating-the-it-services-market-in-2025/</link>
-      <description><![CDATA[IT 服务市场经历了创纪录的增长。了解业主关于出售、持有或发展公司的决策过程。]]></description>
-      <guid>https://www.forbes.com/sites/emilsayegh/2025/01/27/sell-hold-or-grow-navigating-the-it-services-market-in-2025/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:33:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>心理学家告诉你“取悦他人”对人际关系的影响有 3 种方式</title>
-      <link>https://www.forbes.com/sites/traversmark/2025/01/27/3-ways-people-pleasing-affects-your-relationship-by-a-psychologist/</link>
-      <description><![CDATA[取悦他人看似无害，但它对伴侣的影响比你想象的要深远。以下是它破坏你们关系中的信任和亲密关系的三种方式。]]></description>
-      <guid>https://www.forbes.com/sites/traversmark/2025/01/27/3-ways-people-pleasing-affects-your-relationship-by-a-psychologist/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>1859 年，24 只兔子“殖民”了一片新大陆——一位生物学家讲述这个故事</title>
-      <link>https://www.forbes.com/sites/scotttravers/2025/01/27/in-1859-24-rabbits-colonized-a-new-continent-a-biologist-tells-the-story/</link>
-      <description><![CDATA[这些兔子最初是为了运动而引入澳大利亚的，但它们的进入标志着一场灾难的开始，并在150多年后继续困扰着这里的生态系统。]]></description>
-      <guid>https://www.forbes.com/sites/scotttravers/2025/01/27/in-1859-24-rabbits-colonized-a-new-continent-a-biologist-tells-the-story/</guid>
-      <pubDate>Mon, 27 Jan 2025 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
