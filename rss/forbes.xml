@@ -4,7 +4,28 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Mon, 27 Jan 2025 11:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 11:37:47 GMT</lastBuildDate>
+    <item>
+      <title>通用汽车如何超越特斯拉成为美国增长最快的电动汽车制造商之一</title>
+      <link>https://www.forbes.com/sites/alanohnsman/2025/01/27/gm-topped-tesla-ev-growth/</link>
+      <description><![CDATA[这家底特律汽车制造商正在建立一个国内供应基地，以在库尔特·凯尔蒂 (Kurt Kelty) 的帮助下降低电动汽车的价格并提高盈利能力，凯尔蒂在特斯拉成立初期就为特斯拉带来了最大的电池供应商。]]></description>
+      <guid>https://www.forbes.com/sites/alanohnsman/2025/01/27/gm-topped-tesla-ev-growth/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能和量子抗性的重要性：在新时代保护数字真实性</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/the-importance-of-ai-and-quantum-resistance-protecting-digital-authenticity-in-a-new-era/</link>
+      <description><![CDATA[人工智能和量子计算的快速发展对数字真实性提出了前所未有的挑战。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/the-importance-of-ai-and-quantum-resistance-protecting-digital-authenticity-in-a-new-era/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Windows 10 支持终止之前免费获取 Windows 11</title>
+      <link>https://www.forbes.com/sites/daveywinder/2025/01/27/how-to-get-windows-11-for-free-before-windows-10-support-ends/</link>
+      <description><![CDATA[随着 Windows 10 安全支持终止倒计时的加快，以下是如何免费升级到 Windows 11 的方法——不会违反任何法律。]]></description>
+      <guid>https://www.forbes.com/sites/daveywinder/2025/01/27/how-to-get-windows-11-for-free-before-windows-10-support-ends/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:23:58 GMT</pubDate>
+    </item>
     <item>
       <title>制造商如何利用人工智能</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/27/how-manufacturers-can-thread-the-needle-with-ai/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ChatGPT 的突破性新计划任务功能使用户即使在离线时也能自动进行 AI 交互，标志着向自主 AI 迈出了重要一步。]]></description>
       <guid>https://www.forbes.com/sites/bernardmarr/2025/01/27/chatgpts-new-scheduled-tasks-feature-5-powerful-prompts-to-try-today/</guid>
       <pubDate>Mon, 27 Jan 2025 06:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国聊天工具GPT竞争对手DeepSeek不顾美国限制，在硅谷掀起波澜</title>
-      <link>https://www.forbes.com/sites/ywang/2025/01/27/chinas-deepseek-makes-robust-popular-ai-product-despite-us-curbs/</link>
-      <description><![CDATA[与ChatGPT类似，该聊天机器人可以执行回答问题、起草内容和帮助用户收集信息等任务。]]></description>
-      <guid>https://www.forbes.com/sites/ywang/2025/01/27/chinas-deepseek-makes-robust-popular-ai-product-despite-us-curbs/</guid>
-      <pubDate>Mon, 27 Jan 2025 06:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型法学硕士如何利用知识提炼来教授小型人工智能模型</title>
-      <link>https://www.forbes.com/sites/lanceeliot/2025/01/27/heres-how-big-llms-teach-smaller-ai-models-via-leveraging-knowledge-distillation/</link>
-      <description><![CDATA[人工智能驱动的知识提炼正在受到关注。法学硕士正在教授法律硕士。预计这一趋势将会增加。以下是内部消息。]]></description>
-      <guid>https://www.forbes.com/sites/lanceeliot/2025/01/27/heres-how-big-llms-teach-smaller-ai-models-via-leveraging-knowledge-distillation/</guid>
-      <pubDate>Mon, 27 Jan 2025 06:21:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>蛇年：你的企业能否快速蜕变以适应人工智能？</title>
-      <link>https://www.forbes.com/sites/sap/2025/01/27/year-of-the-snake-can-your-business-shed-its-skin-fast-enough-for-ai/</link>
-      <description><![CDATA[您的企业是否已经为 2025 年（蛇年）GenAI 的变革性做好准备了？]]></description>
-      <guid>https://www.forbes.com/sites/sap/2025/01/27/year-of-the-snake-can-your-business-shed-its-skin-fast-enough-for-ai/</guid>
-      <pubDate>Mon, 27 Jan 2025 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
