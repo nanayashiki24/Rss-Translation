@@ -4,7 +4,14 @@
     <title>ZeroHedge 新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Wed, 29 Jan 2025 09:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 10:20:08 GMT</lastBuildDate>
+    <item>
+      <title>美国司法部宣布辉瑞将支付 6000 万美元，以和解因药品回扣而产生的虚假索赔</title>
+      <link>https://www.zerohedge.com/medical/pfizer-pay-60-million-false-claims-settlement-over-drug-kickbacks-doj-announces</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/medical/pfizer-pay-60-million-false-claims-settlement-over-drug-kickbacks-doj-announces</guid>
+      <pubDate>Wed, 29 Jan 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>加沙停火期间，美国、英国商船谨慎返回红海</title>
       <link>https://www.zerohedge.com/geopolitical/us-british-commercial-ships-cautiously-return-red-sea-gaza-truce-holds</link>
@@ -150,31 +157,6 @@ Tyler Durden
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/political/us-issues-do-not-travel-warning-several-us-mexico-border-areas</guid>
       <pubDate>Wed, 29 Jan 2025 00:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国海军以“安全担忧”为由禁用 DeepSeek，因为有“大量”证据显示中国人工智能窃取了 ChatGPT</title>
-      <link>https://www.zerohedge.com/ai/us-navy-bans-deepseek-over-security-concerns-substantial-evidence-emerges-chinese-ai-ripped</link>
-      <description><![CDATA[美国海军因“安全问题”禁用 DeepSeek，因为有“大量”证据表明中国人工智能抄袭了 ChatGPT 
-据CNBC报道，美国海军已指示军人避免使用中国人工智能平台 DeepSeek，理由是“存在潜在的安全和道德问题”。美国全国广播公司财经频道周二证实，海军最近几天向“船友”发送了一封电子邮件，其中提到了海军的人工智能政策，并强调了不要使用 DeepSeek 的重要性。该备忘录警告军人不要将该平台“用于任何与工作相关的任务或个人用途”，并指示他们“避免以任何方式下载、安装或使用 DeepSeek 模型”。 
-
-这一警告是在 DeepSeek 的 R1 模型最近崛起之后发出的，该模型在全球范围内引起了极大关注，尤其是在美国商业和技术领域。 R1 模型已展示出与 OpenAI 模型相当的能力。 12 月，尽管美国限制向中国出口半导体芯片，DeepSeek 声称仅用两个月就成功训练出了一个大型语言模型，花费 600 万美元——这一数字受到技术专家的质疑。开源模型 R1 本周飙升至苹果应用商店排行榜榜首，引发市场抛售。人工智能芯片制造商英伟达和博通的股价周一暴跌 17%，市值合计蒸发 8000 亿美元。英伟达此后收复了部分损失。
-周一，DeepSeek 宣布暂时限制用户注册，理由是其服务遭到“大规模恶意攻击”，随后恢复正常运营。
-DeepSeek 的进步挑战了长期以来美国在人工智能发展方面远远领先于中国的观点。当被问及 R1 如何赶上 ChatGPT 时，AI 和 Crypto Czar David Sacks 表示，DeepSeek 可能利用一种称为“蒸馏”的技术，使用 OpenAI 的技术来训练其模型。  
-
-AI &amp; Crypto Czar @DavidSacks 表示有“大量证据”表明 DeepSeek 从 OpenAI 的模型中提炼出了知识。 pic.twitter.com/e3ppKa2UWJ
-— CAPITAL (@capitalnewshq) 2025 年 1 月 28 日
-“人工智能中有一种称为蒸馏的技术，你会经常听到这种技术。这是一个模型从另一个模型中学习的过程，”萨克斯向福克斯新闻解释道。“实际上，学生模型向父模型提出了数百万个问题，模仿推理过程并吸收知识。”
-“他们基本上可以从模型中提取知识，”他继续说道。 “有大量证据表明，DeepSeek 在这里所做的是从 OpenAI 的模型中提取知识。”“我认为 OpenAI 对此并不太高兴，”Sacks 补充道。
-唐纳德·特朗普总统表示，DeepSeek“应该为美国科技公司敲响警钟”。“一家中国公司发布 DeepSeek AI 应该为我们的行业敲响警钟，我们需要集中精力进行竞争，”总统在佛罗里达州共和党议员面前发表演讲前告诉记者。 
-让我们看看这个赌注需要多长时间才能获得回报……
-
-来源：Polymarket https://t.co/KaaojCTWgl
-— zerohedge (@zerohedge) 2025 年 1 月 27 日
-
-Tyler Durden
-2025 年 1 月 28 日星期二 - 18:50]]></description>
-      <guid>https://www.zerohedge.com/ai/us-navy-bans-deepseek-over-security-concerns-substantial-evidence-emerges-chinese-ai-ripped</guid>
-      <pubDate>Tue, 28 Jan 2025 23:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
