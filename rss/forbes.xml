@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Thu, 30 Jan 2025 10:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 10:40:32 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek 的“思考”揭示了人工智能的道德界限</title>
+      <link>https://www.forbes.com/sites/barrycollins/2025/01/30/deepseeks-thinking-exposes-the-ais-ethical-boundaries/</link>
+      <description><![CDATA[在 DeepSeek 给出答案之前，能够了解它在“想”什么，这可以让我们深入了解人工智能的工作原理。]]></description>
+      <guid>https://www.forbes.com/sites/barrycollins/2025/01/30/deepseeks-thinking-exposes-the-ais-ethical-boundaries/</guid>
+      <pubDate>Thu, 30 Jan 2025 10:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>Android 和 Google Play 安全更新：屏蔽 230 万个应用程序</title>
       <link>https://www.forbes.com/sites/daveywinder/2025/01/30/new-android-google-play-security-update-23-million-apps-blocked/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Postman 的 AI Agent Builder 试图通过向开发人员提供工具来驾驭不断变化的环境并释放 AI 驱动的 API 解决方案的全部潜力来满足这一需求。]]></description>
       <guid>https://www.forbes.com/sites/janakirammsv/2025/01/29/postman-unveils-an-api-first-ai-agent-builder/</guid>
       <pubDate>Wed, 29 Jan 2025 23:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>报道称，三星 Galaxy S25 系列省略了重要的 Android 功能</title>
-      <link>https://www.forbes.com/sites/paulmonckton/2025/01/29/samsung-galaxy-s25-series-omits-important-android-feature-report-claims/</link>
-      <description><![CDATA[谷歌的新 Android Linux 终端应用程序可以让您在智能手机上运行 Linux 应用程序，但不能在三星设备上运行。]]></description>
-      <guid>https://www.forbes.com/sites/paulmonckton/2025/01/29/samsung-galaxy-s25-series-omits-important-android-feature-report-claims/</guid>
-      <pubDate>Wed, 29 Jan 2025 23:45:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
