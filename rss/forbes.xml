@@ -4,7 +4,56 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Thu, 30 Jan 2025 11:37:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:37:28 GMT</lastBuildDate>
+    <item>
+      <title>Gmail 向 25 亿用户发出安全警告 — 已确认遭受人工智能攻击</title>
+      <link>https://www.forbes.com/sites/daveywinder/2025/01/30/gmail-security-warning-for-25-billion-users-ai-hack-confirmed/</link>
+      <description><![CDATA[一名受害者称这是有史以来最复杂的攻击，所有 Gmail 用户都被警告要严肃对待这次黑客威胁。]]></description>
+      <guid>https://www.forbes.com/sites/daveywinder/2025/01/30/gmail-security-warning-for-25-billion-users-ai-hack-confirmed/</guid>
+      <pubDate>Thu, 30 Jan 2025 12:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索的未来：跨行业的人工智能驱动发现</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/future-of-search-ai-driven-discovery-across-industries/</link>
+      <description><![CDATA[搜索不再仅仅是查找信息，而是释放数据的潜力以推动发现、决策和创新。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/future-of-search-ai-driven-discovery-across-industries/</guid>
+      <pubDate>Thu, 30 Jan 2025 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>检索增强生成 (Retrieved-Augmented Generation) 的兴起</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/the-rise-of-retrieval-augmented-generation/</link>
+      <description><![CDATA[RAG 通过聚合检索和生成来产生精确、相关且适合上下文的内容，从而改变了生成式人工智能的面貌。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/the-rise-of-retrieval-augmented-generation/</guid>
+      <pubDate>Thu, 30 Jan 2025 12:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能语音将如何改变广告行业</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/how-ai-generated-voice-will-transform-the-advertising-sector/</link>
+      <description><![CDATA[人工智能语音的未来在于它能够提升故事叙述能力、促进更深层次的联系并增强整体品牌体验。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/how-ai-generated-voice-will-transform-the-advertising-sector/</guid>
+      <pubDate>Thu, 30 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nothing Phone (3a) 系列发布日期公布，向 iPhone 发起最新挑战</title>
+      <link>https://www.forbes.com/sites/davidphelan/2025/01/30/nothing-phone-3a-series-release-date-revealed-in-latest-challenge-to-iphone/</link>
+      <description><![CDATA[Nothing 刚刚发布了一款新手机，而且这款手机也不是很多人想象中会发布的那款手机。]]></description>
+      <guid>https://www.forbes.com/sites/davidphelan/2025/01/30/nothing-phone-3a-series-release-date-revealed-in-latest-challenge-to-iphone/</guid>
+      <pubDate>Thu, 30 Jan 2025 11:58:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客利用 Zyxel CPE 严重漏洞：8 个安全提示</title>
+      <link>https://www.forbes.com/sites/alexvakulov/2025/01/30/hackers-exploit-critical-zyxel-cpe-flaw-8-tips-to-stay-safe/</link>
+      <description><![CDATA[您的路由器可能为黑客打开了一扇大门！了解互联网设备中隐藏的缺陷如何让您面临风险，以及您可以采取哪些简单的步骤来阻止这些缺陷。]]></description>
+      <guid>https://www.forbes.com/sites/alexvakulov/2025/01/30/hackers-exploit-critical-zyxel-cpe-flaw-8-tips-to-stay-safe/</guid>
+      <pubDate>Thu, 30 Jan 2025 11:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字化脱碳：利用技术实现可持续广告</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/decarbonizing-digital-leveraging-technology-for-sustainable-advertising/</link>
+      <description><![CDATA[可持续发展举措必须引起消费者的共鸣，因为他们越来越要求环境实践的透明度。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/decarbonizing-digital-leveraging-technology-for-sustainable-advertising/</guid>
+      <pubDate>Thu, 30 Jan 2025 11:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>高致病性禽流感：对美国家禽的持续威胁</title>
       <link>https://www.forbes.com/sites/johndrake/2025/01/30/highly-pathogenic-avian-influenza-a-persistent-threat-to-us-poultry/</link>
@@ -50,7 +99,7 @@
     <item>
       <title>流媒体行业数据驱动决策的兴起</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/the-rise-of-data-driven-decision-making-in-the-streaming-industry/</link>
-      <description><![CDATA[为了制定战略决策以保证您的流媒体服务持续运转，数据现在是一项至关重要的资源。]]></description>
+      <description><![CDATA[为了制定战略决策以保持流媒体服务的顺利进行，数据现在是一项至关重要的资源。]]></description>
       <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/the-rise-of-data-driven-decision-making-in-the-streaming-industry/</guid>
       <pubDate>Thu, 30 Jan 2025 11:00:00 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[如果您正在寻找定制的机械键盘，但又买不起 Mode Design Sonnet，那么 McHose GX87 将会非常不错，而且价格便宜很多。]]></description>
       <guid>https://www.forbes.com/sites/marksparrow/2025/01/30/the-new-mchose-gx87-custom-mechanical-keyboard-is-great--value-for-money/</guid>
       <pubDate>Thu, 30 Jan 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦调查局向黑客宣战</title>
-      <link>https://www.forbes.com/sites/daveywinder/2025/01/30/the-fbi-declares-war-on-hackers/</link>
-      <description><![CDATA[开火——美国联邦调查局刚刚向犯罪黑客宣战，并发起了攻击：以下是我们目前对这一突发事件的了解。]]></description>
-      <guid>https://www.forbes.com/sites/daveywinder/2025/01/30/the-fbi-declares-war-on-hackers/</guid>
-      <pubDate>Thu, 30 Jan 2025 10:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek 的“思考”揭示了人工智能的道德界限</title>
-      <link>https://www.forbes.com/sites/barrycollins/2025/01/30/deepseeks-thinking-exposes-the-ais-ethical-boundaries/</link>
-      <description><![CDATA[在 DeepSeek 给出答案之前，能够了解它在“想”什么，这可以让我们深入了解人工智能的工作原理。]]></description>
-      <guid>https://www.forbes.com/sites/barrycollins/2025/01/30/deepseeks-thinking-exposes-the-ais-ethical-boundaries/</guid>
-      <pubDate>Thu, 30 Jan 2025 10:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 和 Google Play 安全更新：屏蔽 230 万个应用程序</title>
-      <link>https://www.forbes.com/sites/daveywinder/2025/01/30/new-android-google-play-security-update-23-million-apps-blocked/</link>
-      <description><![CDATA[谷歌在发布新的 Android 和 Google Play 安全更新时确认已屏蔽了超过 230 万个应用程序——这是您需要了解的信息。]]></description>
-      <guid>https://www.forbes.com/sites/daveywinder/2025/01/30/new-android-google-play-security-update-23-million-apps-blocked/</guid>
-      <pubDate>Thu, 30 Jan 2025 10:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>UFC 314：据报道，冠军重赛将在迈阿密 PPV 上举行</title>
-      <link>https://www.forbes.com/sites/brianmazique/2025/01/30/ufc-314-championship-rematch-reportedly-set-for-miami-ppv/</link>
-      <description><![CDATA[我们在 UFC 中看到了很多重赛。最近的一场是蝇量级冠军亚历山大·潘托哈在 UFC 314 中对阵凯·卡拉·弗朗斯，捍卫自己的冠军头衔。]]></description>
-      <guid>https://www.forbes.com/sites/brianmazique/2025/01/30/ufc-314-championship-rematch-reportedly-set-for-miami-ppv/</guid>
-      <pubDate>Thu, 30 Jan 2025 09:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>气候变化和极端高温对体育赛事意味着什么？</title>
-      <link>https://www.forbes.com/sites/jamiehailstone/2025/01/30/what-will-climate-change-and-extreme-heat-mean-for-sport-events/</link>
-      <description><![CDATA[根据最新研究，举办 2026 年世界杯的北美体育场馆中，几乎 90% 都可能面临潜在危险的高温。]]></description>
-      <guid>https://www.forbes.com/sites/jamiehailstone/2025/01/30/what-will-climate-change-and-extreme-heat-mean-for-sport-events/</guid>
-      <pubDate>Thu, 30 Jan 2025 08:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>UFC 312 更新赛程公布，PPV 阵容存疑</title>
-      <link>https://www.forbes.com/sites/brianmazique/2025/01/30/ufc-312-updated-card-revealed-with-questionable-ppv-lineup/</link>
-      <description><![CDATA[有两场 UFC 冠军争夺战，这总是一件很棒的事情，但从纸面上看，这两场争夺战似乎都没有为 UFC 312 PPV 赛事带来太大的兴奋。]]></description>
-      <guid>https://www.forbes.com/sites/brianmazique/2025/01/30/ufc-312-updated-card-revealed-with-questionable-ppv-lineup/</guid>
-      <pubDate>Thu, 30 Jan 2025 08:35:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>前 UFC 冠军重返墨西哥赛事 3 月 29 日</title>
-      <link>https://www.forbes.com/sites/brianmazique/2025/01/30/former-ufc-champion-returns-to-headline-march-29-event-in-mexico/</link>
-      <description><![CDATA[3 月 29 日的 UFC 墨西哥赛将有一场非常精彩的主赛。前 UFC 冠军布兰登·莫雷诺将重返赛场，对阵史蒂夫·埃尔塞格。]]></description>
-      <guid>https://www.forbes.com/sites/brianmazique/2025/01/30/former-ufc-champion-returns-to-headline-march-29-event-in-mexico/</guid>
-      <pubDate>Thu, 30 Jan 2025 08:06:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
