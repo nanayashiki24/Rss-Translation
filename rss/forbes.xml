@@ -4,7 +4,21 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Thu, 30 Jan 2025 19:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 19:38:26 GMT</lastBuildDate>
+    <item>
+      <title>NinjaOne 斥资 2.52 亿美元进军 SaaS 数据保护</title>
+      <link>https://www.forbes.com/sites/tonybradley/2025/01/30/ninjaone-bets-252m-on-saas-data-protection/</link>
+      <description><![CDATA[NinjaOne 以 2.52 亿美元收购 Dropsuite，将端点安全从设备扩展到 SaaS 应用，具有自动备份、恢复和多租户数据保护功能。]]></description>
+      <guid>https://www.forbes.com/sites/tonybradley/2025/01/30/ninjaone-bets-252m-on-saas-data-protection/</guid>
+      <pubDate>Thu, 30 Jan 2025 19:33:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国关注帝王蝶面临的威胁，其生存与加州息息相关</title>
+      <link>https://www.forbes.com/sites/noelfletcher/2025/01/30/us-eyes-threats-to-monarch-butterflies-survival-tied-to-california/</link>
+      <description><![CDATA[美国鱼类和野生动物管理局正在采取措施，将帝王蝶列为受威胁物种，并指定加州七个沿海县为关键栖息地。]]></description>
+      <guid>https://www.forbes.com/sites/noelfletcher/2025/01/30/us-eyes-threats-to-monarch-butterflies-survival-tied-to-california/</guid>
+      <pubDate>Thu, 30 Jan 2025 19:24:31 GMT</pubDate>
+    </item>
     <item>
       <title>为什么这些 AI 芯片初创公司对 DeepSeek 的疯狂表现感到高兴</title>
       <link>https://www.forbes.com/sites/richardnieva/2025/01/30/why-these-ai-chip-startups-are-rejoicing-over-the-deepseek-freakout/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>官员称，类似 Ozempic 的药物可能对外科患者造成风险</title>
       <link>https://www.forbes.com/sites/katherinehignett/2025/01/30/ozempic-like-drugs-may-hold-risks-for-surgical-patients-officials-say/</link>
-      <description><![CDATA[即使经过标准的禁食，手术患者体内仍可能残留一些物质，这可能会增加发生严重并发症的可能性。]]></description>
+      <description><![CDATA[即使经过标准的禁食，手术患者体内仍可能残留一些物质，这可能会增加发生严重并发症的机会。]]></description>
       <guid>https://www.forbes.com/sites/katherinehignett/2025/01/30/ozempic-like-drugs-may-hold-risks-for-surgical-patients-officials-say/</guid>
       <pubDate>Thu, 30 Jan 2025 16:03:44 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[《文明 VII》将于下个月正式推出，并出现在 Nvidia 的流媒体服务 GeForce Now 上。]]></description>
       <guid>https://www.forbes.com/sites/barrycollins/2025/01/30/civilization-vii-is-coming-to-geforce-now-on-day-one/</guid>
       <pubDate>Thu, 30 Jan 2025 15:23:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>预见未来：生成式人工智能能否解锁人类的远见？</title>
-      <link>https://www.forbes.com/sites/corneliawalther/2025/01/30/the-future-foreseen-can-generative-ai-unlock-human-foresight/</link>
-      <description><![CDATA[考虑到人类认知在长期规划方面的局限性，人工智能可以作为一种认知增强工具，帮助我们应对未来的不确定性。]]></description>
-      <guid>https://www.forbes.com/sites/corneliawalther/2025/01/30/the-future-foreseen-can-generative-ai-unlock-human-foresight/</guid>
-      <pubDate>Thu, 30 Jan 2025 15:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>机密计算在终结 SaaS 数据泄露中的作用</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/confidential-computings-role-in-ending-saas-data-breaches/</link>
-      <description><![CDATA[当今大多数 SaaS 平台在未加密的情况下处理用户数据，这使得提供商可以访问这些数据并造成薄弱环节。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/01/30/confidential-computings-role-in-ending-saas-data-breaches/</guid>
-      <pubDate>Thu, 30 Jan 2025 15:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
