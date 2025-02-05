@@ -4,7 +4,14 @@
     <title>最新财经新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 05 Feb 2025 14:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 15:21:50 GMT</lastBuildDate>
+    <item>
+      <title>消息人士称，金融业团体对 LME 的场外交易计划表示担忧</title>
+      <link>https://www.reuters.com/markets/commodities/financial-industry-groups-raise-concern-lmes-otc-trade-plans-sources-say-2025-02-05/</link>
+      <description><![CDATA[五位知情人士称，两个金融行业组织对伦敦金属交易所 (LME) 要求会员与客户之间的私人交易在其自己的平台上进行的计划表示担忧。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/financial-industry-groups-raise-concern-lmes-otc-trade-plans-sources-say-2025-02-05/</guid>
+      <pubDate>Wed, 05 Feb 2025 15:01:14 GMT</pubDate>
+    </item>
     <item>
       <title>意大利 Anima 预计 2024 年利润增长 50%，股价创 2016 年以来最高水平</title>
       <link>https://www.reuters.com/business/finance/italys-anima-reports-50-increase-2024-profit-2025-02-05/</link>
@@ -13,9 +20,9 @@
       <pubDate>Wed, 05 Feb 2025 12:35:14 GMT</pubDate>
     </item>
     <item>
-      <title>桑坦德巴西银行第四季度净利润飙升 75%</title>
+      <title>桑坦德巴西第四季度净利润超过预期，股价上涨</title>
       <link>https://www.reuters.com/business/finance/santander-brasils-net-profit-surges-75-q4-2025-02-05/</link>
-      <description><![CDATA[西班牙桑坦德银行（Banco Santander）的子公司桑坦德巴西银行（Santander Brasil）周三公布其第四季度净利润增长 75%，由于利差扩大和费用增加，超出市场预期。]]></description>
+      <description><![CDATA[桑坦德巴西银行周三公布第四季度净利润增长 75%，由于利润率提高和费用增加，其业绩超出市场预期，推动其股价上涨。]]></description>
       <guid>https://www.reuters.com/business/finance/santander-brasils-net-profit-surges-75-q4-2025-02-05/</guid>
       <pubDate>Wed, 05 Feb 2025 11:31:58 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[周三公布的一项私营部门调查显示，中国 1 月份服务业活动扩张速度放缓，农历新年假期导致就业形势恶化，但商业信心有所改善。]]></description>
       <guid>https://www.reuters.com/markets/asia/chinas-services-activity-grows-slower-pace-caixin-pmi-shows-2025-02-05/</guid>
       <pubDate>Wed, 05 Feb 2025 01:56:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国股市从假期回暖到美国贸易战，DeepSeek 股价上涨</title>
-      <link>https://www.reuters.com/markets/asia/china-markets-return-holiday-facing-trade-war-ai-rally-2025-02-04/</link>
-      <description><![CDATA[由于中国市场在休市一周后回归，遭遇了与美国的新一轮贸易争端以及全球人工智能领域的动荡，中国股市和货币面临压力。]]></description>
-      <guid>https://www.reuters.com/markets/asia/china-markets-return-holiday-facing-trade-war-ai-rally-2025-02-04/</guid>
-      <pubDate>Tue, 04 Feb 2025 23:06:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
