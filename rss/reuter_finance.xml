@@ -1,33 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>最新财经新闻 | 今日头条 | 路透社</title>
+    <title>最新的金融新闻|今天的顶级头条新闻|路透社</title>
     <link>https://www.reuters.com/business/finance/</link>
     <description>在 Reuters.com 上查找来自全球各个角落的最新财经新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 11 Feb 2025 18:44:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 19:15:06 GMT</lastBuildDate>
     <item>
-      <title>摩根大通预计第一季度投资银行费用将增长 15%</title>
+      <title>意大利和Asterion提交了全额资助的竞标，以供电信意大利的Sparkle</title>
+      <link>https://www.reuters.com/markets/deals/italy-asterion-submit-fully-financed-bid-telecom-italias-sparkle-2025-02-11/</link>
+      <description><![CDATA[靠近此事的三个消息人士告诉路透社，由财政部领导的财团于周二提交了新的有限竞标。]]></description>
+      <guid>https://www.reuters.com/markets/deals/italy-asterion-submit-fully-financed-bid-telecom-italias-sparkle-2025-02-11/</guid>
+      <pubDate>Tue, 11 Feb 2025 19:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Citadel 的 Griffin 认为关税对美国经济增长构成风险</title>
+      <link>https://www.reuters.com/markets/us/citadels-griffin-sees-tariffs-posing-risk-us-growth-2025-02-11/</link>
+      <description><![CDATA[投资公司 Citadel 创始人兼首席执行官肯·格里芬周二表示，美国总统唐纳德·特朗普的关税政策对经济增长构成风险，可能迫使其他国家寻找新的贸易联盟，并批评特朗普的“夸夸其谈的言论”。]]></description>
+      <guid>https://www.reuters.com/markets/us/citadels-griffin-sees-tariffs-posing-risk-us-growth-2025-02-11/</guid>
+      <pubDate>Tue, 11 Feb 2025 18:42:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通预计第一季度投资银行费用将上涨百分之十几</title>
       <link>https://www.reuters.com/business/finance/jpmorgan-sees-investment-banking-fees-growth-up-mid-teens-q1-2025-02-11/</link>
-      <description><![CDATA[摩根大通首席运营官詹妮弗·皮普斯扎克 (Jennifer Piepszak) 表示，第一季度迄今，该行的投资银行费用同比增长了 15% 左右。]]></description>
+      <description><![CDATA[首席运营官詹妮弗·派珀斯扎克（Jennifer Piepszak）周二表示，摩根大通（JPMorgan Chase）的投资银行费用在第一季度迄今已增长了一定的百分比。]]></description>
       <guid>https://www.reuters.com/business/finance/jpmorgan-sees-investment-banking-fees-growth-up-mid-teens-q1-2025-02-11/</guid>
       <pubDate>Tue, 11 Feb 2025 18:25:41 GMT</pubDate>
     </item>
     <item>
       <title>法国巴黎银行任命 Philippe Maillard 为运营主管</title>
       <link>https://www.reuters.com/business/finance/bnp-paribas-appoints-philippe-maillard-operations-chief-2025-02-11/</link>
-      <description><![CDATA[法国巴黎银行周二表示，该银行已任命菲利普·梅亚尔 (Philippe Maillard) 为集团首席运营官，该任命将于 2 月 11 日起生效。]]></description>
+      <description><![CDATA[法国最大的银行周二表示，法国法国巴黎银行（BNP Paribas）已任命菲利普·梅拉德（Philippe Maillard）为团体首席运营官。]]></description>
       <guid>https://www.reuters.com/business/finance/bnp-paribas-appoints-philippe-maillard-operations-chief-2025-02-11/</guid>
       <pubDate>Tue, 11 Feb 2025 18:09:48 GMT</pubDate>
     </item>
     <item>
       <title>意大利资产管理公司 1 月份净流入资金增至 31.5 亿欧元</title>
       <link>https://www.reuters.com/business/finance/italian-asset-managers-net-inflows-rise-315-bln-euros-in-january-2025-02-11/</link>
-      <description><![CDATA[意大利五家上市资产管理公司报告称，1 月份净流入总额为 31.5 亿欧元（32.5 亿美元），高于 2024 年同期的 11.9 亿欧元。]]></description>
+      <description><![CDATA[一月份，意大利五个上市资产管理人员报告说，净流入量为31.5亿欧元（32.5亿美元），高于2024年同月的11.9亿欧元。]]></description>
       <guid>https://www.reuters.com/business/finance/italian-asset-managers-net-inflows-rise-315-bln-euros-in-january-2025-02-11/</guid>
       <pubDate>Tue, 11 Feb 2025 18:08:09 GMT</pubDate>
     </item>
     <item>
-      <title>富国银行首席财务官表示仍有五项同意令</title>
+      <title>富国银行首席财务官说剩下五个同意令</title>
       <link>https://www.reuters.com/business/finance/wells-fargo-cfo-says-five-consent-orders-are-remaining-2025-02-11/</link>
       <description><![CDATA[富国银行的一位高管周二表示，该银行仍有五项同意令，以解决与其贷款和销售行为相关的问题，并补充说，最近终止三项监管处罚表明该银行已经取得进展。]]></description>
       <guid>https://www.reuters.com/business/finance/wells-fargo-cfo-says-five-consent-orders-are-remaining-2025-02-11/</guid>
@@ -36,26 +50,26 @@
     <item>
       <title>报告显示近三分之一的央行推迟数字货币计划</title>
       <link>https://www.reuters.com/markets/currencies/almost-third-central-banks-delaying-digital-currency-plans-report-shows-2025-02-11/</link>
-      <description><![CDATA[一项新调查显示，近三分之一的央行推迟了推出数字货币的计划，尽管出于保护货币铸造权的考虑，大多数央行仍打算继续推进。]]></description>
+      <description><![CDATA[一项新的调查显示，近三分之一的中央银行已经推迟推出其货币的数字版本，尽管渴望保护自己的赚钱能力的愿望意味着最仍然打算继续前进。]]></description>
       <guid>https://www.reuters.com/markets/currencies/almost-third-central-banks-delaying-digital-currency-plans-report-shows-2025-02-11/</guid>
       <pubDate>Tue, 11 Feb 2025 16:22:18 GMT</pubDate>
     </item>
     <item>
       <title>荷兰合作银行公布 2024 年盈利 51.6 亿欧元</title>
       <link>https://www.reuters.com/business/finance/netherlands-rabobank-reports-516-bln-euro-profit-2024-2025-02-11/</link>
-      <description><![CDATA[荷兰合作银行 Rabobank [RIC:RIC:RABO.UL] 周二公布，2024 年净利润达到创纪录的 51.6 亿欧元（53.4 亿美元），较 2023 年的 43.8 亿欧元增长 18%，受益于美国和欧洲利率上升、费用和佣金增加以及不良贷款减值减少。]]></description>
+      <description><![CDATA[荷兰合作银行Rabobank [RIC：RIC：Rabo.ul]周二报告说，净利润为2024年的51.6亿欧元（53.4亿美元），比2023年的43.8亿欧元增长了18％欧洲，较高的费用和佣金以及不良贷款的损害较少。]]></description>
       <guid>https://www.reuters.com/business/finance/netherlands-rabobank-reports-516-bln-euro-profit-2024-2025-02-11/</guid>
       <pubDate>Tue, 11 Feb 2025 16:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>美联储鲍威尔：除CFPB外没有其他机构负责消费者保护执法</title>
+      <title>美联储的鲍威尔：除了负责消费者保护执行的CFPB之外，没有其他代理机构</title>
       <link>https://www.reuters.com/world/us/feds-powell-no-agency-other-than-cfpb-tasked-with-consumer-protection-2025-02-11/</link>
       <description><![CDATA[美联储主席周二表示，除了消费者金融保护局 (CFPB) 之外，没有其他美国监管机构负责确保银行遵守防止消费者欺诈行为的规定。一位资深民主党参议员敦促美联储主席确保 CFPB 继续获得资金。]]></description>
       <guid>https://www.reuters.com/world/us/feds-powell-no-agency-other-than-cfpb-tasked-with-consumer-protection-2025-02-11/</guid>
       <pubDate>Tue, 11 Feb 2025 16:11:18 GMT</pubDate>
     </item>
     <item>
-      <title>银行高管预计特朗普任内美国政策不确定性将持续，但仍看好经济</title>
+      <title>银行老板期望美国政策不确定性在特朗普的领导下持续下去，但要对经济保证</title>
       <link>https://www.reuters.com/markets/us/bank-bosses-expect-us-policy-uncertainty-persist-under-trump-stay-bullish-2025-02-11/</link>
       <description><![CDATA[美国银行高管周二表示，随着特朗普总统第二届政府的组建，他们预计政策不确定性仍将持续，但他们对经济前景仍持乐观态度。]]></description>
       <guid>https://www.reuters.com/markets/us/bank-bosses-expect-us-policy-uncertainty-persist-under-trump-stay-bullish-2025-02-11/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[英国央行行长安德鲁贝利周二表示，在反对金融监管负担的强烈反对中，不应忘记 2008 年全球金融危机 (GFC) 的成本，并警告该行需要监控新的脆弱性。]]></description>
       <guid>https://www.reuters.com/markets/bank-englands-bailey-says-world-should-not-forget-lessons-2008-crisis-2025-02-11/</guid>
       <pubDate>Tue, 11 Feb 2025 12:35:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合信贷银行称，在俄罗斯收入增加后，它正在遵守欧洲央行的命令</title>
-      <link>https://www.reuters.com/business/finance/unicredit-says-it-is-complying-with-ecb-order-after-russian-revenue-rise-2025-02-11/</link>
-      <description><![CDATA[意大利联合信贷银行周二报告称，去年其在俄罗斯的业务收入有所增加，但该银行已减少了在俄罗斯的贷款和存款，并遵守了欧洲央行缩减规模的要求。]]></description>
-      <guid>https://www.reuters.com/business/finance/unicredit-says-it-is-complying-with-ecb-order-after-russian-revenue-rise-2025-02-11/</guid>
-      <pubDate>Tue, 11 Feb 2025 11:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年瑞士百达集团净新资金下降</title>
-      <link>https://www.reuters.com/business/finance/net-new-money-switzerlands-pictet-drops-2024-2025-02-11/</link>
-      <description><![CDATA[瑞士私人银行和资产管理公司百达银行周二表示，去年该行的净新资金下降至 110 亿瑞士法郎（120 亿美元），较上年下降约 31%。]]></description>
-      <guid>https://www.reuters.com/business/finance/net-new-money-switzerlands-pictet-drops-2024-2025-02-11/</guid>
-      <pubDate>Tue, 11 Feb 2025 10:50:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
