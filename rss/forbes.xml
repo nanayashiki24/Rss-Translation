@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Thu, 13 Feb 2025 04:23:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 05:18:45 GMT</lastBuildDate>
+    <item>
+      <title>人工智能如何将营销运营从数据过载中解放出来</title>
+      <link>https://www.forbes.com/sites/sap/2025/02/13/how-ai-liberates-marketing-operations-from-data-overload/</link>
+      <description><![CDATA[人工智能（AI）正在成为改变游戏规则的因素，并将彻底改变营销运营的未来。]]></description>
+      <guid>https://www.forbes.com/sites/sap/2025/02/13/how-ai-liberates-marketing-operations-from-data-overload/</guid>
+      <pubDate>Thu, 13 Feb 2025 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>权力博弈：核能与可再生能源的经济性</title>
       <link>https://www.forbes.com/sites/dianneplummer/2025/02/12/power-play-the-economics-of-nuclear-vs-renewables/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>HPE 推出下一代 ProLiant 计算服务器</title>
       <link>https://www.forbes.com/sites/moorinsights/2025/02/12/hpe-launches-next-generation-proliant-compute-servers/</link>
-      <description><![CDATA[这家大型基础设施供应商希望通过增强的安全性、效率、自动化、可管理性和人工智能功能来实现其数据中心服务器的差异化。]]></description>
+      <description><![CDATA[这家大型基础设施供应商希望通过增强的安全性、效率、自动化、可管理性和人工智能功能来使其数据中心服务器脱颖而出。]]></description>
       <guid>https://www.forbes.com/sites/moorinsights/2025/02/12/hpe-launches-next-generation-proliant-compute-servers/</guid>
       <pubDate>Wed, 12 Feb 2025 23:15:30 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[愤怒的谷歌地图用户在社交媒体上集会，举报美国湾标记错误，抗议该公司重新命名墨西哥湾的决定。]]></description>
       <guid>https://www.forbes.com/sites/dimitarmixmihov/2025/02/12/angry-google-maps-users-report-gulf-of-america-as-mislabeled/</guid>
       <pubDate>Wed, 12 Feb 2025 20:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据显示基于身份的攻击现已成为网络犯罪的主导</title>
-      <link>https://www.forbes.com/sites/tonybradley/2025/02/12/data-reveals-identity-based-attacks-now-dominate-cybercrime/</link>
-      <description><![CDATA[如今，网络攻击更倾向于窃取身份信息，而非恶意软件。了解攻击者如何逃避检测，以及身份安全为何成为新的网络安全战场。]]></description>
-      <guid>https://www.forbes.com/sites/tonybradley/2025/02/12/data-reveals-identity-based-attacks-now-dominate-cybercrime/</guid>
-      <pubDate>Wed, 12 Feb 2025 20:07:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
