@@ -4,7 +4,7 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Tue, 25 Feb 2025 15:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 15:41:29 GMT</lastBuildDate>
     <item>
       <title>网络弹性：它是什么，如何实现？</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2025/02/25/cyber-resiliency-what-is-it-and-how-is-it-achieved/</link>
@@ -69,6 +69,13 @@
       <pubDate>Tue, 25 Feb 2025 14:30:00 GMT</pubDate>
     </item>
     <item>
+      <title>AI代理如何帮助企业更好地为客户服务</title>
+      <link>https://www.forbes.com/sites/aytekintank/2025/02/25/how-ai-agents-help-businesses-better-serve-customers/</link>
+      <description><![CDATA[从实时支持到量身定制的建议，AI代理商正在改变品牌如何与客户建立联系并建立持久关系。]]></description>
+      <guid>https://www.forbes.com/sites/aytekintank/2025/02/25/how-ai-agents-help-businesses-better-serve-customers/</guid>
+      <pubDate>Tue, 25 Feb 2025 14:26:48 GMT</pubDate>
+    </item>
+    <item>
       <title>2025年的商店：开创性的技术和量子计算</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2025/02/25/whats-in-store-in-2025-ground-breaking-tech-and-quantum-computing/</link>
       <description><![CDATA[2025年将是技术开始从根本上改变我们对未来的愿景的一年。]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果您想完成更多的工作或更快地工作，尤其是在前线上，太多的技术可能会违反直觉。]]></description>
       <guid>https://www.forbes.com/councils/forbestechcouncil/2025/02/25/there-is-such-a-thing-as-too-much-technology-especially-if-youre-a-frontline-worker/</guid>
       <pubDate>Tue, 25 Feb 2025 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft感到惊讶的是Google用户 -  sust for Gemini，改为获取副驾驶员</title>
-      <link>https://www.forbes.com/sites/zakdoffman/2025/02/25/microsoft-surprises-google-users-search-gemini-get-copilot-instead/</link>
-      <description><![CDATA[Google vs Microsoft进行了新的转折 - 在这里要知道。]]></description>
-      <guid>https://www.forbes.com/sites/zakdoffman/2025/02/25/microsoft-surprises-google-users-search-gemini-get-copilot-instead/</guid>
-      <pubDate>Tue, 25 Feb 2025 13:45:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
