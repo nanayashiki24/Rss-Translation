@@ -4,7 +4,49 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Tue, 11 Mar 2025 11:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 12:40:47 GMT</lastBuildDate>
+    <item>
+      <title>AI和ML如何转换DevSecops管道</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/how-ai-and-ml-are-transforming-devsecops-pipelines/</link>
+      <description><![CDATA[DevSecops的地平线正在迅速扩展，随着边缘计算，联合学习和专门针对特定行业量身定制的专业AI算法。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/how-ai-and-ml-are-transforming-devsecops-pipelines/</guid>
+      <pubDate>Tue, 11 Mar 2025 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>COVID-19-5在5：削减资金会阻碍我们未来的准备吗？</title>
+      <link>https://www.forbes.com/sites/davewessner/2025/03/11/covid-19-pandemic-at-5-will-funding-cuts-hinder-our-future-preparedness/</link>
+      <description><![CDATA[1920年，1920年，19020年的大流行似乎立刻开始了。但是治疗剂很快就可以使用。拟议的削减对NIH可能会阻碍我们下次的回应率。]]></description>
+      <guid>https://www.forbes.com/sites/davewessner/2025/03/11/covid-19-pandemic-at-5-will-funding-cuts-hinder-our-future-preparedness/</guid>
+      <pubDate>Tue, 11 Mar 2025 12:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据质量是AI和太空策略中缺少的部分</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/data-quality-as-the-missing-piece-in-ai-and-space-strategies/</link>
+      <description><![CDATA[在人工智能（AI）的快速变化领域中，高质量数据的重要性不能被夸大。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/data-quality-as-the-missing-piece-in-ai-and-space-strategies/</guid>
+      <pubDate>Tue, 11 Mar 2025 12:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>甲骨文的健康负责人描述了人工智能和医疗保健的愿景</title>
+      <link>https://www.forbes.com/sites/saibala/2025/03/11/oracles-health-chief-describes-the-bold-vision-for-ai-and-healthcare/</link>
+      <description><![CDATA[幸运的是，在征服医疗保健和AI的交叉路口的比赛中，可能有不止一个赢家。]]></description>
+      <guid>https://www.forbes.com/sites/saibala/2025/03/11/oracles-health-chief-describes-the-bold-vision-for-ai-and-healthcare/</guid>
+      <pubDate>Tue, 11 Mar 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>危机爆发时，让机器人运行仓库</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/having-robots-run-warehouses-when-crisis-hits/</link>
+      <description><![CDATA[随着越来越多的组织正在实施机器人技术，实现的自动化需要一种结构化的方法。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/having-robots-run-warehouses-when-crisis-hits/</guid>
+      <pubDate>Tue, 11 Mar 2025 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么业务领导者应该关心可验证的互联网</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/why-business-leaders-should-care-about-a-verifiable-internet/</link>
+      <description><![CDATA[区块链行业已经迅速发展，但它仍然应对一个基本挑战：实现高效，可扩展和无信任的验证。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/why-business-leaders-should-care-about-a-verifiable-internet/</guid>
+      <pubDate>Tue, 11 Mar 2025 11:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>X受到攻击 -  dark Storm说这是Musk Platform DDOS的背后</title>
       <link>https://www.forbes.com/sites/daveywinder/2025/03/11/x-under-attack-dark-storm-says-it-was-behind-musk-platform-ddos/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[当Google确认针对Chrome的新安全更新时，Windows，Mac和Linux平台的用户必须做一件关键的事情，以防止攻击。]]></description>
       <guid>https://www.forbes.com/sites/daveywinder/2025/03/11/googles-new-security-update-chrome-users-must-do-1-thing-now/</guid>
       <pubDate>Tue, 11 Mar 2025 10:34:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>该初创公司无法取代国家气象局。但这可能必须</title>
-      <link>https://www.forbes.com/sites/alexknapp/2025/03/11/this-startup-cant-replace-the-national-weather-service-but-it-might-have-to/</link>
-      <description><![CDATA[Tomorrow.io的Startup Storth.io已建立了一系列天气卫星，以将数据馈送到其为商业客户定制的AI驱动预测。可以填补Doge削减国家气象局留下的空白吗？]]></description>
-      <guid>https://www.forbes.com/sites/alexknapp/2025/03/11/this-startup-cant-replace-the-national-weather-service-but-it-might-have-to/</guid>
-      <pubDate>Tue, 11 Mar 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用全球创新进行业务差异化</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/leveraging-global-innovation-for-business-differentiation/</link>
-      <description><![CDATA[这是全球技术动态如何影响您业务的未来。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/leveraging-global-innovation-for-business-differentiation/</guid>
-      <pubDate>Tue, 11 Mar 2025 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术如何使赛车访问</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/how-technology-is-making-motorsport-accessible/</link>
-      <description><![CDATA[随着创新继续推动进步，赛道和球迷之间的差距只会继续缩小，从而为更多的人带来了赛车的梦想。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/how-technology-is-making-motorsport-accessible/</guid>
-      <pubDate>Tue, 11 Mar 2025 10:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在本周2029年，美国最好看到最佳的“血月”。</title>
-      <link>https://www.forbes.com/sites/jamiecartereurope/2025/03/11/all-us-states-to-see-last-blood-moon-total-lunar-eclipse-until-2029-this-week/</link>
-      <description><![CDATA[2025年3月13日至14日晚上，美国所有50个州都将目睹一整个月食 - 最好的“血月”直到2029年。总数将持续65分钟。]]></description>
-      <guid>https://www.forbes.com/sites/jamiecartereurope/2025/03/11/all-us-states-to-see-last-blood-moon-total-lunar-eclipse-until-2029-this-week/</guid>
-      <pubDate>Tue, 11 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI与自动化：您的业务实际需要什么</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/ai-versus-automation-what-your-business-actually-needs/</link>
-      <description><![CDATA[制定经过深思熟虑的策略可以增加您保持竞争力的机会，并通过这种方法的关键要素来自动化（也许是AI）。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/03/11/ai-versus-automation-what-your-business-actually-needs/</guid>
-      <pubDate>Tue, 11 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.3.2  - 苹果神秘的新iPhone更新中有什么？</title>
-      <link>https://www.forbes.com/sites/kateoflahertyuk/2025/03/11/ios-1832-whats-in-apples-mystery-new-iphone-update/</link>
-      <description><![CDATA[苹果公司准备发行iOS 18.3.2，这是一个神秘的新iPhone更新，即iOS 18.4。升级是什么，什么时候到达？]]></description>
-      <guid>https://www.forbes.com/sites/kateoflahertyuk/2025/03/11/ios-1832-whats-in-apples-mystery-new-iphone-update/</guid>
-      <pubDate>Tue, 11 Mar 2025 08:34:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
