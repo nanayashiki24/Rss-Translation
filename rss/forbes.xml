@@ -4,7 +4,21 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Mon, 17 Mar 2025 16:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 16:48:14 GMT</lastBuildDate>
+    <item>
+      <title>好的，AI，Solo Kagent是Kubernetes的代理AI框架</title>
+      <link>https://www.forbes.com/sites/adrianbridgwater/2025/03/17/okay-ai-solo-kagent-is-an-agentic-ai-framework-for-kubernetes/</link>
+      <description><![CDATA[Kagent今年是新创建的，是一个开源框架，可提供应用程序开发工具，AI代理和相关资源。]]></description>
+      <guid>https://www.forbes.com/sites/adrianbridgwater/2025/03/17/okay-ai-solo-kagent-is-an-agentic-ai-framework-for-kubernetes/</guid>
+      <pubDate>Mon, 17 Mar 2025 16:34:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google刚刚展示了如何出售Agentic AI  - 竞争对手会注意吗？</title>
+      <link>https://www.forbes.com/sites/moorinsights/2025/03/17/google-just-showed-how-to-sell-agentic-ai---will-rivals-pay-attention/</link>
+      <description><![CDATA[基于其针对Agenic AI的产品营销，Google似乎掌握了解决业务问题而不是将有关AI的陈词滥调的陈词滥调。]]></description>
+      <guid>https://www.forbes.com/sites/moorinsights/2025/03/17/google-just-showed-how-to-sell-agentic-ai---will-rivals-pay-attention/</guid>
+      <pubDate>Mon, 17 Mar 2025 16:29:57 GMT</pubDate>
+    </item>
     <item>
       <title>Google说，在Gmail锁定黑客攻击之后，您有7天的行动</title>
       <link>https://www.forbes.com/sites/daveywinder/2025/03/17/you-have-7-days-to-act-following-gmail-lockout-hack-attack-google-says/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[在过去的五年中，育碧的价值在急剧下降，因此在刺客信条的阴影上骑行了很多。]]></description>
       <guid>https://www.forbes.com/sites/paultassi/2025/03/17/ubisoft-has-everything-riding-on-assassins-creed-shadows/</guid>
       <pubDate>Mon, 17 Mar 2025 13:58:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>无形的Windows rootkit使用此前缀隐藏了危险文件</title>
-      <link>https://www.forbes.com/sites/daveywinder/2025/03/17/invisible-windows-rootkit-hides-dangerous-files-using-this-prefix/</link>
-      <description><![CDATA[这个无形的rootkit威胁将脚本存储在Windows注册表中，并且可以将恶意文件和任务隐藏在此前缀后面，这是您需要知道的。]]></description>
-      <guid>https://www.forbes.com/sites/daveywinder/2025/03/17/invisible-windows-rootkit-hides-dangerous-files-using-this-prefix/</guid>
-      <pubDate>Mon, 17 Mar 2025 13:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有“电状态2”，但是可能会以某种方式表演</title>
-      <link>https://www.forbes.com/sites/paultassi/2025/03/17/there-is-no-the-electric-state-2-but-there-may-somehow-be-a-show/</link>
-      <description><![CDATA[会有电状态2吗？不，但是这部电影的播放后实际上可能会有Netflix演出。]]></description>
-      <guid>https://www.forbes.com/sites/paultassi/2025/03/17/there-is-no-the-electric-state-2-but-there-may-somehow-be-a-show/</guid>
-      <pubDate>Mon, 17 Mar 2025 13:30:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
