@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Wed, 19 Mar 2025 02:58:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 04:24:41 GMT</lastBuildDate>
+    <item>
+      <title>数据革命：弥合技术与业务之间的差距</title>
+      <link>https://www.forbes.com/sites/sap/2025/03/19/the-data-revolution-bridging-the-gap-between-technology-and-business/</link>
+      <description><![CDATA[业务系统，数据和AI的交集使公司能够做出基于数据的决策。]]></description>
+      <guid>https://www.forbes.com/sites/sap/2025/03/19/the-data-revolution-bridging-the-gap-between-technology-and-business/</guid>
+      <pubDate>Wed, 19 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>3月19日星期三的“ NYT MINI”线索和答案</title>
       <link>https://www.forbes.com/sites/paultassi/2025/03/18/nyt-mini-clues-and-answers-for-wednesday-march-19-best-picture-winner-suspenders-mustache-costume/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Gatik今天宣布将开发和部署NVIDIA DRIVE AGX IN-VEHILE COMPUTE架构，包括6/7级货运（无人驾驶）车辆的车队。]]></description>
       <guid>https://www.forbes.com/sites/richardbishop1/2025/03/18/gatik-to-apply-nvidia-next-gen-compute-power-to-autonomous-trucks/</guid>
       <pubDate>Tue, 18 Mar 2025 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>提示：Meta的开源LLM Llama已下载超过10亿次</title>
-      <link>https://www.forbes.com/sites/alexknapp/2025/03/18/the-prompt-metas-open-source-llm-llama-has-been-downloaded-over-one-billion-times/</link>
-      <description><![CDATA[另外：英特尔的大型芯片计划，脑袋里没有芯片的BCI，Google的机器人AI等。]]></description>
-      <guid>https://www.forbes.com/sites/alexknapp/2025/03/18/the-prompt-metas-open-source-llm-llama-has-been-downloaded-over-one-billion-times/</guid>
-      <pubDate>Tue, 18 Mar 2025 18:46:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
