@@ -4,9 +4,30 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Mon, 02 Jun 2025 11:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 11:40:05 GMT</lastBuildDate>
     <item>
-      <title>当黑客不是人类时：与网络威胁的新时代作斗争的3个关键策略</title>
+      <title>刚刚降落在Netflix上的有史以来最好的惊悚片之一</title>
+      <link>https://www.forbes.com/sites/erikkain/2025/06/02/one-of-the-best-thrillers-ever-made-time-just-landed-on-netflix/</link>
+      <description><![CDATA[很少有电影达到了这种悬念水平。]]></description>
+      <guid>https://www.forbes.com/sites/erikkain/2025/06/02/one-of-the-best-thrillers-ever-made-time-just-landed-on-netflix/</guid>
+      <pubDate>Mon, 02 Jun 2025 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>了解转向2D条形码和GS1数字链接</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/06/02/understanding-the-shift-to-2d-barcodes-and-gs1-digital-link/</link>
+      <description><![CDATA[由于在智能手机中引入了本机QR码扫描，因此2D条形码已成为共享信息的首选方法。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/06/02/understanding-the-shift-to-2d-barcodes-and-gs1-digital-link/</guid>
+      <pubDate>Mon, 02 Jun 2025 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>3种建立AI文组织的策略</title>
+      <link>https://www.forbes.com/sites/sap/2025/06/02/3-strategies-for-building-an-ai-literate-organization/</link>
+      <description><![CDATA[每个人都知道他们需要采用AI，但是随着AI支持的工具和技术每天改变，很难跳入并开始了解这一切。]]></description>
+      <guid>https://www.forbes.com/sites/sap/2025/06/02/3-strategies-for-building-an-ai-literate-organization/</guid>
+      <pubDate>Mon, 02 Jun 2025 11:22:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>当黑客不是人类时：与网络威胁新时代作斗争的3个关键策略</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2025/06/02/when-hackers-arent-human-3-key-strategies-to-combat-a-new-era-of-cyber-threats/</link>
       <description><![CDATA[加强您的SOC的准备涉及三个关键策略。]]></description>
       <guid>https://www.forbes.com/councils/forbestechcouncil/2025/06/02/when-hackers-arent-human-3-key-strategies-to-combat-a-new-era-of-cyber-threats/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[Microsoft计划通过在新Windows PC上设置端口的最低要求来结束USB-C端口混乱。]]></description>
       <guid>https://www.forbes.com/sites/barrycollins/2025/06/02/which-usb-port-is-this-microsoft-vows-to-end-the-lottery/</guid>
       <pubDate>Mon, 02 Jun 2025 09:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google确认了新攻击 - 立即停止使用密码</title>
-      <link>https://www.forbes.com/sites/zakdoffman/2025/06/02/google-confirms-new-attack-stop-using-your-passwords-now/</link>
-      <description><![CDATA[您需要更改帐户 - 这就是原因。]]></description>
-      <guid>https://www.forbes.com/sites/zakdoffman/2025/06/02/google-confirms-new-attack-stop-using-your-passwords-now/</guid>
-      <pubDate>Mon, 02 Jun 2025 09:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>RSI的威胁是否可以成为人体工程学鼠标制造商轮廓的手臂？</title>
-      <link>https://www.forbes.com/sites/marksparrow/2025/06/02/could-the-threat-of-rsi-be-a-shot-in-the-arm-for-ergonomic-mouse-maker-contour/</link>
-      <description><![CDATA[确保计算机用户具有符合人体工程学的设置非常重要。轮廓设计制造了可以帮助避免RSI和其他姿势问题的专家输入设备。]]></description>
-      <guid>https://www.forbes.com/sites/marksparrow/2025/06/02/could-the-threat-of-rsi-be-a-shot-in-the-arm-for-ergonomic-mouse-maker-contour/</guid>
-      <pubDate>Mon, 02 Jun 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>北灯警报：13个州可能在星期一和星期二看到Aurora</title>
-      <link>https://www.forbes.com/sites/jamiecartereurope/2025/06/02/northern-lights-alert-13-states-may-see-aurora-on-monday-and-tuesday/</link>
-      <description><![CDATA[NOAA的太空天气专家称，本周一的13个州可能会在美国13个州看到北极光。]]></description>
-      <guid>https://www.forbes.com/sites/jamiecartereurope/2025/06/02/northern-lights-alert-13-states-may-see-aurora-on-monday-and-tuesday/</guid>
-      <pubDate>Mon, 02 Jun 2025 08:49:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
