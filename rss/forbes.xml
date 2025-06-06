@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Fri, 06 Jun 2025 10:47:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 11:21:03 GMT</lastBuildDate>
+    <item>
+      <title>Ockham的Razor降低成本：审慎的网络数据收集</title>
+      <link>https://www.forbes.com/councils/forbestechcouncil/2025/06/06/cutting-costs-with-ockhams-razor-web-data-gathering-for-the-prudent/</link>
+      <description><![CDATA[本文讨论了接触Web数据收集及其解决方案提供商的一般最佳实践，以最大程度地提高从中获得的价值。]]></description>
+      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/06/06/cutting-costs-with-ockhams-razor-web-data-gathering-for-the-prudent/</guid>
+      <pubDate>Fri, 06 Jun 2025 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>签证审查2.0：AI如何解码移民应用中的隐藏故事</title>
       <link>https://www.forbes.com/councils/forbestechcouncil/2025/06/06/visa-vetting-20-how-ai-can-decode-the-hidden-stories-in-immigration-applications/</link>
@@ -69,7 +76,7 @@
       <pubDate>Fri, 06 Jun 2025 09:50:14 GMT</pubDate>
     </item>
     <item>
-      <title>新的铬，边缘截止日期 - 现在和重新启动所有浏览器</title>
+      <title>新铬，边缘警告 -  6月26日截止日期之前，请浏览器</title>
       <link>https://www.forbes.com/sites/zakdoffman/2025/06/06/new-chrome-edge-deadline-update-and-restart-all-browsers-now/</link>
       <description><![CDATA[您已经被警告 - 不要太晚了。]]></description>
       <guid>https://www.forbes.com/sites/zakdoffman/2025/06/06/new-chrome-edge-deadline-update-and-restart-all-browsers-now/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[在本周末，在NOAA太空天气专家的地磁风暴预测，北极光（Aurora Borealis）可能在美国可见。]]></description>
       <guid>https://www.forbes.com/sites/jamiecartereurope/2025/06/06/northern-lights-forecast-10-states-may-see-coronal-mass-ejection-arrive-this-weekend/</guid>
       <pubDate>Fri, 06 Jun 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>UFC在灾难性的奔跑后与传奇的侄子保持联系</title>
-      <link>https://www.forbes.com/sites/brianmazique/2025/06/06/ufc-cuts-ties-with-legends-nephew-after-disastrous-run/</link>
-      <description><![CDATA[UFC采取了一系列花名册的动作，包括在三分失败的连胜纪录中倾倒传奇的侄子。]]></description>
-      <guid>https://www.forbes.com/sites/brianmazique/2025/06/06/ufc-cuts-ties-with-legends-nephew-after-disastrous-run/</guid>
-      <pubDate>Fri, 06 Jun 2025 07:44:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
