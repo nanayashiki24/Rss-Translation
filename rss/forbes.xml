@@ -4,7 +4,21 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Thu, 12 Jun 2025 05:44:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 07:22:40 GMT</lastBuildDate>
+    <item>
+      <title>CETI看着AI的鲸鱼声音的复杂性</title>
+      <link>https://www.forbes.com/sites/johnwerner/2025/06/12/ceti-looks-into-the-complexities-of-whale-sounds-with-ai/</link>
+      <description><![CDATA[Sharma是Csail的研究生，并与我们自己的Daniela Rus这样的顾问合作，以推进这种发现。]]></description>
+      <guid>https://www.forbes.com/sites/johnwerner/2025/06/12/ceti-looks-into-the-complexities-of-whale-sounds-with-ai/</guid>
+      <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子计算会杀死比特币吗？</title>
+      <link>https://www.forbes.com/sites/bernardmarr/2025/06/12/will-quantum-computing-kill-bitcoin/</link>
+      <description><![CDATA[从理论上讲，量子计算机可能会破坏比特币的加密，威胁到5亿全球持有人的投资和数万亿的市场价值。]]></description>
+      <guid>https://www.forbes.com/sites/bernardmarr/2025/06/12/will-quantum-computing-kill-bitcoin/</guid>
+      <pubDate>Thu, 12 Jun 2025 06:33:19 GMT</pubDate>
+    </item>
     <item>
       <title>HBM和新兴记忆技术可以实现AI培训和推理</title>
       <link>https://www.forbes.com/sites/tomcoughlin/2025/06/12/hbm-and-emerging-memory-technologies-enable-ai-training-and-inference/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[随着人工智能重塑软件景观，出现了一个苛刻的现实：肿的SaaS生态系统可能一直在建立大卫·格雷伯（David Graeber）所谓的“胡说八道工作”的帝国。]]></description>
       <guid>https://www.forbes.com/sites/josipamajic/2025/06/11/how-ai-is-exposing-the-great-saas-mediocrity-machine/</guid>
       <pubDate>Wed, 11 Jun 2025 21:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>噪音是新的二手烟</title>
-      <link>https://www.forbes.com/sites/billschiffmiller/2025/06/11/noise-is-the-new-secondhand-smoke/</link>
-      <description><![CDATA[噪声是新的二手烟，是可衡量的健康和业务风险。了解它如何影响客户体验，员工福祉和品牌价值。]]></description>
-      <guid>https://www.forbes.com/sites/billschiffmiller/2025/06/11/noise-is-the-new-secondhand-smoke/</guid>
-      <pubDate>Wed, 11 Jun 2025 21:33:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>自我修复数据平台：如何使您的人工智能修复自身</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/06/11/self-healing-data-platforms-how-to-make-your-ai-fix-itself/</link>
-      <description><![CDATA[自我修复平台的好处超出了操作效率。降低停机时间，更快的恢复和降低的事件响应成本都会导致更强的业务绩效。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/06/11/self-healing-data-platforms-how-to-make-your-ai-fix-itself/</guid>
-      <pubDate>Wed, 11 Jun 2025 18:41:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
