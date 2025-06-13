@@ -4,7 +4,21 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Fri, 13 Jun 2025 20:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 20:46:21 GMT</lastBuildDate>
+    <item>
+      <title>Apple Loop：Apple确认iPhone的AI失败，Finder的不舒服链，WWDC成功的静修</title>
+      <link>https://www.forbes.com/sites/ewanspence/2025/06/13/apple-news-headlines-wwdc-iphone-ios-macos-ipad-pro-ipados-finder/</link>
+      <description><![CDATA[本周WWDC的苹果头条：Apple对其AI失败的解释，iOS 26，MacOS 26和iPad OS 26的新功能，Finder的不舒服变化，iPad上的多任务处理等等...]]></description>
+      <guid>https://www.forbes.com/sites/ewanspence/2025/06/13/apple-news-headlines-wwdc-iphone-ios-macos-ipad-pro-ipados-finder/</guid>
+      <pubDate>Fri, 13 Jun 2025 20:40:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Circuit：Android 16发射，无技术转向北美，最新的Galaxy Z Fold7详细信息</title>
+      <link>https://www.forbes.com/sites/ewanspence/2025/06/13/android-news-headlines-android-16-aop-samsung-galaxy-z-fold7-pixel-10-nothing-phone-3-gboard-emoji/</link>
+      <description><![CDATA[本周的Android头条新闻； Android 16版本，材料3表达设计，另一个Galaxy Z Fold7取笑，Pixel 10的色彩设计，AOSP的基本变化，任何技术转向北美等等...]]></description>
+      <guid>https://www.forbes.com/sites/ewanspence/2025/06/13/android-news-headlines-android-16-aop-samsung-galaxy-z-fold7-pixel-10-nothing-phone-3-gboard-emoji/</guid>
+      <pubDate>Fri, 13 Jun 2025 20:32:55 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普的签证禁令禁止新的外国医生进入美国</title>
       <link>https://www.forbes.com/sites/emmawhitford/2025/06/13/trumps-visa-ban-is-barring-new-foreign-doctors-from-entering-us/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[针对Android用户的新警告 - 要知道什么。]]></description>
       <guid>https://www.forbes.com/sites/zakdoffman/2025/06/13/do-not-click-these-notifications-on-your-phone/</guid>
       <pubDate>Fri, 13 Jun 2025 17:27:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>20 DevOps错误，破坏了速度，安全和协作</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/06/13/20-devops-mistakes-that-undermine-speed-security-and-collaboration/</link>
-      <description><![CDATA[一些非常常见的DevOps实践和模式可以创造瓶颈，引入技术债务，导致团队摩擦，甚至增加安全风险。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/06/13/20-devops-mistakes-that-undermine-speed-security-and-collaboration/</guid>
-      <pubDate>Fri, 13 Jun 2025 17:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>物理AI，自主系统和机器人技术（PAI-ASR）安全姿势管理（SPM）差距</title>
-      <link>https://www.forbes.com/councils/forbestechcouncil/2025/06/13/the-physical-ai-autonomous-systems-and-robotics-pai-asr-security-posture-management-spm-gap/</link>
-      <description><![CDATA[随着PAI-ASR重塑关键行业，缺乏特定领域的安全姿势管理（SPM）将威胁要减慢下一届AI技术革命。]]></description>
-      <guid>https://www.forbes.com/councils/forbestechcouncil/2025/06/13/the-physical-ai-autonomous-systems-and-robotics-pai-asr-security-posture-management-spm-gap/</guid>
-      <pubDate>Fri, 13 Jun 2025 17:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
