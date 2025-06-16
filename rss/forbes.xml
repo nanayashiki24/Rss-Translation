@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Mon, 16 Jun 2025 04:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 06:35:54 GMT</lastBuildDate>
+    <item>
+      <title>超越炒作：苹果的AI警告对业务领导者意味着什么</title>
+      <link>https://www.forbes.com/sites/bernardmarr/2025/06/16/beyond-the-hype-what-apples-ai-warning-means-for-business-leaders/</link>
+      <description><![CDATA[一份新的苹果研究论文揭示了当今最先进的AI模型中的隐藏缺陷，表明它们在面对复杂的任务时可能会完全失败。]]></description>
+      <guid>https://www.forbes.com/sites/bernardmarr/2025/06/16/beyond-the-hype-what-apples-ai-warning-means-for-business-leaders/</guid>
+      <pubDate>Mon, 16 Jun 2025 05:47:57 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊花费了130亿美元在澳大利亚建立AI驱动的数据中心</title>
       <link>https://www.forbes.com/sites/iansayson/2025/06/16/amazon-spending-13-billion-to-build-ai-powered-data-centers-in-australia/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[人工智能增长的能力不会降低人类价值。他们扩大了我们的需求，将重点放在使我们无可替代的人类上。这需要混合智能。]]></description>
       <guid>https://www.forbes.com/sites/corneliawalther/2025/06/15/ai-forces-leaders-to-rediscover-the-missing-humanistic-component/</guid>
       <pubDate>Sun, 15 Jun 2025 15:31:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac的Steam即将获得对Apple Silicon的本地支持</title>
-      <link>https://www.forbes.com/sites/davidphelan/2025/06/15/steam-for-apple-mac-is-about-to-gain-native-support-for-apple-silicon/</link>
-      <description><![CDATA[Steam游戏在Mac上是可以玩的，但它们依靠Rosetta 2。这将要改变。]]></description>
-      <guid>https://www.forbes.com/sites/davidphelan/2025/06/15/steam-for-apple-mac-is-about-to-gain-native-support-for-apple-silicon/</guid>
-      <pubDate>Sun, 15 Jun 2025 15:30:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
