@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Tue, 08 Jul 2025 03:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 04:52:11 GMT</lastBuildDate>
+    <item>
+      <title>KIOXIA AISAQ改善了AI推断，DRAM成本较低</title>
+      <link>https://www.forbes.com/sites/tomcoughlin/2025/07/08/kioxia-aisaq-improves-ai-inference-with-lower-dram-costs/</link>
+      <description><![CDATA[Kioxia的AISAQ可以通过将数据库向量完全移动到存储中，从而允许更可扩展的RAG AI推理系统，从而避免随着数据库大小的增加而避免DRAM增长。]]></description>
+      <guid>https://www.forbes.com/sites/tomcoughlin/2025/07/08/kioxia-aisaq-improves-ai-inference-with-lower-dram-costs/</guid>
+      <pubDate>Tue, 08 Jul 2025 04:47:42 GMT</pubDate>
+    </item>
     <item>
       <title>百度的Ernie 4.5如何催化中国的AI转型</title>
       <link>https://www.forbes.com/sites/viviantoh/2025/07/07/how-baidus-ernie-45-is-catalyzing-chinas-ai-transformation/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>心理学家的3个情感成熟伴侣的迹象</title>
       <link>https://www.forbes.com/sites/traversmark/2025/07/07/3-signs-of-an-emotionally-mature-partner-by-a-psychologist/</link>
-      <description><![CDATA[情绪成熟是伴侣的宝贵力量。以下是如何以服务于您的联系的方式来判断它们是否真正成熟。]]></description>
+      <description><![CDATA[情感成熟是伴侣的宝贵力量。以下是如何以服务于您的联系的方式来判断它们是否真正成熟。]]></description>
       <guid>https://www.forbes.com/sites/traversmark/2025/07/07/3-signs-of-an-emotionally-mature-partner-by-a-psychologist/</guid>
       <pubDate>Mon, 07 Jul 2025 21:30:19 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[查看周到的UX设计如何塑造数字媒体中的信任，参与度和好奇心。]]></description>
       <guid>https://www.forbes.com/sites/pranavshinde/2025/07/07/soft-power-of-design-in-media/</guid>
       <pubDate>Mon, 07 Jul 2025 18:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果对所有iPhone 13用户的意外免费报价即将上线</title>
-      <link>https://www.forbes.com/sites/davidphelan/2025/07/07/apples-unexpected-free-offer-to-all-iphone-13-users-is-about-to-go-live/</link>
-      <description><![CDATA[Apple iPhone 13和其他手机的新型T-Mobile和Starlink卫星免费升级在大约两周的时间内。这就是它的含义以及如何使用它。]]></description>
-      <guid>https://www.forbes.com/sites/davidphelan/2025/07/07/apples-unexpected-free-offer-to-all-iphone-13-users-is-about-to-go-live/</guid>
-      <pubDate>Mon, 07 Jul 2025 18:55:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
