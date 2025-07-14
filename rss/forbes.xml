@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Mon, 14 Jul 2025 20:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 20:46:58 GMT</lastBuildDate>
+    <item>
+      <title>Google Photos AI混音：您的记忆仍然真实吗？</title>
+      <link>https://www.forbes.com/sites/paulmonckton/2025/07/14/google-photos-ai-remix-feature-are-your-memories-even-real-anymore/</link>
+      <description><![CDATA[Google照片正在开发AI驱动的“混音”功能，该功能将静止照片变成短视频。这会影响我们保留记忆的方式吗？]]></description>
+      <guid>https://www.forbes.com/sites/paulmonckton/2025/07/14/google-photos-ai-remix-feature-are-your-memories-even-real-anymore/</guid>
+      <pubDate>Mon, 14 Jul 2025 20:29:59 GMT</pubDate>
+    </item>
     <item>
       <title>“电子竞技是主流不知道的最大运动”</title>
       <link>https://www.forbes.com/sites/joshualamb/2025/07/14/esports-is-the-biggest-sport-that-the-mainstream-doesnt-know-about/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[这些计划展示了我们如何将LLM的力量应用于金融市场和金融素养。]]></description>
       <guid>https://www.forbes.com/sites/johnwerner/2025/07/14/2-innovations-for-financial-markets/</guid>
       <pubDate>Mon, 14 Jul 2025 15:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS构建代理综合开发人员环境</title>
-      <link>https://www.forbes.com/sites/adrianbridgwater/2025/07/14/aws-builds-agentic-integrated-developer-environment/</link>
-      <description><![CDATA[程序员的IDE包含源代码编辑器，编译器，调试器，构建自动化工具＆amp;项目管理和版本控制功能。]]></description>
-      <guid>https://www.forbes.com/sites/adrianbridgwater/2025/07/14/aws-builds-agentic-integrated-developer-environment/</guid>
-      <pubDate>Mon, 14 Jul 2025 15:12:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
