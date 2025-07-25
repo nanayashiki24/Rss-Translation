@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Fri, 25 Jul 2025 19:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 19:42:20 GMT</lastBuildDate>
+    <item>
+      <title>在人工智能中，糟糕的特征如何传播</title>
+      <link>https://www.forbes.com/sites/craigsmith/2025/07/25/how-bad-traits-can-spread-unseen-in-ai/</link>
+      <description><![CDATA[LLM可以继承表面下方的特征，从一个模型中静静地传递到另一种模型，并隐藏在输出模式中，无法检测到。]]></description>
+      <guid>https://www.forbes.com/sites/craigsmith/2025/07/25/how-bad-traits-can-spread-unseen-in-ai/</guid>
+      <pubDate>Fri, 25 Jul 2025 19:09:59 GMT</pubDate>
+    </item>
     <item>
       <title>重写卡特里娜飓风的叙述</title>
       <link>https://www.forbes.com/sites/tonybradley/2025/07/25/rewriting-the-narrative-of-hurricane-katrina/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Fromsoft刚刚宣布，Duos将会来到Elden Ring：Nightreign，其Patch 1.02，这是由他们刚刚在社交媒体上发布的新预告片提供的。]]></description>
       <guid>https://www.forbes.com/sites/paultassi/2025/07/25/elden-ring-nightreign-is-getting-its-missing-duos-patch-imminently/</guid>
       <pubDate>Fri, 25 Jul 2025 14:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊大胆进入可穿戴AI：蜜蜂的收购</title>
-      <link>https://www.forbes.com/sites/timbajarin/2025/07/25/amazons-bold-move-into-wearable-ai-the-bee-acquisition/</link>
-      <description><![CDATA[蜜蜂采集不仅仅是对可穿戴设备的另一种尝试。这是战略的转变。亚马逊敢打赌，蜜蜂可能是一件丢失的作品，可以将其与众不同。]]></description>
-      <guid>https://www.forbes.com/sites/timbajarin/2025/07/25/amazons-bold-move-into-wearable-ai-the-bee-acquisition/</guid>
-      <pubDate>Fri, 25 Jul 2025 14:00:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
