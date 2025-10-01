@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Wed, 01 Oct 2025 04:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 05:43:27 GMT</lastBuildDate>
+    <item>
+      <title>自动驾驶会发生吗？</title>
+      <link>https://www.forbes.com/sites/bernardmarr/2025/10/01/is-autonomous-driving-ever-going-to-happen/</link>
+      <description><![CDATA[自动驾驶汽车以机器人和第3级功能的发展进行，但是安全，法规和信任使完全自主权无法实现。]]></description>
+      <guid>https://www.forbes.com/sites/bernardmarr/2025/10/01/is-autonomous-driving-ever-going-to-happen/</guid>
+      <pubDate>Wed, 01 Oct 2025 05:26:02 GMT</pubDate>
+    </item>
     <item>
       <title>新的太阳能技术（例如量子点和gan）可以重新定义清洁能源</title>
       <link>https://www.forbes.com/sites/dianneplummer/2025/09/30/new-solar-tech-like-quantum-dots-and-gan-can-redefine--clean-energy/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[将AI从对话伙伴转变为采购代理的竞赛将重新定义从消费者习惯到竞争优势的一切。]]></description>
       <guid>https://www.forbes.com/sites/geruiwang/2025/09/30/why-chatgpts-buy-it-function-reshapes-e-commerce/</guid>
       <pubDate>Wed, 01 Oct 2025 01:01:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>防火墙是老式的：AI需要新的方法</title>
-      <link>https://www.forbes.com/sites/johnwerner/2025/09/30/firewalls-are-old-school-ai-needs-new-approaches/</link>
-      <description><![CDATA[人工智能改变网络安全：快速攻击，破布风险，人类欺骗；要求严格的检查和现代防御。]]></description>
-      <guid>https://www.forbes.com/sites/johnwerner/2025/09/30/firewalls-are-old-school-ai-needs-new-approaches/</guid>
-      <pubDate>Wed, 01 Oct 2025 00:51:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
