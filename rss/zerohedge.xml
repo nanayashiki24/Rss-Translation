@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>零新闻</title>
+    <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Oct 2025 17:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 17:41:33 GMT</lastBuildDate>
+    <item>
+      <title>CDC 表示，现在每个人都可以接种 COVID-19 疫苗</title>
+      <link>https://www.zerohedge.com/political/cdc-says-covid-19-vaccination-now-each-individual</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/political/cdc-says-covid-19-vaccination-now-each-individual</guid>
+      <pubDate>Tue, 07 Oct 2025 17:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管外国购买起伏，但Subpar 3Y拍卖仍停止了</title>
+      <link>https://www.zerohedge.com/markets/subpar-3y-auction-stops-through-despite-pullback-foreign-buying</link>
+      <description><![CDATA[尽管外国购买
+  本周的首次优惠券拍卖刚刚定价，它是相当坚实的，它利用了更广泛的风险。 
+美国东部时间下午1点，财政部以3岁纸的售价为580亿美元，高收益率为3.576％，高于上个月的3.485％，但距离过去三年中最低的高收益率不远。拍卖会在发行时通过3.584％停止了0.8bps，这是自2月以来最大的停留。
+ 覆盖率的出价为2.663，比上个月的2.726降低，但平均六次拍卖平均值高于2.550。 
+内部有点柔软，间接占62.7％，从9月的74.2％降低，也低于64.1％的六次拍卖平均水平。 
+，直接从17.4％跃升至26.6％，这给经销商留下了10.7％，距离有史以来最低。。
+  总的来说，这是一场轻柔的拍卖，尽管外国买家的回调，但在更广泛的风险中却没有问题，因为这在更大的风险中遇到了在整个会议的大部分时间里产生的幻灯片，并且在拍卖价格定价之后就碰到了LOD。 
+
+ Tyler Durden  
+ TUE，10/07/2025-13：19 ]]></description>
+      <guid>https://www.zerohedge.com/markets/subpar-3y-auction-stops-through-despite-pullback-foreign-buying</guid>
+      <pubDate>Tue, 07 Oct 2025 17:19:48 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普在揭示</title>
       <link>https://www.zerohedge.com/geopolitical/trump-calls-diplomacy-maduro-secret-doj-approved-kill-list-revealed</link>
@@ -13,7 +36,7 @@
       <pubDate>Tue, 07 Oct 2025 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>“比所有浪潮的总和更大、更快、更持久”：人工智能不会影响任何行业</title>
+      <title>“比所有波浪更大，更快，更永久”：AI不会影响任何部门</title>
       <link>https://www.zerohedge.com/ai/bigger-faster-more-permanent-all-waves-combined-no-sector-will-be-untouched-ai</link>
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/ai/bigger-faster-more-permanent-all-waves-combined-no-sector-will-be-untouched-ai</guid>
@@ -34,7 +57,7 @@
       <pubDate>Tue, 07 Oct 2025 15:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>福特股价因铝厂火灾可能会中断福特 F-150 生产而受到重创</title>
+      <title>在报告铝制植物火灾中锤击的福特股票可能会破坏福特F-150生产</title>
       <link>https://www.zerohedge.com/markets/aluminum-plant-blaze-threatens-disrupt-ford-f-150-production</link>
       <description><![CDATA[在报告铝制植物火上锤击的福特股票可能会破坏福特F-150生产
   在纽约的一家主要铝工厂的毁灭性火灾中，九月中旬的铝制植物设置为美国汽车行业，甚至可以破坏Ford Motor的F-150 PICSUP卡车的生产。 href =“ https://www.wsj.com/business/autos/ford-toyota-aluminum-factory-fire-fire-fire-fire-b806cb2f?gaa_at = eafs = eaks＆amp; apm; apm; amp;gaa_n = aswzdag3mlkcabcabcabw6rlx9gfsnvk4msnmmsndgjjjndgjjiqnddgjjiq.ndgjjiq.nmmsndgjjiq 3ZSGUQSTXZESRWT_BDDW％3D＆amp; gaa_ts = 68e5064c＆amp; gaa_sig = wgq-g46kgogq1zjluslqr jbzuzfpiexfysq1bcj2yzyjpljjks8iifxz6xtddpr7qnedjnueqhytfbsvvbqbqbqbqbqbq％3D％3D％&gt; wall街头期刊报告。 
@@ -60,29 +83,34 @@
     <item>
       <title>Tech，Crypto dump在报告中揭示AI芯片上Orcl的“剃须刀薄”边距</title>
       <link>https://www.zerohedge.com/technology/tech-crypto-dump-report-exposing-orcls-razor-thin-margins-ai-chips</link>
-      <description><![CDATA[ Tech，在报告上曝光Orcl的&#39;Razor thin&#39;边距的Crypto dump上的AI芯片 
-Is the AI/ORCL即将破裂的“ Batshit疯狂”妄想？   
-提醒一个月前，ORCL在预测非凡增长后飙升：
+      <description><![CDATA[技术、加密转储报告揭露 ORCL 在人工智能芯片上的利润“极薄”
+是 AI/ORCL 的“疯狂”妄想即将破灭？
+提醒一下，一个月前，ORCL 股票在预测非凡增长后飙升：
 
- “我们在第1季度与三个不同客户签署了4亿美元的合同，” Safra Catz的Oracle首席执行官说。  
- “这导致RPO合同积压增加了 359％至4550亿美元。这是一个令人惊讶的季度，对Oracle Cloud Cloud Infrastructure的需求继续建立。”   
+&lt;块引用&gt;
+“我们在第一季度与三个不同的客户签署了四份价值数十亿美元的合同，”Oracle 首席执行官 Safra Catz 说道。 
+“这导致 RPO 合同积压增加359%，达到 4550 亿美元。这是一个令人惊讶的季度，而且对 Oracle 云基础设施的需求持续增长。”
 
-从那以后，它一直在，向上和离开...直到今天... 
-  the信息报告内部文档显示快速增长的云业务在过去一年左右的时间里具有稀薄的毛利率，低于许多股票分析师估计的。 
+从那时起，它就一直上升、上升、消失……直到今天……
 
-文件显示， 在8月结束的三个月中，Oracle通过由Nvidia芯片提供动力的服务器的租金产生了约9亿美元，并记录了1.25亿美元的毛利润，相当于每1美元的销售额14美分。  
-  低于许多非技术零售业务的毛利率。  
- 作为过去一年的销售几乎增加了两倍，毛利润率的销售利润率不到10％至10％，平均约为16％。 。
+&lt;一 href=&quot;https://www.zerohedge.com/theinformation.com/subscribe_h?utm_source=google&amp;utm_medium=paid&amp; ;utm_campaign=kd-us-brand-20240513&amp;utm_content=699191628644&amp;utm_term=aud-1155974031526:kwd-29657 1223120&amp;gad_source=1&amp;gad_campaignid=21283667437&amp;gbraid=0AAAAADNJgqRiNAsqFHY4jfKgVLh0agzKq&amp;am p;gclid=Cj0KCQjw9JLHBhC-ARISAK4PhcokVYwT-Xqazfk3rwaOrD7ATUEyT8MRlbUmVmNB2zDpk5gv27ZVnt8aAlxTEALw_wcB&quot;&gt; 有消息称，内部文件显示，快速增长的云业务在过去一年左右的时间里，毛利率非常微薄，低于许多股票分析师的预期。
 
-  在某些情况下，甲骨文在Nvidia&#39;s Chips的较新版本和较旧版本的租金上失去了相当大的总和。
+&lt;块引用&gt;
+文件显示，在截至 8 月份的三个月中，甲骨文通过 Nvidia 芯片驱动的服务器租赁收入约为 9 亿美元，毛利润为 1.25 亿美元，相当于每 1 美元销售额赚取 14 美分。 
+这低于许多非科技零售企业的毛利率。
+文件显示，由于该业务的销售额在过去一年中增长了近两倍，这些销售的毛利率介于不到 10% 到略高于 20% 之间，平均约为 16%。
+数据显示，在某些情况下，Oracle 在租赁少量新版和旧版 Nvidia 芯片时损失了相当大的金额。
 
- 在八月结束的三个月中，甲骨文从今年到来的Nvidia的Blackwell筹码中损失了近1亿美元。  
-这部分是因为oracle为客户准备好数据中心与客户开始使用和付款之间有一段时间。目前尚不清楚是什么原因导致差距或Oracle计划缩短它的原因。
-股票（广泛）和加密货币都在报告中都降低了。
-     世界上最大的泡沫即将破裂？还是这只是BTFD的另一个机会？
+在截至 8 月份的三个月中，甲骨文因租用今年抵达的 Nvidia Blackwell 芯片而损失了近 1 亿美元。 
 
- Tyler Durden  
- TUE，10/07/2025-11：18 ]]></description>
+文件显示，部分原因是甲骨文为客户准备好数据中心和客户开始使用数据中心并为其付费之间存在一段时间。目前尚不清楚是什么原因导致了这一差距，也不清楚甲骨文计划如何缩短这一差距。
+报告中股票（总体）和加密货币均下跌。
+
+
+世界上最大的泡沫即将破裂吗？或者这只是 BTFD 的另一个机会？
+
+泰勒·德登
+星期二，2025 年 10 月 7 日 - 11:18]]></description>
       <guid>https://www.zerohedge.com/technology/tech-crypto-dump-report-exposing-orcls-razor-thin-margins-ai-chips</guid>
       <pubDate>Tue, 07 Oct 2025 15:18:10 GMT</pubDate>
     </item>
@@ -94,7 +122,7 @@ Is the AI/ORCL即将破裂的“ Batshit疯狂”妄想？
       <pubDate>Tue, 07 Oct 2025 14:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>德国市长在宽敞的日光中被“人群”刺伤，正在进行</title>
+      <title>德国市长在宽敞的日光中被“人帮男人”刺伤，正在进行</title>
       <link>https://www.zerohedge.com/geopolitical/german-mayor-stabbed-gang-men-broad-daylight-manhunt-underway</link>
       <description><![CDATA[德国市长在广阔的日光下被&#39;帮男人&#39;刺伤，正在进行
 
@@ -160,14 +188,14 @@ Is the AI/ORCL即将破裂的“ Batshit疯狂”妄想？
       <pubDate>Tue, 07 Oct 2025 13:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>达菲：美国机场因关闭导致人员配备问题而出现延误</title>
+      <title>美国机场由于关闭引起的人员配备问题而经历延误：达菲</title>
       <link>https://www.zerohedge.com/political/us-airports-experience-delays-due-staffing-issues-caused-shutdown-duffy</link>
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/political/us-airports-experience-delays-due-staffing-issues-caused-shutdown-duffy</guid>
       <pubDate>Tue, 07 Oct 2025 13:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>“最好的还没来”：纽约证券交易所的估值为90亿美元</title>
+      <title>“最好的尚未到来”：纽约证券交易所母公司以 90 亿美元的估值向 Polymarket 投资 20 亿美元</title>
       <link>https://www.zerohedge.com/crypto/best-yet-come-nyse-parent-invests-2-billion-polymarket-9-billion-valuation</link>
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/crypto/best-yet-come-nyse-parent-invests-2-billion-polymarket-9-billion-valuation</guid>
@@ -179,20 +207,6 @@ Is the AI/ORCL即将破裂的“ Batshit疯狂”妄想？
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/markets/futures-flat-ai-bubble-euphoria-takes-break</guid>
       <pubDate>Tue, 07 Oct 2025 12:36:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Bombshel​​l Memo揭露Biden FBI监视共和党参议员之后，特朗普猛烈抨击“杰克·史密斯”</title>
-      <link>https://www.zerohedge.com/political/arctic-frost-bombshell-memo-exposes-biden-fbi-spying-gop-senators</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/arctic-frost-bombshell-memo-exposes-biden-fbi-spying-gop-senators</guid>
-      <pubDate>Tue, 07 Oct 2025 12:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要排除美军返回巴格拉姆空军基地</title>
-      <link>https://www.zerohedge.com/geopolitical/dont-rule-out-return-us-troops-bagram-airbase</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/dont-rule-out-return-us-troops-bagram-airbase</guid>
-      <pubDate>Tue, 07 Oct 2025 12:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
