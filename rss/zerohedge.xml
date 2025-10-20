@@ -4,7 +4,21 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Oct 2025 18:34:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 19:20:38 GMT</lastBuildDate>
+    <item>
+      <title>现在亚马逊包裹延误了？ AWS 在美国东部地区的服务仍然“降级”</title>
+      <link>https://www.zerohedge.com/technology/internet-outage-sparked-operational-issues-amazon-aws-data-centers-northern-virginia</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/technology/internet-outage-sparked-operational-issues-amazon-aws-data-centers-northern-virginia</guid>
+      <pubDate>Mon, 20 Oct 2025 19:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度最大的金属精炼厂历史上首次白银耗尽</title>
+      <link>https://www.zerohedge.com/precious-metals/indias-largest-metals-refinery-just-ran-out-silver-first-time-history</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/precious-metals/indias-largest-metals-refinery-just-ran-out-silver-first-time-history</guid>
+      <pubDate>Mon, 20 Oct 2025 18:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>观看：自由派婴儿潮一代付费抗议者在纽约市“无国王”抗议活动中受到监护</title>
       <link>https://www.zerohedge.com/political/watch-white-liberal-boomer-paid-protesters-caught-chaperoning-nyc-no-kings-protest</link>
@@ -113,56 +127,6 @@ Getty Images
       <pubDate>Mon, 20 Oct 2025 15:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊 AWS 确定了影响美国东部服务的大范围互联网中断的根本原因​​​​​​​</title>
-      <link>https://www.zerohedge.com/technology/internet-outage-sparked-operational-issues-amazon-aws-data-centers-northern-virginia</link>
-      <description><![CDATA[Amazon AWS 确定了影响美国东部服务的大范围互联网中断的根本原因​​​​​​​
-更新（0615ET）：
-今天上午早些时候，Amazon Web Services (AWS) 的 US-East-1（弗吉尼亚北部） 区域发生严重中断，影响了众多依赖该服务的应用程序和网站，之后已基本恢复运营。
-确定的根本原因：
-
-&lt;块引用&gt;
-AWS 工程师将该问题追溯到影响 US-East-1 区域的 DynamoDB API 端点的 DNS 解析问题。该故障还中断了依赖于该区域的其他 AWS 服务和全局功能，包括IAM 更新和DynamoDB 全局表。
-
-恢复时间表：
-
-太平洋夏令时间凌晨 2:01：工程师发现了 DNS 问题并开始应用修复程序。
-
-
-太平洋夏令时间凌晨 2:22：在初步缓解措施后出现了早期恢复迹象，但许多请求仍然失败。
-
-
-太平洋夏令时间凌晨 2:27AWS 报告取得了重大进展，大多数请求开始成功。
-
-
-太平洋夏令时间凌晨 3:03：AWS 确认受影响最严重的服务（包括依赖 US-East-1 的全球系统）已广泛恢复，不过团队仍在努力争取全面解决问题。
-
-*   *   * 
-据报道在新的工作周开始时发生了大规模的互联网中断。该问题似乎源自 Amazon Web Services (AWS)，它提供为大部分现代互联网提供支持的基础设施。
-
-AWS 的服务运行状况仪表板显示其最大的数据中心之一US-East-1 区域（弗吉尼亚北部）的“操作问题”。
-
-发生了什么：
-
-包括 DynamoDB 等在内的多项 AWS 服务遇到性能缓慢（高延迟）或失败（高错误率）。
-
-影响：
-
-依赖 AWS 的应用程序和网站可能会加载缓慢、超时或根本无法运行。
-
-
-用户可能无法通过 AWS 帮助系统创建或更新支持案例。
-
-依赖亚马逊云的主要平台（包括 Snapchat、Roblox、Amazon Alexa、Fortnite、Ring、Robinhood、Venmo、Lyft 等 等）都报告了大范围的速度下降和中断。
-
-目前还没有关于引发 AWS 弗吉尼亚数据中心中断的原因的官方声明。
-正在开发。
-
-泰勒·德登
-2025 年 10 月 20 日星期一 - 11:30]]></description>
-      <guid>https://www.zerohedge.com/technology/internet-outage-sparked-operational-issues-amazon-aws-data-centers-northern-virginia</guid>
-      <pubDate>Mon, 20 Oct 2025 15:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>内需疲弱、房地产市场崩溃，中国GDP增速创一年新低</title>
       <link>https://www.zerohedge.com/economics/china-gdp-grows-slowest-pace-year-amid-crumbling-domestic-demand-crashing-real-estate</link>
       <description><![CDATA[]]></description>
@@ -243,13 +207,6 @@ AWS 的服务运行状况仪表板显示其最大的数据中心之一US-East-1 
 2025 年 10 月 20 日星期一 - 09:55]]></description>
       <guid>https://www.zerohedge.com/political/white-houses-hassett-says-shutdown-could-end-week-threatens-stronger-measures-if</guid>
       <pubDate>Mon, 20 Oct 2025 13:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>批准海湖庄园突袭的法官曾与杰弗里·爱泼斯坦共用办公室</title>
-      <link>https://www.zerohedge.com/political/judge-who-approved-mar-lago-raid-once-shared-office-jeffrey-epstein</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/judge-who-approved-mar-lago-raid-once-shared-office-jeffrey-epstein</guid>
-      <pubDate>Mon, 20 Oct 2025 13:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
