@@ -4,7 +4,43 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Oct 2025 08:32:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 09:28:15 GMT</lastBuildDate>
+    <item>
+      <title>欧盟资本市场联盟：德国默茨呼吁欧洲建立“华尔街”</title>
+      <link>https://www.zerohedge.com/economics/eu-capital-markets-union-germanys-merz-calls-wall-street-europe</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/economics/eu-capital-markets-union-germanys-merz-calls-wall-street-europe</guid>
+      <pubDate>Mon, 20 Oct 2025 09:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>弗吉尼亚州北部的亚马逊 AWS 数据中心因“运营问题”引发互联网中断</title>
+      <link>https://www.zerohedge.com/technology/internet-outage-sparked-operational-issues-amazon-aws-data-centers-northern-virginia</link>
+      <description><![CDATA[位于弗吉尼亚州北部的 Amazon AWS 数据中心因“操作问题”引发互联网中断
+新工作周开始时报告出现大规模互联网中断。该问题似乎源自 Amazon Web Services (AWS)，它提供为大部分现代互联网提供支持的基础设施。
+
+AWS 的服务运行状况仪表板显示其最大的数据中心之一US-East-1 区域（弗吉尼亚北部）的“操作问题”。
+
+发生了什么：
+
+包括 DynamoDB 等在内的多项 AWS 服务遇到性能缓慢（高延迟）或失败（高错误率）。
+
+影响：
+
+依赖 AWS 的应用程序和网站可能会加载缓慢、超时或根本无法运行。
+
+
+用户可能无法通过 AWS 帮助系统创建或更新支持案例。
+
+依赖亚马逊云的主要平台（包括 Snapchat、Roblox、Amazon Alexa、Fortnite、Ring、Robinhood、Venmo、Lyft 等 等）都报告了大范围的速度下降和中断。
+
+目前还没有关于引发 AWS 弗吉尼亚数据中心中断的原因的官方声明。
+正在开发。
+
+泰勒·德登
+2025 年 10 月 20 日星期一 - 04:54]]></description>
+      <guid>https://www.zerohedge.com/technology/internet-outage-sparked-operational-issues-amazon-aws-data-centers-northern-virginia</guid>
+      <pubDate>Mon, 20 Oct 2025 08:54:05 GMT</pubDate>
+    </item>
     <item>
       <title>壳牌在印度尼西亚的燃料短缺证明下一个时代是电动的</title>
       <link>https://www.zerohedge.com/markets/shells-fuel-shortage-indonesia-proves-next-era-electric</link>
@@ -144,20 +180,6 @@ Rancher&#39;s Classics（2 块沙朗牛排、2 块丹佛牛排、1 块扁铁、4
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/markets/more-money-lost-credit-forced-selling-defaults</guid>
       <pubDate>Sun, 19 Oct 2025 21:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特勤局发现狩猎站俯瞰特朗普空军一号出口</title>
-      <link>https://www.zerohedge.com/political/secret-service-discovers-hunting-stand-overlooking-trumps-air-force-one-exit</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/secret-service-discovers-hunting-stand-overlooking-trumps-air-force-one-exit</guid>
-      <pubDate>Sun, 19 Oct 2025 20:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 MAGA 吗？特朗普希望林赛·格雷厄姆捐赠者挑战“绿诺”马西</title>
-      <link>https://www.zerohedge.com/political/maga-trump-wants-lindsey-graham-donor-challenge-rino-massie</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/maga-trump-wants-lindsey-graham-donor-challenge-rino-massie</guid>
-      <pubDate>Sun, 19 Oct 2025 19:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
