@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Wed, 29 Oct 2025 21:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 22:43:43 GMT</lastBuildDate>
+    <item>
+      <title>Oracle 推出具有原生 Apache Iceberg 集成的多云 Lakehouse</title>
+      <link>https://www.forbes.com/sites/stevemcdowell/2025/10/29/oracle-unveils-multicloud-lakehouse-with-native-apache-iceberg-integration/</link>
+      <description><![CDATA[Oracle 的 Autonomous AI Lakehouse 将数据库功能与跨多个云的 Apache Iceberg 支持相结合，瞄准了 40B 美元的 Lakehouse 市场。]]></description>
+      <guid>https://www.forbes.com/sites/stevemcdowell/2025/10/29/oracle-unveils-multicloud-lakehouse-with-native-apache-iceberg-integration/</guid>
+      <pubDate>Wed, 29 Oct 2025 22:27:15 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年令人惊叹的赛车游戏“Over The Hill”将登陆 Xbox、PS5、Switch 2</title>
       <link>https://www.forbes.com/sites/mattgardner1/2025/10/29/stunning-2026-car-caper-over-the-hill-to-hit-xbox-ps5-switch-2/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[多智能体人工智能系统协作加速科学发现、增强医疗保健并使全球医疗服务民主化。]]></description>
       <guid>https://www.forbes.com/sites/johnwerner/2025/10/29/confer-discuss-debate--multi-agent-ai-for-medicine/</guid>
       <pubDate>Wed, 29 Oct 2025 17:20:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>合法人工智能初创公司 Harvey 融资 1.5 亿美元，估值 80 亿美元</title>
-      <link>https://www.forbes.com/sites/iainmartin/2025/10/29/legal-ai-startup-harvey-raises-150-million-at-8-billion-valuation/</link>
-      <description><![CDATA[这家总部位于旧金山的初创公司为律师提供人工智能工具，已筹集了新一轮融资，这是 2025 年的第三轮融资，由 Andreessen Horowitz 领投。]]></description>
-      <guid>https://www.forbes.com/sites/iainmartin/2025/10/29/legal-ai-startup-harvey-raises-150-million-at-8-billion-valuation/</guid>
-      <pubDate>Wed, 29 Oct 2025 16:42:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
