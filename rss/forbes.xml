@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Sat, 08 Nov 2025 10:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 10:42:33 GMT</lastBuildDate>
+    <item>
+      <title>三星间谍软件攻击 — 严重登陆 0 天使用 WhatsApp 图像</title>
+      <link>https://www.forbes.com/sites/daveywinder/2025/11/08/samsung-spyware-attack---critical-landfall-0-day-used-whatsapp-images/</link>
+      <description><![CDATA[黑客利用恶意 WhatsApp 图像来利用关键的三星零日漏洞并安装间谍软件。以下是您需要了解的有关 LandFall 攻击的信息。]]></description>
+      <guid>https://www.forbes.com/sites/daveywinder/2025/11/08/samsung-spyware-attack---critical-landfall-0-day-used-whatsapp-images/</guid>
+      <pubDate>Sat, 08 Nov 2025 10:33:14 GMT</pubDate>
+    </item>
     <item>
       <title>宝马：固态电池可以为欧洲汽车制造商带来新优势</title>
       <link>https://www.forbes.com/sites/jamesmorris/2025/11/08/bmw-solid-state-batteries-could-give-european-automakers-new-edge/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在单个系统中使用多个 CPU 架构是很常见的，无论是单个片上系统 (SoC) 还是更大的电子平台]]></description>
       <guid>https://www.forbes.com/sites/tiriasresearch/2025/11/07/the-isa-wars-have-ended-and-the-heterogeneous-cpu-era-has-arrived/</guid>
       <pubDate>Fri, 07 Nov 2025 22:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能如何重新定义工作的未来：首席人力资源官对话</title>
-      <link>https://www.forbes.com/sites/paulocarvao/2025/11/07/how-ai-is-redefining-the-future-of-work-a-chief-hr-officer-conversation/</link>
-      <description><![CDATA[人工智能正在改变工作和领导力。从 CHRO 的角度来看，未来的工作将取决于以人为本的选择，并使用人工智能来增强而不是取代。]]></description>
-      <guid>https://www.forbes.com/sites/paulocarvao/2025/11/07/how-ai-is-redefining-the-future-of-work-a-chief-hr-officer-conversation/</guid>
-      <pubDate>Fri, 07 Nov 2025 22:01:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
