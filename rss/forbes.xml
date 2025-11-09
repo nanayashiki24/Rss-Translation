@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Sun, 09 Nov 2025 18:29:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 19:16:16 GMT</lastBuildDate>
+    <item>
+      <title>AI 聊天隐私面临风险——微软发现 Whisper 泄露侧通道攻击</title>
+      <link>https://www.forbes.com/sites/larsdaniel/2025/11/09/ai-chat-privacy-at-risk-microsoft-uncovers-whisper-leak-side-channel-attack/</link>
+      <description><![CDATA[微软披露了一个隐私漏洞，即使您的对话是加密的，该漏洞也可能会暴露您与 ChatGPT 等人工智能聊天机器人的谈话内容。]]></description>
+      <guid>https://www.forbes.com/sites/larsdaniel/2025/11/09/ai-chat-privacy-at-risk-microsoft-uncovers-whisper-leak-side-channel-attack/</guid>
+      <pubDate>Sun, 09 Nov 2025 19:09:24 GMT</pubDate>
+    </item>
     <item>
       <title>用人工智能治愈阿尔茨海默氏症</title>
       <link>https://www.forbes.com/sites/johnwerner/2025/11/09/curing-alzheimers-with-ai/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找今天的 NYT Connections 提示吗？今天游戏的一些帮助和答案就在这里，以帮助您保持连胜。]]></description>
       <guid>https://www.forbes.com/sites/krisholt/2025/11/09/nyt-connections-hints-answers-today-november-10-2025-clues-883/</guid>
       <pubDate>Sun, 09 Nov 2025 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>立即重启 Google Chrome 142，确认高评级安全问题</title>
-      <link>https://www.forbes.com/sites/daveywinder/2025/11/09/restart-google-chrome-142-now-high-rated-security-issues-confirmed/</link>
-      <description><![CDATA[超过 30 亿 Google Chrome 用户必须立即重新启动浏览器 - 以下是您需要了解的信息。]]></description>
-      <guid>https://www.forbes.com/sites/daveywinder/2025/11/09/restart-google-chrome-142-now-high-rated-security-issues-confirmed/</guid>
-      <pubDate>Sun, 09 Nov 2025 14:42:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
