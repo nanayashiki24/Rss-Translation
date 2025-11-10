@@ -4,7 +4,25 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Nov 2025 22:45:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 23:22:05 GMT</lastBuildDate>
+    <item>
+      <title>微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 表示，微软无法为其所有人工智能芯片提供动力</title>
+      <link>https://www.zerohedge.com/markets/microsoft-cant-power-all-its-ai-chips-says-ceo-satya-nadella</link>
+      <description><![CDATA[首席执行官 Satya Nadella 表示，微软无法为其所有人工智能芯片提供支持
+微软首席执行官萨蒂亚·纳德拉 (Satya Nadella) 表示，该公司没有足够的电力来为其所有 AI GPU 供电，这突显了当前 AI 热潮中最大的挑战之一：能源供应。纳德拉在与 OpenAI 首席执行官 Sam Altman 谈论 Bg2 Pod 时解释说，问题不在于芯片太多，而在于运行它们的能力太少，根据Tom&#39;s Hardware，他对采访进行了总结。
+“我们现在面临的最大问题不是计算过剩，而是电力，”纳德拉说。 “如果你做不到这一点，你的库存中可能实际上有一堆我无法插入的芯片。事实上，这就是我今天的问题。这不是芯片的供应问题；实际上是我没有温暖的外壳可以插入。”
+
+纳德拉所说的“外壳”指的是未完工的数据中心建筑，即空置的设施，缺乏必要的基础设施，如电力和冷却系统，无法大规模托管和运行 GPU。随着微软、谷歌和 OpenAI 等公司竞相扩展人工智能基础设施，可用电力的短缺已成为整个科技行业日益关注的问题。
+汤姆的硬件写入 Altman 补充说，未来的消费设备有一天可以在本地运行先进的人工智能模型。 “有一天，我们将制造出一款令人难以置信的消费设备，可以在低功耗下完全在本地运行支持 GPT-5 或 GPT-6 的模型，”他说。
+他们的评论凸显了人工智能领域的一个关键紧张局势：虽然硬件和模型开发进展迅速，但支持它们所需的物理和能源基础设施却滞后。分析师警告说，除非发电和数据中心容量扩大，否则人工智能行业在未来几年可能会面临严重放缓，甚至出现调整。
+在这里观看完整的坐下来：
+
+
+泰勒·德登
+2025 年 11 月 10 日星期一 - 18:00]]></description>
+      <guid>https://www.zerohedge.com/markets/microsoft-cant-power-all-its-ai-chips-says-ceo-satya-nadella</guid>
+      <pubDate>Mon, 10 Nov 2025 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“我要安静了”：沃伦·巴菲特加快捐款速度，称“运气是有限度的”</title>
       <link>https://www.zerohedge.com/markets/im-going-quiet-warren-buffett-speeds-donations-says-luck-has-its-limits</link>
@@ -43,7 +61,7 @@
       <pubDate>Mon, 10 Nov 2025 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>僵局？俄罗斯军队逼近波克罗夫斯克，泽连斯基否认</title>
+      <title>僵局？俄罗斯军队逼近波克罗夫斯克，泽伦斯基否认</title>
       <link>https://www.zerohedge.com/geopolitical/stalemate-zelensky-denial-russian-troops-press-pokrovsk</link>
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/geopolitical/stalemate-zelensky-denial-russian-troops-press-pokrovsk</guid>
@@ -211,13 +229,6 @@ Mamdani 在周二的选举中赢得了 50% 的选票，现在将成为纽约市�
       <description><![CDATA[]]></description>
       <guid>https://www.zerohedge.com/markets/forward-return-and-importance-math</guid>
       <pubDate>Mon, 10 Nov 2025 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国法院下令释放被“噩梦”监禁20天的前总统萨科齐</title>
-      <link>https://www.zerohedge.com/geopolitical/french-court-orders-ex-president-sarkozy-be-freed-after-nightmare-20-days-jail</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/french-court-orders-ex-president-sarkozy-be-freed-after-nightmare-20-days-jail</guid>
-      <pubDate>Mon, 10 Nov 2025 17:40:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
