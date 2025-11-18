@@ -4,9 +4,37 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Tue, 18 Nov 2025 17:43:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 19:29:51 GMT</lastBuildDate>
     <item>
-      <title>三星 Galaxy S25 Ultra 特价促销现降价 350 美元</title>
+      <title>感恩节假期最危险的道路</title>
+      <link>https://www.forbes.com/sites/stevebanker/2025/11/18/the-most-dangerous-roads-to-drive-on-over-the-thanksgiving-holiday/</link>
+      <description><![CDATA[由于最近的空中交通问题，路上的人将会更多。哪些道路最危险？]]></description>
+      <guid>https://www.forbes.com/sites/stevebanker/2025/11/18/the-most-dangerous-roads-to-drive-on-over-the-thanksgiving-holiday/</guid>
+      <pubDate>Tue, 18 Nov 2025 18:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>高盛报告称，随着裁员增加，零工经济吸引了更多工人</title>
+      <link>https://www.forbes.com/sites/kirkogunrinde/2025/11/18/gig-economy-attracting-more-workers-as-layoffs-increase-goldman-sachs-report-says/</link>
+      <description><![CDATA[据报道，由于经济低迷导致供应激增，零工经济可能无法支持所有新进入者。]]></description>
+      <guid>https://www.forbes.com/sites/kirkogunrinde/2025/11/18/gig-economy-attracting-more-workers-as-layoffs-increase-goldman-sachs-report-says/</guid>
+      <pubDate>Tue, 18 Nov 2025 18:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 中断以及华尔街应如何应对</title>
+      <link>https://www.forbes.com/sites/christerholloman/2025/11/18/cloudflare-outage-and-how-wall-street-should-respond/</link>
+      <description><![CDATA[即使内部系统正常，单个供应商的中断也可能会扰乱交易、延迟交易并阻止客户访问关键服务。]]></description>
+      <guid>https://www.forbes.com/sites/christerholloman/2025/11/18/cloudflare-outage-and-how-wall-street-should-respond/</guid>
+      <pubDate>Tue, 18 Nov 2025 18:30:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Full Swing 推出游戏平台，模拟高尔夫参与度激增</title>
+      <link>https://www.forbes.com/sites/erikmatuszewski/2025/11/18/full-swing-unveils-gaming-platform-as-golf-sim-participation-surges/</link>
+      <description><![CDATA[Full Swing 推出了一个基于技能的游戏平台，让用户有机会在高尔夫模拟器中的最接近球瓶的挑战中赢得真钱。]]></description>
+      <guid>https://www.forbes.com/sites/erikmatuszewski/2025/11/18/full-swing-unveils-gaming-platform-as-golf-sim-participation-surges/</guid>
+      <pubDate>Tue, 18 Nov 2025 18:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星现已在新的特别优惠中将 Galaxy S25 Ultra 价格下调 350 美元</title>
       <link>https://www.forbes.com/sites/davidphelan/2025/11/18/samsung-now-cuts-350-off-galaxy-s25-ultra-price-in-new-special-offer/</link>
       <description><![CDATA[三星在黑色星期五之前的最新促销活动将 Galaxy S25 Ultra 的价格削减了 350 美元，如果你以旧换新手机的话，价格甚至会更高。]]></description>
       <guid>https://www.forbes.com/sites/davidphelan/2025/11/18/samsung-now-cuts-350-off-galaxy-s25-ultra-price-in-new-special-offer/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[就在 Amazon Web Services 中断导致大部分互联网瘫痪几周后，Cloudflare 的技术问题似乎正在导致在线问题。]]></description>
       <guid>https://www.forbes.com/sites/davidphelan/2025/11/18/cloudflare-outage-latest-spotify-x-chatgpt-and-other-sites-down/</guid>
       <pubDate>Tue, 18 Nov 2025 15:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于顾问来说是个好消息。谷歌CEO：没有一家公司能免疫人工智能</title>
-      <link>https://www.forbes.com/sites/lutzfinger/2025/11/18/good-news-for-consultants-google-ceo-no-company-is-immune-to-ai/</link>
-      <description><![CDATA[人工智能正在重塑每一个工作流程，谷歌首席执行官桑达尔·皮查伊 (Sundar Pichai) 警告说，没有一家公司能够幸免。为工具构建者、工作流程设计师和顾问提供的机会。]]></description>
-      <guid>https://www.forbes.com/sites/lutzfinger/2025/11/18/good-news-for-consultants-google-ceo-no-company-is-immune-to-ai/</guid>
-      <pubDate>Tue, 18 Nov 2025 15:34:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为您的假日购物构建人工智能购物代理</title>
-      <link>https://www.forbes.com/sites/aytekintank/2025/11/18/how-to-build-an-ai-shopping-agent-for-your-holiday-shopping/</link>
-      <description><![CDATA[人工智能在在线零售领域正在蓬勃发展。以下五个步骤可帮助消费者利用人工智能的力量并创建个人购物助理。]]></description>
-      <guid>https://www.forbes.com/sites/aytekintank/2025/11/18/how-to-build-an-ai-shopping-agent-for-your-holiday-shopping/</guid>
-      <pubDate>Tue, 18 Nov 2025 15:15:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>《莫阿娜》电影预告片展示了迪士尼不得不进行的毫无意义的重复</title>
-      <link>https://www.forbes.com/sites/paultassi/2025/11/18/the-moana-movie-trailer-shows-a-pointless-rehash-that-disney-had-to-make/</link>
-      <description><![CDATA[迪士尼发布了真人版《莫阿娜》的预告片，这似乎毫无意义，但他们现在几乎必须制作这些电影了。]]></description>
-      <guid>https://www.forbes.com/sites/paultassi/2025/11/18/the-moana-movie-trailer-shows-a-pointless-rehash-that-disney-had-to-make/</guid>
-      <pubDate>Tue, 18 Nov 2025 15:13:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>审计员警告称，战争部泄露的秘密威胁人员和国家安全</title>
-      <link>https://www.forbes.com/sites/daveywinder/2025/11/18/department-of-war-leaks-secrets-us-government-accountability-office-says/</link>
-      <description><![CDATA[美国政府问责办公室发布了一份报告，警告国防部（或称战争部）正在泄露机密。]]></description>
-      <guid>https://www.forbes.com/sites/daveywinder/2025/11/18/department-of-war-leaks-secrets-us-government-accountability-office-says/</guid>
-      <pubDate>Tue, 18 Nov 2025 15:13:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
