@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Tue, 18 Nov 2025 19:29:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 20:27:08 GMT</lastBuildDate>
+    <item>
+      <title>Windows 正在成为 AI 代理的操作系统</title>
+      <link>https://www.forbes.com/sites/tonybradley/2025/11/18/windows-is-becoming-an-operating-system-for-ai-agents/</link>
+      <description><![CDATA[Microsoft 的 Windows 更新为安全、受管控的 AI 代理奠定了基础，具有标准化的界面、明确的权限和独立的工作空间。]]></description>
+      <guid>https://www.forbes.com/sites/tonybradley/2025/11/18/windows-is-becoming-an-operating-system-for-ai-agents/</guid>
+      <pubDate>Tue, 18 Nov 2025 19:43:35 GMT</pubDate>
+    </item>
     <item>
       <title>感恩节假期最危险的道路</title>
       <link>https://www.forbes.com/sites/stevebanker/2025/11/18/the-most-dangerous-roads-to-drive-on-over-the-thanksgiving-holiday/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[《我体内的野兽》会有第二季吗？在这方面有一个新的更新，这并不完全是大多数人对该系列的期望。]]></description>
       <guid>https://www.forbes.com/sites/paultassi/2025/11/18/a-surprising-update-about-the-beast-in-me-season-2-on-netflix/</guid>
       <pubDate>Tue, 18 Nov 2025 15:48:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 最新中断：Spotify、X、ChatGPT 和许多其他网站瘫痪</title>
-      <link>https://www.forbes.com/sites/davidphelan/2025/11/18/cloudflare-outage-latest-spotify-x-chatgpt-and-other-sites-down/</link>
-      <description><![CDATA[就在 Amazon Web Services 中断导致大部分互联网瘫痪几周后，Cloudflare 的技术问题似乎正在导致在线问题。]]></description>
-      <guid>https://www.forbes.com/sites/davidphelan/2025/11/18/cloudflare-outage-latest-spotify-x-chatgpt-and-other-sites-down/</guid>
-      <pubDate>Tue, 18 Nov 2025 15:44:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
