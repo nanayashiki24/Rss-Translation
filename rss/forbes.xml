@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Wed, 19 Nov 2025 05:23:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:34:19 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 通过 Agent 365 应对代理蔓延</title>
+      <link>https://www.forbes.com/sites/janakirammsv/2025/11/19/microsoft-confronts-agent-sprawl-with-agent-365/</link>
+      <description><![CDATA[Microsoft 推出了 Agent 365，该平台可解决使用 Copilot Studio、SharePoint 和第三方框架构建代理的组织的基本操作差距。]]></description>
+      <guid>https://www.forbes.com/sites/janakirammsv/2025/11/19/microsoft-confronts-agent-sprawl-with-agent-365/</guid>
+      <pubDate>Wed, 19 Nov 2025 05:49:29 GMT</pubDate>
+    </item>
     <item>
       <title>全国调查揭示了青少年和年轻人如何利用人工智能实现心理健康目的的重大惊喜</title>
       <link>https://www.forbes.com/sites/lanceeliot/2025/11/19/national-survey-reveals-vital-surprises-about-how-teens-and-young-adults-are-using-ai-for-mental-health-purposes/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[电子烟越来越受欢迎，尤其是在年轻人中。电子烟经常被用来代替传统吸烟。但这安全吗？电子烟远非没有风险。]]></description>
       <guid>https://www.forbes.com/sites/lipiroy/2025/11/18/vape-the-grease-parody-features-the-humor-and-harms-of-e-cigarettes/</guid>
       <pubDate>Tue, 18 Nov 2025 20:50:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 正在成为 AI 代理的操作系统</title>
-      <link>https://www.forbes.com/sites/tonybradley/2025/11/18/windows-is-becoming-an-operating-system-for-ai-agents/</link>
-      <description><![CDATA[Microsoft 的 Windows 更新为安全、受管控的 AI 代理奠定了基础，具有标准化的界面、明确的权限和独立的工作空间。]]></description>
-      <guid>https://www.forbes.com/sites/tonybradley/2025/11/18/windows-is-becoming-an-operating-system-for-ai-agents/</guid>
-      <pubDate>Tue, 18 Nov 2025 19:43:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
