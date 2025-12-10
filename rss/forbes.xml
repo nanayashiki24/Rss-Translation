@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Wed, 10 Dec 2025 21:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 21:45:10 GMT</lastBuildDate>
+    <item>
+      <title>加权新方法推动大型语言模型的创新</title>
+      <link>https://www.forbes.com/sites/johnwerner/2025/12/10/new-approaches-to-weighting-drive-innovation-in-large-language-models/</link>
+      <description><![CDATA[Nexus 提出了高阶注意力，通过嵌套循环细化查询和键来捕获复杂关系。]]></description>
+      <guid>https://www.forbes.com/sites/johnwerner/2025/12/10/new-approaches-to-weighting-drive-innovation-in-large-language-models/</guid>
+      <pubDate>Wed, 10 Dec 2025 21:27:43 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年重塑美国风险思维的天气事件</title>
       <link>https://www.forbes.com/sites/jimfoerster/2025/12/10/weather-events-that-reshaped-us-risk-thinking-in-2025/</link>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 10 Dec 2025 18:02:22 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年人工智能将真正用于客户服务</title>
+      <title>2026 年，人工智能将真正用于客户服务</title>
       <link>https://www.forbes.com/sites/forrester/2025/12/10/ai-gets-real-for-customer-service-in-2026/</link>
       <description><![CDATA[探索 Forrester 对 2026 年客户服务的预测：人工智能的承诺成为现实，但需要基础工作来克服部署挑战和重塑运营。]]></description>
       <guid>https://www.forbes.com/sites/forrester/2025/12/10/ai-gets-real-for-customer-service-in-2026/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>NYT Connections：今天的答案解释（星期四，12 月 11 日，#914）</title>
       <link>https://www.forbes.com/sites/krisholt/2025/12/10/nyt-connections-todays-answers-explained-thursday-december-11-914/</link>
-      <description><![CDATA[不确定今天《纽约时报连线》的答案都是关于什么的？了解当今网格中不同单词的含义以及它们如何组合在一起。]]></description>
+      <description><![CDATA[不确定今天《纽约时报连线》的答案都是什么内容？了解当今网格中不同单词的含义以及它们如何组合在一起。]]></description>
       <guid>https://www.forbes.com/sites/krisholt/2025/12/10/nyt-connections-todays-answers-explained-thursday-december-11-914/</guid>
       <pubDate>Wed, 10 Dec 2025 17:45:17 GMT</pubDate>
     </item>
@@ -97,18 +104,11 @@
       <pubDate>Wed, 10 Dec 2025 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Mitre 并未选出获胜者，但 CrowdStrike 脱颖而出</title>
+      <title>Mitre 没有挑选获胜者，但 CrowdStrike 脱颖而出</title>
       <link>https://www.forbes.com/sites/tonybradley/2025/12/10/mitre-doesnt-pick-winners---but-crowdstrike-stands-out/</link>
       <description><![CDATA[MITRE 的 2025 年 ATT&amp;CK® 结果强调了身份、云和端点的实际准备情况。以下是数据揭示的内容，以及为什么背景就是一切。]]></description>
       <guid>https://www.forbes.com/sites/tonybradley/2025/12/10/mitre-doesnt-pick-winners---but-crowdstrike-stands-out/</guid>
       <pubDate>Wed, 10 Dec 2025 16:57:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果 iPhone 的安全性——连普京都无法击败 iMessage</title>
-      <link>https://www.forbes.com/sites/zakdoffman/2025/12/10/apples-iphone-security-even-putin-cant-beat-imessage/</link>
-      <description><![CDATA[普京与 iMessage——第一轮败给了苹果。]]></description>
-      <guid>https://www.forbes.com/sites/zakdoffman/2025/12/10/apples-iphone-security-even-putin-cant-beat-imessage/</guid>
-      <pubDate>Wed, 10 Dec 2025 16:51:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
