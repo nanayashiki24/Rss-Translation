@@ -4,7 +4,14 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Sun, 14 Dec 2025 03:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 04:39:00 GMT</lastBuildDate>
+    <item>
+      <title>多极世界的阵痛</title>
+      <link>https://www.zerohedge.com/geopolitical/birthing-pains-multipolar-world</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/geopolitical/birthing-pains-multipolar-world</guid>
+      <pubDate>Sun, 14 Dec 2025 04:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>20 个州起诉特朗普 要求支付 10 万美元的 H-1B 签证费</title>
       <link>https://www.zerohedge.com/political/20-states-sue-trump-over-100000-h-1b-visa-fee</link>
@@ -95,7 +102,7 @@ Nvidia 支持的初创公司 Starcloud 发布了一份白皮书，概述了在�
 Starcloud 继续说道，“随着新型、可重复使用、经济高效的重型运载火箭即将投入使用，再加上在轨网络的普及，这个机会的时机非常理想。”
 该初创公司已经发射了搭载 Nvidia H100 GPU 的 Starcloud-1 卫星，这是有史以来发送到太空的最强大的计算芯片。星云利用H100成功训练了莎士比亚全集轻量级语言模型NanoGPT，成为第一个在太空训练的AI模型。
 
-Starcloud (@Starcloud_Inc1) 最近创造了历史，将一颗搭载 NVIDIA H100 的卫星送入轨道，这是有史以来第一次在太空中运行如此强大的 GPU。这是在轨道上建立人工智能数据中心的第一步，该数据中心由持续的阳光供电并由...pic.twitter.com/xf7C1D583N
+Starcloud (@Starcloud_Inc1) 最近创造了历史，将一颗搭载 NVIDIA H100 的卫星送入轨道，这是有史以来第一次在太空中运行如此强大的 GPU。这是在轨道上建立人工智能数据中心的第一步，该数据中心由持续的阳光供电并由……pic.twitter.com/xf7C1D583N
 — Y Combinator (@ycombinator) 2025 年 11 月 13 日
 Starcloud 还在轨道上运行 Google 的开源 LLM Gemma，这是首次使用高性能 Nvidia GPU 在太空中运行大型语言模型。
 为了跟上人工智能的快速发展以及对电力和资源不断增长的需求以防止出现瓶颈，一种解决方案（在核电发电量增加之前）是将其中一些数据中心转移到近地轨道。这本身将引发太空竞赛主题的投资主题，因此 SpaceX 计划明年以 8000 亿美元的估值上市。星链可能会为这些天基数据中心提供动力。
@@ -174,13 +181,6 @@ Starcloud 还在轨道上运行 Google 的开源 LLM Gemma，这是首次使用�
 2025 年 12 月 13 日，星期六 - 15:10]]></description>
       <guid>https://www.zerohedge.com/geopolitical/us-commandos-raided-cargo-ship-travelling-china-iran-seized-dual-use-tech</guid>
       <pubDate>Sat, 13 Dec 2025 20:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>“明显的精神障碍”：FBI 内部人士对被指控为 J6 管道炸弹袭击者的男子提出怀疑</title>
-      <link>https://www.zerohedge.com/political/obvious-mental-disability-fbi-insider-raises-doubts-about-man-charged-j6-pipe-bomber</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/political/obvious-mental-disability-fbi-insider-raises-doubts-about-man-charged-j6-pipe-bomber</guid>
-      <pubDate>Sat, 13 Dec 2025 19:35:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
