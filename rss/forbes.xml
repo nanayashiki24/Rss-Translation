@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Sun, 21 Dec 2025 11:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 11:39:40 GMT</lastBuildDate>
+    <item>
+      <title>一些 ChatGPT 用户表示更换模型就像“更换服务性动物”</title>
+      <link>https://www.forbes.com/sites/richardnieva/2025/12/19/openai-chatgpt-4o/</link>
+      <description><![CDATA[OpenAI 希望 GPT-5 不像其前身那么温暖和令人愉快。一些神经分歧的人在这种变化中挣扎，这表明人工智能公司在发布新模型时必须达到微妙的平衡。]]></description>
+      <guid>https://www.forbes.com/sites/richardnieva/2025/12/19/openai-chatgpt-4o/</guid>
+      <pubDate>Sun, 21 Dec 2025 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Fosi Audio 的 I5 平面磁耳机拥有吸引发烧友的设计和声音</title>
       <link>https://www.forbes.com/sites/marksparrow/2025/12/21/fosi-audios-i5-planar-magnetic-headphones-have-a-design-and-sound-to-attract-audiophiles/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[Pixitmedia 媒体调查显示，对使用 AI 进行管理和内容增强以及平衡本地存储与云存储的统一媒体档案的需求不断增加。]]></description>
       <guid>https://www.forbes.com/sites/tomcoughlin/2025/12/20/pixitmedia-survey-shows-media-and-entertainment-content-archive-trends/</guid>
       <pubDate>Sat, 20 Dec 2025 19:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用尖峰神经网络设计反应式人工智能</title>
-      <link>https://www.forbes.com/sites/johnwerner/2025/12/20/designing-reactive-ai-with-spiking-neural-nets/</link>
-      <description><![CDATA[类似 Wolfram 的注意力框架与尖峰网络相结合：事件触发、节能的人工智能会因刺激而“醒来”。]]></description>
-      <guid>https://www.forbes.com/sites/johnwerner/2025/12/20/designing-reactive-ai-with-spiking-neural-nets/</guid>
-      <pubDate>Sat, 20 Dec 2025 19:47:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
