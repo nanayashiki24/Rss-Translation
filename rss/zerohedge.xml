@@ -4,7 +4,39 @@
     <title>零对冲新闻</title>
     <link>https://www.zerohedge.com</link>
     <description></description>
-    <lastBuildDate>Fri, 16 Jan 2026 14:52:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 15:28:50 GMT</lastBuildDate>
+    <item>
+      <title>“连接超时”：X 变黑</title>
+      <link>https://www.zerohedge.com/technology/connection-timed-out-x-goes-dark</link>
+      <description><![CDATA[“连接超时”：X 变黑
+东部时间 10:10 左右，X 出现故障，显示“连接超时”消息，表明 Cloudflare 端存在问题。
+这是错误消息，表明主机端故障。
+
+网站跟踪器 DownDetector 目前显示报告的 X 中断数量激增。
+
+这种破坏似乎是全国性的。
+
+开发中...
+
+泰勒·德登
+星期五，2026 年 1 月 16 日 - 10:24]]></description>
+      <guid>https://www.zerohedge.com/technology/connection-timed-out-x-goes-dark</guid>
+      <pubDate>Fri, 16 Jan 2026 15:24:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着美国航母驶向中东，华盛顿和莫斯科贸易对联合国造成打击</title>
+      <link>https://www.zerohedge.com/geopolitical/us-russia-clash-un-over-iran-while-lincoln-carrier-strike-group-steams-toward-middle</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/geopolitical/us-russia-clash-un-over-iran-while-lincoln-carrier-strike-group-steams-toward-middle</guid>
+      <pubDate>Fri, 16 Jan 2026 15:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>同位素 101</title>
+      <link>https://www.zerohedge.com/technology/isotopes-101</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.zerohedge.com/technology/isotopes-101</guid>
+      <pubDate>Fri, 16 Jan 2026 15:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国愤怒的伊朗军舰停靠在开普敦：南非向德黑兰“示好”</title>
       <link>https://www.zerohedge.com/geopolitical/us-embassy-outraged-iranian-warships-are-docked-cape-town-safrica-cozying-tehran</link>
@@ -186,27 +218,6 @@ GEM数据显示，印度在建煤电产能达24吉瓦。印度正在可再生能
 星期五，01/16/2026 - 05:00]]></description>
       <guid>https://www.zerohedge.com/markets/china-leads-global-coal-power-additions-despite-renewables-push</guid>
       <pubDate>Fri, 16 Jan 2026 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>丹麦情报机构证实俄罗斯和中国对格陵兰岛的威胁</title>
-      <link>https://www.zerohedge.com/geopolitical/danish-intelligence-russia-china-threat-greenland</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/danish-intelligence-russia-china-threat-greenland</guid>
-      <pubDate>Fri, 16 Jan 2026 09:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>华盛顿表示支持北约驻乌克兰部队的背后是什么？</title>
-      <link>https://www.zerohedge.com/geopolitical/whats-behind-washingtons-signaling-support-nato-troops-ukraine</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/whats-behind-washingtons-signaling-support-nato-troops-ukraine</guid>
-      <pubDate>Fri, 16 Jan 2026 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>表情紧张的马克龙敦促军方生产俄罗斯自己版本的奥列什尼克</title>
-      <link>https://www.zerohedge.com/geopolitical/nervous-looking-macron-urges-military-produce-own-version-russias-oreshnik</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.zerohedge.com/geopolitical/nervous-looking-macron-urges-military-produce-own-version-russias-oreshnik</guid>
-      <pubDate>Fri, 16 Jan 2026 07:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
