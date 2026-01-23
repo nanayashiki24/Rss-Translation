@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Fri, 23 Jan 2026 11:24:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 11:44:15 GMT</lastBuildDate>
+    <item>
+      <title>微软向 FBI 提供解锁加密数据的密钥，暴露重大隐私缺陷</title>
+      <link>https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/</link>
+      <description><![CDATA[这家科技巨头表示，提供加密密钥是对法院命令的标准回应。但像苹果和 Meta 这样的公司设置了他们的系统，因此这种隐私侵犯是不可能的。]]></description>
+      <guid>https://www.forbes.com/sites/thomasbrewster/2026/01/22/microsoft-gave-fbi-keys-to-unlock-bitlocker-encrypted-data/</guid>
+      <pubDate>Fri, 23 Jan 2026 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hollyland 推出价格实惠的新型 Lyra 网络摄像头，具有 4K 图像和专业品质的声音</title>
       <link>https://www.forbes.com/sites/marksparrow/2026/01/23/hollylands-new-and-affordable-lyra-webcam-with-4k-images-and-pro-quality-sound/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>Humans& 融资 4.8 亿美元，Eleven Labs 推出人工智能音乐，Xreal 起诉 Viture</title>
       <link>https://www.forbes.com/sites/charliefink/2026/01/23/humans-raises-480-million-eleven-labs-launches-ai-music-xreal-sues-viture/</link>
-      <description><![CDATA[Humans&amp; 的 4.8 亿美元大型种子轮融资融资创纪录、OpenAI 收入突破 200 亿美元、ChatGPT 增加广告、TikTok 的 PineDrama、Xreal 起诉 Viture、ElevenLabs 增加 AI 音乐]]></description>
+      <description><![CDATA[Humans&amp; 的 4.8 亿美元大型种子轮融资创纪录的融资、OpenAI 收入突破 200 亿美元、ChatGPT 增加广告、TikTok 的 PineDrama、Xreal 起诉 Viture、ElevenLabs 增加 AI 音乐]]></description>
       <guid>https://www.forbes.com/sites/charliefink/2026/01/23/humans-raises-480-million-eleven-labs-launches-ai-music-xreal-sues-viture/</guid>
       <pubDate>Fri, 23 Jan 2026 06:55:06 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[达沃斯强调了人工智能电力需求：大规模太阳能、通过整流天线进行的太空发射，以及清洁核选项。]]></description>
       <guid>https://www.forbes.com/sites/johnwerner/2026/01/22/big-power-moves-will-help-feed-ai/</guid>
       <pubDate>Fri, 23 Jan 2026 02:27:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>国会即将更新医疗保险远程医疗覆盖范围</title>
-      <link>https://www.forbes.com/sites/brucejapsen/2026/01/22/congress-nears-renewal-of-medicare-telehealth-coverage/</link>
-      <description><![CDATA[在美国众议院投票决定延长对老年人的虚拟护理后，国会即将颁布将医疗保险远程医疗覆盖范围延长两年的法案。]]></description>
-      <guid>https://www.forbes.com/sites/brucejapsen/2026/01/22/congress-nears-renewal-of-medicare-telehealth-coverage/</guid>
-      <pubDate>Fri, 23 Jan 2026 01:38:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
