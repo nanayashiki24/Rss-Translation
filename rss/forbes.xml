@@ -4,7 +4,14 @@
     <title>福布斯 - 创新</title>
     <link>https://www.forbes.com/innovation/</link>
     <description>福布斯 - 创新</description>
-    <lastBuildDate>Tue, 10 Feb 2026 20:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 22:07:37 GMT</lastBuildDate>
+    <item>
+      <title>人工智能极大地提高了生产力。或者也许不是</title>
+      <link>https://www.forbes.com/sites/joemckendrick/2026/02/10/ai-offers-a-great-productivity-boost-or-maybe-not/</link>
+      <description><![CDATA[新的研究表明，人工智能提高生产力最终可能会适得其反，]]></description>
+      <guid>https://www.forbes.com/sites/joemckendrick/2026/02/10/ai-offers-a-great-productivity-boost-or-maybe-not/</guid>
+      <pubDate>Tue, 10 Feb 2026 21:44:56 GMT</pubDate>
+    </item>
     <item>
       <title>《守望先锋》同时添加 5 名英雄是一个非常明智的举动，原因有一个</title>
       <link>https://www.forbes.com/sites/krisholt/2026/02/10/overwatch-adding-5-heroes-at-once-is-a-very-smart-move-for-one-particular-reason/</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 10 Feb 2026 18:21:52 GMT</pubDate>
     </item>
     <item>
-      <title>AT&T 表示 SLM 的运行成本仅为 LLM 的 10%，同时“准确度也差不多”</title>
+      <title>AT&T 表示 SLM 的运行成本仅为 LLM 的 10%，同时“大约同样准确”</title>
       <link>https://www.forbes.com/sites/johnkoetsier/2026/02/10/att-says-slms-run-at-10-of-the-cost-of-llms-while-being-about-as-accurate/</link>
       <description><![CDATA[谁需要万亿参数LLM？ AT&amp;T 表示，当以正确的方式设置 SLM 时，它可以很好地处理四到七十亿个参数。]]></description>
       <guid>https://www.forbes.com/sites/johnkoetsier/2026/02/10/att-says-slms-run-at-10-of-the-cost-of-llms-while-being-about-as-accurate/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[正在寻找有关今天的 Quordle 单词的帮助吗？这里有一些提示和答案可以为您提供帮助。]]></description>
       <guid>https://www.forbes.com/sites/krisholt/2026/02/10/quordle-hints-and-answers-for-wednesday-february-11/</guid>
       <pubDate>Tue, 10 Feb 2026 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯正在从无人机母舰发射 FPV</title>
-      <link>https://www.forbes.com/sites/davidhambling/2026/02/10/russia-is-launching-fpvs-from-drone-motherships/</link>
-      <description><![CDATA[俄罗斯非洲菊远程诱饵/攻击无人机现在充当小型 FPV 四轴飞行器的母舰。]]></description>
-      <guid>https://www.forbes.com/sites/davidhambling/2026/02/10/russia-is-launching-fpvs-from-drone-motherships/</guid>
-      <pubDate>Tue, 10 Feb 2026 15:28:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
